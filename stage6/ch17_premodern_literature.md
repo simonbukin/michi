@@ -596,7 +596,209 @@ Understanding the literature of this period requires familiarity with the social
 
 ---
 
-## 17.9 Summary
+## 17.9 Other Pre-Modern and Early Modern Authors Worth Knowing
+
+While Soseki and Akutagawa are the focus of this chapter, the Meiji, Taisho, and early Showa periods produced many other writers whose work you may encounter. The following brief introductions provide context for future reading.
+
+### 森鷗外 (Mori Ogai, 1862–1922)
+
+A military doctor, translator, and novelist. His prose is more formally classical than Soseki's, with a precision that reflects his scientific training. Key works: 舞姫 (The Dancing Girl, 1890), 雁 (The Wild Goose, 1911). His style features:
+
+- Elegant, restrained prose with classical grammar influence
+- European settings and themes (especially in early work)
+- Biographical and historical fiction in later years
+- A narrator who observes with professional detachment
+
+> 鷗外の文章は、漱石のそれと比べると、より硬質で、より客観的である。漱石が自分の内面を掘り下げるのに対し、鷗外は外界を精密に記述する。
+> "Compared to Soseki's prose, Ogai's is harder and more objective. Where Soseki digs into his own interior, Ogai precisely describes the external world."
+
+### 谷崎潤一郎 (Tanizaki Jun'ichiro, 1886–1965)
+
+A novelist of aesthetic obsession. His prose is sensuous, ornate, and often centered on beauty, desire, and the tension between Western modernity and Japanese tradition. Key works: 痴人の愛 (Naomi, 1924), 細雪 (The Makioka Sisters, 1943–48), 陰翳礼讃 (In Praise of Shadows, 1933). His style features:
+
+- Long, flowing sentences that build through subordinate clauses
+- Sensory richness: textures, colors, sounds, smells described in detail
+- Aesthetic vocabulary: beauty, darkness, tradition
+- Kansai cultural settings (especially later work)
+
+### 川端康成 (Kawabata Yasunari, 1899–1972)
+
+Nobel Prize in Literature, 1968. His prose is characterized by compressed, lyrical imagery and a sense of beauty inseparable from sadness. Key works: 雪国 (Snow Country, 1935–47), 山の音 (The Sound of the Mountain, 1949–54), 古都 (The Old Capital, 1962). His style features:
+
+- Short, image-rich sentences
+- Haiku-like compression in prose
+- Nature imagery as emotional expression
+- Ellipsis and silence as structural elements
+- The aesthetic concept of 物の哀れ (mono no aware) pervading every page
+
+> 国境の長いトンネルを抜けると雪国であった。
+> "The train came out of the long tunnel into the snow country."
+
+This famous opening line of 雪国 demonstrates Kawabata's economy: one sentence, one image, and an entire world shifts.
+
+### Timeline: Key Authors and Works
+
+| Year | Author | Work | Significance |
+|---|---|---|---|
+| 1890 | 森鷗外 | 舞姫 | Early modern short fiction; European setting |
+| 1905 | 夏目漱石 | 吾輩は猫である | Satirical novel; established modern literary voice |
+| 1906 | 夏目漱石 | 坊っちゃん | Popular comic novel |
+| 1914 | 夏目漱石 | こころ | Psychological masterpiece |
+| 1915 | 芥川龍之介 | 羅生門 | Moral ambiguity through historical setting |
+| 1916 | 芥川龍之介 | 鼻 | Ironic psychological study |
+| 1924 | 谷崎潤一郎 | 痴人の愛 | Obsessive desire; modernization critique |
+| 1935 | 川端康成 | 雪国 | Lyrical beauty; Nobel Prize winner |
+| 1943 | 谷崎潤一郎 | 細雪 | Kansai culture; family saga; classical beauty |
+
+---
+
+## 17.10 Reading Strategy: Approaching Meiji/Taisho Texts
+
+### Practical Steps for Your First Pre-Modern Novel
+
+**Step 1: Choose a shorter work first.**
+
+Do not start with 吾輩は猫である (very long, satirical, densely allusive). Start with:
+- 坊っちゃん (short, humorous, relatively accessible vocabulary)
+- こころ (longer but with a clear narrative structure and a compelling plot)
+- 羅生門 (very short; can be read in one sitting)
+
+**Step 2: Prepare for orthographic differences.**
+
+Pre-war texts (before 1946) may use old kanji forms and old kana usage (旧仮名遣い). Modern editions usually update these, but some editions preserve the original orthography.
+
+| Old form | Modern form | Example |
+|---|---|---|
+| ゐ | い | ゐる → いる |
+| ゑ | え | ゑ → え |
+| を (in mid-word) | お | をかしい → おかしい |
+| づ (in some words) | ず | つづく remains つづく; some vary |
+| 云ふ | 言う | 云ふ → いう / 言う |
+| 斯う | こう | 斯う → こう |
+
+**Step 3: Build a personal glossary of Meiji/Taisho terms.**
+
+Keep a notebook or digital list of period-specific vocabulary you encounter. After 50–100 pages, you will find that the same terms recur and the reading becomes significantly easier.
+
+**Step 4: Read with a translation nearby — but not open.**
+
+Keep the English translation closed. Read a chapter in Japanese. When you finish, read the same chapter in English. Note what you missed. Return to the Japanese text and reread the passages you misunderstood. This cycle — Japanese → English → Japanese — is the most effective way to build period-specific reading ability.
+
+---
+
+## 17.11 Practice: Translation and Back-Translation Exercise
+
+The following short passages are given first in English, then in two possible Japanese renderings — one in Soseki's style and one in Akutagawa's style. Study how the same content changes when filtered through different authorial voices.
+
+### Source: "He realized he had been wrong."
+
+**Soseki-style rendering:**
+> 彼はそのとき初めて、自分が誤っていたのだということを、はっきりと自覚した。いや、自覚したというよりは、それまで漠然と感じていた不安の正体が、ようやく明確な形を取って、彼の前に立ち現れたと言うべきかもしれない。
+
+> "At that moment, for the first time, he clearly became aware that he had been wrong. No — rather than saying he became aware, it might be more accurate to say that the true nature of the unease he had vaguely felt until then finally took clear form and appeared before him."
+
+**Akutagawa-style rendering:**
+> 彼は誤っていた。——もっとも、彼自身がそれを認めたのは、すべてが終わった後のことである。
+
+> "He had been wrong. — Though, of course, he himself admitted this only after everything was over."
+
+**Analysis:**
+- Soseki takes 2 sentences to explore the realization, with self-correction (いや…と言うべきかもしれない) and a metaphor (the unease "taking form and appearing").
+- Akutagawa states the fact in 4 words (彼は誤っていた), then adds a single ironic qualification. The dash creates the pause; the もっとも delivers the sting.
+
+### Source: "The room was empty."
+
+**Soseki-style rendering:**
+> 部屋に入ると、そこには誰もいなかった。私はその空虚な空間の中に、一種の不安のようなものを感じずにはいられなかった。それは特定の対象を持たない不安——何が不安なのかと問われても答えようのない、漠然とした、しかし確実な不安であった。
+
+**Akutagawa-style rendering:**
+> 部屋は空であった。唯、窓際の机の上に、茶碗が一つ残されていた。茶碗の中には、冷めた茶が半分ほど入っていた。——誰かが、つい先刻まで、ここにいたのだ。
+
+**Analysis:**
+- Soseki moves from observation to interior response, exploring the feeling the empty room produces.
+- Akutagawa stays with external detail — but each detail (the cup, the cold tea, the "just moments ago") tells a story. The dash signals the deductive leap.
+
+---
+
+## 17.12 Key Expressions: A Quick Reference
+
+The following expressions appear frequently in Meiji/Taisho literary prose. Being able to recognize them instantly will dramatically improve your reading speed.
+
+### Soseki-Favored Expressions
+
+| Expression | Meaning | Example |
+|---|---|---|
+| ～のである | Explanatory: "The fact is that..." | 彼にはわからなかったのである |
+| ～ものだ | General truth / nostalgic reflection | 人間とはそういうものだ |
+| ～に違いない | "There is no doubt that..." | 何かあったに違いない |
+| ～と言わざるを得ない | "One must say that..." | 失敗と言わざるを得ない |
+| ～べきだ / ～べきである | "One ought to..." | 反省すべきである |
+| ～わけにはいかない | "Cannot possibly..." (moral/social obligation) | 見て見ぬふりをするわけにはいかない |
+| ～からには | "Since..." (with resolve) | 約束したからには守らなければならない |
+| ～ないでもない | "It's not that I don't..." (litotes) | 理解できないでもなかった |
+| どうしても | "No matter what; inevitably" | どうしても理解できなかった |
+| いわゆる | "So-called" | いわゆる近代的な人間 |
+
+### Akutagawa-Favored Expressions
+
+| Expression | Meaning | Example |
+|---|---|---|
+| ——（ダッシュ） | Ironic pause / reconsideration | 彼は正しかった。——少なくとも |
+| もっとも | "Though, of course" | もっとも、彼はそれを知らなかったが |
+| 果たして | "Sure enough; as expected" | 果たして、予感は的中した |
+| 畢竟 | "After all; in the final analysis" | 畢竟、人間は利己的な存在である |
+| 唯 | "Merely; only" | 唯、沈黙があるのみであった |
+| ～に過ぎない | "Is nothing more than..." | 口実に過ぎなかった |
+| いわば | "So to speak" | いわば、彼は自分自身の囚人であった |
+| ～ずにはいられない | "Cannot help but..." | 笑わずにはいられなかった |
+| ～と言っても過言ではない | "It is no exaggeration to say..." | 天才と言っても過言ではない |
+| 所詮 | "After all; in the end" (resigned) | 所詮、人間のすることだ |
+
+### Recognition Drills
+
+Read the following sentences and identify whether each sounds more like Soseki or Akutagawa, based on the expression patterns above.
+
+1. 彼女は美しかった。——が、その美しさは、どこか冷たいものを含んでいた。
+   → **Akutagawa** (dash + concessive が + ironic observation)
+
+2. 私にはどうしてもそれが理解できなかった。理解できないのは、私の知識が不足しているからではない。私の心が、それを受け入れることを拒んでいたのである。
+   → **Soseki** (どうしても + のではない…のである pattern + self-analysis)
+
+3. 彼は善人であった。もっとも、善人の定義にもよるが。
+   → **Akutagawa** (もっとも + ironic qualification)
+
+4. 人間は、自分の弱さを認めたがらないものだ。だが、弱さを認めないこと自体が、実は最大の弱さではないか——私はそう考えないでもなかった。
+   → **Soseki** (ものだ + rhetorical question + ないでもなかった litotes)
+
+5. 果たして、彼の予言は的中した。唯、それを喜ぶ者は一人もいなかった。
+   → **Akutagawa** (果たして + 唯 + ironic final observation)
+
+---
+
+## 17.13 Recommended Reading Order for Pre-Modern Authors
+
+### A Graduated Path Through Early Modern Literature
+
+| Step | Work | Author | Difficulty | Why this order |
+|---|---|---|---|---|
+| 1 | 羅生門 | 芥川龍之介 | ★★★ | Short (can be read in one sitting); clear narrative; introduces ironic voice |
+| 2 | 鼻 | 芥川龍之介 | ★★★ | Short; humorous; illustrates Akutagawa's reversal structure perfectly |
+| 3 | 坊っちゃん | 夏目漱石 | ★★★☆ | Accessible, humorous; first-person narrator with a strong voice; limited period vocabulary |
+| 4 | 蜘蛛の糸 | 芥川龍之介 | ★★★ | Very short; Buddhist parable; beautiful compressed prose |
+| 5 | こころ | 夏目漱石 | ★★★★ | The essential Soseki novel; longer, psychologically demanding, deeply rewarding |
+| 6 | 藪の中 | 芥川龍之介 | ★★★★ | Multiple narrators, unreliable testimony; structurally brilliant |
+| 7 | 草枕 | 夏目漱石 | ★★★★★ | Dense, essayistic, aesthetically rich; for the advanced reader |
+| 8 | 雪国 | 川端康成 | ★★★★★ | Poetic compression; requires sensitivity to imagery; a different kind of difficulty |
+
+### Tips for Each Step
+
+- **Steps 1–3:** Read for story and style. Look up words only when essential. Build familiarity with the period voice.
+- **Steps 4–6:** Read more carefully. Begin noting the author's characteristic expressions. Use a translation for comparison.
+- **Steps 7–8:** Read slowly, even meditatively. These works reward rereading. A single page of 草枕 or 雪国 may contain more literary density than an entire chapter of a contemporary novel.
+
+---
+
+## 17.14 Summary
 
 This chapter has introduced two foundational authors of modern Japanese literature:
 

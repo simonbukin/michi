@@ -285,7 +285,7 @@ Take the ない-form. Remove the final い. Add くてはいけない.
 | する | しない | しなくてはいけない |
 | くる | こない | こなくてはいけない |
 
-> しゅくだいを だなくてはいけません。
+> しゅくだいを ださなくてはいけません。
 > I must submit the homework.
 
 The polite form replaces いけない with いけません.

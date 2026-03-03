@@ -226,8 +226,8 @@ Japanese makes a distinction that English usually does not: the difference betwe
 > この　アプリで　日本の　ラジオが　聞ける。
 > "You can listen to Japanese radio on this app."
 
-> 先生に　しつもんが　聞ける。
-> "You can ask the teacher questions."
+> この　アプリで　日本の　ポッドキャストが　聞ける。
+> "You can listen to Japanese podcasts on this app."
 
 The distinction is important because using the wrong form produces unnatural Japanese. You would not say まどから ふじさんが 見られる to describe a mountain simply being visible. And you would not say えいがが 見える to describe the ability to watch a film — films do not spontaneously appear in your visual field. The spontaneous forms (見える, 聞こえる) are inherently intransitive — they describe a state, not an action.
 
@@ -237,7 +237,7 @@ Both 見える and 聞こえる are 一段 verbs and conjugate accordingly.
 
 ## 1.7 Reading Passage
 
-りょうしんは　田中です。わたしは　田中ゆきと　言います。今　大学で　日本語を　べんきょうしています。
+わたしは　田中ゆきと　言います。今　大学で　日本語を　べんきょうしています。
 
 日本語の　べんきょうを　はじめてから　二年に　なりました。今は　かんたんな　しんぶんの　きじが　読めます。ニュースも　ゆっくり　話してもらえれば、だいたい　わかります。でも、まだ　日本の　ドラマは　ぜんぶ　聞き取る　ことが　できません。話すのが　はやくて、聞こえても　意味が　わからない　ことが　あります。
 
@@ -249,7 +249,7 @@ Both 見える and 聞こえる are 一段 verbs and conjugate accordingly.
 
 **Translation:**
 
-My family name is Tanaka. I am Tanaka Yuki. I am currently studying Japanese at university.
+I am Tanaka Yuki. I am currently studying Japanese at university.
 
 It has been two years since I started studying Japanese. Now I can read simple newspaper articles. If the news is spoken slowly for me, I can mostly understand it. But I still cannot catch everything in Japanese dramas. Even when I can hear the words, there are times when I do not understand the meaning because they speak so fast.
 

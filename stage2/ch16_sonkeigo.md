@@ -195,12 +195,30 @@ This is a distinctive feature of these 尊敬語 verbs. When you hear a verb end
 | 食べる / 飲む | 召し上がる | to eat / to drink (respectful) |
 | する | なさる | to do (respectful) |
 | くれる | くださる | to give (to me) (respectful) |
+| 知る | ご存知（ごぞんじ） | to know (respectful) |
+
+### ご存知 — Respectful for 知る
+
+ご存知 replaces 知っている when referring to someone else's knowledge respectfully. It is one of the most frequently encountered keigo expressions in daily business Japanese.
+
+> ご存知ですか。
+> "Do you know?" (respectful)
+
+> この言葉をご存知ですか。
+> "Do you know this word?" (respectful)
+
+> 先生はもうご存知でした。
+> "The teacher already knew." (respectful)
+
+ご存知 is technically a noun (a respectful form of the noun 存知, meaning "knowing"), so it takes the copula: ご存知だ / ご存知です. It does not conjugate as a verb. The negative is ご存知ない or ご存知ではない.
+
+Note: The humble counterpart 存じる / 存じ上げる is covered in Chapter 17.
 
 ---
 
 ## 16.2 The Productive Pattern: お〜になる
 
-The irregular verbs in Section 16.1 cover the most common actions (being, going, coming, saying, seeing, eating, doing, giving). But what about other verbs? You cannot create a special irregular form for every verb in the language. Instead, Japanese provides a productive pattern that works with most verbs:
+The irregular verbs in Section 16.1 cover the most common actions (being, going, coming, saying, seeing, eating, doing, giving, knowing). But what about other verbs? You cannot create a special irregular form for every verb in the language. Instead, Japanese provides a productive pattern that works with most verbs:
 
 > **お + ます-stem + になる**
 
@@ -515,6 +533,7 @@ All irregular 尊敬語 verbs and key respectful expressions from this chapter.
 | 召し上がる | めしあがる | ④ | 五段 | respectful for 食べる, 飲む |
 | なさる | なさる | ② | 五段 (irregular ます形) | respectful for する |
 | くださる | くださる | ③ | 五段 (irregular ます形) | respectful for くれる |
+| ご存知 | ごぞんじ | ① | noun (尊敬語) | respectful for 知っている |
 | お〜になる | お〜になる | — | pattern | productive respectful pattern |
 | ご〜になる | ご〜になる | — | pattern | productive respectful pattern (する compounds) |
 | お〜ください | お〜ください | — | pattern | respectful request pattern |

@@ -725,7 +725,33 @@ The following passage combines all five structural divergences. Read it once for
 
 ---
 
-## 20.8 Vocabulary List
+## 20.8 Summary: The Five Divergences at a Glance
+
+### Quick reference table
+
+| Divergence | Japanese | English | Comprehension risk |
+|---|---|---|---|
+| Head-final | Modifiers precede the head noun/verb | Modifiers follow the head | Losing track of long pre-nominal chains |
+| Topic-prominence | は marks the frame (topic); が marks the subject | No topic marker; subject is mandatory | Treating は as subject marker; missing topic shifts |
+| Zero anaphora | Subjects, objects, and locations are routinely omitted | Pronouns are required | Losing track of who does what in multi-character passages |
+| Aspect over tense | ている encodes progressive, resultant state, habitual | -ing encodes progressive only | Reading 死んでいる as "is dying" instead of "is dead" |
+| Perspective encoding | 授受, passive, causative mark speaker's viewpoint | No grammatical perspective markers | Missing gratitude, adversity, and viewpoint in narration |
+
+### The meta-strategy
+
+When you struggle with a difficult passage, ask yourself:
+
+1. Am I confused because the sentence is head-final and I am looking for the main element too early?
+2. Am I confused because a topic was established and I lost track of it?
+3. Am I confused because subjects are being dropped and I do not know who is acting?
+4. Am I confused because I am reading an aspectual form as a tense?
+5. Am I confused because a perspective marker (てくれる, passive, causative) is doing work that I am not noticing?
+
+If you can identify which divergence is causing the confusion, you can resolve it. The awareness itself is the tool.
+
+---
+
+## 20.9 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |
 |------|------|-----------|------|------|

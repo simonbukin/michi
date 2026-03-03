@@ -184,7 +184,7 @@ All い-adjectives conjugate by replacing the final い with the appropriate end
 |---|---|---|---|
 | つもり | Plain non-past verb + つもりです | "Intend to" | らいねん、だいがくに はいる つもりです。 |
 | なければならない | ない-form, drop い + ければならない | "Must do" | くすりを のまなければなりません。 |
-| なくてはいけない | ない-form, drop い + くてはいけない | "Must do" (alternate) | しゅくだいを だなくてはいけません。 |
+| なくてはいけない | ない-form, drop い + くてはいけない | "Must do" (alternate) | しゅくだいを ださなくてはいけません。 |
 
 Casual contractions: なければ → なきゃ, なくては → なくちゃ. Example: べんきょうしなきゃ。
 

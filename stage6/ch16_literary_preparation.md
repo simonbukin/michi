@@ -448,7 +448,75 @@ This passage demonstrates several features of literary Japanese that differ from
 
 ---
 
-## 16.5 Vocabulary List — Literary Reading Preparation
+## 16.5 Narration Types: 地の文, 会話文, and 内的独白
+
+### Three Layers of Narrative Text
+
+Japanese novels interweave three distinct types of text, each with its own grammatical and stylistic conventions. Learning to recognize and move between these layers is essential for novel-length reading.
+
+### 地の文 (Narration)
+
+This is the narrator's voice — the text outside of quotation marks. In first-person novels, 地の文 is the narrator thinking and observing. In third-person novels, it is the authorial voice describing events.
+
+**Characteristics:**
+- Uses literary copula (である, であった) or plain form (だ, だった)
+- Sentence-final forms are declarative: た, る, である
+- May use literary vocabulary not found in dialogue
+- Tense shifts freely (historical present, past narrative)
+
+> 朝の光が薄い膜のように部屋に差し込んでいた。時計は七時を少し過ぎたところであった。彼女はまだ眠っていた。
+> "Morning light slipped into the room like a thin membrane. The clock had just passed seven. She was still sleeping."
+
+### 会話文 (Dialogue)
+
+Text inside 「 」 brackets. Dialogue follows conversational grammar rules regardless of the narration style surrounding it.
+
+**Characteristics:**
+- Uses the character's individual speech patterns (pronouns, sentence-final particles, dialect)
+- Politeness level matches the social situation within the story
+- Contractions and colloquialisms are common
+- Tense follows conversational norms, not literary ones
+
+> 「ねえ、昨日の映画、どうだった？」
+> 「うーん、まあまあかな。思ったほどじゃなかったけど」
+> "Hey, what did you think of the movie yesterday?"
+> "Hmm, it was so-so, I guess. Not as good as I expected."
+
+### 内的独白 (Interior Monologue)
+
+The character's unspoken thoughts. In Japanese, these are sometimes set off by markers but often blend seamlessly into the narration. Recognizing where narration ends and interior monologue begins is one of the most challenging aspects of Japanese literary reading.
+
+**Common markers for interior monologue:**
+
+| Marker | Example | Effect |
+|---|---|---|
+| ——（dash） | ——何を言っているのだ、この男は。 | Abrupt shift to character's thought |
+| と思った | これは嘘だ、と彼は思った。 | Explicit attribution of thought |
+| Unmarked shift to present tense | 彼は黙っていた。何を言えばいいのか。 | The second sentence is interior monologue — present tense signals immediacy |
+| Question form with no interlocutor | なぜだろう。なぜこんなことになったのだろう。 | Questions no one answers = the character asking himself |
+| のだ / のだった | そうだ、あのときもこうだったのだ。 | Realization or insistence within the character's mind |
+
+### Practice: Identifying Text Types
+
+Read the following passage and label each sentence as 地 (narration), 会 (dialogue), or 内 (interior monologue).
+
+> 　男は駅のホームに立っていた。【地】電車はまだ来ない。【内 — present tense shift; the man's perception】あと五分。【内 — fragment; thinking to himself】隣に若い女性が立った。【地】傘を持っている。【地 or 内 — ambiguous; could be narration or the man noticing】
+>
+> 「すみません、この電車は渋谷に止まりますか」【会】
+>
+> 　女性の声だった。【地】急に話しかけられて、彼は少し驚いた。【地】——何を聞かれたのだ。渋谷。止まるかどうか。止まるはずだ。【内 — the dash signals thought; fragments show processing】
+>
+> 「ええ、止まりますよ」【会】
+>
+> 「ありがとうございます」【会】
+>
+> 　女性は微笑んだ。いい笑顔だった。【地 or 内 — the evaluation "いい笑顔" could be the narrator's or the character's】彼はもう少し何か言いたかったが、言葉が見つからなかった。【地】電車が来た。【地】二人は別々の車両に乗った。【地】——名前くらい、聞けばよかった。【内 — regret; interior monologue clearly marked by dash】
+
+The passage demonstrates a common pattern in Japanese fiction: narration and interior monologue flowing into each other without clear boundaries. The skill of reading novels lies in sensing these transitions — feeling when the "camera" moves from outside the character to inside.
+
+---
+
+## 16.6 Vocabulary List — Literary Reading Preparation
 
 ### Core Literary Vocabulary
 
@@ -684,13 +752,55 @@ The ideal first novel in Japanese should have:
 
 ---
 
-## 16.10 Summary
+## 16.10 The Physical Experience of Reading in Japanese
+
+### Paper vs. Digital
+
+The medium you read in matters more in Japanese than in many other languages, because Japanese text has a visual dimension that interacts with meaning.
+
+### Vertical vs. Horizontal Text
+
+| Format | Used in | Effect on reading |
+|---|---|---|
+| 縦書き (vertical) | Novels, literary magazines, newspapers | Traditional; feels "literary"; natural for extended reading |
+| 横書き (horizontal) | Textbooks, web content, scientific writing | Modern; feels "informational"; natural for reference |
+
+Most Japanese novels are printed in 縦書き (vertical writing, right to left). If you have only read Japanese in textbooks (横書き), your first encounter with a novel's vertical layout may feel disorienting. The eyes must track differently, pages turn in the opposite direction, and the visual rhythm of the text changes.
+
+**Recommendation:** Begin reading practice with physical books in 縦書き format. The tactile experience — the weight of the book, the feel of turning pages, the visual flow of vertical text — is part of the reading experience that Japanese authors compose for.
+
+### Furigana and Reading Aids
+
+Some editions include furigana (small kana above or beside kanji). These are particularly common in:
+
+- Youth-oriented editions (ジュニア版, 少年少女版)
+- Annotated classics (注釈付き)
+- Kindle editions (where you can tap kanji for readings)
+
+There is no shame in using furigana-equipped editions for your first novel. The goal is to read, not to prove you can read without help.
+
+### Managing Lookup Fatigue
+
+The single greatest barrier to novel-length reading is lookup fatigue — the exhaustion that comes from stopping to check a dictionary every few lines. Here are practical strategies:
+
+1. **The three-strike rule:** If an unknown word appears three times and you still cannot guess its meaning, look it up. If it appears only once, skip it.
+
+2. **Batch lookups:** Read a full page, circling (or noting) unknown words. Look them all up at once at the end of the page. This preserves reading flow.
+
+3. **Accept partial understanding.** In your first novel, understanding 70–80% of the content is sufficient. The remaining 20–30% will often resolve itself through context as you continue reading.
+
+4. **Use a Japanese-Japanese dictionary when possible.** At the N1 level, you should be building your understanding of Japanese words through Japanese definitions, not English glosses. The 大辞林 or 明鏡 dictionaries (available as apps) are excellent for this purpose.
+
+---
+
+## 16.11 Summary
 
 This chapter has introduced the mental framework needed for novel-length reading in Japanese:
 
 1. **Sustained voice** requires tolerance for repetition and sensitivity to deviation.
 2. **Character tracking** relies on speech style — pronouns, sentence-final forms, politeness levels, and dialect — rather than explicit attribution.
 3. **Literary tense** uses the historical present for immediacy, た as a narrative anchor, and ている for scene-setting — functions that differ from their textbook descriptions.
-4. **Author-specific style** demands a three-phase approach: surrender, pattern recognition, and eventual fluency within an author's linguistic world.
+4. **Narration types** — 地の文, 会話文, and 内的独白 — each follow different grammatical conventions, and learning to sense the transitions between them is essential.
+5. **Author-specific style** demands a three-phase approach: surrender, pattern recognition, and eventual fluency within an author's linguistic world.
 
 With these tools in hand, you are ready to encounter specific authors. The next three chapters will take you through pre-modern, modern, and poetic Japanese literature, building the vocabulary and stylistic sensitivity you need to read novels in Japanese with genuine comprehension and pleasure.

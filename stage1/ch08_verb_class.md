@@ -108,7 +108,7 @@ The following are all common verbs that end in いる or える but are 五段, 
 | はいる（入る） | to enter | 五段 |
 | きる（切る） | to cut | 五段 |
 | いる（要る） | to need | 五段 |
-| へる（経る） | to pass (time) | 五段 |
+| へる（減る） | to decrease | 五段 |
 | かぎる（限る） | to limit | 五段 |
 | しゃべる | to chat | 五段 |
 | ける（蹴る） | to kick | 五段 |

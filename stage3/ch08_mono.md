@@ -32,7 +32,7 @@ Verb (dictionary form) + ものだ
 > 年を　取ると、体が　弱くなる　ものだ。
 > "When you get older, your body weakens." (That's a natural fact.)
 
-> 初めては　緊張する　ものだ。
+> 初めての　ときは　緊張する　ものだ。
 > "You get nervous the first time." (That's how it naturally is.)
 
 > 人の　気持ちは　変わる　ものだ。

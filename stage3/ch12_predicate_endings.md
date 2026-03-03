@@ -411,8 +411,8 @@ noun + 気味 (for some nouns)
 > 最近　仕事が　忙しくて、寝不足気味だ。
 > "Work has been busy lately, and I'm a bit sleep-deprived."
 
-> 今年は　例年に　比べて　気温が　低め気味だ。
-> "Compared to an average year, temperatures are running a bit low."
+> 今年は　例年に　比べて　気温が　下がり気味だ。
+> "Compared to an average year, temperatures have been dropping a bit."
 
 ### Grammar Notes
 

@@ -44,7 +44,6 @@ For 五段 verbs, a shorter form exists that is widely used in spoken Japanese. 
 |--------|-----------|-----------------|
 | 書く | 書かせられる | 書かされる |
 | 読む | 読ませられる | 読まされる |
-| 話す | 話させられる | 話さされる |
 | 待つ | 待たせられる | 待たされる |
 | 飲む | 飲ませられる | 飲まされる |
 | 泳ぐ | 泳がせられる | 泳がされる |
@@ -53,7 +52,9 @@ For 五段 verbs, a shorter form exists that is widely used in spoken Japanese. 
 
 The pattern is consistent: where the full form has ～せられる, the contracted form has ～される. The あ-row vowel before it remains the same.
 
-This contraction is **only available for 五段 verbs**. 一段 verbs (食べさせられる) and irregular verbs (させられる, 来させられる) do not have contracted forms. 食べさされる does not exist.
+This contraction is **only available for 五段 verbs**, with one restriction: **五段 verbs ending in す** (話す, 出す, 返す, etc.) **resist the contraction** because it produces an unnatural double さ sound. 話させられる does not contract to 話さされる — use the full form instead.
+
+一段 verbs (食べさせられる) and irregular verbs (させられる, 来させられる) also do not have contracted forms. 食べさされる does not exist.
 
 Both the full and contracted forms are standard Japanese. The contracted form is more common in casual speech; the full form appears more often in formal writing. Both are correct, and you need to recognize both.
 

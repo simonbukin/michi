@@ -142,6 +142,31 @@ The following passage is an original composition written in a style inspired by 
 
 5. **Colloquial-literary mixture**: Words like くだらない, 茶化す, and ひょっとすると sit alongside 罪悪感, 安堵, and 道化, creating the tonal instability that defines Dazai's voice.
 
+### Dazai's Influence on Contemporary Japanese
+
+Dazai's literary voice has permeated Japanese culture far beyond literature. The confessional, self-deprecating tone that he perfected can be heard in:
+
+- **Blog and social media writing**: The practice of prefacing statements with すみません or 恐縮ですが, then revealing personal weakness or failure, owes something to Dazai's confessional mode.
+- **Comedic self-deprecation**: The manzai tradition of 自虐ネタ (self-deprecating humor) echoes Dazai's strategy of making one's own weakness the subject of entertainment.
+- **The "useless adult" (ダメ人間) archetype**: A character type in anime, manga, and light novels that traces directly back to Dazai's narrators.
+
+Understanding Dazai's voice helps you recognize these echoes in contemporary Japanese culture — and helps you understand why 人間失格 remains one of the best-selling novels in Japan decades after its publication.
+
+### Dazai's です・ます Style: The Polite Confession
+
+A crucial technical point: Dazai often writes in です・ます form rather than the literary である or the casual だ. This choice is significant. The polite form creates a paradoxical intimacy — the narrator is being formally polite to the reader while confessing the most shameful details of his life. The effect is as if someone were bowing deeply while telling you they have committed a terrible crime.
+
+> 私は、人間が怖いのです。人間を愛しているのかもしれません。しかし、怖いのです。ですから、私はいつも笑っているのです。笑っていないと、怖くてたまらないのです。
+> "I am afraid of human beings. Perhaps I love them. But I am afraid of them. And so I am always smiling. If I were not smiling, I would be unbearably afraid."
+
+The です at the end of each sentence sounds like a polite explanation — but the content is raw confession. This mismatch between form and content is one of Dazai's most powerful tools.
+
+Compare this to the same content in plain form:
+
+> 俺は人間が怖い。愛してるのかもしれない。でも怖い。だからいつも笑ってる。笑ってないと怖くてたまらない。
+
+The plain-form version sounds tough, blunt, almost angry. Dazai's です・ます version sounds vulnerable, apologetic, painfully honest. The politeness form becomes a form of emotional exposure.
+
 ---
 
 ## 18.3 村上春樹: Detached First Person, Surreal Imagery, Western-Influenced Syntax
@@ -287,6 +312,31 @@ The following passage is an original composition written in a style inspired by 
 ---
 
 ## 18.5 Contemporary Voices
+
+### Murakami's Kitchen Scenes and Material Precision
+
+One of the most distinctive features of Murakami's prose is the precise, almost ritualistic description of cooking and eating. These scenes serve a narrative function: they ground the surreal in the physical, giving the reader something tangible to hold onto when the story ventures into strange territory.
+
+> 僕はフライパンにオリーブオイルを入れて、ニンニクを二片、薄く切って炒めた。ニンニクがきつね色になったところで、ベーコンを加えた。ベーコンは三枚。それぞれ三センチくらいの幅に切ってある。ベーコンの脂が出てきたところで、茹でたてのスパゲティを入れ、塩と黒胡椒で味をつけた。最後に刻んだパセリを散らした。
+
+> I put olive oil in the frying pan and sliced two cloves of garlic thin and fried them. When the garlic turned golden, I added bacon. Three slices. Each cut to about three-centimeter widths. When the fat from the bacon began to render, I added the freshly boiled spaghetti and seasoned it with salt and black pepper. Finally, I scattered chopped parsley on top.
+
+Notice the precision: two cloves, three slices, three centimeters. These numbers are not random — they signal that the narrator pays attention to the physical world with a meticulousness that contrasts sharply with his vagueness about emotional matters. The cooking scene is the one place where this narrator is fully competent, fully present. It is his anchor to reality.
+
+### Murakami's Simile Patterns
+
+Murakami uses similes frequently, but they are of a particular kind — often slightly odd, slightly off, creating a momentary defamiliarization.
+
+| Murakami-style simile | Effect |
+|---|---|
+| まるで百年前の手紙のように黄ばんでいた | "Yellowed like a letter from a hundred years ago" — temporal distance made visual |
+| 記憶の底に沈んだ石のように | "Like a stone sunk to the bottom of memory" — abstract made physical |
+| 誰かが世界のスイッチを切ったみたいに静かだった | "Quiet as if someone had flipped off the world's switch" — mechanical metaphor for absence |
+| 何かの予感のようなものが体の中を通り過ぎた | "Something like a premonition passed through my body" — emotion as physical transit |
+
+These similes share a common quality: they translate intangible experiences (memory, silence, foreboding) into physical images. They are Murakami's method of making the vague concrete — or at least of trying to, and acknowledging the attempt through のようなもの ("something like").
+
+---
 
 ### 吉本ばなな — Lyrical Minimalism
 
@@ -631,7 +681,132 @@ Modern Japanese fiction uses a rich vocabulary for describing inner experience. 
 
 ---
 
-## 18.11 Summary
+## 18.11 Extended Practice: Voice Matching
+
+### Exercise: Complete the Passage
+
+Each of the following passages has a final sentence missing. Write a sentence that completes the passage in a way consistent with the author's voice. Then compare with the suggested completions below.
+
+### Passage 1 (Dazai-style)
+
+> 私は彼女に嘘をつきました。愛していると言いました。愛していなかったわけではありません。たぶん、愛していたのだと思います。ただ、その愛が、彼女の求めていた愛と同じものであったかどうかは、____
+
+**Suggested completion:**
+> 正直に申し上げて、私にはわからないのです。いえ、わからないのではなく、わかりたくなかったのかもしれません。
+
+(The self-correction, the hedging かもしれません, the のです — all Dazai markers.)
+
+### Passage 2 (Murakami-style)
+
+> 猫は毎朝同じ時間にやってきた。僕がトーストを焼いている匂いに引き寄せられるのかもしれないし、単に散歩のルートにこの家が含まれているだけかもしれない。理由はわからなかった。____
+
+**Suggested completion:**
+> でも、理由がわからないということは、特に気にならなかった。猫にはきっと猫なりの理由があるのだろう。僕にはトーストを焼く理由がある。それで十分だった。
+
+(The acceptance of not-knowing, the parallel structure, the flat concluding それで十分だった — all Murakami markers.)
+
+### Passage 3 (Yoshimoto Banana-style)
+
+> 引っ越したばかりの部屋は、まだ何もなくてがらんとしていた。でも、窓からの光がすごくきれいで、____
+
+**Suggested completion:**
+> それだけで、ここに住んでよかったなって思えた。光のある場所で眠れるって、それだけで幸せなことなのだと思う。
+
+(The simple emotional realization, the って-form casual quotation, the sensory comfort — all Yoshimoto markers.)
+
+### Passage 4 (Ogawa-style)
+
+> その日から、街の中の時計がすべて止まった。デジタル時計もアナログ時計も、腕時計も壁掛け時計も、すべてが同じ時刻を指したまま動かなくなった。____
+
+**Suggested completion:**
+> 人々は最初のうち不便がっていたが、やがて慣れた。時間というものがなくなっても、朝は来たし、夜も来た。ただ、それが何時であるかを、誰も知らなくなっただけだった。
+
+(The calm acceptance of the impossible, the "ただ…だけだった" structure, the matter-of-fact last sentence — all Ogawa markers.)
+
+---
+
+## 18.12 The私小説 (I-Novel) Tradition
+
+### Understanding Japan's Most Distinctive Literary Genre
+
+The 私小説 (ししょうせつ, or わたくししょうせつ) — the "I-novel" — is a genre unique to Japanese literature. It is fiction that is transparently autobiographical: the narrator is understood to be the author, and the events described are understood to be (largely) true.
+
+This genre is central to understanding Dazai, but it also shapes the work of many other Japanese writers. When you read a Japanese novel narrated in the first person, the question "Is this the author speaking?" is almost always relevant — even when the answer is complicated.
+
+### Key Features of the 私小説
+
+| Feature | Description |
+|---|---|
+| First-person narration | The narrator is an author or writer figure |
+| Confessional content | Personal failings, romantic entanglements, family conflicts |
+| Minimal plot | Events are drawn from life, not constructed for dramatic effect |
+| Psychological focus | The interest is in the narrator's inner experience, not external action |
+| Ambiguous fictionality | The boundary between truth and fiction is deliberately blurred |
+
+### The 私小説 and the Problem of Truth
+
+The 私小説 creates a reading experience different from Western autobiographical fiction. In the West, the reader generally assumes that a novel is fiction unless told otherwise. In the 私小説 tradition, the reader assumes that the novel is substantially true — and the interest lies in how the author transforms life into art, what they choose to include and exclude, and what the act of writing reveals about their character.
+
+This has practical implications for reading. When you encounter a first-person Japanese novel, ask:
+
+1. Is this a 私小説? (Is the narrator a writer? Do the life details match the author's biography?)
+2. If so, what is the author choosing to confess — and what might they be hiding?
+3. How does the act of writing function within the story? Is the narration itself part of the drama?
+
+### Major 私小説 Authors
+
+| Author | Key 私小説 work | Subject matter |
+|---|---|---|
+| 田山花袋 | 蒲団 (The Quilt, 1907) | Unrequited desire for a student; founding text of the genre |
+| 志賀直哉 | 暗夜行路 (A Dark Night's Passing, 1921–37) | Spiritual and artistic growth |
+| 太宰治 | 人間失格 (No Longer Human, 1948) | Self-destruction, alienation, shame |
+| 檀一雄 | 火宅の人 (House on Fire, 1975) | Marital infidelity, alcoholism |
+| 西村賢太 | 苦役列車 (Suffering Train, 2010) | Poverty, manual labor, literary ambition |
+
+---
+
+## 18.13 Literary Prizes: Understanding the Japanese Literary Landscape
+
+When you read reviews, bookstore displays, or author profiles in Japanese, you will encounter references to literary prizes. Knowing the major prizes helps you understand where an author fits in the literary ecosystem.
+
+### The Two Major Prizes
+
+| Prize | 芥川賞 (Akutagawa Prize) | 直木賞 (Naoki Prize) |
+|---|---|---|
+| Named after | 芥川龍之介 | 直木三十五 (novelist, 1891–1934) |
+| Awarded for | Best "pure literature" (純文学) work by a new or emerging writer | Best "popular literature" (大衆文学) work by a new or emerging writer |
+| Genre | Literary fiction, experimental prose | Genre fiction: mystery, historical, entertainment |
+| Typical winner | Serious, often challenging prose | Accessible, plot-driven, often widely read |
+| Frequency | Twice yearly (January and July) | Twice yearly (January and July) |
+| Prestige | Considered Japan's highest literary honor for new writers | Equally prestigious but for a different kind of excellence |
+
+### Other Notable Prizes
+
+| Prize | Focus | Notable winners |
+|---|---|---|
+| 谷崎潤一郎賞 | Established literary fiction | 村上春樹, 小川洋子 |
+| 三島由紀夫賞 | Bold, innovative work by newer writers | Various experimental writers |
+| 読売文学賞 | Broad literary achievement | Major established authors |
+| 本屋大賞 | Voted by bookstore staff; accessible, beloved books | Often overlaps with widely-read titles |
+| 野間文芸賞 | Established literary excellence | Senior literary figures |
+
+### 純文学 vs. 大衆文学
+
+The distinction between 純文学 (pure/literary fiction) and 大衆文学 (popular/mass fiction) is more prominent in Japan than the "literary vs. genre" distinction in English-language publishing. Understanding this division helps you navigate bookstores, reviews, and conversations about books.
+
+| 純文学 | 大衆文学 |
+|---|---|
+| Emphasis on style, language, psychological depth | Emphasis on plot, entertainment, readability |
+| Often short; may lack conventional plot | Often long; strong narrative structure |
+| Characters are psychologically complex | Characters serve the story |
+| Authors: 太宰治, 村上春樹, 小川洋子 | Authors: 東野圭吾, 宮部みゆき, 伊坂幸太郎 |
+| Sold in the 文芸 section | Sold in the 小説 or genre-specific sections |
+
+For the language learner, 大衆文学 is often easier to read — the vocabulary is more contemporary, the sentences are more straightforward, and the plots provide motivation to keep reading. 純文学 is more challenging but offers greater linguistic reward.
+
+---
+
+## 18.14 Summary
 
 This chapter has explored five distinctive modern and contemporary voices:
 

@@ -96,8 +96,8 @@ Certain verbs require a person as a target or partner. に marks that person.
 > ともだちに　あいます。
 > I meet a friend.
 
-> せんせいに　はなします。
-> I speak to the teacher.
+> せんせいに　ききます。
+> I ask the teacher.
 
 > 田中さんに　でんわします。
 > I call Tanaka-san.

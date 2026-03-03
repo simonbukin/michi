@@ -19,9 +19,9 @@ All of the わけ patterns in this chapter attach to the plain form of verbs, ad
 | Verb (plain form) | 来ない + わけだ |
 | い-adjective | 高い + わけだ |
 | な-adjective | 静かな + わけだ |
-| Noun + だ | 学生な / 学生である + わけだ |
+| Noun + だ | 学生だという / 学生である + わけだ |
 
-Note: With な-adjectives and nouns, な precedes わけ in speech and casual writing. In more formal writing, である may be used instead.
+Note: With な-adjectives, な precedes わけ (静かなわけだ). With nouns, use だという or である before わけ (学生だというわけだ / 学生であるわけだ).
 
 ### Examples
 
@@ -77,7 +77,7 @@ This set phrase uses わけ in its literal "reason" sense:
 | Verb (plain form) | できる + わけがない |
 | い-adjective | 安い + わけがない |
 | な-adjective | 簡単な + わけがない |
-| Noun + の/な | 本当な + わけがない |
+| Noun + の/である | 本当の / 本当である + わけがない |
 
 ### Examples
 
@@ -190,7 +190,7 @@ Compare:
 
 | Preceding element | Pattern |
 |---|---|
-| Verb (plain form) | 嫌いな + わけではない |
+| Verb (plain form) | 行きたくない + わけではない |
 | い-adjective | 高い + わけではない |
 | な-adjective | 嫌な + わけではない |
 | Noun + の/な/という | 反対という + わけではない |

@@ -47,11 +47,9 @@ This appendix consolidates every vocabulary item introduced in Chapters 1 throug
 | アドバイスする | — | ① | する verb | to advise | 26 |
 | 穴 | あな | ② | noun | hole | 27 |
 | アナウンス | — | ② | noun | announcement | 19 |
-| アパート | — | ② | noun | apartment building | 23 |
 | 謝る | あやまる | ③ | 五段 verb | to apologize | 18 |
 | 表す | あらわす | ③ | 五段 verb | to express, to represent | 24 |
 | 現れる | あらわれる | ④ | 一段 verb | to appear, to emerge | 9 |
-| アルバイト | — | ③ | noun | part-time job | 23 |
 | アレルギー | — | ③ | noun | allergy | 20 |
 | 案内 | あんない | ③ | noun | guidance, information | 19 |
 | 案内する | あんないする | ③ | する verb | to guide, to show around | 19 |
@@ -407,7 +405,6 @@ This appendix consolidates every vocabulary item introduced in Chapters 1 throug
 | 産業 | さんぎょう | ⓪ | noun | industry | 23 |
 | 賛成 | さんせい | ⓪ | noun | agreement, approval | 24 |
 | 賛成する | さんせいする | ⓪ | する verb | to agree, to approve | 24 |
-| 散歩 | さんぽ | ⓪ | noun | walk, stroll | 13 |
 | 参る | まいる | ① | 五段 verb | humble: to go/come (謙譲語II) | 17 |
 | 仕上げる | しあげる | ⓪ | 一段 verb | to finish, to complete | 27 |
 | 幸せ | しあわせ | ⓪ | な-adj / noun | happiness, happy | 12 |

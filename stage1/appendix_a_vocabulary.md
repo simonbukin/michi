@@ -338,6 +338,7 @@ This appendix consolidates every vocabulary item introduced in Chapters 1 throug
 | さんぽする | — | ⓪ | する verb | to take a walk | 8 |
 | し | 四 | ① | noun | four | 4 |
 | じ | 時 | ① | counter | o'clock | 16 |
+| しおからい | — | ④ | い-adj | salty (standard/literary) | 18 |
 | しかん | 時間 | ⓪ | noun | hour (duration), time | 16 |
 | じしょ | 辞書 | ① | noun | dictionary | 8 |
 | しずか | 静か | ⓪ | な-adj | quiet, calm | 12 |
@@ -359,7 +360,6 @@ This appendix consolidates every vocabulary item introduced in Chapters 1 throug
 | しょうがっこう | 小学校 | ③ | noun | elementary school | 4 |
 | しょくじ | 食事 | ⓪ | noun | meal (formal/general) | 8 |
 | しょくじする | — | ⓪ | する verb | to have a meal | 8 |
-| しおからい | — | ④ | い-adj | salty (standard/literary) | 18 |
 | しょっぱい | — | ③ | い-adj | salty (colloquial) | 18 |
 | しる | 知る | ⓪ | 五段 verb | to know, to come to know | 8 |
 | しろい | 白い | ② | い-adj | white | 15 |

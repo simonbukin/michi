@@ -16,12 +16,16 @@ Verb (dictionary form) + べきだ
 
 The one exception is する, which can become either するべきだ or すべきだ. The contracted form すべきだ is more common in formal writing.
 
-| Verb | べき form |
+| Type | べき form |
 |---|---|
-| 行く | 行くべきだ |
-| 考える | 考えるべきだ |
-| する | するべきだ / すべきだ |
-| 話す | 話すべきだ |
+| 行く (verb) | 行くべきだ |
+| 考える (verb) | 考えるべきだ |
+| する (verb) | するべきだ / すべきだ |
+| 話す (verb) | 話すべきだ |
+| 名詞 (noun) | [noun] + であるべきだ |
+| な-adj | [stem] + であるべきだ |
+
+For nouns and な-adjectives, use であるべきだ: 教師は公平**であるべき**だ ("A teacher ought to be fair"). This form is common in formal writing and argument.
 
 ### Examples
 
@@ -265,6 +269,8 @@ You learned つもり in Stage 2 as an expression of intention: "I plan to" or "
 |---|---|
 | Verb (dictionary form) | 行くつもりだ |
 | Verb (ない-form) | 行かないつもりだ |
+| Verb (た-form) | 言ったつもりだ (belief about own past action) |
+| Noun + の | 冗談のつもりだ (belief about identity/nature) |
 
 #### Examples
 

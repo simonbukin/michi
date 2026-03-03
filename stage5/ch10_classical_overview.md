@@ -88,7 +88,7 @@ Several classical particles survive in modern Japanese but with restricted or sh
 
 | Particle | Classical function | Modern trace |
 |----------|-------------------|-------------|
-| ぞ | Emphasis (triggers 連体形) | ぞ in emphatic speech (これこそ問題だ) |
+| ぞ | Emphasis (triggers 連体形) | ぞ in emphatic speech (これぞ本物だ) |
 | なむ | Emphasis (triggers 連体形) | Mostly extinct; rare literary use |
 | や | Question (triggers 連体形) | や in rhetorical questions |
 | か | Question (triggers 連体形) | か as question marker (function preserved) |
@@ -246,7 +246,7 @@ The emphasis function of こそ is directly inherited from classical usage.
 
 こうした表現は、化石のように固まったまま現代語に残っているのではない。むしろ、格調高い文章を書こうとするとき、あるいは力強い主張をしようとするとき、書き手は意識的に文語的表現を選ぶのである。古典文法は死んだのではなく、特別な場面で生き続けているのだ。
 
-ことわざもまた、古典文法の宝庫である。「急がば回れ」の「ば」は已然形接続の古典的条件表現であり、現代語の「急ぐなら」とは微妙に響きが異なる。「聞くは一時の恥、聞かぬは一生の恥」の「ぬ」は、打消の助動詞「ず」の連体形である。これらの表現を「古い」と片付けてしまえば、日本語の深い層を見逃すことになる。
+ことわざもまた、古典文法の宝庫である。「急がば回れ」の「ば」は未然形接続の古典的条件表現であり、現代語の「急ぐなら」とは微妙に響きが異なる。「聞くは一時の恥、聞かぬは一生の恥」の「ぬ」は、打消の助動詞「ず」の連体形である。これらの表現を「古い」と片付けてしまえば、日本語の深い層を見逃すことになる。
 
 ---
 
@@ -258,7 +258,7 @@ In daily life as well, traces of classical language can be seen everywhere. When
 
 These expressions are not fossilized remains frozen in the modern language. Rather, when one seeks to write with dignity, or when one seeks to make a powerful assertion, the writer consciously chooses classical expressions. Classical grammar has not died — it continues to live in special contexts.
 
-Proverbs, too, are a treasure house of classical grammar. The ば in 急がば回れ ("if you hurry, take the long way around") is a classical conditional using the realis form, and its resonance differs subtly from the modern 急ぐなら. The ぬ in 聞くは一時の恥、聞かぬは一生の恥 is the attributive form of the negative auxiliary ず. If we dismiss these expressions as simply "old," we will miss the deep layers of the Japanese language.
+Proverbs, too, are a treasure house of classical grammar. The ば in 急がば回れ ("if you hurry, take the long way around") is a classical conditional using the irrealis form (未然形), and its resonance differs subtly from the modern 急ぐなら. The ぬ in 聞くは一時の恥、聞かぬは一生の恥 is the attributive form of the negative auxiliary ず. If we dismiss these expressions as simply "old," we will miss the deep layers of the Japanese language.
 
 ---
 

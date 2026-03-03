@@ -37,7 +37,6 @@ This appendix lists all ~200 new kanji introduced in Stage 2 (Chapters 1–29). 
 | 計 | ケイ | はか.る | 言 (ごんべん) | measure, plan | 計画（けいかく）、計算（けいさん） | 2 |
 | 画 | ガ・カク | — | 田 | picture; plan, stroke | 計画（けいかく）、映画（えいが） | 2 |
 | 将 | ショウ | — | 寸 | commander; future | 将来（しょうらい）、将軍（しょうぐん） | 2 |
-| 来 | ライ | く.る・き.たる | 木 | come | 将来（しょうらい）、来年（らいねん） | 2 |
 
 ## Chapter 3 — The Passive Form
 
@@ -267,7 +266,6 @@ This appendix lists all ~200 new kanji introduced in Stage 2 (Chapters 1–29). 
 
 | Kanji | 音読み | 訓読み | Radical | Meaning | Example Compounds | Ch. |
 |-------|--------|--------|---------|---------|-------------------|-----|
-| 届 | — | とど.く・とど.ける | 尸 | reach, deliver | 届出（とどけで）、届ける（とどける） | 22 |
 | 郵 | ユウ | — | 阝 (おおざと) | mail, postal | 郵便（ゆうびん）、郵送（ゆうそう） | 22 |
 | 便 | ベン・ビン | たよ.り | 人 (にんべん) | convenience; mail | 郵便（ゆうびん）、便利（べんり） | 22 |
 | 預 | ヨ | あず.ける | 頁 (おおがい) | deposit, entrust | 預金（よきん）、預ける（あずける） | 22 |

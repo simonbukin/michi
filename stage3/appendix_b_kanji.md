@@ -61,7 +61,6 @@ This appendix lists all ~350 new kanji introduced in Stage 3 (Chapters 1–27). 
 | Kanji | 音読み | 訓読み | Radical | Meaning | Example Compounds | Ch. |
 |-------|--------|--------|---------|---------|-------------------|-----|
 | 加 | カ | くわ.える・くわ.わる | 力 | add, increase | 加える（くわえる）、参加（さんか）、追加（ついか） | 6 |
-| 含 | ガン | ふく.む | 口 | contain | 含む（ふくむ）、含める（ふくめる） | 6 |
 | 除 | ジョ | のぞ.く | 阝 (こざとへん) | exclude, remove | 除く（のぞく）、除外（じょがい） | 6 |
 | 央 | オウ | — | 大 | center | 中央（ちゅうおう） | 6 |
 
@@ -131,7 +130,6 @@ This appendix lists all ~350 new kanji introduced in Stage 3 (Chapters 1–27). 
 
 | Kanji | 音読み | 訓読み | Radical | Meaning | Example Compounds | Ch. |
 |-------|--------|--------|---------|---------|-------------------|-----|
-| 述 | ジュツ | の.べる | 辶 (しんにょう) | state, mention | 述べる（のべる）、記述（きじゅつ）、上述（じょうじゅつ） | 14 |
 | 編 | ヘン | あ.む | 糸 | knit, compile | 編集（へんしゅう）、編む（あむ） | 14 |
 | 集 | シュウ | あつ.める・あつ.まる | 隹 | gather, collect | 編集（へんしゅう）、収集（しゅうしゅう） | 14 |
 | 掲 | ケイ | かか.げる | 扌 (てへん) | put up, display | 掲載（けいさい）、掲示（けいじ） | 14 |

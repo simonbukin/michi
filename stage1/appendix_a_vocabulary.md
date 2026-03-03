@@ -357,7 +357,6 @@ This appendix consolidates every vocabulary item introduced in Chapters 1 throug
 | じゅぎょうちゅう | — | — | noun | during class | 11 |
 | じゅんび | 準備 | ① | noun | preparation | 10 |
 | しょうがっこう | 小学校 | ③ | noun | elementary school | 4 |
-| しょうがっこう | 小学校 | ③ | noun | elementary school | 4 |
 | しょくじ | 食事 | ⓪ | noun | meal (formal/general) | 8 |
 | しょくじする | — | ⓪ | する verb | to have a meal | 8 |
 | しおからい | — | ④ | い-adj | salty (standard/literary) | 18 |
@@ -501,7 +500,6 @@ This appendix consolidates every vocabulary item introduced in Chapters 1 throug
 | でんき | 電気 | ① | noun | light, electricity | 6 |
 | てんぷら | — | ⓪ | noun | tempura | 18 |
 | でんしゃ | 電車 | ⓪ | noun | train | 2 |
-| でんしマネー | — | — | noun | electronic money | 18 |
 | でんわ | 電話 | ⓪ | noun | telephone | 5 |
 | でんわする | — | ⓪ | する verb | to make a phone call | 8 |
 | と | — | — | particle | and (nouns); with; quotation | 6 |

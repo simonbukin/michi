@@ -197,7 +197,7 @@ The standard pattern is **A はもちろん、B も [predicate]**. A is presente
 **Noun + のみならず**
 **Verb (plain form) + のみならず**
 **い-adjective + のみならず**
-**な-adjective + である + のみならず** / **な-adjective + な + のみならず**
+**な-adjective + である + のみならず**
 
 のみならず is built from のみ (a literary equivalent of だけ, "only") plus ならず (the classical negative of なる — "not being"). It means "not only X (but also Y)" and is the **formal, written equivalent** of だけでなく. It appears in essays, editorials, academic writing, and speeches.
 

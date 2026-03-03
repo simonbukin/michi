@@ -41,8 +41,8 @@ The formation rule is: take the classical 未然形 (irrealis stem), which for m
 
 ### Examples
 
-> 食わざる者、働くべからず。
-> "Those who do not eat shall not work." (A Japanese rendering of the proverb "He who does not work, neither shall he eat," inverted for emphasis.)
+> 働かざる者、食うべからず。
+> "Those who do not work shall not eat." (A well-known Japanese rendering of the Biblical proverb from 2 Thessalonians 3:10.)
 
 > 彼は　あらゆる　手段を　用いざるを得なかった。
 > "He had no choice but to use every means available."
@@ -155,8 +155,8 @@ In modern Japanese, べからず appears almost exclusively on signs, in rules, 
 > 初心　忘るべからず。
 > "One must not forget the beginner's mind." (A famous saying attributed to Zeami, founder of Noh theatre.)
 
-> 食わざる者、働くべからず。
-> "Those who do not eat must not work." (Cf. section 1.2)
+> 働かざる者、食うべからず。
+> "Those who do not work shall not eat." (Cf. section 1.2)
 
 > 関係者以外、立ち入るべからず。
 > "No entry for unauthorized persons."

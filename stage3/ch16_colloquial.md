@@ -52,10 +52,10 @@ The past tense ちゃった is extremely common — arguably more common than th
 
 The voiced version じゃった follows the same pattern:
 
-> 雨に降られて、服が濡れちゃった。いや、ズボンも汚れじゃった。
-> "I got rained on and my clothes got wet. No wait, my pants got dirty too."
+> 宿題を読んでしまった。→ 宿題を読んじゃった。
+> "I ended up reading the homework (already)."
 
-Note: 汚れる takes で-form (汚れで...) so its contraction uses じゃ.
+Note: 読む takes で-form (読んで) so its contraction uses じゃ. Compare with ちゃ, which follows verbs whose て-form uses て (食べてしまった → 食べちゃった).
 
 **ている → てる in all tenses:**
 

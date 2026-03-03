@@ -46,6 +46,15 @@ This index consolidates every grammar point from all six stages of 日本語の�
 **かな** — I wonder — Stage 2, Ch 28
 **っけ** — trying to recall — Stage 2, Ch 28
 
+### Comparison Particles
+
+**より** — "than" (marks the lesser side in comparison) — Stage 1, Ch 15
+**のほうが** — "is more ~" (marks the greater side) — Stage 1, Ch 15
+**ほど** (+ negative) — "not as ~ as" — Stage 1, Ch 15
+**どちら** — "which (of two)" in comparison questions — Stage 1, Ch 15
+**いちばん** — superlative: "most ~" — Stage 1, Ch 15
+**おなじくらい** — "about the same as" — Stage 1, Ch 15
+
 **こそ** — emphasis: "it is precisely X" — Stage 4, Ch 8
 **さえ / すら** — "even" (extreme example emphasis) — Stage 4, Ch 8
 **さえ～ば** — "if only; as long as" — Stage 4, Ch 8

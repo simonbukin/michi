@@ -167,7 +167,7 @@ The reason connects to the new-information model: a question word is by definiti
 > なにが ありますか。→ ほん**が** あります。
 > だれが いますか。→ せんせい**が** います。
 
-### A honest note
+### An honest note
 
 This working model — が for new information, は for known topics — will serve you well in existence sentences and basic descriptions. It will not cover every case you encounter. は can mark contrast. が can mark exhaustive listing. There are sentences where the choice between は and が changes the meaning in ways this model cannot predict. We will return to は/が in Stage 3 with a more comprehensive treatment. For now, use the model above and pay attention to how native speakers use these particles in the material you read and hear.
 
@@ -287,11 +287,11 @@ Near the door, there is also a dog. The dog's name is Shiro. Shiro is not on the
 
 ### Notes on the passage
 
-**大きくないです** — This is the negative form of the adjective 大きい. Adjective conjugation is formally introduced in Chapter 8. For now, recognize the pattern: 大きい → 大きくない (not big). The です at the end adds politeness.
+**大きくないです** — This is the negative form of the adjective 大きい. Adjective conjugation is formally introduced in Chapters 13-14. For now, recognize the pattern: 大きい → 大きくない (not big). The です at the end adds politeness.
 
 **すきです** — "I like (it)." This word will be covered in detail in a later chapter. Here it is used in its simplest form.
 
-**三つ** — "Three (things)." This is the native Japanese counter for general objects. Counters are covered in Chapter 9. For now, notice that the number appears after the noun it counts.
+**三つ** — "Three (things)." This is the native Japanese counter for general objects. Counters are covered in Chapter 7. For now, notice that the number appears after the noun it counts.
 
 **いつも** — "always." An adverb of frequency.
 
@@ -307,7 +307,7 @@ New vocabulary introduced in this chapter. The ピッチ column indicates pitch 
 
 ### Verbs
 
-These are the first verbs in this textbook. Japanese verbs are grouped into classes that determine how they conjugate. The class is noted for reference; conjugation is covered in Chapter 7.
+These are the first verbs in this textbook. Japanese verbs are grouped into classes that determine how they conjugate. The class is noted for reference; conjugation is covered in Chapter 8.
 
 | 語 | 読み | 意味 | ピッチ | 動詞の種類 |
 |-----|------|------|--------|-----------|

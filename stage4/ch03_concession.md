@@ -273,7 +273,7 @@ You learned ～ながら in Stage 2 as a way to express simultaneous actions (�
 | Preceding element | Pattern |
 |---|---|
 | Verb (ます stem) | 知りながら(も) |
-| い-adjective (drop い, add い is kept) | 狭いながら(も) |
+| い-adjective (full form, keeping い) | 狭いながら(も) |
 | な-adjective stem | 不便ながら(も) |
 | Noun | 少数ながら(も) |
 

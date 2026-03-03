@@ -354,7 +354,7 @@ The five patterns in this chapter are not isolated grammar points. They form an 
 
 These patterns can work together in the same narrative. Consider a story about preparing for a party:
 
-> パーティーの　ために、ケーキを　作っておいた。飲み物は　もう　買ってある。部屋も　きれいに　掃除してある。でも、料理を　作りすぎてしまった。友達が　少しずつ　来てきた... いや、来はじめた。夜に　なっていくと、だんだん　にぎやかに　なってきた。
+> パーティーの　ために、ケーキを　作っておいた。飲み物は　もう　買ってある。部屋も　きれいに　掃除してある。でも、料理を　作りすぎてしまった。友達が　少しずつ　集まってきた。夜に　なっていくと、だんだん　にぎやかに　なってきた。
 
 This short passage uses ておいた (prepared in advance), てある (resulting state of preparation), てしまった (overdid it — regret), and なってきた (change arriving at the present). Each aspect marker adds a specific shade of meaning that would be lost without it.
 

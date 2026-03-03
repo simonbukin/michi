@@ -497,7 +497,7 @@ This short dialogue demonstrates nearly every pattern from this chapter working 
 - **できたんです** — Yamada explaining that a new cafe opened (giving background context with んです).
 - **のんでから... さんぽしませんか** — a second invitation embedded in a sequence (てから + ませんか).
 - **つごうが わるいんですけど...** — Rika's trailing けど. She states the problem and trails off rather than saying いけません directly. This is the soft refusal pattern.
-- **いかなければ ならないんです** — Rika giving her reason with んです. She uses なければならない (Chapter 17) wrapped in the explanatory ending.
+- **いかなければ ならないんです** — Rika giving her reason with んです. She uses なければならない (Chapter 19) wrapped in the explanatory ending.
 - **あるので** — Rika explaining with ので (softer "because").
 - **おわるので** — Another ので, giving the reason why 2:00 works.
 - **おいしいらしいですから** — Yamada giving a reason with から.

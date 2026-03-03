@@ -2,7 +2,7 @@
 
 You now have two complete adjective systems. Chapter 13 covered い-adjectives — words like おおきい, たかい, あつい — which carry tense and polarity in their own endings. Chapter 14 covered な-adjectives — words like しずか, きれい, げんき — which behave like nouns and rely on the copula for conjugation. This chapter puts both systems to work.
 
-Describing things in natural Japanese requires more than a single adjective at the end of a sentence. You need to say how much (degree adverbs), stack multiple descriptions together (adjective chaining), contrast two qualities (but), ask what kind (どんな), and describe people and weather with the right structural patterns. This chapter covers all of these.
+Describing things in natural Japanese requires more than a single adjective at the end of a sentence. You need to say how much (degree adverbs), stack multiple descriptions together (adjective chaining), contrast two qualities (but), ask what kind (どんな), compare two or more things (より, ほど, いちばん), and describe people and weather with the right structural patterns. This chapter covers all of these.
 
 ---
 
@@ -238,7 +238,219 @@ Note that the answer uses adjective chaining naturally. どんな questions invi
 
 ---
 
-## 15.5 Describing People
+## 15.5 Comparing Two Things
+
+Up to now, you can describe something as おおきい or ちいさい, but you cannot say that one thing is bigger *than* another. This section introduces comparison — one of the most useful tools for real conversation. Japanese comparison works differently from English. There is no word like "more" or "-er." Instead, the particle より marks the thing being compared against, and the adjective stays in its plain form.
+
+### AはBより — "A Is More ~ Than B"
+
+The most basic comparison pattern places より after the item that comes out lower in the comparison. The adjective does not change at all — より does all the work.
+
+> [A]は [B]より [adjective]です。
+
+> とうきょうは おおさかより おおきいです。
+> "Tokyo is bigger than Osaka."
+
+> なつは はるより あついです。
+> "Summer is hotter than spring."
+
+> にほんごは えいごより むずかしいです。
+> "Japanese is harder than English."
+
+> この ほんは あの ほんより おもしろいです。
+> "This book is more interesting than that book."
+
+The thing marked by より is the *lesser* side. とうきょうは おおさかより おおきい means "Tokyo is bigger, compared against Osaka." Osaka is the reference point; Tokyo exceeds it.
+
+This pattern works identically with な-adjectives:
+
+> この こうえんは あの こうえんより しずかです。
+> "This park is quieter than that park."
+
+> やまださんは たなかさんより げんきです。
+> "Yamada-san is more energetic than Tanaka-san."
+
+### BよりAのほうが — Alternative Word Order
+
+There is a second way to express the same comparison. Instead of making A the topic with は, you can use のほうが to explicitly point to the side that wins the comparison. This pattern is especially natural in answers to questions (covered in Section 15.6).
+
+> [B]より [A]の　ほうが [adjective]です。
+
+> おおさかより とうきょうの　ほうが おおきいです。
+> "Tokyo is bigger than Osaka."
+
+> えいごより にほんごの　ほうが むずかしいです。
+> "Japanese is harder than English."
+
+> あの こうえんより この こうえんの　ほうが しずかです。
+> "This park is quieter than that park."
+
+The meaning is identical to the AはBより pattern. The difference is emphasis: のほうが draws attention to the winner of the comparison. In conversation, this form often sounds more natural when answering a question like "Which one is bigger?"
+
+You can also drop the より phrase when context makes it obvious:
+
+> にほんごの　ほうが むずかしいです。
+> "Japanese is harder (than the other one we are talking about)."
+
+### AはBほど〜ない — "A Is Not As ~ As B"
+
+To say that something does *not* reach the level of something else, use ほど with a **negative** adjective. This is the mirror image of より: where より marks the lesser side in an affirmative sentence, ほど marks the greater side in a negative sentence.
+
+> [A]は [B]ほど [adjective negative]です。
+
+> おおさかは とうきょうほど おおきくないです。
+> "Osaka is not as big as Tokyo."
+
+> えいごは にほんごほど むずかしくないです。
+> "English is not as hard as Japanese."
+
+> ふゆは なつほど あつくないです。
+> "Winter is not as hot as summer."
+
+> この まちは とうきょうほど にぎやかじゃないです。
+> "This town is not as lively as Tokyo."
+
+The grammar requires a negative predicate. You cannot say Aは Bほど おおきいです — the negative is mandatory. Think of ほど as meaning "to the degree of." おおさかは とうきょうほど おおきくない literally means "Osaka is not big to the degree of Tokyo."
+
+This is similar to あまり〜ない from Section 15.1 — both require a negative adjective, and both express "less than."
+
+### いちばん — The Superlative
+
+To say something is the most or the best within a group, use いちばん ("number one") directly before the adjective. The group is marked with で.
+
+> [group]で [A]が いちばん [adjective]です。
+
+> くだものの　なかで りんごが いちばん すきです。
+> "Among fruits, I like apples the best."
+
+> この クラスで やまださんが いちばん せが たかいです。
+> "In this class, Yamada-san is the tallest."
+
+> 日本で ふじさんが いちばん たかいです。
+> "In Japan, Mt. Fuji is the tallest."
+
+> きせつの　なかで はるが いちばん すきです。
+> "Among the seasons, I like spring the best."
+
+Notice that the item being described takes が, not は. This is because いちばん answers the implicit question "which one?" — and new-information answers use が (Chapter 5).
+
+The group can be marked with の なかで ("among") for clarity, or simply で when the group is a place or clear from context.
+
+### おなじくらい — "About the Same"
+
+When two things are roughly equal, use と おなじくらい.
+
+> [A]は [B]と おなじくらい [adjective]です。
+
+> とうきょうは ニューヨークと おなじくらい おおきいです。
+> "Tokyo is about as big as New York."
+
+> この ほんは あの ほんと おなじくらい おもしろいです。
+> "This book is about as interesting as that book."
+
+> きょうは きのうと おなじくらい さむいです。
+> "Today is about as cold as yesterday."
+
+おなじくらい literally means "about the same degree." The と marks the item being compared to, and くらい indicates approximation.
+
+---
+
+## 15.6 Comparison Questions and Answers
+
+Comparison naturally shows up in questions. Japanese has clean patterns for asking "which is more?" and "which is the most?"
+
+### Comparing Two Things: AとBとどちらが
+
+To ask which of two things has more of a quality, use どちら ("which of two"):
+
+> [A]と [B]と どちらが [adjective]ですか。
+
+> にほんごと えいごと どちらが むずかしいですか。
+> "Which is harder, Japanese or English?"
+
+> なつと ふゆと どちらが すきですか。
+> "Which do you like better, summer or winter?"
+
+> とうきょうと おおさかと どちらが おおきいですか。
+> "Which is bigger, Tokyo or Osaka?"
+
+The answer uses のほうが (pointing to the winner), often with より (pointing to the loser):
+
+> — にほんごの　ほうが むずかしいです。
+> "Japanese is harder."
+
+> — にほんごの　ほうが えいごより むずかしいです。
+> "Japanese is harder than English."
+
+> — なつの　ほうが すきです。
+> "I like summer better."
+
+If the two are about equal, answer with おなじくらい:
+
+> — どちらも おなじくらいです。
+> "They are about the same."
+
+どちらも means "both" — combined with おなじくらい, it says neither one wins.
+
+### Choosing the Best: ～でなにがいちばん / ～でどこがいちばん
+
+To ask about the best among three or more, use the appropriate question word with いちばん:
+
+> [group]で なにが いちばん [adjective]ですか。
+
+> くだものの　なかで なにが いちばん すきですか。
+> "Among fruits, what do you like the best?"
+
+> — りんごが いちばん すきです。
+> "I like apples the best."
+
+> きせつの　なかで いつが いちばん すきですか。
+> "Among the seasons, when (which) do you like the best?"
+
+> — あきが いちばん すきです。
+> "I like autumn the best."
+
+> 日本で どこが いちばん きれいですか。
+> "Where in Japan is the most beautiful?"
+
+> — きょうとが いちばん きれいです。
+> "Kyoto is the most beautiful."
+
+The question word changes depending on what you are asking about: なに for things, どこ for places, だれ for people, いつ for times. The answer replaces the question word with the specific item and keeps いちばん.
+
+> この クラスで だれが いちばん せが たかいですか。
+> "Who is the tallest in this class?"
+
+> — やまださんが いちばん せが たかいです。
+> "Yamada-san is the tallest."
+
+### Full Q&A Examples
+
+Here are natural question-and-answer pairs that combine the patterns from this section:
+
+> A: とうきょうと きょうとと どちらが すきですか。
+> B: きょうとの　ほうが すきです。 しずかで きれいです。
+> "A: Which do you like better, Tokyo or Kyoto?"
+> "B: I like Kyoto better. It is quiet and beautiful."
+
+> A: にほんの たべもので なにが いちばん おいしいですか。
+> B: すしが いちばん おいしいです。
+> "A: What is the most delicious among Japanese food?"
+> "B: Sushi is the most delicious."
+
+> A: えいごと にほんごと どちらが むずかしいですか。
+> B: にほんごの　ほうが えいごより むずかしいです。 でも、 にほんごの　ほうが おもしろいです。
+> "A: Which is harder, English or Japanese?"
+> "B: Japanese is harder than English. But Japanese is more interesting."
+
+> A: あなたの まちは とうきょうと おなじくらい おおきいですか。
+> B: いいえ、 わたしの まちは とうきょうほど おおきくないです。 とても ちいさい まちです。
+> "A: Is your town about as big as Tokyo?"
+> "B: No, my town is not as big as Tokyo. It is a very small town."
+
+---
+
+## 15.7 Describing People
 
 Japanese has a specific construction for describing a person's physical characteristics or attributes. It uses a **double-subject structure**:
 
@@ -286,7 +498,7 @@ You can chain adjectives within this structure:
 
 ---
 
-## 15.6 Describing Weather
+## 15.8 Describing Weather
 
 Weather is one of the most common topics in daily conversation. Japanese uses several patterns to describe it.
 
@@ -372,9 +584,9 @@ The four seasons appear frequently with weather descriptions:
 
 ---
 
-## 15.7 Body Parts Vocabulary
+## 15.9 Body Parts Vocabulary
 
-This section introduces the body parts needed for describing people (Section 15.5) and for daily life.
+This section introduces the body parts needed for describing people (Section 15.7) and for daily life.
 
 | Japanese | Meaning | Notes |
 |---|---|---|
@@ -412,7 +624,7 @@ Note that はなが たかい ("nose is tall/high") is the standard Japanese way
 
 ---
 
-## 15.8 Reading Passage — わたしの まち と とうきょう
+## 15.10 Reading Passage — わたしの まち と とうきょう
 
 Read the following passage. It uses adjective chaining, degree adverbs, contrastive が, the double-subject construction, and weather descriptions. All vocabulary and grammar come from this chapter and prior chapters.
 
@@ -530,6 +742,18 @@ New words introduced in this chapter. Pitch accent is marked with the notation: 
 | Word | Meaning | Pitch |
 |---|---|---|
 | ふる | to fall (rain, snow) — 五段 | [1] |
+
+### Comparison Words
+
+| Word | Meaning | Pitch |
+|---|---|---|
+| より | than (comparison particle) | [1] |
+| ほど | to the degree of (with negative) | [1] |
+| ほう | side, alternative (in comparisons) | [1] |
+| どちら | which (of two) | [1] |
+| いちばん | number one, most, -est | [3] |
+| おなじ | same | [0] |
+| くらい | approximately, about | [0] |
 
 ### Other
 

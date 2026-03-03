@@ -313,7 +313,7 @@ The following passages use only hiragana, katakana, and the 25 kanji introduced 
 
 "Nice to meet you. I am Tanaka Yuki. I am Japanese. I am a university student. My university is in Tokyo. I am studying Japanese and English. Please treat me well."
 
-Note: を and the て-form in べんきょうしています have not been formally introduced yet. For now, recognize べんきょうしています as a single unit meaning "am studying." These structures are covered in Chapters 6 and 7.
+Note: を and the て-form in べんきょうしています have not been formally introduced yet. For now, recognize べんきょうしています as a single unit meaning "am studying." These structures are covered in Chapters 9 (particles) and 10-11 (て-form).
 
 ---
 
@@ -323,7 +323,7 @@ Note: を and the て-form in べんきょうしています have not been forma
 
 "Nice to meet you. I am Mike Johnson. I am American. Right now I am a first-year university student. I like Japanese culture and history. Nice to meet you."
 
-Note: が in すきです marks the object of liking — this use of が is explained in Chapter 9 (adjectives). For now, recognize Xが すきです as the fixed pattern meaning "I like X."
+Note: が in すきです marks the object of liking — this use of が is explained in Chapter 14 (な-adjectives). For now, recognize Xが すきです as the fixed pattern meaning "I like X."
 
 ---
 

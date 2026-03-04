@@ -22,7 +22,7 @@ You almost certainly know the story from the Studio Ghibli film, and that famili
 At the harder end of this stage's range. The writing is clean and literary — Tsutsui Yasutaka is a respected author, not a light novel factory. The story is short (under 200 pages) and culturally iconic. If GJ部 felt too simple and you want something with more substance, this is your book. If it feels too hard, set it aside and come back in a month. It'll still be there.
 
 > **Main Textbook Reference**
-> The reading comprehension passages in 日本語の道 Stage 3 gradually increase in length and complexity. If jumping straight to a light novel feels overwhelming, use the longer textbook passages as intermediate practice — they're designed to build exactly the stamina you need for extended prose reading.
+> The reading comprehension passages in 道 Stage 3 gradually increase in length and complexity. If jumping straight to a light novel feels overwhelming, use the longer textbook passages as intermediate practice — they're designed to build exactly the stamina you need for extended prose reading.
 
 ## Setting Up Your Reading Toolkit
 

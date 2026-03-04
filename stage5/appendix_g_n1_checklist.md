@@ -1,6 +1,6 @@
 # Appendix G — N1 Grammar Checklist
 
-This appendix serves as a test-preparation checklist cross-referencing all N1-level grammar points covered in Stage 5 of 日本語の道 with their chapter locations. Items marked with "—" in the Chapter column are supplementary patterns not explicitly taught in a specific chapter but frequently tested on the N1 exam. Use the "Confident?" column to track your review progress: check off items you can recognize, understand, and produce correctly. Any unchecked boxes indicate areas to revisit before the exam.
+This appendix serves as a test-preparation checklist cross-referencing all N1-level grammar points covered in Stage 5 of 道 with their chapter locations. Items marked with "—" in the Chapter column are supplementary patterns not explicitly taught in a specific chapter but frequently tested on the N1 exam. Use the "Confident?" column to track your review progress: check off items you can recognize, understand, and produce correctly. Any unchecked boxes indicate areas to revisit before the exam.
 
 ---
 

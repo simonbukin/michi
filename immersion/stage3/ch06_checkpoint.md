@@ -28,7 +28,7 @@ This one matters as much as any comprehension benchmark. Ask yourself honestly:
 If immersion has started feeling like an obligation, that's a signal to change your content, not to push harder. Revisit Chapter 5's principle of interest-driven immersion. Find something that makes you forget you're learning a language.
 
 > **Main Textbook Reference**
-> If you've been working through 日本語の道 Stage 3 alongside this immersion guide, you should be finishing or near-finishing the N3 grammar and vocabulary coverage. The textbook provides structure; your immersion provides the hours of exposure that turn knowledge into intuition.
+> If you've been working through 道 Stage 3 alongside this immersion guide, you should be finishing or near-finishing the N3 grammar and vocabulary coverage. The textbook provides structure; your immersion provides the hours of exposure that turn knowledge into intuition.
 
 **SRS check**: Your Anki reviews should still be capped at 15-20 minutes per day. If your review pile has grown unmanageable, reduce new cards or suspend low-value cards. Anki exists to support your immersion, not compete with it for time.
 

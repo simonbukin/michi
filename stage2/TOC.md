@@ -1,4 +1,4 @@
-# 日本語の道 — Stage 2 (N4): Table of Contents
+# 道 — Stage 2 (N4): Table of Contents
 
 ## Scope and Targets
 

@@ -1,6 +1,6 @@
 # Appendix D — Onomatopoeia Reference
 
-This appendix lists onomatopoeia introduced in Stage 4 of 日本語の道, organized by domain. Use it as a quick-reference when reading, writing, or studying.
+This appendix lists onomatopoeia introduced in Stage 4 of 道, organized by domain. Use it as a quick-reference when reading, writing, or studying.
 
 Japanese onomatopoeia (オノマトペ) fall into three categories:
 

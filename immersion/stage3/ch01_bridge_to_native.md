@@ -25,7 +25,7 @@ If you're tracking your immersion hours (apps like MediaTracker or a simple spre
 **Use tools aggressively.** This is the stage where Yomitan earns its place. Pop-up dictionary lookups while reading manga, hover definitions on subtitle text, quick checks on unfamiliar kanji — lean on these tools without guilt. They aren't a crutch; they're a bridge. You'll naturally use them less as your vocabulary grows.
 
 > **Main Textbook Reference**
-> The grammar covered in 日本語の道 Stage 3 (Chapters 17-24) maps directly to the structures you'll encounter in native content at this level. When you hit a grammar point in the wild that looks unfamiliar, check the textbook — there's a good chance it's covered there with clearer explanation than a dictionary can provide.
+> The grammar covered in 道 Stage 3 (Chapters 17-24) maps directly to the structures you'll encounter in native content at this level. When you hit a grammar point in the wild that looks unfamiliar, check the textbook — there's a good chance it's covered there with clearer explanation than a dictionary can provide.
 
 **Accept lower comprehension — temporarily.** If you've been understanding 95-98% of your graded materials, dropping to 80-85% comprehension in native content feels like failure. It isn't. That 85% is *real* comprehension of *real* Japanese. It's more valuable than near-perfect comprehension of simplified Japanese. Your brain is working harder, encountering more novel patterns, and building more robust mental models. Use your tools (Yomitan, asbplayer) to bridge the gap — with tool support, 85% comprehension is a productive zone.
 

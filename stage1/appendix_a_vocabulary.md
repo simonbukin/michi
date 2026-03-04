@@ -1,6 +1,6 @@
 # Appendix A — Complete Vocabulary Index
 
-This appendix consolidates every vocabulary item introduced in Chapters 1 through 26 of 日本語の道 Stage 1. Entries are organized alphabetically by あいうえお order of the kana reading.
+This appendix consolidates every vocabulary item introduced in Chapters 1 through 26 of 道 Stage 1. Entries are organized alphabetically by あいうえお order of the kana reading.
 
 ---
 
@@ -867,4 +867,4 @@ The following items do not have standard pitch accent markings because they are 
 
 ---
 
-*This index contains approximately 800 entries and covers all vocabulary introduced in 日本語の道 Stage 1, Chapters 1 through 26.*
+*This index contains approximately 800 entries and covers all vocabulary introduced in 道 Stage 1, Chapters 1 through 26.*

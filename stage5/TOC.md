@@ -1,4 +1,4 @@
-# 日本語の道 — Stage 5 (N2→N1 Bridge): Table of Contents
+# 道 — Stage 5 (N2→N1 Bridge): Table of Contents
 
 ## Scope and Targets
 

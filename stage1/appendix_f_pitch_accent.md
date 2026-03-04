@@ -1,6 +1,6 @@
 # Appendix F — Pitch Accent Quick Reference
 
-Japanese is a pitch-accent language, not a stress-accent language like English. Where English uses loudness and vowel reduction to mark emphasis, Japanese uses relative pitch — the melody of high and low morae within a word. This appendix explains the notation system used throughout 日本語の道 and gives you the core patterns you need for Stage 1.
+Japanese is a pitch-accent language, not a stress-accent language like English. Where English uses loudness and vowel reduction to mark emphasis, Japanese uses relative pitch — the melody of high and low morae within a word. This appendix explains the notation system used throughout 道 and gives you the core patterns you need for Stage 1.
 
 ---
 

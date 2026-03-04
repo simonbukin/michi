@@ -20,7 +20,7 @@ This is where interest-driven immersion becomes your most powerful strategy. Wha
 Search YouTube in Japanese for your hobbies. Use Japanese keywords: ゲーム実況 (game commentary), 料理 (cooking), 旅行 (travel), 筋トレ (muscle training/fitness), プログラミング (programming). Subscribe to channels that hold your attention. Let the algorithm start recommending Japanese content.
 
 > **Main Textbook Reference**
-> The listening sections in 日本語の道 Stage 3 introduce natural speech features like filler words (えーと, あの, まあ), contractions, and casual register. These are exactly the features you'll hear constantly in podcasts and YouTube but rarely in anime. The textbook grounds these patterns; immersion makes them automatic.
+> The listening sections in 道 Stage 3 introduce natural speech features like filler words (えーと, あの, まあ), contractions, and casual register. These are exactly the features you'll hear constantly in podcasts and YouTube but rarely in anime. The textbook grounds these patterns; immersion makes them automatic.
 
 ## The Principle of Interest-Driven Immersion
 

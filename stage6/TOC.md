@@ -1,4 +1,4 @@
-# 日本語の道 — Stage 6 (N1 Mastery): Table of Contents
+# 道 — Stage 6 (N1 Mastery): Table of Contents
 
 ## Scope and Targets
 

@@ -1,6 +1,6 @@
 # Appendix C — Grammar Index
 
-This appendix lists every grammar point taught in Stage 1 of 日本語の道, organized by category. Each entry includes the pattern name, formation rule, one example sentence, and the chapter where it is introduced. Use this as a quick-reference when reading, reviewing, or preparing for tests.
+This appendix lists every grammar point taught in Stage 1 of 道, organized by category. Each entry includes the pattern name, formation rule, one example sentence, and the chapter where it is introduced. Use this as a quick-reference when reading, reviewing, or preparing for tests.
 
 ---
 

@@ -1,6 +1,6 @@
 # Appendix A — Stage 2 Complete Vocabulary Index
 
-This appendix consolidates every vocabulary item introduced in Chapters 1 through 29 of 日本語の道 Stage 2. Entries are organized alphabetically by あいうえお order of the kana reading.
+This appendix consolidates every vocabulary item introduced in Chapters 1 through 29 of 道 Stage 2. Entries are organized alphabetically by あいうえお order of the kana reading.
 
 ---
 

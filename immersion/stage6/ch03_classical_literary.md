@@ -3,7 +3,7 @@
 Japanese has one of the richest literary traditions in the world, stretching back over a thousand years. At your level, you have access to all of it — sometimes directly, sometimes through modern translations, but always meaningfully. This chapter is about what to read and how to approach it.
 
 > **Main Textbook Reference**
-> The classical verb system and grammar are covered in *日本語の道* Stage 5, Chapter 10 — Classical Japanese Overview. This chapter focuses on what to read and how to approach classical texts.
+> The classical verb system and grammar are covered in *道* Stage 5, Chapter 10 — Classical Japanese Overview. This chapter focuses on what to read and how to approach classical texts.
 
 ## Classical Literature Through Modern Editions
 

@@ -301,7 +301,7 @@ def main():
 
     lines = [
         "# Cumulative Vocabulary Index", "",
-        "This index consolidates every vocabulary item across all six stages of 日本語の道. Definitions are sourced from the **Jitendex** dictionary (based on JMdict) and edited for conciseness.", "",
+        "This index consolidates every vocabulary item across all six stages of 道. Definitions are sourced from the **Jitendex** dictionary (based on JMdict) and edited for conciseness.", "",
         "---", "",
         "## How to Read This Index", "",
         "| Column | Description |",
@@ -337,7 +337,7 @@ def main():
         lines.append(f"| {word} | {reading} | {pitch} | {pos} | {english} | {jlpt} | {stage_ch} |")
 
     lines.extend(["", "---", "",
-        f"*Total entries: {len(unique_entries)}. Definitions sourced from Jitendex (JMdict). Pitch accent from 日本語の道 textbook.*", ""])
+        f"*Total entries: {len(unique_entries)}. Definitions sourced from Jitendex (JMdict). Pitch accent from 道 textbook.*", ""])
 
     output_path = os.path.join(PROJECT_DIR, 'vocabulary_index.md')
     with open(output_path, 'w', encoding='utf-8') as f:

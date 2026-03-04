@@ -33,6 +33,6 @@ Pick a topic you already know something about. If you're interested in Japanese 
 Don't overlook Japanese Wikipedia. Find an article about something you know well in English — a historical event, a scientific concept, a hobby — and read the Japanese version. Because you already understand the subject, you can focus on how Japanese expresses those ideas rather than struggling with both language and content simultaneously. This is one of the most effective and underused nonfiction reading strategies available to you.
 
 > **Main Textbook Reference**
-> 日本語の道 Stage 4 covers formal written Japanese and the news register in depth. When you encounter grammar patterns in news articles that feel unfamiliar — things like ～とされている, ～に伴い, or ～をめぐって — check the textbook chapters. These patterns are rare in fiction but ubiquitous in nonfiction, and understanding them will unlock an enormous amount of content.
+> 道 Stage 4 covers formal written Japanese and the news register in depth. When you encounter grammar patterns in news articles that feel unfamiliar — things like ～とされている, ～に伴い, or ～をめぐって — check the textbook chapters. These patterns are rare in fiction but ubiquitous in nonfiction, and understanding them will unlock an enormous amount of content.
 
 Start with one news article a day. That's it. Within a month, you'll notice that the structures and vocabulary start repeating, and what felt dense and impenetrable starts feeling like just... reading.

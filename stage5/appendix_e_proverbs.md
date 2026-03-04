@@ -1,6 +1,6 @@
 # Appendix E — Proverbs (ことわざ) Reference
 
-This appendix collects Japanese proverbs (ことわざ) introduced and referenced in Stage 5 of 日本語の道, organized by theme. Use it as a quick-reference when reading, writing, or preparing arguments.
+This appendix collects Japanese proverbs (ことわざ) introduced and referenced in Stage 5 of 道, organized by theme. Use it as a quick-reference when reading, writing, or preparing arguments.
 
 Japanese proverbs function as compressed arguments. Where English might require a full sentence of reasoning, a well-placed ことわざ can close a point, concede an objection, or reframe an entire discussion. In formal writing and speech, proverbs carry the weight of shared cultural authority — citing one is not decoration but a rhetorical move that signals the speaker's position within a long tradition of collective wisdom. Many derive from classical Chinese (漢文), Buddhist teaching, or centuries of folk observation, and their force depends on listeners recognizing the source. Mastering even a handful gives a learner access to a layer of argumentation that is difficult to replicate with grammar alone.
 

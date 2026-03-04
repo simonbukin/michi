@@ -40,4 +40,4 @@ The path doesn't end. Japanese is a living language. New novels are published ev
 
 The skills you've built aren't just for passing tests or impressing people. They give you access to an entire culture — its literature, its humor, its philosophy, its way of seeing the world. You can read what Japanese people write for each other, laugh at what they find funny, and understand what they argue about and why. That access is the reward.
 
-日本語の道 — the path of Japanese — is not a path with a destination. It's a path you walk because the walking is worth it. Keep walking.
+道 — michi — is not a path with a destination. It's a path you walk because the walking is worth it. Keep walking.

@@ -24,7 +24,7 @@ Here's how to set it up:
 This workflow transforms manga from "I need to manually type every unknown kanji into a dictionary" to "I just hover and keep reading." The friction reduction is enormous, and lower friction means more reading, which means more acquisition.
 
 > **Main Textbook Reference**
-> Many of the casual speech patterns you'll encounter in manga — contracted forms, sentence-final particles used in conversation, casual imperatives — are covered in the conversational grammar sections of 日本語の道 Stage 3. When manga dialogue looks like gibberish, check those sections first.
+> Many of the casual speech patterns you'll encounter in manga — contracted forms, sentence-final particles used in conversation, casual imperatives — are covered in the conversational grammar sections of 道 Stage 3. When manga dialogue looks like gibberish, check those sections first.
 
 ## Recommended Manga
 

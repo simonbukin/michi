@@ -1,7 +1,7 @@
 > **Note:** This entire book was generated and edited entirely using Claude Opus 4.6,
 > via Claude Code and the Anthropic web client. It is not human-written and may contain errors.
 
-# 日本語の道 — The Path of Japanese
+# 道 — michi
 
 ## How to Use This Book
 

@@ -1,6 +1,6 @@
 # Appendix H — Onomatopoeia Cumulative Reference (Stages 4-5)
 
-This appendix consolidates all onomatopoeia introduced across Stage 4 (Appendix D) and Stage 5 (Chapter 9) of 日本語の道 into a single reference. It contains over 150 items organized by semantic domain, making it easy to find the right expression when reading, writing, or reviewing for the N1 exam.
+This appendix consolidates all onomatopoeia introduced across Stage 4 (Appendix D) and Stage 5 (Chapter 9) of 道 into a single reference. It contains over 150 items organized by semantic domain, making it easy to find the right expression when reading, writing, or reviewing for the N1 exam.
 
 Japanese onomatopoeia (オノマトペ) fall into three categories:
 

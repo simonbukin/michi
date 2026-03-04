@@ -1,4 +1,4 @@
-# 日本語の道 — Project Specification
+# 道 — Project Specification
 
 ## For use by Claude Code or any agent generating this textbook.
 

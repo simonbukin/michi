@@ -1,6 +1,6 @@
 # Cumulative Vocabulary Index
 
-This index consolidates every vocabulary item across all six stages of 日本語の道. Definitions are sourced from the **Jitendex** dictionary (based on JMdict) and edited for conciseness.
+This index consolidates every vocabulary item across all six stages of 道. Definitions are sourced from the **Jitendex** dictionary (based on JMdict) and edited for conciseness.
 
 ---
 
@@ -2714,4 +2714,4 @@ This index consolidates every vocabulary item across all six stages of 日本語
 
 ---
 
-*Total entries: 2645. Definitions sourced from Jitendex (JMdict). Pitch accent from 日本語の道 textbook.*
+*Total entries: 2645. Definitions sourced from Jitendex (JMdict). Pitch accent from 道 textbook.*

@@ -1,6 +1,6 @@
 # Appendix G — N2 Grammar Checklist
 
-This appendix serves as a test-preparation checklist cross-referencing all N2-level grammar points covered in Stage 4 of 日本語の道 with their chapter locations. Use the "Confident?" column to track your review progress: check off items you can recognize, understand, and produce correctly. Any unchecked boxes indicate areas to revisit before the exam.
+This appendix serves as a test-preparation checklist cross-referencing all N2-level grammar points covered in Stage 4 of 道 with their chapter locations. Use the "Confident?" column to track your review progress: check off items you can recognize, understand, and produce correctly. Any unchecked boxes indicate areas to revisit before the exam.
 
 ---
 

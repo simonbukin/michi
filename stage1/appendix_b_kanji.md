@@ -1,6 +1,6 @@
 # Appendix B — Kanji Index
 
-This appendix is a complete index of the approximately 100 kanji encountered in Stage 1 of 日本語の道. It is divided into two sections.
+This appendix is a complete index of the approximately 100 kanji encountered in Stage 1 of 道. It is divided into two sections.
 
 **Section 1** lists the 25 kanji taught explicitly in Chapter 4, where each character was introduced with full radical analysis, stroke descriptions, and reading explanations. If you studied Chapter 4 carefully, these kanji should already be familiar.
 

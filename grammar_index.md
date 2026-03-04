@@ -1,6 +1,6 @@
 # Grammar Index
 
-This index consolidates every grammar point from all six stages of 日本語の道, organized by functional category. Use **Ctrl+F** (or Cmd+F on Mac) to search for any grammar point, then click the chapter reference to jump to that lesson.
+This index consolidates every grammar point from all six stages of 道, organized by functional category. Use **Ctrl+F** (or Cmd+F on Mac) to search for any grammar point, then click the chapter reference to jump to that lesson.
 
 **Format:** Grammar point — description — Stage, Chapter
 

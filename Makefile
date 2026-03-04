@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-# 日本語の道 — Build System
+# 道 — Build System
 # Requires: pandoc, tectonic (for PDF)
 
 BUILDDIR := build
@@ -114,7 +114,7 @@ stage1-html: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
 		--embed-resources \
-		--metadata title="日本語の道 — Stage 1 (N5)" \
+		--metadata title="道 — Stage 1 (N5)" \
 		-o $(BUILDDIR)/stage1.html \
 		$(S1_SOURCES)
 	@echo "Built $(BUILDDIR)/stage1.html"
@@ -122,8 +122,8 @@ stage1-html: $(BUILDDIR)
 stage1-epub: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 1 (N5)" \
-		--metadata author="日本語の道 Project" \
+		--metadata title="道 — Stage 1 (N5)" \
+		--metadata author="道 Project" \
 		--metadata lang=ja \
 		-o $(BUILDDIR)/stage1.epub \
 		$(S1_SOURCES)
@@ -136,7 +136,7 @@ ifeq ($(PDF_ENGINE),)
 else
 	pandoc $(PANDOC_FLAGS) \
 		$(PDF_PANDOC_FLAGS) \
-		--metadata title="日本語の道 — Stage 1 (N5)" \
+		--metadata title="道 — Stage 1 (N5)" \
 		-o $(BUILDDIR)/stage1.pdf \
 		$(S1_SOURCES)
 	@echo "Built $(BUILDDIR)/stage1.pdf"
@@ -151,7 +151,7 @@ stage2-html: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
 		--embed-resources \
-		--metadata title="日本語の道 — Stage 2 (N4)" \
+		--metadata title="道 — Stage 2 (N4)" \
 		-o $(BUILDDIR)/stage2.html \
 		$(S2_SOURCES)
 	@echo "Built $(BUILDDIR)/stage2.html"
@@ -159,8 +159,8 @@ stage2-html: $(BUILDDIR)
 stage2-epub: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 2 (N4)" \
-		--metadata author="日本語の道 Project" \
+		--metadata title="道 — Stage 2 (N4)" \
+		--metadata author="道 Project" \
 		--metadata lang=ja \
 		-o $(BUILDDIR)/stage2.epub \
 		$(S2_SOURCES)
@@ -173,7 +173,7 @@ ifeq ($(PDF_ENGINE),)
 else
 	pandoc $(PANDOC_FLAGS) \
 		$(PDF_PANDOC_FLAGS) \
-		--metadata title="日本語の道 — Stage 2 (N4)" \
+		--metadata title="道 — Stage 2 (N4)" \
 		-o $(BUILDDIR)/stage2.pdf \
 		$(S2_SOURCES)
 	@echo "Built $(BUILDDIR)/stage2.pdf"
@@ -188,7 +188,7 @@ stage3-html: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
 		--embed-resources \
-		--metadata title="日本語の道 — Stage 3 (N3)" \
+		--metadata title="道 — Stage 3 (N3)" \
 		-o $(BUILDDIR)/stage3.html \
 		$(S3_SOURCES)
 	@echo "Built $(BUILDDIR)/stage3.html"
@@ -196,8 +196,8 @@ stage3-html: $(BUILDDIR)
 stage3-epub: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 3 (N3)" \
-		--metadata author="日本語の道 Project" \
+		--metadata title="道 — Stage 3 (N3)" \
+		--metadata author="道 Project" \
 		--metadata lang=ja \
 		-o $(BUILDDIR)/stage3.epub \
 		$(S3_SOURCES)
@@ -210,7 +210,7 @@ ifeq ($(PDF_ENGINE),)
 else
 	pandoc $(PANDOC_FLAGS) \
 		$(PDF_PANDOC_FLAGS) \
-		--metadata title="日本語の道 — Stage 3 (N3)" \
+		--metadata title="道 — Stage 3 (N3)" \
 		-o $(BUILDDIR)/stage3.pdf \
 		$(S3_SOURCES)
 	@echo "Built $(BUILDDIR)/stage3.pdf"
@@ -225,7 +225,7 @@ stage4-html: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
 		--embed-resources \
-		--metadata title="日本語の道 — Stage 4 (N2)" \
+		--metadata title="道 — Stage 4 (N2)" \
 		-o $(BUILDDIR)/stage4.html \
 		$(S4_SOURCES)
 	@echo "Built $(BUILDDIR)/stage4.html"
@@ -233,8 +233,8 @@ stage4-html: $(BUILDDIR)
 stage4-epub: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 4 (N2)" \
-		--metadata author="日本語の道 Project" \
+		--metadata title="道 — Stage 4 (N2)" \
+		--metadata author="道 Project" \
 		--metadata lang=ja \
 		-o $(BUILDDIR)/stage4.epub \
 		$(S4_SOURCES)
@@ -247,7 +247,7 @@ ifeq ($(PDF_ENGINE),)
 else
 	pandoc $(PANDOC_FLAGS) \
 		$(PDF_PANDOC_FLAGS) \
-		--metadata title="日本語の道 — Stage 4 (N2)" \
+		--metadata title="道 — Stage 4 (N2)" \
 		-o $(BUILDDIR)/stage4.pdf \
 		$(S4_SOURCES)
 	@echo "Built $(BUILDDIR)/stage4.pdf"
@@ -262,7 +262,7 @@ stage5-html: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
 		--embed-resources \
-		--metadata title="日本語の道 — Stage 5 (N1)" \
+		--metadata title="道 — Stage 5 (N1)" \
 		-o $(BUILDDIR)/stage5.html \
 		$(S5_SOURCES)
 	@echo "Built $(BUILDDIR)/stage5.html"
@@ -270,8 +270,8 @@ stage5-html: $(BUILDDIR)
 stage5-epub: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 5 (N1)" \
-		--metadata author="日本語の道 Project" \
+		--metadata title="道 — Stage 5 (N1)" \
+		--metadata author="道 Project" \
 		--metadata lang=ja \
 		-o $(BUILDDIR)/stage5.epub \
 		$(S5_SOURCES)
@@ -284,7 +284,7 @@ ifeq ($(PDF_ENGINE),)
 else
 	pandoc $(PANDOC_FLAGS) \
 		$(PDF_PANDOC_FLAGS) \
-		--metadata title="日本語の道 — Stage 5 (N1)" \
+		--metadata title="道 — Stage 5 (N1)" \
 		-o $(BUILDDIR)/stage5.pdf \
 		$(S5_SOURCES)
 	@echo "Built $(BUILDDIR)/stage5.pdf"
@@ -300,7 +300,7 @@ stage6-html: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
 		--embed-resources \
-		--metadata title="日本語の道 — Stage 6 (N1 Mastery)" \
+		--metadata title="道 — Stage 6 (N1 Mastery)" \
 		-o $(BUILDDIR)/stage6.html \
 		$(S6_SOURCES)
 	@echo "Built $(BUILDDIR)/stage6.html"
@@ -308,8 +308,8 @@ stage6-html: $(BUILDDIR)
 stage6-epub: $(BUILDDIR)
 	pandoc $(PANDOC_FLAGS) \
 		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 6 (N1 Mastery)" \
-		--metadata author="日本語の道 Project" \
+		--metadata title="道 — Stage 6 (N1 Mastery)" \
+		--metadata author="道 Project" \
 		--metadata lang=ja \
 		-o $(BUILDDIR)/stage6.epub \
 		$(S6_SOURCES)
@@ -322,7 +322,7 @@ ifeq ($(PDF_ENGINE),)
 else
 	pandoc $(PANDOC_FLAGS) \
 		$(PDF_PANDOC_FLAGS) \
-		--metadata title="日本語の道 — Stage 6 (N1 Mastery)" \
+		--metadata title="道 — Stage 6 (N1 Mastery)" \
 		-o $(BUILDDIR)/stage6.pdf \
 		$(S6_SOURCES)
 	@echo "Built $(BUILDDIR)/stage6.pdf"

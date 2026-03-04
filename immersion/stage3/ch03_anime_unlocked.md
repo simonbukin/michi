@@ -15,7 +15,7 @@ The single most effective strategy for raw listening is **re-watching anime you'
 Pick an anime you watched with English subs and enjoyed. Watch it again with Japanese subs. Then watch it a third time raw. Each pass builds on the last. By the third viewing, you'll be surprised how much you catch — not because you've memorized the dialogue, but because context and familiarity free up cognitive resources for actual listening.
 
 > **Main Textbook Reference**
-> The listening comprehension sections in 日本語の道 Stage 3 focus on natural speech patterns — contractions, filler words, intonation-based meaning. These are exactly the features that make raw anime listening difficult. Review those sections when you notice recurring patterns you can't parse.
+> The listening comprehension sections in 道 Stage 3 focus on natural speech patterns — contractions, filler words, intonation-based meaning. These are exactly the features that make raw anime listening difficult. Review those sections when you notice recurring patterns you can't parse.
 
 ## Recommended Anime
 

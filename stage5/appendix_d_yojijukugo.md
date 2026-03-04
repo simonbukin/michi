@@ -1,6 +1,6 @@
 # Appendix D — 四字熟語 Reference
 
-This appendix lists four-character compound idioms (四字熟語・よじじゅくご) introduced in Stage 5 of 日本語の道, organized by thematic domain. Use it as a quick-reference when reading, writing, or preparing for advanced examinations.
+This appendix lists four-character compound idioms (四字熟語・よじじゅくご) introduced in Stage 5 of 道, organized by thematic domain. Use it as a quick-reference when reading, writing, or preparing for advanced examinations.
 
 四字熟語 are fixed expressions composed of four kanji characters, most originating from classical Chinese (漢文). They function as compact, highly expressive units of meaning and appear frequently in formal writing, speeches, news articles, literature, and proverbs. Mastery of 四字熟語 is a hallmark of advanced Japanese literacy: they allow a speaker to convey complex ideas — perseverance in the face of hardship, the irony of unintended consequences, the nuances of human character — in just four syllables of meaning. Many 四字熟語 carry moral, philosophical, or historical weight, and choosing the right one in context demonstrates both cultural fluency and rhetorical skill.
 

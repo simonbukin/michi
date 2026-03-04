@@ -1,11 +1,11 @@
 > **Note:** This entire book was generated and edited entirely using Claude Opus 4.6,
 > via Claude Code and the Anthropic web client. It is not human-written and may contain errors.
 
-# 日本語の道 — Immersion Guide
+# 道 — Immersion Guide
 
 ## What This Guide Is
 
-This is the companion volume to *日本語の道 — The Path of Japanese*. The main textbook teaches you how Japanese works — its grammar, its sentence structures, its writing system. This guide tells you **what to consume, when to start, and how to build the habits** that turn textbook knowledge into real comprehension.
+This is the companion volume to *道 — michi*. The main textbook teaches you how Japanese works — its grammar, its sentence structures, its writing system. This guide tells you **what to consume, when to start, and how to build the habits** that turn textbook knowledge into real comprehension.
 
 You will not find grammar explanations here. You will find specific anime, manga, novels, podcasts, and tools — organized by difficulty and aligned to the six stages of the main textbook. Each recommendation comes with a difficulty rating, a reason it works at that level, and practical advice for getting the most out of it.
 

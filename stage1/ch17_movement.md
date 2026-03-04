@@ -469,6 +469,45 @@ The passage uses several forms from earlier chapters:
 
 ---
 
+### Reading Passage 2 — とうきょうえきから あさくさへ
+
+Read the following passage. A visitor describes getting from Tokyo Station to Asakusa. All grammar comes from this chapter and earlier chapters.
+
+---
+
+きのう、とうきょうえきから あさくさに いきました。あさくさの せんそうじに いきたかったからです。
+
+まず、えきの なかで ちかてつの きっぷを かいました。にひゃくえんでした。まるのうちせんの ホームに おりて、でんしゃに のりました。
+
+ぎんざえきで でんしゃを おりました。そこから ぎんざせんに のりかえました。ぎんざせんで あさくさえきまで いきました。ぜんぶで さんじゅっぷんぐらいでした。
+
+あさくさえきを でると、おおきい とおりが ありました。まっすぐ いって、ひとつめの かどを みぎに まがりました。すこし あるくと、おおきい あかい もんが みえました。かみなりもんです。ひとが たくさん いました。
+
+せんそうじは とても ふるい おてらです。なかまでの みちに みせが たくさん あります。おみやげや おかしを うっていました。とても たのしかったです。
+
+---
+
+### Translation
+
+Yesterday, I went from Tokyo Station to Asakusa. I wanted to go to Sensoji temple in Asakusa.
+
+First, I bought a subway ticket inside the station. It was 200 yen. I went down to the Marunouchi Line platform and boarded the train.
+
+I got off the train at Ginza Station. From there, I transferred to the Ginza Line. I rode the Ginza Line to Asakusa Station. It was about thirty minutes in total.
+
+When I came out of Asakusa Station, there was a large avenue. I went straight and turned right at the first corner. After walking a little, I could see a large red gate. It was Kaminarimon. There were many people.
+
+Sensoji is a very old temple. On the road to the inside, there are many shops. They were selling souvenirs and sweets. It was very fun.
+
+### Notes
+
+- のりかえました — past of のりかえる (to transfer), a 一段 verb. This is a compound of のる (to ride) and かえる (to change).
+- みえました — past of みえる (to be visible). Unlike みる (to look at), みえる means something comes into view on its own.
+- かみなりもん — Kaminarimon, the famous "Thunder Gate" at the entrance to Sensoji.
+- うっていました — past progressive of うる (to sell). The shops "were selling" things.
+
+---
+
 ## 17.10 Chapter Summary
 
 This chapter covered five things:

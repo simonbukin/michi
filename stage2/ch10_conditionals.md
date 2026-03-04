@@ -407,6 +407,33 @@ All four are grammatical, but each creates a slightly different nuance.
 
 The ○ marks indicate where each form is natural and commonly used. △ indicates possible but not the most natural choice. ✗ indicates ungrammatical or unnatural.
 
+The following matrix provides a more detailed feature-by-feature comparison of all four conditional forms:
+
+```
+Conditional Comparison Matrix
+─────────────────────────────
+
+             │  と    │  ば    │  たら   │  なら
+─────────────┼────────┼────────┼────────┼────────
+ Hypothetical│   ✗    │   ✓    │   ✓    │   ✓
+ Factual     │   ✓    │   △    │   ✓    │   ✗
+ Past event  │   ✓    │   ✗    │   ✓    │   ✗
+ One-time    │   △    │   △    │   ✓    │   ✓
+ Volition in │        │        │        │
+  result     │   ✗    │   △    │   ✓    │   ✓
+ Advice/     │        │        │        │
+  suggestion │   ✗    │   ✓    │   ✓    │   ✓
+─────────────┴────────┴────────┴────────┴────────
+
+✓ = natural   △ = possible with restrictions   ✗ = unnatural
+
+Quick guide:
+  と → automatic/inevitable results (laws of nature, habits)
+  ば → general conditions, advice, hypothetical
+  たら → most versatile; specific/one-time events; "when/if"
+  なら → "if it's the case that..."; topical condition
+```
+
 ---
 
 ## 10.6 もし — Optional Intensifier
@@ -533,6 +560,54 @@ If your Japanese is good, you will surely find a job. If you studied Japanese fo
 If you are going to work at a Japanese company, I recommend studying not only Japanese but also how Japanese business is done. When you enter a Japanese company, you use a lot of keigo. If you don't understand keigo, work might become difficult.
 
 Also, apparently the number of companies hiring foreigners has been increasing recently. If you don't give up, you should surely find a good job. Good luck.
+
+---
+
+### Reading Passage 2 — 日本旅行の　アドバイス
+
+Read the following passage, which gives travel advice about Japan using all four conditional forms.
+
+---
+
+日本に 旅行するなら、いくつか 知っておいた ほうが いい ことが あります。
+
+まず、京都に 行くなら、秋が おすすめです。十一月に なると、木の 葉が 赤や 黄色に なって、とても きれいです。でも、秋の 京都は 人が 多いので、ホテルは 早く 予約しておかなければ なりません。もし 安く 泊まりたかったら、京都の 少し 外の 町に 泊まると いいですよ。電車で 二十分も 行けば、静かで 安い 旅館が 見つかります。
+
+天気に ついても 気を つけてください。六月に 日本に 来たら、毎日 雨が 降るかもしれません。六月は 梅雨の 季節だからです。かさを 持っていかなければ、こまる ことに なります。もし 雨が 降ったら、美術館や 博物館に 行くと いいです。東京なら、室内で 楽しめる 場所が たくさん あります。
+
+食べ物に ついて 言えば、日本では どこに 行っても、おいしい 物が 食べられます。もし 何を 食べるか 迷ったら、その 町の 名物を 食べてみてください。大阪に 行ったら、たこやきを 食べなければ なりません。北海道なら、ラーメンが 有名です。
+
+日本語が 話せなくても、大丈夫です。大きい 駅に 行けば、英語の 案内が あります。でも、「すみません」と「ありがとう」が 言えれば、旅行は もっと 楽しくなりますよ。
+
+---
+
+### Translation
+
+If you are going to travel to Japan, there are a few things it is good to know in advance.
+
+First, if you are going to Kyoto, autumn is recommended. When November comes, the leaves of the trees turn red and yellow and it is very beautiful. But since autumn Kyoto has many people, you must reserve a hotel early. If you want to stay cheaply, it is good to stay in a town slightly outside of Kyoto. If you go just twenty minutes by train, you can find quiet and inexpensive inns.
+
+Please also be careful about the weather. If you come to Japan in June, it may rain every day. This is because June is the rainy season. If you do not bring an umbrella, you will be in trouble. If it rains, it is good to go to art museums or museums. If it is Tokyo, there are many places you can enjoy indoors.
+
+Speaking of food, no matter where you go in Japan, you can eat delicious things. If you are unsure what to eat, try eating the local specialty of that town. If you go to Osaka, you must eat takoyaki. If it is Hokkaido, ramen is famous.
+
+Even if you cannot speak Japanese, it is fine. If you go to a large station, there is English-language guidance. But if you can say "sumimasen" and "arigatou," your trip will become much more enjoyable.
+
+---
+
+### Notes on the passage
+
+**おすすめ** — "recommendation." From すすめる（勧める）, "to recommend."
+
+**梅雨**（つゆ）— "rainy season." A period of continuous rain in June across much of Japan.
+
+**博物館**（はくぶつかん）— "museum." 美術館 is "art museum."
+
+**名物**（めいぶつ）— "local specialty, famous product." Every region in Japan has signature foods.
+
+**迷う**（まよう）— "to be lost, to be unsure, to hesitate." 迷ったら = "if you are unsure."
+
+**Note the conditional variety:** The passage uses なら for responding to travel plans, と for natural consequences, たら for hypothetical situations, and ば for general conditions. Each is chosen to match the nuance described in this chapter.
 
 ---
 

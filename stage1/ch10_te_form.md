@@ -196,6 +196,27 @@ If you prefer to think about it even more simply: there are really only three co
 
 And then voicing (て vs. で) follows automatically: if the original consonant was voiced (ぐ, ぶ), or if a nasal ん precedes it, the て becomes で.
 
+The following table summarizes all て-form conjugation rules in one place for quick reference:
+
+```
+て-Form Conjugation Rules
+────────────────────────
+
+ Dictionary ending │ て-form ending │  Example
+───────────────────┼───────────────┼──────────────────
+ ～う、～つ、～る    │  ～って         │ 買う → 買って
+ ～む、～ぶ、～ぬ    │  ～んで         │ 読む → 読んで
+ ～く              │  ～いて         │ 書く → 書いて
+ ～ぐ              │  ～いで         │ 泳ぐ → 泳いで
+ ～す              │  ～して         │ 話す → 話して
+───────────────────┼───────────────┼──────────────────
+ 一段 verbs         │  stem ＋ て     │ 食べる → 食べて
+ する              │  して          │ する → して
+ 来る              │  来て（きて）    │ 来る → 来て
+
+⚠ Exception: 行く → 行って（not 行いて）
+```
+
 ### A Mnemonic (Optional)
 
 Some learners find it helpful to remember the って group and the んで group by consonant type:
@@ -391,6 +412,94 @@ On the train, I listen to music and read the news.
 | きいて | きく | 五段 | く → いて |
 
 Notice how many different patterns appear in a single short passage. The て-form is not an occasional construction — it is everywhere in natural Japanese.
+
+---
+
+### Reading Passage 2 — おまつりの じゅんび
+
+Read the following passage. It describes getting ready for a summer festival, using the て-form to connect sequences of actions. Focus on identifying each て-form and its dictionary form.
+
+---
+
+きょうは まちの なつまつりです。ともだちの ゆきさんと いきます。
+
+まず、おしいれを あけて、ゆかたを だします。ゆかたは きれいな あおい いろです。
+
+ゆかたを きて、おびを しめて、かがみを みます。ちょっと むずかしいです。どうがを みて、もう 一かい しめます。こんどは うまく できました。
+
+げたを はいて、きんちゃくを もって、いえを でます。
+
+ゆきさんの いえまで あるいて、ドアを ノックします。ゆきさんも ゆかたを きています。あかい ゆかたです。
+
+二人で えきまで あるいて、でんしゃに のって、まつりの かいじょうに いきます。
+
+かいじょうに ついて、まず やたいを みます。やきそばの やたいが あります。やきそばを かって、 たべます。とても おいしいです。つぎに、りんごあめを かって、たべます。
+
+たいこの おとが きこえます。おんがくを きいて、おどりを みます。
+
+よるに なって、はなびが はじまります。みんなで そらを みて、「きれい！」と いいます。
+
+おまつりが おわって、でんしゃに のって、いえに かえります。たのしい 一日でした。
+
+---
+
+### Translation
+
+Today is the town's summer festival. I am going with my friend Yuki.
+
+First, I open the closet and take out a yukata. The yukata is a beautiful blue color.
+
+I put on the yukata, tie the obi, and look in the mirror. It is a little difficult. I watch a video and tie it one more time. This time it went well.
+
+I put on geta, take my kinchaku pouch, and leave the house.
+
+I walk to Yuki's house and knock on the door. Yuki is also wearing a yukata. It is a red yukata.
+
+The two of us walk to the station, ride the train, and go to the festival grounds.
+
+We arrive at the grounds and first look at the food stalls. There is a yakisoba stall. I buy yakisoba and eat it. It is very delicious. Next, I buy a candy apple and eat it.
+
+I can hear the sound of taiko drums. I listen to the music and watch the dancing.
+
+Night comes and the fireworks begin. Everyone looks at the sky and says "Beautiful!"
+
+The festival ends, we ride the train, and go home. It was a fun day.
+
+---
+
+### て-Form Analysis
+
+| て-Form in Passage | 辞書形 | Class | Pattern |
+|-------------------|--------|-------|---------|
+| あけて | あける | 一段 | る → て |
+| きて | きる (to wear) | 一段 | る → て |
+| しめて | しめる | 一段 | る → て |
+| みて | みる | 一段 | る → て |
+| はいて | はく | 五段 | く → いて |
+| もって | もつ | 五段 | つ → って |
+| あるいて | あるく | 五段 | く → いて |
+| のって | のる | 五段 | る → って |
+| ついて | つく | 五段 | く → いて |
+| かって | かう | 五段 | う → って |
+| きいて | きく | 五段 | く → いて |
+| なって | なる | 五段 | る → って |
+| おわって | おわる | 五段 | る → って |
+
+### Notes on the passage
+
+**ゆかた** — A lightweight cotton kimono worn in summer, especially to festivals, firework shows, and at hot spring inns. Wearing a yukata to a なつまつり is one of the most iconic summer experiences in Japan.
+
+**おび** — "obi / sash." The wide belt tied around a yukata or kimono. Tying it properly is famously tricky — hence the character looking at a video for help.
+
+**げた** — Traditional wooden sandals worn with yukata. They make a distinctive clacking sound on pavement.
+
+**きんちゃく** — A small drawstring pouch, used in place of a regular bag when wearing a yukata.
+
+**やたい** — "food stall." Summer festivals feature rows of stalls selling やきそば (fried noodles), りんごあめ (candy apples), たこやき (octopus balls), かきごおり (shaved ice), and much more.
+
+**きこえます** — "can be heard." The potential form of きく. Potential forms are covered later; for now, recognize this as "I can hear."
+
+**「きれい！」と いいます** — "say 'Beautiful!'" The quotation particle と is introduced later. For now, recognize と いいます as "say [quote]."
 
 ---
 

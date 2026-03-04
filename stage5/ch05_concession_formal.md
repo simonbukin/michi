@@ -254,7 +254,33 @@ Both can translate as "despite," but the nuance differs significantly:
 
 ---
 
-## 5.7 Reading Passage
+## 5.7 ～にひきかえ — "In Stark Contrast to"
+
+Expresses a sharp contrast between two things, often with a tone of criticism or regret about one side.
+
+### Formation
+
+Noun ＋ にひきかえ
+Verb (plain form) ＋ の ＋ にひきかえ
+
+### Examples
+
+> 兄にひきかえ、弟は まったく 勉強しない。
+> "In stark contrast to the older brother, the younger brother doesn't study at all."
+
+> 去年の 売り上げにひきかえ、今年は 大幅に 落ちている。
+> "In stark contrast to last year's sales, this year's have dropped significantly."
+
+> 親が 苦労したのにひきかえ、子供は のんきに 暮らしている。
+> "In stark contrast to the parents' hardships, the children live carefree."
+
+### Usage note
+
+にひきかえ always sets up an unfavorable comparison. The second clause typically describes something worse or disappointing relative to the first. It appears in written and formal spoken Japanese. In casual speech, ～のに or ～に比べて is more natural.
+
+---
+
+## 5.8 Reading Passage
 
 次の文章は、ある大学教授が卒業式で行ったスピーチの一部です。
 
@@ -286,7 +312,7 @@ No matter what difficulties you face, you have the strength to overcome them. Be
 
 ---
 
-## 5.8 Vocabulary List
+## 5.9 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |
 |------|------|-----------|------|------|

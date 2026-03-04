@@ -458,6 +458,50 @@ Several structures in this passage deserve comment:
 
 ---
 
+### Reading Passage 2 — にほんの がっこうの いちにち
+
+にほんの がっこうは ごぜん はちじはんに はじまります。せいとは はちじごろに がっこうに きます。まいあさ、きょうしつで せんせいに あいさつを します。
+
+いちじかんめは はちじはんから くじじゅうごふんまでです。にじかんめは くじにじゅうごふんから じゅうじじゅっぷんまでです。ごぜんちゅうに よんじかん じゅぎょうが あります。
+
+じゅうにじに ひるやすみです。せいとは きょうしつで おべんとうを たべます。ともだちと たのしく はなします。ひるやすみは いちじまでです。
+
+ごごにも じゅぎょうが あります。さんじはんごろに じゅぎょうが おわります。そのあと、ぶかつが あります。やきゅうや サッカーや テニスを します。おんがくの ぶかつも あります。ぶかつは ろくじごろまでです。
+
+せいとは まいにち いそがしいです。でも、ぶかつは とても たのしいです。にほんの せいとは ぶかつが だいすきです。
+
+---
+
+### Translation
+
+Japanese school starts at 8:30 AM. Students come to school around 8:00. Every morning, they greet the teacher in the classroom.
+
+First period is from 8:30 to 9:15. Second period is from 9:25 to 10:10. There are four hours of class in the morning.
+
+At noon it is lunch break. Students eat boxed lunches in the classroom. They chat happily with friends. Lunch break is until 1:00.
+
+There are also classes in the afternoon. Classes end around 3:30. After that, there are club activities. Students play baseball, soccer, tennis, and so on. There are also music clubs. Club activities last until around 6:00.
+
+Students are busy every day. But club activities are very fun. Japanese students love club activities.
+
+---
+
+### Notes on the Passage
+
+**はちじはんに はじまります** — "starts at 8:30." に marks the specific time at which something occurs.
+
+**いちじかんめ** — "first period." ～じかんめ is a counter for class periods: いち (one) + じかん (hour/period) + め (ordinal suffix).
+
+**ごぜんちゅうに** — "during the morning." ちゅう means "during" or "throughout."
+
+**たのしく はなします** — "chat happily." The adverb form of たのしい (fun): たのしく.
+
+**やきゅうや サッカーや** — "baseball and soccer and (so on)." や lists examples non-exhaustively, implying there are other activities too.
+
+**ろくじごろまで** — "until around 6:00." ごろ (approximately) combined with まで (until).
+
+---
+
 ## Vocabulary
 
 | 語 | 読み | 意味 | ピッチ |

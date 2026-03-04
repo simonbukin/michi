@@ -4,6 +4,44 @@ Chapters 1 and 2 examined は and が separately, each on its own terms. You now
 
 This is the chapter that ties everything together. It is also the chapter that requires the most patience, because the differences between は and が are sometimes clear-cut and sometimes genuinely ambiguous. Native speakers do not always agree on which particle sounds better in a given context, and the "rules" are more like strong tendencies than absolute laws. We will be honest about where the lines blur.
 
+Use the following flowchart as a quick decision guide when choosing between は and が:
+
+```
+は vs が: Quick Decision Guide
+──────────────────────────────
+
+  ┌──────────────────────────────┐
+  │ Is this the FIRST mention of │
+  │ the subject? (new info)      │
+  └──────────────┬───────────────┘
+                 │
+         Yes ←───┴───→ No
+          │              │
+     ┌────┴────┐   ┌────┴─────────────────┐
+     │ Use が   │   │ Is the speaker        │
+     │         │   │ contrasting this with  │
+     │ 猫が    │   │ something else?        │
+     │ いる！  │   └────┬──────────────────┘
+     └────────┘        │
+                Yes ←───┴───→ No
+                 │              │
+          ┌──────┴──────┐  ┌───┴────────────┐
+          │ Use は       │  │ Is this the    │
+          │ (contrastive)│  │ topic of the   │
+          │              │  │ sentence?      │
+          │ 魚は 食べる   │  └───┬────────────┘
+          │ (けど…)      │      │
+          └─────────────┘  Yes ←┴→ No
+                            │       │
+                     ┌──────┴──┐  ┌─┴──────────┐
+                     │ Use は   │  │ Use が      │
+                     │ (topic)  │  │ (exhaustive │
+                     │          │  │  or neutral) │
+                     │ 猫は     │  │              │
+                     │ かわいい │  │ だれが 来た？ │
+                     └─────────┘  └─────────────┘
+```
+
 ---
 
 ## 3.1 Information-Structure Framework: は = Old/Known, が = New/Unknown

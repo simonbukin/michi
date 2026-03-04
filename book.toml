@@ -1,0 +1,10 @@
+[book]
+title = "日本語の道 — The Path of Japanese"
+authors = ["日本語の道 Project"]
+language = "ja"
+src = "src"
+
+[build]
+build-dir = "build/book"
+
+[output.html]

@@ -246,6 +246,68 @@ Also notice おしごと in Tanaka's question. The お prefix is a politeness ma
 
 ---
 
+### Reading Passage 2 — かぞくの しょうかい
+
+Read the following passage. The speaker introduces their family at a neighborhood gathering. Pay attention to the うち/そと distinction.
+
+---
+
+きょう、ちかくの こうみんかんで あつまりが ありました。あたらしい まちに ひっこしたので、きんじょの ひとに かぞくを しょうかいしました。
+
+「はじめまして。やまだです。かぞくは ごにんです。わたしと つまと こどもが さんにんです。」
+
+「ちちは とうきょうに すんでいます。はちじゅうさいですが、まだ げんきです。ははも とうきょうにいます。りょうしんは ときどき あそびに きます。」
+
+きんじょの たなかさんが ききました。「おこさんは おいくつですか。」
+
+「うえの むすめは じゅうさんさいで、ちゅうがくせいです。まんなかの むすこは じゅっさいで、しょうがくせいです。いちばん したの むすめは まだ ごさいです。」
+
+たなかさんは 「うちの むすこも しょうがくせいですよ。おなじ がっこうかもしれませんね」と いいました。
+
+「そうですか。おいくつですか。」
+
+「むすこは じゅういっさいです。よねんせいです。」
+
+「うちの むすこも よねんせいです。おなじ クラスかもしれませんね。」
+
+ふたりで わらいました。いい まちに ひっこしたと おもいました。
+
+---
+
+### Translation
+
+Today, there was a gathering at the nearby community center. Since we moved to a new town, I introduced my family to the neighborhood people.
+
+"Nice to meet you. I am Yamada. My family is five people. Myself, my wife, and three children."
+
+"My father lives in Tokyo. He is eighty years old, but still healthy. My mother is also in Tokyo. My parents come to visit sometimes."
+
+Tanaka from the neighborhood asked, "How old are your children?"
+
+"My oldest daughter is thirteen, a middle school student. My middle son is ten, an elementary school student. My youngest daughter is still five."
+
+Tanaka said, "My son is also an elementary school student. They might be at the same school."
+
+"Is that so? How old is he?"
+
+"My son is eleven. He is in fourth grade."
+
+"My son is also in fourth grade. They might be in the same class."
+
+We both laughed. I thought we moved to a good town.
+
+### Notes
+
+- こうみんかん — community center, a public hall found in most neighborhoods.
+- ひっこした — past of ひっこす (to move/relocate), a 五段 verb.
+- つま — "my wife" (うち term). The そと equivalent for someone else's wife is おくさん.
+- おこさん — "your child/children" (そと term). Tanaka uses this to ask about the speaker's children. The うち equivalent is こども or むすこ/むすめ.
+- おいくつ — "how old?" A polite way to ask age, using the お prefix.
+- かもしれません — "might be." A pattern expressing possibility. Treat as a set phrase for now.
+- うえの / まんなかの / したの — "oldest / middle / youngest," literally "upper / middle / lower."
+
+---
+
 ## 22.7 Chapter Summary
 
 Japanese has two complete sets of family vocabulary, not as a historical accident, but as a direct application of the うち/そと principle.

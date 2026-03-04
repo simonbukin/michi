@@ -451,7 +451,74 @@ Every particle and every あいづち expression has a job. None is decoration. 
 
 ---
 
-## 23.8 Chapter Summary
+## 23.8 Reading Passage — いざかやの よる
+
+Read this conversation. Pay attention to how ね, よ, and よね signal different things between the speakers, and how あいづち keeps the conversation flowing.
+
+---
+
+> A: あ、この みせ、はじめてですか。
+> "Oh, is this your first time at this place?"
+
+> B: はい、はじめてです。いい ふんいきですね。
+> "Yes, it's my first time. Nice atmosphere."
+
+> A: そうでしょう。ここの やきとりは ほんとうに おいしいですよ。
+> "Right? The yakitori here is really good."
+
+> B: へえ、そうなんですか。じゃ、やきとりに しましょう。
+> "Oh, really? Then let's go with yakitori."
+
+> A: あと、この みせは にほんしゅも ゆうめいなんですよ。にほんしゅは のみますか。
+> "Also, this place is famous for sake too. Do you drink sake?"
+
+> B: のみますよ。だいすきです。
+> "I do. I love it."
+
+> A: よかった。じゃ、にほんしゅも ちゅうもんしましょうね。
+> "Great. Then let's order some sake too."
+
+> B: すみません、やきとりの もりあわせと、にほんしゅを にはい おねがいします。
+> "Excuse me, a yakitori assortment and two cups of sake, please."
+
+> てんいん: はい、かしこまりました。おとおしは えだまめでございますが、よろしいですか。
+> "Certainly. The appetizer is edamame — is that all right?"
+
+> B: はい、だいじょうぶです。
+> "Yes, that's fine."
+
+> A: えだまめも おいしいですよね、この みせ。
+> "The edamame is good here too, right?"
+
+> B: たのしみですね。あ、にほんしゅが きましたよ。かんぱい！
+> "I'm looking forward to it. Oh, the sake is here. Cheers!"
+
+> A: かんぱい！ きょうは おつかれさまでした。
+> "Cheers! Good work today."
+
+> B: おつかれさまでした。こうやって のみに くるのは ひさしぶりですね。
+> "Good work. It's been a while since we went out for drinks like this."
+
+> A: そうですね。やっぱり、しごとの 後は ビールか にほんしゅですよね。
+> "It is. After work, it's got to be beer or sake, right?"
+
+> B: ほんとうに そうですね。
+> "Truly."
+
+---
+
+### What to notice
+
+- **ね for shared feeling:** いい ふんいきですね, たのしみですね, ひさしぶりですね. Both speakers use ね to confirm a feeling they share.
+- **よ for informing:** おいしいですよ, ゆうめいなんですよ, きましたよ. Speaker A tells B things B does not yet know. B also uses よ when asserting のみますよ — correcting A's possible assumption.
+- **よね for checking shared knowledge:** おいしいですよね, ビールか にほんしゅですよね. The speaker is fairly sure and invites the listener to confirm.
+- **あいづち throughout:** へえ、そうなんですか (surprise and interest), そうでしょう (agreement), よかった (relief).
+- **かしこまりました** from the server — a keigo form meaning わかりました, previewing Chapter 24. でございます also appears in the server's speech.
+- **んです pattern:** ゆうめいなんですよ provides background explanation — not just a bare fact, but context the listener needs.
+
+---
+
+## 23.9 Chapter Summary
 
 **Active-use particles:**
 

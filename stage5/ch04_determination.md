@@ -222,7 +222,58 @@ The fixed expression 言うまでもない / 言うまでもなく ("needless to
 
 ---
 
-## 4.7 Reading Passage
+## 4.7 ～たるもの — "As Befitting One Who Is"
+
+Expresses that someone in a particular role or position should naturally behave in a certain way. Carries a strong sense of duty or expectation.
+
+### Formation
+
+Noun (role/title) ＋ たるもの（、～べきだ / ～なければならない）
+
+### Examples
+
+> 教師たるもの、学生の 模範と ならなければ ならない。
+> "As a teacher, one must be a role model for students."
+
+> 武士たるもの、約束を 破っては ならない。
+> "As a samurai, one must not break a promise."
+
+> リーダーたるもの、困難な ときこそ 冷静で あるべきだ。
+> "As a leader, one should be especially calm in difficult times."
+
+### Usage note
+
+たるもの is highly formal and literary. It is derived from the classical copula たり. The phrase is almost always followed by a statement of obligation (べき, なければならない) or prohibition (てはならない). It appears in speeches, editorials, and period fiction.
+
+---
+
+## 4.8 ～ぬきにして(は) / ～をぬきにして(は) — "Without, Setting Aside"
+
+Expresses doing something while excluding or setting aside a particular element.
+
+### Formation
+
+Noun ＋（を）ぬきにして（は）
+Noun ＋（を）ぬきに（して）
+
+### Examples
+
+> 冗談は ぬきにして、真剣に 話し合おう。
+> "Setting jokes aside, let's talk seriously."
+
+> 彼の 貢献を ぬきにしては、このプロジェクトの 成功は 語れない。
+> "Without his contributions, we cannot speak of this project's success."
+
+> お世辞を ぬきにして、本当に よくできた 作品だと 思う。
+> "Flattery aside, I truly think it's a well-made work."
+
+### Usage note
+
+ぬき is a noun meaning "exclusion" (from the verb 抜く "to pull out, remove"). The pattern has two main uses: (1) "setting X aside" (joking aside, formality aside) and (2) "without X, this wouldn't be possible" (always with ～ては). The related form ～ぬきで means "without" in a more straightforward sense (ビールぬきで = "without beer").
+
+---
+
+## 4.9 Reading Passage
 
 次の文章は、ある登山家の伝記から抜粋したものです。
 
@@ -262,7 +313,7 @@ In pursuit of the perfect shot, Takahashi heads into the mountains again today. 
 
 ---
 
-## 4.8 Vocabulary List
+## 4.10 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |
 |------|------|-----------|------|------|

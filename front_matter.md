@@ -123,3 +123,60 @@ In this sentence, **トム** (Tom) is in katakana because it is a foreign name. 
 ### What This Series Covers
 
 Across six stages, you will progress from learning hiragana and katakana through to comprehending academic Japanese and literary texts. Each stage's introduction describes specifically what that stage covers and what prerequisites it assumes. The writing system is taught in Stage 1; from Stage 2 onward, all Japanese appears in Japanese script only.
+
+---
+
+## Jumping In: Placement Guide for Experienced Learners
+
+If you already have some Japanese knowledge, you do not need to start from Stage 1, Chapter 1. Use the guide below to find your entry point.
+
+### Stage–JLPT Mapping
+
+| If you have passed… | You can safely skip… | Start from… |
+|---------------------|---------------------|-------------|
+| JLPT N5 | Stage 1 entirely | Stage 2, Chapter 1 |
+| JLPT N4 | Stages 1–2 entirely | Stage 3, Chapter 1 |
+| JLPT N3 | Stages 1–3 entirely | Stage 4, Chapter 1 |
+| JLPT N2 | Stages 1–4 entirely | Stage 5, Chapter 1 |
+| JLPT N1 | Stages 1–5 entirely | Stage 6, Chapter 1 |
+
+These are conservative guidelines. If you passed N4 but feel shaky on conditionals or keigo, read the relevant Stage 2 chapters (Ch 10, Ch 16–18) before moving on.
+
+### Must-Read Chapters Regardless of Level
+
+Some chapters contain analysis that is valuable even for advanced learners. Consider reading these no matter where you start:
+
+- **Stage 3, Chapters 1–3: は vs が Deep Dive** — Most textbooks give a one-page summary. This textbook devotes three chapters to the topic because the は/が distinction is genuinely complex and affects comprehension at every level. Even N1 holders find new insights here.
+- **Stage 2, Chapter 10: Conditionals (と/ば/たら/なら)** — The four-way conditional system is one of the most undertaught topics in Japanese instruction. This chapter's contrastive analysis and feature matrix are useful at any level.
+- **Stage 5, Chapter 10: Classical Japanese Overview** — If you read any literature, historical texts, or even song lyrics, the classical verb system is essential background. This chapter gives you enough to parse classical forms when you encounter them.
+- **Stage 1, Chapter 8: Verb Classification** — If you have never clearly understood the difference between 五段 and 一段 verbs and why it matters for conjugation, this chapter's decision tree will clarify it permanently.
+
+### Diagnostic Sentences
+
+Not sure where you belong? Try parsing these sentences. If you can accurately explain every grammatical structure in a sentence, you are ready to skip that level.
+
+**Stage 1 (N5) — Can you parse this?**
+
+> 日曜日に　ともだちと　えきの　ちかくの　カフェで　コーヒーを　飲みました。
+
+If you can identify: the time marker (に), the companion particle (と), the nested の phrases, the location particle (で), the object particle (を), and the past tense verb (飲みました) — you are ready for Stage 2.
+
+**Stage 2 (N4) — Can you parse this?**
+
+> 雨が　降ったら、出かけないつもりですが、晴れれば　散歩しようと思っています。
+
+If you can identify: the たら conditional, the ば conditional, ～つもり (intention), ～ようと思う (planning to), and the contrastive が — you are ready for Stage 3.
+
+**Stage 3 (N3) — Can you parse this?**
+
+> あの映画は　見れば見るほど　新しい発見があると言われているが、実際に見てみないことには　何とも言えない。
+
+If you can identify: ～ば～ほど (the more… the more), ～と言われている (it is said that), ～てみる (try doing), ～ないことには (unless), and 何とも言えない (can't say either way) — you are ready for Stage 4.
+
+**Stage 4 (N2) — Can you parse this?**
+
+> 新入社員ともあろうものが、敬語を使いこなせないようでは、取引先との信頼関係を築くどころではない。
+
+If you can identify: ～ともあろう (someone of the stature of), ～ようでは (if it's the case that — with negative implication), ～どころではない (far from being able to), and the overall formal register — you are ready for Stage 5.
+
+---

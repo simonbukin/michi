@@ -236,6 +236,56 @@ Volunteers were gathered from across the country, and food and water were delive
 
 ---
 
+### Reading Passage 2 — むかしばなし：つるの　おんがえし
+
+Read the following retelling of a famous Japanese legend, narrated in the passive voice.
+
+---
+
+日本には「つるの　おんがえし」という　むかしばなしが　あります。この　お話は　日本じゅうで　知られています。
+
+むかし、あるところに　おじいさんが　いました。ある　さむい　冬の　日、おじいさんに　よって、一羽の　つるが　たすけられました。つるは　わなに　はさまれていたのです。
+
+その　夜、おじいさんの　家に　わかい　おんなの　人が　たずねてきました。おんなの　人は　おじいさんに　とめてもらいました。つぎの　日から、おんなの　人に　よって　うつくしい　ぬのが　おられました。その　ぬのは　まちで　たかい　ねだんで　買われました。
+
+しかし、おじいさんは　おんなの　人に　「おっている　あいだは、けっして　見ないでください」と　言われていました。ある　日、おじいさんは　がまんできなくなって、へやを　のぞいてしまいました。なかで　見られたのは、つるが　自分の　はねを　ぬいて　ぬのを　おっている　すがたでした。
+
+ひみつを　見られた　つるは、「もう　ここには　いられません」と　言って、空へ　飛んでいきました。
+
+---
+
+### Translation
+
+In Japan, there is a folktale called "The Crane's Return of a Favor." This story is known throughout Japan.
+
+Long ago, in a certain place, there lived an old man. One cold winter day, a crane was saved by the old man. The crane had been caught in a trap.
+
+That night, a young woman came to visit the old man's house. The woman was allowed to stay by the old man. From the next day, beautiful cloth was woven by the woman. The cloth was bought at a high price in town.
+
+However, the old man had been told by the woman, "While I am weaving, please never look." One day, the old man could not resist any longer and peeked into the room. What was seen inside was the figure of a crane plucking its own feathers and weaving cloth.
+
+The crane, whose secret had been seen, said "I can no longer stay here" and flew away into the sky.
+
+---
+
+### Notes on the passage
+
+**つる**（鶴）— "crane" (the bird). A symbol of good fortune in Japanese culture.
+
+**おんがえし**（恩返し）— "returning a favor." A common theme in Japanese folktales.
+
+**わな**（罠）— "trap." はさまれる is the passive of はさむ ("to catch, to squeeze").
+
+**ぬの**（布）— "cloth, fabric." おる（織る）means "to weave."
+
+**けっして〜ないでください** — "please never..." けっして with a negative means "absolutely not."
+
+**のぞく** — "to peek." おじいさんは がまんできなくなって — "the old man could no longer endure it."
+
+**はね**（羽）— "feather." ぬく（抜く）means "to pluck, to pull out."
+
+---
+
 ## 3.8 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |

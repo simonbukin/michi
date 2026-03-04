@@ -37,12 +37,37 @@ S6_SOURCES := front_matter.md stage6/stage_intro.md $(sort $(wildcard stage6/ch*
 PANDOC_FLAGS := --standalone --toc --toc-depth=2
 
 # PDF flags for CJK support
+# Detect available CJK fonts: prefer Hiragino (macOS), fall back to Noto (Linux/Windows)
+CJK_MAIN := $(shell fc-list : family | grep -m1 "Hiragino Mincho ProN" 2>/dev/null)
+ifeq ($(CJK_MAIN),)
+CJK_MAIN := $(shell fc-list : family | grep -m1 "Noto Serif CJK JP" 2>/dev/null)
+endif
+ifeq ($(CJK_MAIN),)
+CJK_MAIN := Noto Serif CJK JP
+endif
+
+CJK_SANS := $(shell fc-list : family | grep -m1 "Hiragino Kaku Gothic ProN" 2>/dev/null)
+ifeq ($(CJK_SANS),)
+CJK_SANS := $(shell fc-list : family | grep -m1 "Noto Sans CJK JP" 2>/dev/null)
+endif
+ifeq ($(CJK_SANS),)
+CJK_SANS := Noto Sans CJK JP
+endif
+
+MONO_FONT := $(shell fc-list : family | grep -m1 "Menlo" 2>/dev/null)
+ifeq ($(MONO_FONT),)
+MONO_FONT := $(shell fc-list : family | grep -m1 "DejaVu Sans Mono" 2>/dev/null)
+endif
+ifeq ($(MONO_FONT),)
+MONO_FONT := DejaVu Sans Mono
+endif
+
 PDF_PANDOC_FLAGS := --pdf-engine=$(PDF_ENGINE) \
-	-V mainfont="Hiragino Mincho ProN" \
-	-V sansfont="Hiragino Kaku Gothic ProN" \
-	-V monofont="Menlo" \
-	-V CJKmainfont="Hiragino Mincho ProN" \
-	-V CJKsansfont="Hiragino Kaku Gothic ProN" \
+	-V mainfont="$(CJK_MAIN)" \
+	-V sansfont="$(CJK_SANS)" \
+	-V monofont="$(MONO_FONT)" \
+	-V CJKmainfont="$(CJK_MAIN)" \
+	-V CJKsansfont="$(CJK_SANS)" \
 	-V geometry:margin=1in \
 	-V fontsize=11pt
 
@@ -50,20 +75,22 @@ PDF_PANDOC_FLAGS := --pdf-engine=$(PDF_ENGINE) \
 
 STAGES := stage1 stage2 stage3 stage4 stage5 stage6
 
-# All sources for the full combined book (no front_matter duplication)
-FULL_SOURCES := front_matter.md \
-	stage1/stage_intro.md $(sort $(wildcard stage1/ch*.md)) $(sort $(wildcard stage1/appendix_*.md)) \
-	stage2/stage_intro.md $(sort $(wildcard stage2/ch*.md)) $(sort $(wildcard stage2/appendix_*.md)) \
-	stage3/stage_intro.md $(sort $(wildcard stage3/ch*.md)) $(sort $(wildcard stage3/appendix_*.md)) \
-	stage4/stage_intro.md $(sort $(wildcard stage4/ch*.md)) $(sort $(wildcard stage4/appendix_*.md)) \
-	stage5/stage_intro.md $(sort $(wildcard stage5/ch*.md)) $(sort $(wildcard stage5/appendix_*.md)) \
-	stage6/stage_intro.md $(sort $(wildcard stage6/ch*.md)) $(sort $(wildcard stage6/appendix_*.md)) \
-	grammar_index.md
-
-.PHONY: all clean $(STAGES) full-book \
-        $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf $(s)-book)
+.PHONY: all clean book serve $(STAGES) \
+        $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf)
 
 all: stage1 stage2 stage3 stage4 stage5 stage6
+
+# --- mdbook HTML book ---
+
+book: src/SUMMARY.md
+	mdbook build
+	@echo "Built build/book/"
+
+serve: src/SUMMARY.md
+	mdbook serve
+
+src/SUMMARY.md: gen_summary.py $(wildcard stage*/ch*.md) $(wildcard stage*/appendix_*.md) $(wildcard stage*/stage_intro.md)
+	python3 gen_summary.py
 
 stage1: stage1-md stage1-html stage1-epub stage1-pdf
 stage2: stage2-md stage2-html stage2-epub stage2-pdf
@@ -262,62 +289,6 @@ else
 	@echo "Built $(BUILDDIR)/stage5.pdf"
 endif
 
-# --- Chunked (multi-page) HTML books ---
-
-full-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/full-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — The Path of Japanese" \
-		-o $(BUILDDIR)/full-book \
-		$(FULL_SOURCES)
-	mkdir -p $(BUILDDIR)/full-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/full-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/full-book/"
-
-stage1-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/stage1-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 1 (N5)" \
-		-o $(BUILDDIR)/stage1-book \
-		$(S1_SOURCES)
-	mkdir -p $(BUILDDIR)/stage1-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/stage1-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/stage1-book/"
-
-stage2-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/stage2-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 2 (N4)" \
-		-o $(BUILDDIR)/stage2-book \
-		$(S2_SOURCES)
-	mkdir -p $(BUILDDIR)/stage2-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/stage2-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/stage2-book/"
-
-stage3-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/stage3-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 3 (N3)" \
-		-o $(BUILDDIR)/stage3-book \
-		$(S3_SOURCES)
-	mkdir -p $(BUILDDIR)/stage3-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/stage3-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/stage3-book/"
-
-stage4-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/stage4-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 4 (N2)" \
-		-o $(BUILDDIR)/stage4-book \
-		$(S4_SOURCES)
-	mkdir -p $(BUILDDIR)/stage4-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/stage4-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/stage4-book/"
 
 # Stage 6
 stage6-md: $(BUILDDIR)
@@ -355,28 +326,6 @@ else
 		$(S6_SOURCES)
 	@echo "Built $(BUILDDIR)/stage6.pdf"
 endif
-
-stage5-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/stage5-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 5 (N1)" \
-		-o $(BUILDDIR)/stage5-book \
-		$(S5_SOURCES)
-	mkdir -p $(BUILDDIR)/stage5-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/stage5-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/stage5-book/"
-
-stage6-book: $(BUILDDIR)
-	rm -rf $(BUILDDIR)/stage6-book
-	pandoc -t chunkedhtml --split-level=1 --toc --toc-depth=2 \
-		--css=$(ASSETS)/water.css \
-		--metadata title="日本語の道 — Stage 6 (N1 Mastery)" \
-		-o $(BUILDDIR)/stage6-book \
-		$(S6_SOURCES)
-	mkdir -p $(BUILDDIR)/stage6-book/$(ASSETS)
-	cp $(ASSETS)/water.css $(BUILDDIR)/stage6-book/$(ASSETS)/water.css
-	@echo "Built $(BUILDDIR)/stage6-book/"
 
 clean:
 	rm -rf $(BUILDDIR)

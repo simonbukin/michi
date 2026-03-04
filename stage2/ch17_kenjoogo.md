@@ -488,6 +488,76 @@ These combinations feel natural to Japanese speakers. The distinction, once unde
 
 ---
 
+### Reading Passage 2 — 会社の　電話
+
+Read the following passage depicting a business phone call. The employee uses 謙譲語 when talking about their own company and their own actions.
+
+---
+
+「はい、山本商事でございます。」
+
+「あ、すみません。営業部の田中部長はいらっしゃいますか。」
+
+「田中でございますね。申し訳ございません、田中はただいま外出しております。三時ごろには戻る予定でございます。」
+
+「そうですか。では、戻られたら、お電話をいただきたいのですが。」
+
+「かしこまりました。それでは、お名前を伺ってもよろしいですか。」
+
+「ABCの佐藤と申します。」
+
+「佐藤様ですね。お電話番号も伺ってよろしいですか。」
+
+「はい、〇三の一二三四の五六七八です。」
+
+「〇三の一二三四の五六七八ですね。確認いたしました。田中が戻りましたら、こちらからご連絡いたします。わたくしは営業部の鈴木と申します。お電話ありがとうございました。失礼いたします。」
+
+---
+
+### Translation
+
+"Yes, this is Yamamoto Trading."
+
+"Oh, excuse me. Is Department Head Tanaka of the sales department there?"
+
+"Tanaka, you say. I am sorry, Tanaka is currently out. He is expected to return around three o'clock."
+
+"I see. Then, when he returns, I would like him to call me."
+
+"Certainly. In that case, may I ask your name?"
+
+"I am Satou of ABC."
+
+"Mr. Satou, I see. May I also ask your phone number?"
+
+"Yes, it is 03-1234-5678."
+
+"03-1234-5678, correct. I have confirmed it. When Tanaka returns, we will contact you from our end. I am Suzuki of the sales department. Thank you for your call. Good-bye."
+
+---
+
+### Notes on the passage
+
+**でございます** — Ultra-polite copula. Used throughout by the employee to maintain formality.
+
+**外出しております** — 外出する（がいしゅつする）means "to be out of the office." おります is the humble form of います. The employee humbles their company's person before the outside caller.
+
+**田中 (no さん/様)** — When referring to someone in your own company to an outsider, you drop honorifics. This is a core rule of business Japanese.
+
+**伺ってもよろしいですか** — "May I ask?" 伺う is 謙譲語 I for 聞く; よろしい is the formal form of いい.
+
+**と申します** — "I am called..." 申す is 丁重語 for 言う, used in self-introductions.
+
+**確認いたしました** — "I have confirmed." いたす is the humble form of する.
+
+**ご連絡いたします** — "I will contact you." The ご〜いたす pattern combines the productive humble pattern with the deeper humble auxiliary.
+
+**失礼いたします** — "Excuse me" / "Good-bye." The standard humble phrase for ending a phone call.
+
+**わたくし** — The formal form of わたし, used in business contexts.
+
+---
+
 ## 17.5 Vocabulary List
 
 All irregular 謙譲語 verbs and key humble expressions from this chapter.

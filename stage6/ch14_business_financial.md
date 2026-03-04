@@ -266,13 +266,13 @@ The following passage is modeled on the narrative section of a Japanese 決算�
 >
 > An overview by segment is as follows.
 >
-> <Electronics Business>
+> **\<Electronics Business\>**
 > Due to the recovery of semiconductor-related demand and expansion of automotive products, net sales were 321.5 billion yen (a year-on-year increase of 9.8%) and segment profit was 28.7 billion yen (an increase of 18.2%).
 >
-> <Healthcare Business>
+> **\<Healthcare Business\>**
 > Although the domestic pharmaceutical business was affected by drug price revisions, growth in the overseas business resulted in net sales of 245.6 billion yen (a year-on-year increase of 3.1%) and segment profit of 16.8 billion yen (a decrease of 2.5%).
 >
-> <Industrial Solutions Business>
+> **\<Industrial Solutions Business\>**
 > Orders for IoT solutions for the manufacturing industry trended favorably, resulting in net sales of 217.1 billion yen (a year-on-year increase of 5.7%) and segment profit of 12.8 billion yen (an increase of 15.3%).
 >
 > Regarding dividends, based on the basic policy of a consolidated dividend payout ratio of 30% or above, we plan to set the annual dividend for the current period at 140 yen per share (an increase of 20 yen per share compared to the previous period).

@@ -259,6 +259,54 @@ Right now I still cannot read very many kanji. I know about a hundred, but the s
 
 ---
 
+### Reading Passage 2 — 日本語が　できるように　なった
+
+Read the following passage about a foreign exchange student reflecting on their progress in Japanese.
+
+---
+
+わたしは　マークです。アメリカから　来ました。日本に　来てから　もう　一年です。
+
+一年前は、日本語が　ほとんど　話せませんでした。レストランで　ちゅうもんする　ことも　できませんでした。メニューの　かんじが　読めなくて、いつも　写真を　指さしていました。友達の　話も　はやくて　聞き取れませんでした。
+
+今は　だいぶ　変わりました。かんたんな　かいわなら　できます。スーパーで　店員さんに　聞かれた　ことが　わかります。漢字も　三百ぐらい　読めるように　なりました。電車の　アナウンスも　だいたい　聞き取れます。
+
+でも、まだ　できない　ことも　あります。ニュースは　はやくて　ぜんぶ　聞き取る　ことが　できません。電話で　日本語を　話すのは　とくに　むずかしいです。あいての　かおが　見えないと、わからない　ことが　多いです。
+
+来年は　日本の　会社で　はたらきたいです。けいごが　使えるように　なれば、しゅうしょくの　めんせつも　できると　思います。もっと　がんばります。
+
+---
+
+### Translation
+
+I am Mark. I came from America. It has been one year since I came to Japan.
+
+One year ago, I could hardly speak Japanese at all. I could not even order at a restaurant. I could not read the kanji on the menu and was always pointing at the photos. My friends also spoke too fast for me to catch.
+
+Now things have changed quite a bit. If it is simple conversation, I can manage. I can understand what the clerk at the supermarket asks me. I have become able to read about three hundred kanji. I can mostly catch train announcements too.
+
+But there are still things I cannot do. The news is too fast and I cannot catch everything. Speaking Japanese on the phone is especially difficult. When I cannot see the other person's face, there is much I do not understand.
+
+Next year, I want to work at a Japanese company. I think that if I become able to use keigo, I can handle job interviews too. I will work harder.
+
+---
+
+### Notes on the passage
+
+**ほとんど〜ませんでした** — "could hardly..." — ほとんど with a negative means "almost not at all."
+
+**指さす**（ゆびさす）— "to point at." A common compound verb.
+
+**だいぶ** — "quite a bit, considerably." An adverb expressing noticeable degree of change.
+
+**あいて**（相手）— "the other person, the person you are speaking with."
+
+**けいご**（敬語）— "polite/formal language." You will learn this in Stage 2 Chapters 15–18.
+
+**しゅうしょくの　めんせつ**（就職の面接）— "job interview." しゅうしょく means finding employment; めんせつ means interview.
+
+---
+
 ## 1.8 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |

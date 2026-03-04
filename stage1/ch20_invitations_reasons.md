@@ -507,6 +507,73 @@ Notice how Rika never says "no." She says つごうが わるいんですけど 
 
 ---
 
+### Reading Passage 2 — はなみの けいかく
+
+Read the following passage about planning a cherry blossom viewing party. All grammar comes from this chapter and earlier chapters.
+
+---
+
+もうすぐ はるです。さくらの きせつですから、はなみを したいです。
+
+ゆきさんに でんわしました。
+
+わたし：らいしゅうの どようび、はなみに いきませんか。
+
+ゆき：いいですね。どこで しましょうか。
+
+わたし：うえのこうえんは どうですか。さくらが とても きれいだと きいたので。
+
+ゆき：うえのこうえんは いいですが、どようびは ひとが おおいですよ。にちようびの あさは どうですか。あさ はやければ、ばしょが とれますから。
+
+わたし：にちようびですか。にちようびは ごごから よていが あるんですけど、あさなら だいじょうぶです。なんじに あいましょうか。
+
+ゆき：はちじは どうですか。すこし はやいですが、いい ばしょを とりたいので。
+
+わたし：はちじですね。わかりました。たべものは どう しましょうか。
+
+ゆき：おべんとうを つくりましょう。わたしは おにぎりを つくりますから、のみものを もってきてくれませんか。
+
+わたし：いいですよ。おちゃと ジュースを もっていきます。たのしみですね。
+
+ゆき：たのしみです。にちようびに あいましょう。
+
+---
+
+### Translation
+
+Spring is almost here. Since it is cherry blossom season, I want to do hanami.
+
+I called Yuki.
+
+Me: Would you like to go to hanami next Saturday?
+
+Yuki: That sounds nice. Where shall we do it?
+
+Me: How about Ueno Park? I heard the cherry blossoms are very beautiful there.
+
+Yuki: Ueno Park is nice, but on Saturday there will be many people. How about Sunday morning? If it is early morning, we can get a spot.
+
+Me: Sunday? I have plans from the afternoon on Sunday, but morning is fine. What time shall we meet?
+
+Yuki: How about eight o'clock? It is a little early, but I want to get a good spot.
+
+Me: Eight o'clock. Understood. What shall we do about food?
+
+Yuki: Let us make bento. I will make onigiri, so could you bring drinks?
+
+Me: Sure. I will bring tea and juice. I am looking forward to it.
+
+Yuki: Me too. Let us meet on Sunday.
+
+### Notes
+
+- きせつ — season.
+- ばしょが とれます — "can get a spot." とれる is the potential of とる (to take/get).
+- たのしみ — looking forward to something. Used as a noun or な-adjective.
+- もってきてくれませんか — "could you bring?" This combines もっていく with くれる (Ch. 21 preview). Treat it as a polite request phrase.
+
+---
+
 ## 20.8 Chapter Summary
 
 This chapter introduced six patterns that together handle invitations, reasons, contrast, and explanation.

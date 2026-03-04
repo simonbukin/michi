@@ -480,6 +480,43 @@ Pay special attention to the contrast between かえる 時 and かえった 時
 
 ---
 
+### Reading Passage 2 — おしょうがつ
+
+---
+
+にほんの おしょうがつは いちがつの はじめです。おおみそか — つまり じゅうにがつ さんじゅういちにち — の よるから おしょうがつの じゅんびが はじまります。
+
+わたしの かぞくは まいとし おなじことを します。まず、としを こす 前に いえを きれいに そうじします。そうじが おわった 後で みんなで としこしそばを たべます。そばは ほそくて ながい たべものなので、「ながい いのち」の いみが あるそうです。
+
+そばを たべながら テレビの おんがく ばんぐみを みます。よなかの じゅうにじに なる 時 おてらの かねが なります。これは 「じょやのかね」と いいます。かねの おとを ききながら あたらしい としを むかえます。
+
+がんじつ — いちがつ ついたち — の あさ、おきた 後で かぞくに 「あけまして おめでとうございます」と いいます。それから おぞうにを たべます。おぞうには おもちが はいった スープです。
+
+あさごはんの 後で ちかくの じんじゃに いきます。これは 「はつもうで」です。じんじゃに ついた 時 いつも ひとが たくさん ならんでいます。さむい 中で まっている 間 あたたかい あまざけを のむ ひとも います。おまいりを した 後で おみくじを ひきます。きょねんは 「きち」でしたが、ことしは なにが でるかな。
+
+おしょうがつの 間 こどもたちは おとしだまを もらいます。おとしだまは おかねの プレゼントです。こどもたちに とって、おしょうがつで いちばん たのしいのは たぶん おとしだまですね。
+
+---
+
+### Passage Notes
+
+This passage uses all four time patterns plus ～てから in the context of real Japanese New Year traditions.
+
+- **としを こす 前に** — "before crossing into the new year." Dictionary form before 前に.
+- **おわった 後で** — "after finishing." た-form before 後で.
+- **たべながら** — "while eating." ます-stem before ながら.
+- **じゅうにじに なる 時** — "when it becomes midnight." Dictionary form before 時 — the moment has not yet arrived.
+- **ききながら** — "while listening." ます-stem before ながら.
+- **おきた 後で** — "after waking up." た-form before 後で.
+- **ついた 時** — "when we arrived." た-form before 時 — the arrival was complete, and upon arriving, people were already lined up.
+- **まっている 間** — "while waiting." ている before 間. The waiting is ongoing.
+- **した 後で** — "after doing." た-form before 後で.
+- **おしょうがつの 間** — "during New Year." Noun + の before 間.
+
+Cultural vocabulary: おおみそか (New Year's Eve), としこしそば (year-crossing soba), じょやのかね (New Year's Eve bell), がんじつ (New Year's Day), おぞうに (mochi soup), はつもうで (first shrine visit), おみくじ (fortune slip), おとしだま (New Year's money gift), あまざけ (sweet sake).
+
+---
+
 ## 25.7 Chapter Summary
 
 This chapter introduced four time-connecting patterns.

@@ -371,6 +371,56 @@ The adjective いい (good) is the only irregular member of this class. It uses 
 
 ---
 
+## 13.9 Reading Passage — にほんの しき
+
+にほんには しきが あります。はる、なつ、あき、ふゆです。
+
+はるは あたたかいです。さくらが きれいで、こうえんに ひとが おおいです。てんきが よくて、そとを あるくのが たのしいです。
+
+なつは とても あついです。うみが きれいで、たくさんの ひとが およぎに いきます。でも、むしあついです。あつすぎて、そとに あまり でたくないです。つめたい のみものが おいしいです。
+
+あきは すずしくて きもちがいいです。やまの きが あかくて きいろくて、とても きれいです。たべものも おいしいです。あきは くだものが あまくて、とても いいです。
+
+ふゆは さむいです。ゆきが ふる ところも おおいです。さむくて そとに でたくないですが、おんせんの おゆが あたたかくて きもちがいいです。
+
+わたしは あきが いちばん すきです。あつくなくて、さむくなくて、たべものが おいしくて、けしきが きれいです。にほんの しきは とても うつくしいです。
+
+---
+
+### Translation
+
+Japan has four seasons: spring, summer, autumn, and winter.
+
+Spring is warm. The cherry blossoms are beautiful, and parks are full of people. The weather is good, and it is enjoyable to walk outside.
+
+Summer is very hot. The ocean is beautiful, and many people go swimming. But it is humid. It is too hot, and you don't really want to go outside. Cold drinks are delicious.
+
+Autumn is cool and pleasant. The mountain trees turn red and yellow, and it is very beautiful. The food is also delicious. In autumn, fruits are sweet, and that is very nice.
+
+Winter is cold. There are also many places where snow falls. It is cold and you don't want to go outside, but the hot spring water is warm and pleasant.
+
+I like autumn the best. It is not hot, it is not cold, the food is delicious, and the scenery is beautiful. Japan's four seasons are very beautiful.
+
+---
+
+### Notes on the Passage
+
+**しき** — "four seasons." し (four) + き (season).
+
+**あるくのが たのしいです** — "walking is fun." The の turns the verb あるく into a noun phrase. This nominalization is formally introduced later.
+
+**むしあつい** — "humid and hot." A compound い-adjective.
+
+**あつすぎて** — "too hot, and..." すぎる (too much) attached to the adjective stem あつ-, then in て-form for chaining.
+
+**あかくて きいろくて** — "red and yellow and..." Two い-adjectives chained using the くて form.
+
+**あまくて** — "sweet and..." The て-form of あまい (sweet).
+
+**あつくなくて、さむくなくて** — "not hot and not cold." The negative て-form: くない → くなくて.
+
+---
+
 ## Vocabulary
 
 New words introduced in this chapter:

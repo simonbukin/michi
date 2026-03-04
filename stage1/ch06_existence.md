@@ -301,6 +301,60 @@ Near the door, there is also a dog. The dog's name is Shiro. Shiro is not on the
 
 ---
 
+### Reading Passage 2 — ちいさな じんじゃ
+
+Read the following passage. It describes a small neighborhood shrine — the kind you encounter on side streets all over Japan. All grammar has been introduced in this chapter or earlier.
+
+---
+
+わたしの いえの ちかくに ちいさな じんじゃが あります。
+
+とりいの まえに こまいぬが 二つ あります。みぎに 一つ、ひだりに 一つ います。こまいぬは いぬじゃありません。ししです。
+
+とりいの なかに さんどうが あります。さんどうの りょうがわに きが あります。きの うえに からすが います。からすの こえは とても 大きいです。
+
+さんどうの おくに ほんでんが あります。ほんでんの まえに さいせんばこが あります。さいせんばこの うえに すずが あります。
+
+ほんでんの よこに ちいさな いなりの やしろも あります。いなりの やしろの まえに きつねが 二つ あります。あれは ほんものの きつねじゃありません。いしの きつねです。
+
+じんじゃに ひとは いません。ねこが 一ぴき います。いつも おなじ ばしょに います。
+
+---
+
+### Translation
+
+Near my house, there is a small shrine.
+
+In front of the torii gate, there are two komainu. One is on the right, one is on the left. Komainu are not dogs. They are lions.
+
+Inside the torii, there is a path to the shrine. On both sides of the path, there are trees. On top of the trees, there are crows. The crows' voices are very loud.
+
+At the far end of the path, there is the main hall. In front of the main hall, there is an offering box. On top of the offering box, there is a bell.
+
+Next to the main hall, there is also a small Inari sub-shrine. In front of the Inari shrine, there are two foxes. Those are not real foxes. They are stone foxes.
+
+There are no people at the shrine. There is one cat. It is always in the same spot.
+
+---
+
+### Notes on the passage
+
+**ちいさな** — "small." This is the pre-noun form of ちいさい. Some adjectives have a special な form before nouns. This is covered later; for now, recognize it as "small."
+
+**こまいぬ** — "guardian statues." These stone figures appear at the entrance to virtually every Shinto shrine. Despite the name (literally "Korean dogs"), they are actually lions (しし). The passage makes this cultural point explicitly.
+
+**二つ / 一つ / 一ぴき** — Counters from Chapter 7 are previewed here. 二つ = two things, 一つ = one thing, 一ぴき = one (small animal).
+
+**りょうがわ** — "both sides." A location word: さんどうの りょうがわに = "on both sides of the path."
+
+**おく** — "the back / the far end." A location word like うえ or した.
+
+**いなりの やしろ** — "Inari sub-shrine." Inari shrines honor the deity of rice and commerce, marked by red torii gates and fox statues. Many larger shrines contain a smaller Inari shrine within the grounds.
+
+**ほんもの** — "the real thing / genuine." ほんものの きつねじゃありません = "they are not real foxes."
+
+---
+
 ## 6.8 Vocabulary List
 
 New vocabulary introduced in this chapter. The ピッチ column indicates pitch accent: ⓪ = flat (heiban), ① = drops after mora 1, ② = drops after mora 2, and so on.

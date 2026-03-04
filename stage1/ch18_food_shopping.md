@@ -487,6 +487,50 @@ A few constructions in this passage go slightly beyond what has been formally ta
 
 ---
 
+### Reading Passage 2 — ラーメンやで ちゅうもん
+
+Read the following passage. A customer orders at a ramen shop. All grammar and vocabulary come from this chapter and earlier chapters.
+
+---
+
+ひるごはんに ラーメンが たべたかったので、えきの そばの ラーメンやに はいりました。
+
+ちいさい みせでした。カウンターに ろくにん すわれます。まず、にゅうぐちの よこに けんばいきが ありました。けんばいきで しょくけんを かいます。
+
+メニューを みました。しょうゆラーメンは はっぴゃくえん、みそラーメンは きゅうひゃくえん、とんこつラーメンは きゅうひゃくえんでした。わたしは しょうゆラーメンに しました。それから、ぎょうざも たべたいので、ぎょうざの しょくけんも かいました。ぎょうざは さんびゃくごじゅうえんで、ごこいりです。
+
+カウンターに すわって、しょくけんを だしました。「にんにく、いれますか」と きかれました。「はい、おねがいします」と こたえました。
+
+ごふんぐらいで ラーメンが きました。まず、スープを のみました。あつくて とても おいしかったです。めんも ちょうどよかったです。ぎょうざも かりかりで おいしかったです。
+
+ぜんぶ たべて、みせを でました。「ごちそうさまでした」と いいました。せんひゃくごじゅうえんで、こんなに おいしい ひるごはんが たべられます。いい みせです。
+
+---
+
+### Translation
+
+I wanted ramen for lunch, so I went into a ramen shop near the station.
+
+It was a small shop. Six people can sit at the counter. First, next to the entrance there was a ticket machine. You buy meal tickets at the ticket machine.
+
+I looked at the menu. Soy sauce ramen was 800 yen, miso ramen was 900 yen, and tonkotsu ramen was 900 yen. I decided on soy sauce ramen. I also wanted to eat gyoza, so I bought a gyoza ticket too. The gyoza was 350 yen for five pieces.
+
+I sat at the counter and handed over my tickets. I was asked, "Do you want garlic?" I answered, "Yes, please."
+
+The ramen came in about five minutes. First, I drank the soup. It was hot and very delicious. The noodles were just right. The gyoza were also crispy and delicious.
+
+I ate everything and left the shop. I said, "Thank you for the meal." For 1,150 yen, you can eat such a delicious lunch. It is a good shop.
+
+### Notes
+
+- けんばいき — a ticket vending machine, common at ramen shops. You buy a しょくけん (meal ticket) before sitting down.
+- しょくけん — meal ticket/food ticket.
+- にんにく — garlic. Many ramen shops ask if you want garlic added.
+- かりかり — a mimetic word (onomatopoeia) meaning "crispy."
+- こんなに — "this much" / "so." An intensifier meaning "to this degree."
+
+---
+
 ## Vocabulary
 
 New words introduced in this chapter:

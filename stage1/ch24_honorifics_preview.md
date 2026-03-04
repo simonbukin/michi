@@ -286,7 +286,49 @@ Full productive control of the keigo system — choosing the right form, conjuga
 
 ---
 
-## 24.6 Chapter Summary
+## 24.6 Reading Passage — デパートで
+
+Read this scene. You are a customer at a department store. All of the staff speech uses keigo forms from this chapter. Your job is not to produce these forms — just to understand what the staff is saying.
+
+---
+
+きのう デパートに いきました。いりぐちの ところで てんいんさんが 「いらっしゃいませ。なにか おさがしですか」と いいました。わたしは 「ともだちの たんじょうびの プレゼントを さがしているんですが...」と こたえました。
+
+てんいんさんは 「さようでございますか。どのような ものを おかんがえですか」と ききました。わたしは 「ともだちは おちゃが すきなので、おちゃの セットは ありますか」と いいました。
+
+てんいんさんは 「はい、ございます。こちらに いろいろ ございますので、どうぞ ごらんください」と いって、おちゃの コーナーに あんないして くれました。
+
+きれいな おちゃの セットが たくさん ありました。わたしは みどりいろの セットを えらびました。「これを おねがいします」と いうと、てんいんさんは 「すてきな おいろですね。プレゼントですので、おつつみいたしましょうか」と いいました。
+
+「はい、おねがいします」と こたえました。てんいんさんは きれいに つつんでくれました。
+
+「おかいけいは さんぜんはっぴゃくえんでございます」と いわれたので、カードで はらいました。「ありがとうございました。またの おこしを おまちして おります」と てんいんさんが いいました。
+
+ともだちは きっと よろこぶと おもいます。
+
+---
+
+### What to recognize
+
+This passage is full of keigo. Here is what each form means in plain language:
+
+| Staff speech | Plain meaning |
+|---|---|
+| いらっしゃいませ | Welcome (いらっしゃる = いる/くる/いく) |
+| おさがしですか | さがしていますか (お + ます-stem + です) |
+| さようでございますか | そうですか (ございます = です/あります) |
+| おかんがえですか | かんがえていますか |
+| ございます | あります |
+| ごらんください | みてください (ごらんになる = みる) |
+| おつつみいたしましょうか | つつみましょうか (いたす = humble する) |
+| でございます | です |
+| おこしを おまちして おります | くるのを まっています (おこし = くること, おります = います) |
+
+The customer (you) uses normal です/ます throughout. This is completely appropriate. The staff uses keigo because that is their professional register. You do not need to match it — you need to understand it.
+
+---
+
+## 24.7 Chapter Summary
 
 Japanese has three main levels of politeness:
 

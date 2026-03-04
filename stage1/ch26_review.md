@@ -403,6 +403,50 @@ Every one of these features appears constantly in real Japanese. If you can read
 
 ---
 
+### Reading Passage 4 — にほんの せいかつ
+
+This is a diary entry. It uses a mix of polite and plain forms, time clauses, particles, and many grammar points from across Stage 1.
+
+---
+
+四月十日　はれ
+
+にほんに きて もう はんとしに なった。はじめて にほんに ついた 時 なにも わからなくて、ほんとうに たいへんだった。でも いまは すこしずつ にほんの せいかつに なれてきた。
+
+あさ おきた 後で いつも まどを あけて、そとの くうきを すう。わたしの アパートは えきから あるいて じゅっぷんぐらいの ところに ある。ちいさいけど、しずかで、きにいっている。
+
+にほんに くる 前に にほんごを すこし べんきょうしたけど、じっさいに にほんで せいかつしてみると、ぜんぜん ちがった。スーパーで かいものを する 時 てんいんさんが はやく はなすので、さいしょは ぜんぜん わからなかった。「ポイントカードは おもちですか」と きかれて、なんの ことか わからなかった。いまは わかるよ。
+
+にほんごの じゅぎょうに いっている 間に ともだちが たくさん できた。いちばん なかの いい ともだちは ゆうとさんだ。ゆうとさんは わたしの にほんごが へんな 時 いつも やさしく なおしてくれる。わたしも ゆうとさんに えいごを おしえている。おたがいに べんきょうしながら ともだちに なった。
+
+せんしゅうの にちようび ゆうとさんと いっしょに きょうとに いった。おてらを みた 後で ふるい ちゃみせで まっちゃを のんだ。ゆうとさんが 「この ちゃみせは ひゃくねん いじょうの れきしが あるんだよ」と おしえてくれた。まっちゃは にがかったけど、おいしかった。きょうとは ほんとうに うつくしい まちだと おもった。
+
+にほんの せいかつで いちばん すきなのは、きせつが はっきり していることだ。はるは さくらが きれいだし、あきは もみじが うつくしい。いま ちょうど はるで、ちかくの こうえんの さくらが さきはじめた。こんしゅうの しゅうまつ おはなみに いく 前に おべんとうを つくる つもりだ。
+
+あと はんとし、にほんに いられる。もっと いろいろな ところに いって、もっと にほんごが じょうずに なりたい。まいにち すこしずつ がんばろう。
+
+---
+
+### Passage Notes
+
+This diary entry is written in plain form (casual register), as is natural for personal writing. It draws on grammar from across Stage 1:
+
+- **Time clauses (Ch 25):** ついた 時, おきた 後で, くる 前に, する 時, みた 後で, いく 前に, いっている 間に, べんきょうしながら
+- **て-form connections (Ch 10):** まどを あけて, あるいて, きかれて, はなすので
+- **んです/んだ explanation (Ch 17):** れきしが あるんだよ — providing background information
+- **Sentence-final particles (Ch 23):** いまは わかるよ (assertion)
+- **Honorific recognition (Ch 24):** おもちですか — the polite form of もっていますか, heard at a store
+- **Comparison/superlative (Ch 16):** いちばん すきなのは, いちばん なかの いい
+- **Plain form (Ch 12):** The entire passage uses だ/た instead of です/ました, natural for a diary
+- **たい volitional (Ch 13):** じょうずに なりたい
+- **～ている progressive (Ch 11):** なれてきた, さきはじめた, いられる
+- **Giving/receiving (Ch 20):** なおしてくれる, おしえてくれた
+- **Quoting (Ch 18):** ～と きかれて, ～と おしえてくれた, ～と おもった
+
+If you can read this passage and understand most of it without looking anything up, you have a strong foundation in Stage 1 grammar.
+
+---
+
 ## 26.5 Extended Listening Notes
 
 Reading and listening are different skills, and the gap between them is larger in Japanese than in most languages. Written Japanese, even casual written Japanese like the email above, is organized and relatively complete. Spoken Japanese at natural speed is compressed, contracted, and full of features that never appear in textbooks. Here is what to expect.

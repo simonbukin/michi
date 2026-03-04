@@ -220,6 +220,52 @@ These combinations work because the causative verb, being 一段, conjugates int
 
 ---
 
+### Reading Passage 2 — 部活の　きびしい　先輩
+
+Read the following passage about club activities in a Japanese high school, where the causative form appears naturally in hierarchical relationships.
+
+---
+
+わたしは　高校一年生の　とき、やきゅう部に　入りました。やきゅう部は　とても　きびしかったです。
+
+先輩たちは　わたしたち　一年生に　いろいろな　ことを　させました。まず、毎朝　六時に　グラウンドに　来させました。三年生が　れんしゅうする　前に、わたしたちに　グラウンドの　そうじを　させました。
+
+キャプテンの　山本先輩は　とくに　きびしい　人でした。わたしたちを　毎日　三十分　走らせました。声が　小さいと、もう　一度　あいさつを　させました。「もっと　大きい　声を　出せ」と　よく　言われました。
+
+でも、先輩は　ときどき　やさしい　ところも　ありました。れんしゅうの　後、じょうずに　できた　一年生には　自分の　ジュースを　飲ませてくれました。うまく　できなくても、がんばった　人には　「よくやった」と　言って、やすませてくれました。
+
+今　思うと、先輩が　きびしく　させてくれた　おかげで、わたしは　つよく　なれたと　思います。
+
+---
+
+### Translation
+
+When I was a first-year in high school, I joined the baseball club. The baseball club was very strict.
+
+The senior students made us first-years do many things. First, they made us come to the field at six every morning. Before the third-years practiced, they had us clean the field.
+
+The captain, Yamamoto-senpai, was an especially strict person. He made us run for thirty minutes every day. If our voices were too quiet, he would make us do the greeting again. He often told us, "Speak up louder."
+
+However, the senpai also had kind moments sometimes. After practice, he would let first-years who did well drink his juice. Even if someone did not do well, if they tried hard, he would say "good job" and let them rest.
+
+Looking back now, I think that thanks to senpai pushing us hard, I was able to become strong.
+
+---
+
+### Notes on the passage
+
+**先輩**（せんぱい）— "senior, upperclassman." In Japanese club culture, the senpai-kouhai hierarchy is central.
+
+**グラウンド** — "field, grounds" (from English "ground"). Used for sports fields.
+
+**キャプテン** — "captain" (of a team).
+
+**声を　出す**（こえをだす）— "to speak up, to project one's voice." A fixed expression.
+
+**〜てくれました** — remember from Stage 1 that てくれる expresses that someone did something for the speaker's benefit. 飲ませてくれました combines the causative (let drink) with this giving structure.
+
+---
+
 ## 4.6 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |

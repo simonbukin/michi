@@ -222,7 +222,57 @@ The key difference is that なしに(は) and なくして(は) emphasize that t
 
 ---
 
-## 3.6 Reading Passage
+## 3.6 ～ともあろう — "Someone of Such Standing as"
+
+Expresses surprise or criticism that someone of high status or ability has done something unworthy of their position.
+
+### Formation
+
+Noun (person/role) ＋ ともあろう ＋ 人/者 ＋ が
+
+### Examples
+
+> 大学教授ともあろう 人が、こんな 初歩的な 間違いを するとは。
+> "That someone of the stature of a university professor would make such a basic mistake."
+
+> 一流企業の 社長ともあろう 者が、部下に 責任を 押しつけるとは 情けない。
+> "It's shameful that someone of the caliber of a top company's president would push responsibility onto subordinates."
+
+> 医者ともあろう 人が、健康管理を 怠るとは 驚きだ。
+> "It's surprising that someone who is a doctor would neglect their own health."
+
+### Usage note
+
+ともあろう always implies "someone you would expect better from." The pattern almost always appears with 人 or 者 after it and is followed by an expression of surprise, disappointment, or criticism. Structurally, it is the volitional form of ある + も, expressing "one who could be (such a thing)."
+
+---
+
+## 3.7 ～てはじめて — "Only After Doing X"
+
+Expresses that something is realized or becomes possible only after a particular experience or event occurs.
+
+### Formation
+
+Verb (て-form) ＋ はじめて
+
+### Examples
+
+> 日本に 来てはじめて、日本語の 難しさを 実感した。
+> "Only after coming to Japan did I truly feel how difficult Japanese is."
+
+> 親に なってはじめて、親の ありがたさが わかる。
+> "Only after becoming a parent can you understand a parent's value."
+
+> 失ってはじめて、その 大切さに 気づいた。
+> "Only after losing it did I realize how important it was."
+
+### Usage note
+
+This pattern emphasizes that without the experience described in the て-clause, the realization or understanding in the main clause would not have occurred. It is common in both written and spoken Japanese at all levels of formality. Note: this is distinct from simple はじめて meaning "for the first time" — here, it functions as an adverb modifying the entire clause.
+
+---
+
+## 3.8 Reading Passage
 
 次の文章は、ある地方都市の観光に関する雑誌記事です。
 
@@ -266,7 +316,7 @@ Without the unity of the residents, such a transformation could not have occurre
 
 ---
 
-## 3.7 Vocabulary List
+## 3.9 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |
 |------|------|-----------|------|------|

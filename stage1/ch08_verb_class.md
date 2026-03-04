@@ -134,6 +134,40 @@ There is no shortcut. When you learn a new verb that ends in いる or える, y
 
 Some textbooks provide rules of thumb ("if the verb has only one かな before る, it is more likely 一段"). These rules have too many exceptions to be trustworthy. The cost of misclassifying a verb is that every conjugated form you produce will be wrong. It is better to look up the class than to guess.
 
+Use the following flowchart to identify the class of any verb from its ます-form or dictionary form:
+
+```
+Verb Class Identification
+─────────────────────────
+
+         ┌─────────────────────┐
+         │   Is it する or 来る？  │
+         └──────────┬──────────┘
+                    │
+            Yes ←───┴───→ No
+             │              │
+     ┌───────┴───────┐    │
+     │ Irregular verb │    │
+     │ する → し-ます   │    │
+     │ 来る → き-ます   │    │
+     └───────────────┘    │
+                    ┌──────┴──────┐
+                    │ Remove ます.  │
+                    │ What is the  │
+                    │ final sound? │
+                    └──────┬──────┘
+                           │
+              -i sound ←───┴───→ -e sound
+                 │                    │
+         ┌───────┴───────┐   ┌───────┴───────┐
+         │ 五段 (u-verb)   │   │ 一段 (ru-verb)  │
+         │ 書きます → 書く  │   │ 食べます → 食べる │
+         └───────────────┘   └───────────────┘
+
+⚠ Exception: Some verbs end in -i but are 一段:
+  見ます → 見る   います → いる   起きます → 起きる
+```
+
 ---
 
 ## 8.4 The ます-Form — Formation
@@ -473,6 +507,74 @@ You can now:
 5. **Create する compound verbs** from nouns.
 
 The next chapter introduces the particles を, に, で, and へ — the particles that connect verbs to their objects, destinations, locations of action, and directions. With those particles and the verb forms from this chapter, you will be able to construct a wide range of sentences about daily life.
+
+---
+
+## 8.11 Reading Passage — がくせいの いちにち
+
+Read the following passage. It uses ます-form verbs in all four tense/polarity combinations. Every grammar point and vocabulary item has been introduced in this chapter or in previous chapters. Read it once without looking at the translation, then check your understanding.
+
+---
+
+わたしは 大学の がくせいです。まいにち いそがしいです。
+
+あさ 七じに おきます。あさごはんを たべます。コーヒーを のみます。
+
+八じに 大学に いきます。九じから じゅぎょうが はじまります。ごぜんは にほんごの じゅぎょうです。にほんごの じゅぎょうで たくさん はなします。
+
+ひるは がくしょくで たべます。がくしょくは やすいです。
+
+ごごは れきしの じゅぎょうです。せんせいの はなしを ききます。ノートに かきます。
+
+四じに じゅぎょうが おわります。としょかんで べんきょうします。としょかんで ほんを よみます。レポートも かきます。
+
+よる うちに かえります。ばんごはんを つくります。りょうりは あまり じょうずじゃありません。でも、まいにち つくります。
+
+十一じに ねます。きんようびの よるは ねません。ともだちと カラオケに いきます。
+
+きのうも カラオケに いきました。とても たのしかったです。でも、けさは おきませんでした。じゅぎょうに おくれました。
+
+---
+
+### Translation
+
+I am a university student. Every day is busy.
+
+I wake up at 7 in the morning. I eat breakfast. I drink coffee.
+
+At 8, I go to university. At 9, classes begin. In the morning, it is Japanese class. In Japanese class, I speak a lot.
+
+At noon, I eat at the school cafeteria. The cafeteria is cheap.
+
+In the afternoon, it is history class. I listen to the teacher's talk. I write in my notebook.
+
+At 4, classes end. I study at the library. I read books at the library. I also write reports.
+
+In the evening, I return home. I make dinner. My cooking is not very good. But I make it every day.
+
+I sleep at 11. On Friday nights, I do not sleep. I go to karaoke with friends.
+
+Yesterday, I also went to karaoke. It was very fun. But this morning, I did not wake up. I was late to class.
+
+---
+
+### Notes on the passage
+
+**いそがしい** — "busy." An い-adjective (formally introduced in Chapter 13). For now, recognize it before です.
+
+**じゅぎょう** — "class / lesson." A common word in student life.
+
+**がくしょく** — "school cafeteria." Short for がくせいしょくどう. University cafeterias in Japan are known for being affordable — often 300-500 yen for a full meal.
+
+**レポート** — "report / essay." A katakana loanword from English. University students in Japan frequently write レポート as assignments.
+
+**あまり...じゃありません** — "not very..." あまり pairs with a negative to mean "not much / not very." This pattern is covered in detail later.
+
+**ねません** — Negative of ねます. This is the ません form introduced in this chapter.
+
+**たのしかったです** — "it was fun." Past tense of the adjective たのしい. Adjective past tense is covered later; recognize this as a set phrase.
+
+**おくれました** — "was late." The past tense ます-form of おくれる (一段), meaning "to be late."
 
 ---
 

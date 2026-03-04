@@ -392,6 +392,47 @@ Notice that くれる appears far more often than もらう in this passage. Thi
 
 ---
 
+### Reading Passage 2 — おみやげの ぶんか
+
+Read the following passage about omiyage (souvenir) culture in Japan. All grammar comes from this chapter and earlier chapters.
+
+---
+
+にほんでは、りょこうに いったとき、おみやげを かいます。ともだちや かぞく、かいしゃの ひとに あげるためです。
+
+せんしゅう、たなかさんは きょうとに いきました。たなかさんは わたしに やつはしを くれました。やつはしは きょうとの ゆうめいな おかしです。あまくて おいしかったです。「きょうとで かってきました。どうぞ」と いって、くれました。
+
+わたしも せんげつ おきなわに いきました。かいしゃの ひとに ちんすこうを あげました。ちんすこうは おきなわの おかしです。みんな よろこんでくれました。ともだちの ゆきさんには シーサーの ストラップを あげました。ゆきさんは 「かわいい！ ありがとう」と いいました。
+
+おみやげは たかくなくても いいです。たいせつなのは、りょこうの とき その ひとの ことを かんがえたという きもちです。「あの ひとは これが すきだから」と おもって えらびます。
+
+わたしは おみやげを もらうのも あげるのも すきです。もらうとき、その ひとが わたしの ことを おもってくれたんだと わかりますから、とても うれしいです。
+
+---
+
+### Translation
+
+In Japan, when you go on a trip, you buy omiyage. It is to give to friends, family, and people at work.
+
+Last week, Tanaka went to Kyoto. Tanaka gave me yatsuhashi. Yatsuhashi is a famous sweet from Kyoto. It was sweet and delicious. She said, "I bought it in Kyoto. Please have some," and gave it to me.
+
+I also went to Okinawa last month. I gave chinsuko to people at work. Chinsuko is an Okinawan sweet. Everyone was happy (for me). I gave my friend Yuki a shisa strap. Yuki said, "Cute! Thank you."
+
+Omiyage does not have to be expensive. What is important is the feeling that you thought of that person during your trip. You choose thinking, "That person likes this."
+
+I like both receiving and giving omiyage. When I receive one, I know that person thought of me, so I am very happy.
+
+### Notes
+
+- やつはし — yatsuhashi, a cinnamon-flavored sweet from Kyoto. One of the most common Kyoto souvenirs.
+- ちんすこう — chinsuko, a traditional Okinawan cookie.
+- シーサー — shisa, the lion-dog guardian figures of Okinawa.
+- よろこんでくれました — "were happy (and I appreciated it)." よろこぶ (to be happy) in て-form + くれる shows that their happiness was a kindness directed toward the speaker.
+- たいせつなのは... きもちです — "What is important is... the feeling." The の nominalizes たいせつ, creating "the important thing."
+- おもってくれた — "thought of me (as a kindness)." おもう + てくれる, showing the speaker's gratitude for being remembered.
+
+---
+
 ## 21.8 Chapter Summary
 
 This chapter introduced the Japanese giving and receiving system — three verbs that encode the speaker's perspective and social position into the act of giving.

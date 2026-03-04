@@ -329,6 +329,48 @@ Yamada lives in Tokyo. She is not married. She lives alone. Every day is busy, b
 
 ---
 
+### Reading Passage 2 — おんせんの　ルール
+
+にほんの　おんせんには　ルールが　あります。おんせんに　はいる　まえに、からだを　あらってください。シャワーを　あびてから、おゆに　はいります。
+
+おゆの　なかで　タオルを　つかっては　いけません。タオルは　あたまの　うえに　おいてください。おおきい　こえで　はなしては　いけません。ほかの　ひとが　しずかに　はいっています。
+
+おんせんの　おゆは　とても　あついです。ながく　はいりすぎないで　ください。みずを　のんでも　いいですか。はい、のんでも　いいです。おんせんの　あとに　みずを　たくさん　のんでください。
+
+おんせんの　あと、みんな　リラックスしています。にほんじんは　おんせんが　とても　すきです。
+
+---
+
+### Translation
+
+Japanese hot springs have rules. Before entering the hot spring, please wash your body. After taking a shower, you enter the hot water.
+
+You must not use a towel in the hot water. Please place the towel on top of your head. You must not speak in a loud voice. Other people are bathing quietly.
+
+The hot spring water is very hot. Please do not stay in too long. May I drink water? Yes, you may drink water. Please drink plenty of water after the hot spring.
+
+After the hot spring, everyone is relaxing. Japanese people love hot springs.
+
+---
+
+### Notes on the Passage
+
+**おんせんに はいる まえに** — "before entering the hot spring." まえに ("before") is used with the dictionary form of a verb. This structure has not been formally taught yet, but it is transparent here.
+
+**からだを あらってください** — "please wash your body." てください making a polite request.
+
+**シャワーを あびてから** — "after taking a shower." てから marks one action completed before the next begins.
+
+**つかっては いけません** — "you must not use." てはいけません expressing prohibition.
+
+**はいっています** — "are bathing." ている with an activity verb gives the progressive meaning.
+
+**のんでも いいですか** — "may I drink?" てもいい asking for permission.
+
+**リラックスしています** — "are relaxing." A する-verb in the ている progressive form.
+
+---
+
 ## 11.8 Vocabulary List
 
 New vocabulary introduced in this chapter. ピッチ indicates pitch accent: ⓪ = flat (heiban), ① = drops after mora 1, ② = drops after mora 2, and so on.

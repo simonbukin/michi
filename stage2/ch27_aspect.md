@@ -402,6 +402,60 @@ The preparations have been gradually coming along. All that's left is to wait fo
 
 ---
 
+### Reading Passage 2 — 台風の　準備
+
+Read the following passage about preparing for a typhoon. Notice how the aspect markers ている, てある, ておく, and てしまう each contribute a distinct nuance.
+
+---
+
+天気予報に　よると、明日の　夜、大きな　台風が　来るそうだ。わたしは　いろいろ　準備しておかなければ　ならない。
+
+まず、外に　出ている　ものを　ぜんぶ　家の　中に　入れておいた。ベランダの　植木鉢は　もう　中に　入れてある。自転車も　たおれないように　かべに　つないでおいた。
+
+食べ物と　水は　おととい　買っておいた。パンと　カップめんが　たなの　上に　並べてある。水は　六本　買ってきて、台所に　置いてある。懐中電灯と　電池も　だいぶ前に　準備してあるから、だいじょうぶだ。
+
+ひとつ　しまったと　思った　ことが　ある。ラジオの　電池が　なくなっていることに　気が　ついた。新しい　電池を　買いに　行こうと　思ったが、もう　みせが　閉まってしまっていた。となりの　山田さんに　聞いてみたら、電池を　分けてくれた。たすかった。
+
+窓には　テープを　貼っておいた。お風呂にも　水を　ためておいた。これで　準備は　全部　終わった。
+
+外では　もう　風が　強くなってきている。空も　だんだん　暗くなっていく。今夜は　たいへんな　夜に　なりそうだ。安全に　すごせるように、早めに　家に　入っておこう。
+
+---
+
+### Translation
+
+According to the weather forecast, a large typhoon is coming tomorrow night. I have to prepare various things in advance.
+
+First, I brought everything that was outside into the house ahead of time. The flower pots on the balcony have already been brought inside. I also tied the bicycle to the wall in advance so it would not fall over.
+
+I bought food and water the day before yesterday. Bread and cup noodles are arranged on the shelf. I bought six bottles of water and they are placed in the kitchen. The flashlight and batteries were also prepared a while ago, so that is fine.
+
+There is one thing where I thought "oh no." I noticed the radio's batteries had run out. I was going to go buy new ones, but the stores had already closed. When I tried asking my neighbor Yamada, he shared some batteries with me. That was a relief.
+
+I put tape on the windows in advance. I also filled the bathtub with water ahead of time. With this, all the preparations are finished.
+
+Outside, the wind has already been getting stronger. The sky is also gradually getting darker. Tonight looks like it will be a tough night. So I can stay safe, I will go inside the house early.
+
+---
+
+### Notes on the passage
+
+**台風**（たいふう）— "typhoon." Japan's typhoon season runs from late summer through autumn.
+
+**植木鉢**（うえきばち）— "flower pot." ベランダ means "balcony, veranda."
+
+**懐中電灯**（かいちゅうでんとう）— "flashlight." 電池（でんち）means "battery."
+
+**しまった** — An exclamation meaning "oh no!" Related to てしまう — the feeling that something unfortunate has happened.
+
+**分ける**（わける）— "to share, to divide." 分けてくれた — "shared with me" (using the てくれる giving pattern).
+
+**ためる** — "to fill, to accumulate." お風呂に水をためる means "to fill the bathtub with water," a common typhoon preparation in case water service is interrupted.
+
+**Note the aspect markers:** ておいた (advance preparation), てある (resulting states of preparation), てしまっていた (unfortunate completed state), てきている (ongoing change toward the present), ていく (change progressing into the future).
+
+---
+
 ## 27.8 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |

@@ -527,6 +527,50 @@ I think it will be a fun trip. I want summer vacation to come soon.
 
 ---
 
+### Reading Passage 2 — しんねんの もくひょう
+
+Read the following passage about New Year's resolutions. All grammar comes from this chapter and earlier chapters.
+
+---
+
+あたらしい としに なりました。ことしの もくひょうを かんがえました。
+
+まず、まいにち にほんごを べんきょうしなければ なりません。きょねんは いそがしくて、あまり べんきょうしませんでした。ことしは まいにち さんじゅっぷん べんきょうする つもりです。
+
+それから、もっと うんどうしたいです。いまは あまり うんどうしていません。まいしゅう にかい、こうえんを はしりたいです。あさ はやく おきなくては いけませんが、がんばります。
+
+りょうりも じぶんで つくりたいです。いつも コンビニの おべんとうを たべていますが、あまり けんこうてきでは ありません。かんたんな りょうりから はじめる つもりです。やさいを もっと たべなければ なりません。
+
+にほんごの しけんも うけたいです。なつに じぇいえるぴぃてぃの しけんが あります。それまでに かんじを もっと おぼえなくては いけません。でも、まいにち ごこずつ おぼえれば だいじょうぶだと おもいます。
+
+ぜんぶ できなくても いいです。すこしずつ がんばる つもりです。
+
+---
+
+### Translation
+
+A new year has come. I thought about this year's goals.
+
+First, I must study Japanese every day. Last year I was busy and did not study much. This year, I intend to study thirty minutes every day.
+
+Also, I want to exercise more. Right now I am not exercising much. I want to run in the park twice a week. I must wake up early in the morning, but I will do my best.
+
+I also want to cook for myself. I always eat convenience store bento, but it is not very healthy. I intend to start from simple cooking. I must eat more vegetables.
+
+I also want to take a Japanese language test. There is a JLPT exam in summer. Before that, I must memorize more kanji. But I think it will be fine if I memorize five per day.
+
+It is okay even if I cannot do everything. I intend to do my best little by little.
+
+### Notes
+
+- もくひょう — goals, objectives.
+- けんこうてき — healthy (な-adjective, from けんこう "health" + てき "~like").
+- じぇいえるぴぃてぃ — JLPT (Japanese Language Proficiency Test), written in katakana-style phonetics.
+- おぼえれば — conditional of おぼえる (to memorize). The ば conditional means "if I memorize."
+- すこしずつ — little by little. The suffix ずつ means "each" or "at a time."
+
+---
+
 ## 19.10 Summary of Patterns
 
 | Pattern | Formation | Meaning | Restriction |

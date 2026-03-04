@@ -4,6 +4,23 @@ Chapter 8 gave you the verb system: three verb classes (五段, 一段, irregula
 
 You have already met several particles: は (topic), が (subject), も (also), の (possession), に (location of existence), and か (question). This chapter introduces the particles that connect nouns to action verbs. These are the structural glue of Japanese sentences. Master them, and you can describe nearly any daily activity.
 
+The following diagram shows how the core particles introduced in this chapter relate to each other spatially:
+
+```
+Core Particle Map
+─────────────────
+
+                    へ (direction)
+                    ↗
+  から ─────→ [action で] ─────→ まで
+  (from)      (at/with)        (until)
+
+  [person] と ←── に (target) ──→ [place]
+  (together)    (to/at/for)
+
+  ─── を ──→   direct object moves through action
+```
+
 ---
 
 ## 9.1 を — Direct Object
@@ -454,6 +471,68 @@ Every night I go to bed at 11 o'clock.
 **あとで** — "after." A useful time expression: ばんごはんの あとで = after dinner. Formally introduced in a later chapter.
 
 **ときどき** — "sometimes." An adverb of frequency, like いつも (always). It does not take に.
+
+---
+
+### Reading Passage 2 — こうえんへ いきました
+
+Read the following passage. It uses all the core particles introduced in this chapter — を, に, で, へ, と, から, まで. Read it once without looking at the translation, then check your understanding.
+
+---
+
+にちようびに ともだちと こうえんへ いきました。
+
+うちから こうえんまで バスで いきました。バスで 二十分ぐらいです。
+
+こうえんの いりぐちに 大きな とりいが あります。あれは めいじじんぐうの とりいです。
+
+こうえんの なかを あるきました。みちの りょうがわに 大きな きが あります。とても しずかです。とうきょうの なかに こんな しずかな ばしょが あります。
+
+ひるに ベンチで おべんとうを たべました。おべんとうは コンビニで かいました。ともだちは おにぎりと おちゃを かいました。わたしは サンドイッチを かいました。
+
+ごごは じんじゃに いきました。じんじゃで おまいりを しました。それから、おみくじを ひきました。わたしの おみくじは 「小吉」でした。ともだちの おみくじは 「大吉」でした。
+
+三じから 四じまで いけの ちかくで やすみました。いけに こいが たくさん いました。あかい こいと しろい こいが いました。
+
+五じに こうえんを でました。えきまで あるいて、でんしゃで かえりました。
+
+---
+
+### Translation
+
+On Sunday, I went to the park with a friend.
+
+From my house to the park, I went by bus. It is about 20 minutes by bus.
+
+At the entrance of the park, there is a large torii gate. That is the Meiji Shrine torii.
+
+I walked through the park. On both sides of the path, there are large trees. It is very quiet. In the middle of Tokyo, there is a place this quiet.
+
+At noon, I ate a boxed lunch on a bench. I bought the lunch at a convenience store. My friend bought onigiri and tea. I bought a sandwich.
+
+In the afternoon, I went to the shrine. At the shrine, I prayed. Then, I drew a fortune slip. My fortune was "small luck." My friend's fortune was "great luck."
+
+From 3 to 4, I rested near the pond. There were many koi in the pond. There were red koi and white koi.
+
+At 5, I left the park. I walked to the station and went home by train.
+
+---
+
+### Notes on the Passage
+
+**めいじじんぐう** — Meiji Shrine, located inside a large forested park in central Tokyo. It is one of the most visited shrines in Japan. The contrast between the quiet forest and the surrounding city is striking.
+
+**こんな** — "this kind of / such a." A こそあど word: こんな (this kind), そんな (that kind), あんな (that kind, far), どんな (what kind). Formally introduced later.
+
+**おまいりを しました** — "prayed / paid respects." おまいり is a する compound noun. At a Shinto shrine, this typically involves throwing a coin, bowing, clapping twice, and bowing again.
+
+**おみくじを ひきました** — "drew a fortune slip." おみくじ are paper fortunes found at shrines and temples. They range from 大吉 (great luck) to 大凶 (great misfortune). 小吉 is "small luck" — mildly good.
+
+**しずかな** — "quiet." A な-adjective (covered in Chapter 14). Recognize しずかな ばしょ as "a quiet place."
+
+**こい** — "koi / carp." Ornamental fish found in ponds at many Japanese parks and temple grounds.
+
+**あかい / しろい** — "red / white." い-adjectives (Chapter 13). Recognize them as color words modifying こい.
 
 ---
 

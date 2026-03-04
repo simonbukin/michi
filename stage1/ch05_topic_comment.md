@@ -341,6 +341,56 @@ These self-introductions follow a predictable structure that you will encounter 
 
 ---
 
+### Reading Passage 2 — えきの あんないばん
+
+Read the following passage. It describes signs and announcements at a Japanese train station, using only grammar from this chapter. Read it once without looking at the translation, then check your understanding.
+
+---
+
+ここは しんじゅくえきです。しんじゅくえきは とても 大きいです。
+
+あの あんないばんを みてください。一ばんせんは やまのてせんです。にばんせんも やまのてせんです。あれは そとまわりです。これは うちまわりです。
+
+あの みせは きっぷうりばです。きっぷうりばの となりは こうばんです。この こうばんは えきの こうばんです。
+
+すみません、トイレは どこですか。あそこです。あの しるしは トイレの しるしです。
+
+あの おとは はっしゃメロディーです。日本の えきの おんがくです。えきの おんがくは えきごとに ちがいます。しんじゅくえきの メロディーも とくべつです。
+
+---
+
+### Translation
+
+This is Shinjuku Station. Shinjuku Station is very big.
+
+Look at that information board. Platform 1 is the Yamanote Line. Platform 2 is also the Yamanote Line. That one is the outer loop. This one is the inner loop.
+
+That place is a ticket counter. Next to the ticket counter is a police box. This police box is the station's police box.
+
+Excuse me, where is the restroom? It is over there. That sign is the restroom sign.
+
+That sound is a departure melody. It is music of Japanese stations. Station music differs from station to station. Shinjuku Station's melody is also special.
+
+---
+
+### Notes on the passage
+
+**あんないばん** — "information board / guide board." A compound noun: あんない (guidance) + ばん (board).
+
+**一ばんせん / にばんせん** — "Platform 1 / Platform 2." ばんせん means "track/platform number." Numbers with counters are covered in Chapter 7; for now, recognize these as set phrases.
+
+**そとまわり / うちまわり** — "outer loop / inner loop." The Yamanote Line in Tokyo is a circular line that runs in two directions. These are real terms you will see on station signage.
+
+**みてください** — "please look." The て-form + ください construction is covered later. Recognize this as a set phrase meaning "please look at."
+
+**はっしゃメロディー** — "departure melody." Japanese train stations famously play unique jingles when trains depart. Each station has its own melody — a distinctive part of Japanese daily life.
+
+**ちがいます** — "differs / is different." A verb in ます-form; verbs are formally introduced in Chapter 8.
+
+**とくべつ** — "special." A な-adjective used here before です.
+
+---
+
 ## 5.9 Vocabulary List
 
 All new vocabulary items introduced in this chapter. Pitch accent is marked with circled numbers: ⓪ indicates a flat (heiban) pattern, and ①②③ etc. indicate where the pitch drops.

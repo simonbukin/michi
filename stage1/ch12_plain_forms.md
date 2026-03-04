@@ -398,6 +398,72 @@ You now have every tool needed to form and recognize the four basic conjugations
 
 ---
 
+## 12.8 Reading Passage — しゅうまつの けいかく
+
+ゆうこさんと けんさんが はなしています。
+
+ゆうこ：けんくん、しゅうまつ なにする？
+
+けん：うーん、どようびは ともだちと えいがを みると おもう。あたらしい にほんの えいがが ある んだ。
+
+ゆうこ：へえ、いいね。どんな えいが？
+
+けん：よく しらない。でも、ともだちが おもしろいと おもうって いってた。ゆうこは？
+
+ゆうこ：わたしは どようびに かいものに いく。あたらしい ふくが ほしい んだ。にちようびは なにも しない。うちで ゆっくりする。
+
+けん：にちようびに いっしょに ごはんを たべない？えきの ちかくに あたらしい みせが できた。
+
+ゆうこ：いいね！いく いく！なんじ？
+
+けん：じゅうにじごろは どう？
+
+ゆうこ：うん、だいじょうぶ。たのしみ！
+
+---
+
+### Translation
+
+Yuko and Ken are chatting.
+
+Yuko: Ken, what are you doing this weekend?
+
+Ken: Hmm, on Saturday I think I'll watch a movie with a friend. There's a new Japanese movie.
+
+Yuko: Oh, that's nice. What kind of movie?
+
+Ken: I don't really know. But my friend said he thinks it's interesting. How about you, Yuko?
+
+Yuko: On Saturday I'm going shopping. I want new clothes. On Sunday I'm not doing anything. I'll relax at home.
+
+Ken: Want to eat together on Sunday? A new restaurant opened near the station.
+
+Yuko: Sounds great! I'll go, I'll go! What time?
+
+Ken: How about around noon?
+
+Yuko: Yeah, that works. I'm looking forward to it!
+
+---
+
+### Notes on the Passage
+
+**なにする？** — "What are you doing?" Casual form of なにを しますか. The を particle is often dropped in casual speech.
+
+**みると おもう** — "I think I'll watch." と おもう with a plain form verb expresses what the speaker thinks.
+
+**ある んだ** — "there is (you see)." んだ (casual form of んです) adds explanation or emphasis.
+
+**おもしろいと おもうって いってた** — "said he thinks it's interesting." って is a casual quotation marker. いってた is a casual contraction of いっていた (was saying).
+
+**なにも しない** — "not doing anything." なにも with a negative verb means "nothing."
+
+**たべない？** — "Won't you eat?" / "Want to eat?" A negative plain form used as a casual invitation.
+
+**できた** — "opened" / "was made." The た-form of できる (to be completed / to come into existence).
+
+---
+
 ## Vocabulary
 
 New words introduced in this chapter:

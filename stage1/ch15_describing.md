@@ -656,6 +656,50 @@ Today is cloudy. It is a little cold, but tomorrow is sunny. Tomorrow will be wa
 
 ---
 
+### Reading Passage 2 — きょうとと おおさか
+
+にほんで ゆうめいな まちが ふたつ あります。きょうとと おおさかです。
+
+きょうとは ふるい まちです。おてらが たくさん あって、とても しずかです。まちは おおさかより ちいさいですが、けしきは きょうとの ほうが きれいです。とくに あきは やまが あかくて きいろくて、とても うつくしいです。たべものは きょうりょうりが ゆうめいです。やさしい あじで、とても おいしいです。
+
+おおさかは きょうとより にぎやかで、ひとが おおいです。たべものは にほんで いちばん おいしいと おもいます。たこやきと おこのみやきが とくに ゆうめいです。やすくて おいしい みせが おおさかの ほうが おおいです。おおさかの ひとは おもしろくて、よく わらいます。
+
+きょうとと おおさか、どちらが いいですか。しずかな ところが すきな ひとは きょうとの ほうが いいです。にぎやかな ところが すきな ひとは おおさかの ほうが いいです。
+
+わたしは おおさかの ほうが すきです。たべものが やすくて おいしいですから。でも、きょうとの おてらも とても すきです。どちらも すばらしい まちです。
+
+---
+
+### Translation
+
+There are two famous cities in Japan: Kyoto and Osaka.
+
+Kyoto is an old city. There are many temples, and it is very quiet. The city is smaller than Osaka, but the scenery is more beautiful in Kyoto. Especially in autumn, the mountains turn red and yellow, and it is very beautiful. As for food, Kyoto cuisine is famous. It has a gentle flavor and is very delicious.
+
+Osaka is livelier than Kyoto, and there are more people. I think the food is the most delicious in Japan. Takoyaki and okonomiyaki are especially famous. Osaka has more cheap and delicious restaurants. The people of Osaka are funny and laugh a lot.
+
+Kyoto or Osaka — which is better? People who like quiet places will prefer Kyoto. People who like lively places will prefer Osaka.
+
+I prefer Osaka, because the food is cheap and delicious. But I also really like Kyoto's temples. Both are wonderful cities.
+
+---
+
+### Notes on the Passage
+
+**おおさかより ちいさいですが** — "smaller than Osaka, but..." より marks the standard of comparison.
+
+**きょうとの ほうが きれいです** — "Kyoto is more beautiful (of the two)." の ほうが marks the preferred or greater side in a comparison.
+
+**にほんで いちばん おいしいと おもいます** — "I think it is the most delicious in Japan." いちばん creates a superlative; と おもいます adds the speaker's opinion.
+
+**どちらが いいですか** — "which is better?" どちら is the polite word for "which (of two)."
+
+**どちらも すばらしい** — "both are wonderful." どちらも means "both."
+
+**よく わらいます** — "laugh a lot." よく as a frequency adverb meaning "often."
+
+---
+
 ## Vocabulary List
 
 New words introduced in this chapter. Pitch accent is marked with the notation: [0] = flat/heiban (no drop), [number] = drop after that mora.

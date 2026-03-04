@@ -366,6 +366,50 @@ With this chapter and the previous one, you now have the complete adjective syst
 
 ---
 
+### Reading Passage 2 — まちの すきな ところ
+
+わたしは がくせいです。まちに すきな ところが たくさん あります。
+
+えきの ちかくに しずかな きっさてんが あります。コーヒーが とても おいしいです。わたしは この きっさてんが いちばん すきです。ここで よく ほんを よみます。てんいんさんも しんせつで、きもちがいいです。
+
+えきの まえに にぎやかな しょうてんがいが あります。やすくて おいしい みせが おおいです。わたしは やきとりの みせが すきです。でも、ラーメンの みせは あまり すきじゃないです。おとが うるさくて、ちょっと にがてです。
+
+がっこうの ちかくに きれいな こうえんが あります。はるに さくらが きれいで、ゆうめいです。わたしは おんがくが すきですから、ここで よく ギターを れんしゅうします。ギターは あまり じょうずじゃないですが、たのしいです。
+
+この まちは べんりで、ひとが しんせつで、とても いい まちです。わたしは この まちの せいかつが だいすきです。
+
+---
+
+### Translation
+
+I am a student. There are many places I like in my town.
+
+Near the station there is a quiet coffee shop. The coffee is very delicious. I like this coffee shop the best. I often read books here. The staff is also kind, and it feels nice.
+
+In front of the station there is a lively shopping street. There are many cheap and delicious restaurants. I like the yakitori restaurant. But I don't really like the ramen restaurant. It's noisy and I'm not great with that.
+
+Near the school there is a beautiful park. In spring the cherry blossoms are beautiful, and it is famous. I like music, so I often practice guitar here. I'm not very good at guitar, but it's fun.
+
+This town is convenient, the people are kind, and it is a very good town. I love life in this town.
+
+---
+
+### Notes on the Passage
+
+**しずかな きっさてん** — "a quiet coffee shop." な-adjective modifying a noun with な.
+
+**すきじゃないです** — "don't like." The polite negative of the な-adjective すき.
+
+**にがてです** — "not great at / uncomfortable with." A な-adjective expressing weakness or discomfort with something.
+
+**すきですから** — "because I like..." から after a polite form gives a reason.
+
+**じょうずじゃないですが** — "am not skillful, but..." The negative of じょうず followed by が for contrast.
+
+**べんりで、ひとが しんせつで** — Two な-adjectives chained with で (the て-form of な-adjectives).
+
+---
+
 ## Vocabulary
 
 New vocabulary introduced in this chapter. The ピッチ column indicates pitch accent: ⓪ = flat (heiban), ① = drops after mora 1, ② = drops after mora 2, and so on.

@@ -230,6 +230,56 @@ However, thinking about it now, thanks to being made to learn piano, I can still
 
 ---
 
+### Reading Passage 2 — むかしの　学校の　きまり
+
+Read the following passage about memories of strict school rules and the things students were made to do.
+
+---
+
+わたしの　母は　よく　むかしの　学校の　話を　します。母の　中学校は　とても　きまりが　きびしかったそうです。
+
+まず、かみの　けの　きまりが　ありました。おんなの　子は　かみを　短く　切らされたそうです。長い　かみは　ゆるされませんでした。男の　子も、前がみが　まゆげより　長いと、切らされました。
+
+ふくそうの　きまりも　きびしかったそうです。冬でも　コートを　着る　ことが　できませんでした。さむくても、せいふくだけで　学校に　来させられました。くつ下の　いろまで　決められていて、白い　くつ下しか　はかされませんでした。
+
+べんきょうの　ことでも、きびしく　させられました。テストの　点が　わるいと、放課後に　のこされて、何度も　同じ　問題を　とかされました。宿題を　わすれると、ろうかに　立たされることも　あったそうです。
+
+母は　「いやだったけど、おかげで　がまんづよく　なれた」と　言っています。でも、「自分の　子どもには　あんな　きまりは　ない　ほうが　いい」とも　言っています。
+
+---
+
+### Translation
+
+My mother often talks about school in the old days. She says her middle school had very strict rules.
+
+First, there were rules about hair. Girl students were apparently made to cut their hair short. Long hair was not allowed. Boys, too, if their bangs were longer than their eyebrows, were made to cut them.
+
+Clothing rules were also strict, she says. Even in winter, they could not wear coats. Even when it was cold, they were made to come to school in just their uniforms. Even the color of socks was decided for them, and they were only made to wear white socks.
+
+They were also strictly made to do things regarding studying. If their test scores were bad, they were kept after school and made to solve the same problems many times. If they forgot their homework, they were apparently sometimes made to stand in the hallway.
+
+My mother says, "I hated it, but thanks to that, I became perseverant." But she also says, "For my own children, it's better without those kinds of rules."
+
+---
+
+### Notes on the passage
+
+**きまり**（決まり）— "rule, regulation."
+
+**かみの　け**（髪の毛）— "hair (on the head)."
+
+**まゆげ**（眉毛）— "eyebrows." 前がみ（前髪）means "bangs."
+
+**ふくそう**（服装）— "clothing, dress code." せいふく（制服）means "school uniform."
+
+**放課後**（ほうかご）— "after school."
+
+**ろうか**（廊下）— "hallway." Being made to stand in the hallway was a common punishment in older Japanese schools.
+
+**がまんづよい**（我慢強い）— "perseverant, patient." がまん means "endurance."
+
+---
+
 ## 5.7 Vocabulary List
 
 | 単語 | 読み | アクセント | 品詞 | 英語 |

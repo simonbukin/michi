@@ -43,7 +43,34 @@ def collect_stage_files(stage_dir: Path) -> list[Path]:
     return files
 
 
+def create_symlinks():
+    """Create symlinks in src/ pointing to actual content files."""
+    src = ROOT / "src"
+    src.mkdir(parents=True, exist_ok=True)
+
+    # Symlink front_matter.md
+    link = src / "front_matter.md"
+    if not link.exists():
+        link.symlink_to("../front_matter.md")
+
+    # Symlink grammar_index.md and vocabulary_index.md
+    for name in ("grammar_index.md", "vocabulary_index.md"):
+        link = src / name
+        if not link.exists():
+            link.symlink_to(f"../{name}")
+
+    # Symlink each stage directory
+    for stage_name in STAGE_TITLES:
+        stage_dir = ROOT / stage_name
+        if stage_dir.is_dir():
+            link = src / stage_name
+            if not link.exists():
+                link.symlink_to(f"../{stage_name}")
+
+
 def main():
+    create_symlinks()
+
     lines = ["# Summary\n"]
 
     # Introduction (front matter)

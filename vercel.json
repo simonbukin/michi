@@ -1,0 +1,5 @@
+{
+  "buildCommand": "./build.sh",
+  "outputDirectory": "dist",
+  "installCommand": "curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.44/mdbook-v0.4.44-x86_64-unknown-linux-gnu.tar.gz | tar -xz -C /usr/local/bin"
+}

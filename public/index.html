@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>日本語の道 — The Path of Japanese</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      max-width: 640px;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      margin-bottom: 0.25rem;
+      color: #fff;
+    }
+    .subtitle {
+      font-size: 1.1rem;
+      color: #888;
+      margin-bottom: 3rem;
+    }
+    .books {
+      display: flex;
+      gap: 1.5rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    a.card {
+      display: block;
+      text-decoration: none;
+      background: #16213e;
+      border: 1px solid #2a2a4a;
+      border-radius: 12px;
+      padding: 2rem 1.5rem;
+      width: 260px;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    a.card:hover {
+      border-color: #e94560;
+      transform: translateY(-2px);
+    }
+    .card h2 {
+      font-size: 1.2rem;
+      color: #fff;
+      margin-bottom: 0.5rem;
+    }
+    .card p {
+      font-size: 0.9rem;
+      color: #999;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>日本語の道</h1>
+    <p class="subtitle">The Path of Japanese</p>
+    <div class="books">
+      <a class="card" href="/textbook/">
+        <h2>Textbook</h2>
+        <p>Grammar, vocabulary, and kanji from N5 to beyond N1. Six stages of structured learning.</p>
+      </a>
+      <a class="card" href="/immersion/">
+        <h2>Immersion Guide</h2>
+        <p>What to consume, when to start, and how to build the habits that turn knowledge into comprehension.</p>
+      </a>
+    </div>
+  </div>
+</body>
+</html>

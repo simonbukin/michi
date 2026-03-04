@@ -76,7 +76,8 @@ PDF_PANDOC_FLAGS := --pdf-engine=$(PDF_ENGINE) \
 STAGES := stage1 stage2 stage3 stage4 stage5 stage6
 
 .PHONY: all clean book serve $(STAGES) \
-        $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf)
+        $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf) \
+        immersion-book immersion-serve all-books
 
 all: stage1 stage2 stage3 stage4 stage5 stage6
 
@@ -326,6 +327,19 @@ else
 		$(S6_SOURCES)
 	@echo "Built $(BUILDDIR)/stage6.pdf"
 endif
+
+# --- Immersion Guide ---
+
+immersion-book: immersion/src/SUMMARY.md
+	cd immersion && mdbook build
+
+immersion-serve: immersion/src/SUMMARY.md
+	cd immersion && mdbook serve --port 3001
+
+immersion/src/SUMMARY.md: immersion/gen_summary.py $(wildcard immersion/stage*/ch*.md) $(wildcard immersion/stage*/stage_intro.md)
+	cd immersion && python3 gen_summary.py
+
+all-books: book immersion-book
 
 clean:
 	rm -rf $(BUILDDIR)

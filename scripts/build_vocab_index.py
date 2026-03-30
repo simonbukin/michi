@@ -14,7 +14,8 @@ import os
 import re
 import glob
 
-PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
+SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
+TEXTBOOK_DIR = os.path.join(SCRIPTS_DIR, '..', 'textbook')
 DICT_DIR = "/tmp/jitendex"
 
 
@@ -223,7 +224,7 @@ def main():
 
     all_entries = []
     for stage_num in range(1, 7):
-        filepath = os.path.join(PROJECT_DIR, f'stage{stage_num}', 'appendix_a_vocabulary.md')
+        filepath = os.path.join(TEXTBOOK_DIR, f'stage{stage_num}', 'appendix_a_vocabulary.md')
         if not os.path.exists(filepath):
             print(f"Warning: {filepath} not found, skipping")
             continue
@@ -339,7 +340,7 @@ def main():
     lines.extend(["", "---", "",
         f"*Total entries: {len(unique_entries)}. Definitions sourced from Jitendex (JMdict). Pitch accent from 道 textbook.*", ""])
 
-    output_path = os.path.join(PROJECT_DIR, 'vocabulary_index.md')
+    output_path = os.path.join(TEXTBOOK_DIR, 'vocabulary_index.md')
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines))
 

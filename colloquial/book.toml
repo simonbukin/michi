@@ -1,10 +1,10 @@
 [book]
-title = "道 — michi"
+title = "道 — Colloquial Japanese Patterns"
 authors = ["道 Project"]
 language = "ja"
 src = "src"
 
 [build]
-build-dir = "build/book"
+build-dir = "../build/colloquial"
 
 [output.html]

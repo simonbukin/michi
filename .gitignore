@@ -1,6 +1,7 @@
 build/
 dist/
-src/
+textbook/src/
 immersion/src/
+colloquial/src/
 .DS_Store
 *.zip

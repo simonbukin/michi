@@ -33,6 +33,14 @@ Take a real Japanese sentence and blank out the target word. Fill in the blank f
 **Example:**
 彼女は毎朝公園を＿＿＿＿。(Answer: 散歩する)
 
+### Output Practice: The Missing Half
+
+The retrieval stack above covers *input-side* learning — recognizing and recalling words you have encountered. But Swain's Output Hypothesis (1985) identified a separate mechanism: producing language forces you to notice gaps in your own knowledge that input alone never reveals. You might understand 残念 perfectly when reading it, but when you try to write a sentence using it, you discover you are unsure whether it takes が or を, or whether it needs な before a noun. That moment of noticing is where acquisition happens.
+
+The immersion community has historically deferred output to "later" — and for good reason, since premature output without sufficient input leads to fossilized errors. But the research does not support deferring output *entirely*. The plateau that many intermediate learners hit — understanding a lot but unable to produce much — is partly an output-practice deficit.
+
+**The concrete recommendation:** Add a low-stakes daily writing habit. A few sentences in Japanese — a diary entry, a reaction to something you watched, a text message to yourself. The goal is not perfection; it is noticing what you cannot yet produce. If you use AI tools (see Stage 4, Chapter 6), ask for corrections *with explanations* rather than just rewrites. Five minutes of writing where you struggle to express a thought teaches you more about your gaps than thirty minutes of passive review.
+
 ### Cumulative Self-Tests
 
 Once a week, take a mixed quiz covering all vocabulary from the past 1-2 weeks. Do not sort by category or source — mix everything together. Nakata et al. (2021) found cumulative tests were 2-3x more effective than item-by-item spaced review for long-term retention. Maie et al. (2025) replicated this advantage in a second language context. The key mechanism is that cumulative testing forces retrieval across a wide range of cues, strengthening the kind of flexible recall you need in real comprehension.
@@ -40,6 +48,14 @@ Once a week, take a mixed quiz covering all vocabulary from the past 1-2 weeks. 
 ### Discovery-Based Learning
 
 Before looking up a new word, guess its meaning from context. Even if you guess wrong, the attempt triggers a **pretesting effect** — failed retrieval attempts enhance subsequent learning (Kornell et al., 2009). When you guess correctly, the dopaminergic reward signal strengthens the memory trace (Bains et al., 2024). This is how Yomitan should be used: encounter a word in context, make your best guess, *then* hover to confirm.
+
+### Narrow Input Strategy
+
+Incidental vocabulary acquisition research (2023 *Language Teaching* meta-analysis) confirms what frequency data predicts: you need to encounter a word **6-15+ times** before it sticks, and encounters must be spaced across different contexts. The problem for beginners and intermediates is that switching content constantly — a new anime this week, a different manga next week, a podcast after that — scatters your encounters too thinly. You meet hundreds of words once or twice and retain few of them.
+
+**Narrow reading and narrow listening** (Webb & Chang, 2019, *SSLA*) solve this by deliberately staying within one content domain for an extended period. Watch three seasons of the same show. Read five volumes of the same manga series. Listen to the same podcast for a month. Domain-specific vocabulary recycles naturally — the same words appear again and again in slightly different contexts, giving you the repeated encounters the research says you need.
+
+This does not mean restricting yourself forever. It means that at beginner-to-intermediate levels, depth beats breadth. Pick one domain you enjoy, go deep for 2-4 weeks, then move on. The vocabulary you consolidate in that domain becomes a foundation that transfers outward.
 
 ### If You Still Want Anki
 
@@ -52,9 +68,9 @@ Anki remains a viable tool — especially if you already have a deck and a habit
 
 ## Kanji: Handwriting Is Not Dead
 
-The decline of handwriting in daily life has led many learners to skip it entirely. The neuroscience disagrees.
+The decline of handwriting in daily life has led many learners to skip it entirely. The neuroscience suggests this is a mistake — though the evidence is not as clean-cut as some summaries imply.
 
-A 2024 EEG study found that handwriting activates widespread theta and alpha oscillation networks across the brain that typing does not. These are the same neural signatures associated with deep encoding and long-term memory formation. Typing the same characters produced significantly weaker activation patterns.
+A 2024 EEG study found stronger brain connectivity patterns during handwriting compared to typing — a finding that, while contested (Pinet & Longcamp, 2025, published a commentary disputing the study's conclusions about learning), is consistent with broader evidence that motor-encoding aids retention. The general principle — that the physical act of writing engages encoding pathways that passive viewing does not — is supported across multiple studies, even if the specific EEG claims remain debated.
 
 You do not need to become a calligrapher. **3-5 repetitions per new kanji with correct stroke order** is sufficient to capture the encoding benefit. Combine this with **radical decomposition** — breaking each kanji into its component radicals and understanding their spatial relationships. Across all learner populations studied, radical awareness is the single strongest predictor of kanji learning success. The optimal study order is topological (learn components before compounds that use them) with frequency weighting (prioritize kanji you will actually encounter).
 
@@ -104,7 +120,7 @@ Research identifies several common practices that actively hurt learning:
 
 **Don't count passive listening as study hours.** Background audio builds familiarity with sound patterns, but acquisition requires attention. Be honest with yourself about what counts.
 
-**Don't skip abstract vocabulary.** The intuition that concrete words are "easier" and should come first is wrong. Sandberg (2019) found that learning abstract words first facilitates later concrete vocabulary acquisition, but not vice versa. Do not avoid words just because you cannot picture them.
+**Don't skip abstract vocabulary.** The intuition that concrete words are "easier" and should come first leads many learners to actively avoid abstract words. Sandberg (2019) found evidence that abstract vocabulary knowledge can facilitate later concrete vocabulary acquisition. (Note: this does not mean actively prioritizing abstract over concrete vocabulary — the claim is that abstract words should not be *avoided*, not that they should be front-loaded.) Do not skip a word just because you cannot picture it.
 
 ## The Daily Protocol
 
@@ -120,7 +136,7 @@ Here is what a research-optimal day looks like. Adjust times to fit your schedul
 
 **Main Immersion Block (1-2 hours):**
 - Reading or watching with Yomitan discovery workflow: encounter → guess → confirm → cloze card
-- Choose content at your level (85-98% comprehension depending on tool support)
+- Choose content at your level (95-98% comprehension; Yomitan hover lookups raise effective comprehensibility — use them liberally, but raw word-unknown text below 90% comprehension is counterproductive)
 
 **Evening Before Sleep (10-15 min):**
 - Encounter new vocabulary (reading, watching, or reviewing new cards)
@@ -129,6 +145,7 @@ Here is what a research-optimal day looks like. Adjust times to fit your schedul
 **Weekly:**
 - 15 min cumulative vocabulary quiz (all words from the past 1-2 weeks, mixed)
 - 10 min pitch accent HVPT practice (minimal pairs with varied speakers)
+- If practicing speaking — repeat the same task type (e.g., describing a scene, summarizing an episode) across multiple days rather than doing many repetitions in one session. Distributed practice applies to output too.
 
 **Ongoing:**
 - Inner speech in Japanese throughout the day
@@ -136,3 +153,30 @@ Here is what a research-optimal day looks like. Adjust times to fit your schedul
 - Content discovery — always have your next show, book, or podcast queued
 
 The language still lives in the content. These techniques just make sure your brain holds onto what it finds there.
+
+---
+
+**Key References**
+
+- Bains et al. (2024) — Dopaminergic reward in discovery learning
+- Hashizaki (2024) — Production effect in L2 vocabulary
+- Henke & Meyer (2025) — Working memory chunk ceiling in L2 processing
+- Hwang (2025) — Grammar interleaving effects by proficiency level
+- Karpicke & Roediger (2008) — Self-assessment vs. actual recall, *Science*
+- Kim & Webb (2022) — Spaced repetition meta-analysis (g = 1.15)
+- Koriat & Bjork (2005) — Illusion of competence
+- Kornell et al. (2009) — Pretesting effect
+- Levy et al. (2007) — Retrieval-induced forgetting in semantically related lists
+- Liu et al. (2017) — Aerobic exercise and BDNF-mediated learning
+- Maie et al. (2025) — Cumulative testing in L2 vocabulary
+- Nakata (2016) — Productive vs. receptive vocabulary learning
+- Nakata et al. (2021) — Cumulative testing vs. item-by-item SRS
+- Pinet & Longcamp (2025) — Commentary on handwriting EEG claims
+- Sandberg (2019) — Abstract-concrete vocabulary transfer
+- Swain (1985) — Output Hypothesis
+- Teng & Xu (2022) — Production advantage for L2 learners
+- Turchi et al. (2023) — Musical training and pitch accent discrimination
+- Webb & Chang (2019) — Narrow reading/listening, *SSLA*
+- 2023 *Language Teaching* meta-analysis — Incidental vocabulary acquisition and encounter thresholds
+- 2025 *Cortex* — First-night sleep consolidation for vocabulary
+- 2025 meta-analyses — Quiet rest and HVPT

@@ -12,10 +12,10 @@ PDF_ENGINE := $(shell which tectonic 2>/dev/null || which xelatex 2>/dev/null ||
 # --- Source file lists (ordered) ---
 
 define stage_sources
-front_matter.md \
-$(1)/stage_intro.md \
-$$(sort $$(wildcard $(1)/ch*.md)) \
-$$(sort $$(wildcard $(1)/appendix_*.md))
+textbook/front_matter.md \
+textbook/$(1)/stage_intro.md \
+$$(sort $$(wildcard textbook/$(1)/ch*.md)) \
+$$(sort $$(wildcard textbook/$(1)/appendix_*.md))
 endef
 
 S1_SOURCES := $(eval _s1 := $(call stage_sources,stage1))$(_s1)
@@ -26,12 +26,12 @@ S5_SOURCES := $(eval _s5 := $(call stage_sources,stage5))$(_s5)
 S6_SOURCES := $(eval _s6 := $(call stage_sources,stage6))$(_s6)
 
 # Re-expand wildcards
-S1_SOURCES := front_matter.md stage1/stage_intro.md $(sort $(wildcard stage1/ch*.md)) $(sort $(wildcard stage1/appendix_*.md))
-S2_SOURCES := front_matter.md stage2/stage_intro.md $(sort $(wildcard stage2/ch*.md)) $(sort $(wildcard stage2/appendix_*.md))
-S3_SOURCES := front_matter.md stage3/stage_intro.md $(sort $(wildcard stage3/ch*.md)) $(sort $(wildcard stage3/appendix_*.md))
-S4_SOURCES := front_matter.md stage4/stage_intro.md $(sort $(wildcard stage4/ch*.md)) $(sort $(wildcard stage4/appendix_*.md))
-S5_SOURCES := front_matter.md stage5/stage_intro.md $(sort $(wildcard stage5/ch*.md)) $(sort $(wildcard stage5/appendix_*.md))
-S6_SOURCES := front_matter.md stage6/stage_intro.md $(sort $(wildcard stage6/ch*.md)) $(sort $(wildcard stage6/appendix_*.md))
+S1_SOURCES := textbook/front_matter.md textbook/stage1/stage_intro.md $(sort $(wildcard textbook/stage1/ch*.md)) $(sort $(wildcard textbook/stage1/appendix_*.md))
+S2_SOURCES := textbook/front_matter.md textbook/stage2/stage_intro.md $(sort $(wildcard textbook/stage2/ch*.md)) $(sort $(wildcard textbook/stage2/appendix_*.md))
+S3_SOURCES := textbook/front_matter.md textbook/stage3/stage_intro.md $(sort $(wildcard textbook/stage3/ch*.md)) $(sort $(wildcard textbook/stage3/appendix_*.md))
+S4_SOURCES := textbook/front_matter.md textbook/stage4/stage_intro.md $(sort $(wildcard textbook/stage4/ch*.md)) $(sort $(wildcard textbook/stage4/appendix_*.md))
+S5_SOURCES := textbook/front_matter.md textbook/stage5/stage_intro.md $(sort $(wildcard textbook/stage5/ch*.md)) $(sort $(wildcard textbook/stage5/appendix_*.md))
+S6_SOURCES := textbook/front_matter.md textbook/stage6/stage_intro.md $(sort $(wildcard textbook/stage6/ch*.md)) $(sort $(wildcard textbook/stage6/appendix_*.md))
 
 # Pandoc common flags
 PANDOC_FLAGS := --standalone --toc --toc-depth=2
@@ -77,21 +77,23 @@ STAGES := stage1 stage2 stage3 stage4 stage5 stage6
 
 .PHONY: all clean book serve $(STAGES) \
         $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf) \
-        immersion-book immersion-serve all-books
+        immersion-book immersion-serve \
+        colloquial-book colloquial-serve colloquial-epub colloquial-pdf \
+        all-books
 
 all: stage1 stage2 stage3 stage4 stage5 stage6
 
 # --- mdbook HTML book ---
 
-book: src/SUMMARY.md
-	mdbook build
-	@echo "Built build/book/"
+book: textbook/src/SUMMARY.md
+	mdbook build textbook
+	@echo "Built build/textbook/"
 
-serve: src/SUMMARY.md
-	mdbook serve
+serve: textbook/src/SUMMARY.md
+	mdbook serve textbook
 
-src/SUMMARY.md: gen_summary.py $(wildcard stage*/ch*.md) $(wildcard stage*/appendix_*.md) $(wildcard stage*/stage_intro.md)
-	python3 gen_summary.py
+textbook/src/SUMMARY.md: textbook/gen_summary.py $(wildcard textbook/stage*/ch*.md) $(wildcard textbook/stage*/appendix_*.md) $(wildcard textbook/stage*/stage_intro.md)
+	python3 textbook/gen_summary.py
 
 stage1: stage1-md stage1-html stage1-epub stage1-pdf
 stage2: stage2-md stage2-html stage2-epub stage2-pdf
@@ -339,7 +341,46 @@ immersion-serve: immersion/src/SUMMARY.md
 immersion/src/SUMMARY.md: immersion/gen_summary.py $(wildcard immersion/stage*/ch*.md) $(wildcard immersion/stage*/stage_intro.md)
 	cd immersion && python3 gen_summary.py
 
-all-books: book immersion-book
+# --- Colloquial Patterns Guide ---
+
+COLLOQUIAL_SOURCES := colloquial/front-matter.md \
+	$(sort $(wildcard colloquial/part-*/section-*.md)) \
+	$(sort $(wildcard colloquial/appendix/*.md)) \
+	$(sort $(wildcard colloquial/back-matter/*.md))
+
+colloquial-book: colloquial/src/SUMMARY.md
+	cd colloquial && mdbook build
+
+colloquial-serve: colloquial/src/SUMMARY.md
+	cd colloquial && mdbook serve --port 3002
+
+colloquial/src/SUMMARY.md: colloquial/gen_summary.py $(COLLOQUIAL_SOURCES)
+	cd colloquial && python3 gen_summary.py
+
+colloquial-epub: $(BUILDDIR)
+	pandoc $(PANDOC_FLAGS) \
+		--css=$(ASSETS)/water.css \
+		--metadata title="道 — Colloquial Japanese Patterns" \
+		--metadata author="道 Project" \
+		--metadata lang=ja \
+		-o $(BUILDDIR)/colloquial-patterns.epub \
+		$(COLLOQUIAL_SOURCES)
+	@echo "Built $(BUILDDIR)/colloquial-patterns.epub"
+
+colloquial-pdf: $(BUILDDIR)
+ifeq ($(PDF_ENGINE),)
+	@echo "No PDF engine found. Install tectonic: brew install tectonic"
+	@exit 1
+else
+	pandoc $(PANDOC_FLAGS) \
+		$(PDF_PANDOC_FLAGS) \
+		--metadata title="道 — Colloquial Japanese Patterns" \
+		-o $(BUILDDIR)/colloquial-patterns.pdf \
+		$(COLLOQUIAL_SOURCES)
+	@echo "Built $(BUILDDIR)/colloquial-patterns.pdf"
+endif
+
+all-books: book immersion-book colloquial-book
 
 clean:
 	rm -rf $(BUILDDIR)

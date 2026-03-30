@@ -1,0 +1,10 @@
+[book]
+title = "道 — michi"
+authors = ["道 Project"]
+language = "ja"
+src = "src"
+
+[build]
+build-dir = "../build/textbook"
+
+[output.html]

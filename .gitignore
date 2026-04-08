@@ -5,3 +5,7 @@ immersion/src/
 colloquial/src/
 .DS_Store
 *.zip
+__pycache__/
+.env
+content/outputs/
+content/ledger/vocab_ledger.json

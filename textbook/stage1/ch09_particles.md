@@ -4,23 +4,6 @@ Chapter 8 gave you the verb system: three verb classes (五段, 一段, irregula
 
 You have already met several particles: は (topic), が (subject), も (also), の (possession), に (location of existence), and か (question). This chapter introduces the particles that connect nouns to action verbs. These are the structural glue of Japanese sentences. Master them, and you can describe nearly any daily activity.
 
-The following diagram shows how the core particles introduced in this chapter relate to each other spatially:
-
-```
-Core Particle Map
-─────────────────
-
-                    へ (direction)
-                    ↗
-  から ─────→ [action で] ─────→ まで
-  (from)      (at/with)        (until)
-
-  [person] と ←── に (target) ──→ [place]
-  (together)    (to/at/for)
-
-  ─── を ──→   direct object moves through action
-```
-
 ---
 
 ## 9.1 を — Direct Object

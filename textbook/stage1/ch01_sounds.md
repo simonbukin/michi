@@ -35,7 +35,9 @@ If you do not internalize mora timing, you will consistently mishear words. This
 
 ## 1.2 The Five Vowels
 
-Japanese has exactly five vowels. They are simple, pure, and stable.
+Japanese has exactly five vowels. They are simple, pure, and stable. The following table shows where each vowel sits in terms of tongue position — how far forward or back in your mouth, and how open or closed your jaw is.
+
+> **How to use this chapter:** Focus on the descriptions and English comparisons. The IPA symbols in square brackets are reference notation — you don't need to memorize them. They are included so you can look up precise pronunciations later if you wish.
 
 | Vowel | Romaji | IPA | Approximate quality |
 |-------|--------|-----|-------------------|
@@ -59,7 +61,7 @@ Third, the Japanese **う is unrounded**. English speakers producing "oo" push t
 
 Most Japanese consonants will feel reasonably familiar to English speakers. A few, however, differ in ways that matter for both listening and production.
 
-### The Japanese r — an alveolar tap [ɾ]
+### The Japanese r — Between "d," "l," and "r"
 
 The Japanese **r-sound** (ら・り・る・れ・ろ — ra ri ru re ro) is neither the English "r" nor the English "l." It is an **alveolar tap** [ɾ]: the tip of the tongue strikes the alveolar ridge (the bump behind your upper front teeth) once, briefly, and drops away. It lives somewhere between English "d," "l," and "r."
 
@@ -67,13 +69,13 @@ If you have ever produced a fast, casual American English "d" in a word like "bu
 
 Practice words: さくら (sakura, cherry blossom), そら (sora, sky), りんご (ringo, apple).
 
-### ふ — the bilabial fricative [ɸ]
+### ふ — Not Quite an F
 
 The kana ふ is typically romanized as "fu," but it is not produced like English "f." English "f" is a **labiodental** fricative [f] — the lower lip presses against the upper teeth, and air is forced through the gap. Japanese ふ is a **bilabial** fricative [ɸ]: air passes between the two lips, which are brought close together but do not touch the teeth. The sound is softer and less sharp than English "f."
 
 To produce it, bring both lips close together — as if you were about to blow out a candle very gently — and let air pass between them. No teeth are involved. Practice: ふね (fune, ship), ふゆ (fuyu, winter).
 
-### ん — the moraic nasal and its allophonic variation
+### ん — One Letter, Many Sounds
 
 The kana ん represents a moraic nasal that takes one full mora of time. Its actual pronunciation shifts depending on what follows it. All of these realizations are a single phoneme — one sound unit — but its surface form changes automatically based on environment:
 
@@ -86,7 +88,7 @@ The kana ん represents a moraic nasal that takes one full mora of time. Its act
 
 You do not need to consciously control this variation. If you simply hold the ん for its full mora of time, your mouth will naturally move into the correct position for the following sound. What matters is that you recognize ん as a full beat of time, not a quick throwaway nasal tacked onto the previous syllable.
 
-### Irregular consonants within the kana rows
+### Sounds That Don't Match Their Row
 
 Several kana do not match what their row membership would predict:
 

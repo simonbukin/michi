@@ -198,24 +198,20 @@ And then voicing (て vs. で) follows automatically: if the original consonant 
 
 The following table summarizes all て-form conjugation rules in one place for quick reference:
 
-```
-て-Form Conjugation Rules
-────────────────────────
+**て-Form Conjugation Rules**
 
- Dictionary ending │ て-form ending │  Example
-───────────────────┼───────────────┼──────────────────
- ～う、～つ、～る    │  ～って         │ 買う → 買って
- ～む、～ぶ、～ぬ    │  ～んで         │ 読む → 読んで
- ～く              │  ～いて         │ 書く → 書いて
- ～ぐ              │  ～いで         │ 泳ぐ → 泳いで
- ～す              │  ～して         │ 話す → 話して
-───────────────────┼───────────────┼──────────────────
- 一段 verbs         │  stem ＋ て     │ 食べる → 食べて
- する              │  して          │ する → して
- 来る              │  来て（きて）    │ 来る → 来て
+| Dictionary ending | て-form ending | Example |
+|---|---|---|
+| ～う、～つ、～る | ～って | 買う → 買って |
+| ～む、～ぶ、～ぬ | ～んで | 読む → 読んで |
+| ～く | ～いて | 書く → 書いて |
+| ～ぐ | ～いで | 泳ぐ → 泳いで |
+| ～す | ～して | 話す → 話して |
+| 一段 verbs | stem ＋ て | 食べる → 食べて |
+| する | して | する → して |
+| 来る | 来て（きて） | 来る → 来て |
 
-⚠ Exception: 行く → 行って（not 行いて）
-```
+> ⚠ **Exception:** 行く → 行って（not 行いて）
 
 ### A Mnemonic (Optional)
 

@@ -67,6 +67,14 @@ def create_symlinks():
             if not link.exists():
                 link.symlink_to(f"../{stage_name}")
 
+    # Symlink diagrams directory
+    diagrams_dir = ROOT / "assets" / "diagrams"
+    if diagrams_dir.is_dir():
+        link = src / "assets" / "diagrams"
+        link.parent.mkdir(parents=True, exist_ok=True)
+        if not link.exists():
+            link.symlink_to(diagrams_dir)
+
 
 def main():
     create_symlinks()

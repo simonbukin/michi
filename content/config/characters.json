@@ -1,0 +1,20 @@
+{
+  "あおい": {
+    "full_name": "田中あおい",
+    "age": 20,
+    "role": "大学1年生",
+    "personality": ["好奇心旺盛", "少し心配性", "明るい"],
+    "speech_style": "casual female; uses ね、かな、〜んだけど frequently; avoids だろう",
+    "voice_id": 888753760,
+    "stage_introduced": 1
+  },
+  "けんた": {
+    "full_name": "鈴木けんた",
+    "age": 22,
+    "role": "大学3年生、あおいの先輩",
+    "personality": ["落ち着いている", "親切", "少し頑固"],
+    "speech_style": "casual male; uses よ、だろう、〜じゃないか; more formal than あおい",
+    "voice_id": 888753761,
+    "stage_introduced": 1
+  }
+}

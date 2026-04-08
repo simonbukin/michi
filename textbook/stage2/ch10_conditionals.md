@@ -409,30 +409,24 @@ The ○ marks indicate where each form is natural and commonly used. △ indicat
 
 The following matrix provides a more detailed feature-by-feature comparison of all four conditional forms:
 
-```
-Conditional Comparison Matrix
-─────────────────────────────
+**Conditional Comparison Matrix**
 
-             │  と    │  ば    │  たら   │  なら
-─────────────┼────────┼────────┼────────┼────────
- Hypothetical│   ✗    │   ✓    │   ✓    │   ✓
- Factual     │   ✓    │   △    │   ✓    │   ✗
- Past event  │   ✓    │   ✗    │   ✓    │   ✗
- One-time    │   △    │   △    │   ✓    │   ✓
- Volition in │        │        │        │
-  result     │   ✗    │   △    │   ✓    │   ✓
- Advice/     │        │        │        │
-  suggestion │   ✗    │   ✓    │   ✓    │   ✓
-─────────────┴────────┴────────┴────────┴────────
+| | と | ば | たら | なら |
+|---|---|---|---|---|
+| Hypothetical | ✗ | ✓ | ✓ | ✓ |
+| Factual | ✓ | △ | ✓ | ✗ |
+| Past event | ✓ | ✗ | ✓ | ✗ |
+| One-time | △ | △ | ✓ | ✓ |
+| Volition in result | ✗ | △ | ✓ | ✓ |
+| Advice / suggestion | ✗ | ✓ | ✓ | ✓ |
 
-✓ = natural   △ = possible with restrictions   ✗ = unnatural
+✓ = natural · △ = possible with restrictions · ✗ = unnatural
 
-Quick guide:
-  と → automatic/inevitable results (laws of nature, habits)
-  ば → general conditions, advice, hypothetical
-  たら → most versatile; specific/one-time events; "when/if"
-  なら → "if it's the case that..."; topical condition
-```
+> **Quick guide:**
+> - **と** → automatic/inevitable results (laws of nature, habits)
+> - **ば** → general conditions, advice, hypothetical
+> - **たら** → most versatile; specific/one-time events; "when/if"
+> - **なら** → "if it's the case that..."; topical condition
 
 ---
 

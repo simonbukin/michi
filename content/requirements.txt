@@ -1,0 +1,22 @@
+# NLP / tokenization
+fugashi[unidic]
+unidic
+jamdict
+jamdict-data
+pykakasi
+
+# Audio
+requests
+pydub
+stable-whisper
+# ffmpeg required by pydub (install via: brew install ffmpeg)
+
+# EPUB
+ebooklib
+
+# LLM
+anthropic
+
+# Utilities
+tqdm
+python-dotenv

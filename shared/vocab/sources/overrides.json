@@ -1,0 +1,26 @@
+{
+  "_comment": "Manual stage overrides. 'by_seq' uses JMdict seq IDs. 'by_kanji' matches the kanji field in master_vocab.",
+  "overrides": {},
+  "by_kanji": [
+    {"kanji": "コーヒー", "target_stage": 1, "reason": "top-10 loanword, every beginner textbook"},
+    {"kanji": "カフェ", "target_stage": 2, "reason": "common setting for graded reader stories"},
+    {"kanji": "頑張る", "target_stage": 1, "reason": "essential motivational verb, heard daily"},
+    {"kanji": "やっぱり", "target_stage": 1, "reason": "extremely common discourse marker"},
+    {"kanji": "すごい", "target_stage": 1, "reason": "one of the most common adjectives in speech"},
+    {"kanji": "ちゃんと", "target_stage": 2, "reason": "common adverb, heard constantly"},
+    {"kanji": "全然", "target_stage": 1, "reason": "basic frequency adverb, taught in every beginner course"},
+    {"kanji": "絶対", "target_stage": 2, "reason": "very common emphasis word"},
+    {"kanji": "やはり", "target_stage": 2, "reason": "formal form of やっぱり"},
+    {"kanji": "結構", "target_stage": 2, "reason": "common multipurpose word (quite, fine, enough)"},
+    {"kanji": "せっかく", "target_stage": 2, "reason": "common adverb expressing effort/opportunity"},
+    {"kanji": "なるほど", "target_stage": 1, "reason": "essential aizuchi, used constantly"},
+    {"kanji": "大丈夫", "target_stage": 1, "reason": "one of the first words learners need"},
+    {"kanji": "ちょっと", "target_stage": 1, "reason": "extremely high frequency, basic vocabulary"},
+    {"kanji": "たくさん", "target_stage": 1, "reason": "basic quantity word"},
+    {"kanji": "一緒", "target_stage": 1, "reason": "basic word, used in daily conversation"},
+    {"kanji": "大変", "target_stage": 1, "reason": "very common, basic vocabulary"},
+    {"kanji": "最近", "target_stage": 2, "reason": "common time word"},
+    {"kanji": "特に", "target_stage": 2, "reason": "common adverb"},
+    {"kanji": "急に", "target_stage": 2, "reason": "common adverb for narratives"}
+  ]
+}

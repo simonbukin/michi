@@ -1,0 +1,840 @@
+[
+  {
+    "id": "s2_volitional",
+    "name": "volitional",
+    "display": "～よう",
+    "stage": 2,
+    "type": "cform",
+    "cform": "意志推量形",
+    "pos1": "動詞",
+    "explanation_en": "Volitional form (let's / intend to)",
+    "explanation_ja": "意志形（よう・おう）"
+  },
+  {
+    "id": "s2_volitional_masu",
+    "name": "mashou",
+    "display": "～ましょう",
+    "stage": 2,
+    "type": "cform",
+    "cform": "意志推量形",
+    "pos1": "助動詞",
+    "explanation_en": "Polite volitional (mashou)",
+    "explanation_ja": "丁寧な意志形（ましょう）"
+  },
+  {
+    "id": "s2_passive_reru",
+    "name": "passive",
+    "display": "～れる",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "動詞",
+        "cForm": "未然形"
+      },
+      {
+        "pos1": "助動詞",
+        "lemma": "れる"
+      }
+    ],
+    "explanation_en": "Passive voice (reru)",
+    "explanation_ja": "受身形（れる）"
+  },
+  {
+    "id": "s2_passive_rareru",
+    "name": "passive_rareru",
+    "display": "～られる",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "動詞",
+        "cForm": "未然形"
+      },
+      {
+        "pos1": "助動詞",
+        "lemma": "られる"
+      }
+    ],
+    "explanation_en": "Passive/potential voice (rareru)",
+    "explanation_ja": "受身・可能形（られる）"
+  },
+  {
+    "id": "s2_causative_seru",
+    "name": "causative",
+    "display": "～せる",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "動詞",
+        "cForm": "未然形"
+      },
+      {
+        "pos1": "助動詞",
+        "lemma": "せる"
+      }
+    ],
+    "explanation_en": "Causative form (make/let someone do)",
+    "explanation_ja": "使役形（せる）"
+  },
+  {
+    "id": "s2_causative_saseru",
+    "name": "causative_saseru",
+    "display": "～させる",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "動詞",
+        "cForm": "未然形"
+      },
+      {
+        "pos1": "助動詞",
+        "lemma": "させる"
+      }
+    ],
+    "explanation_en": "Causative form (saseru)",
+    "explanation_ja": "使役形（させる）"
+  },
+  {
+    "id": "s2_conditional_ba",
+    "name": "conditional_ba",
+    "display": "～ば",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "cForm": "仮定形"
+      },
+      {
+        "lemma": "ば"
+      }
+    ],
+    "explanation_en": "Conditional form (ba-form)",
+    "explanation_ja": "条件形（ば形）"
+  },
+  {
+    "id": "s2_conditional_tara",
+    "name": "conditional_tara",
+    "display": "～たら",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "助動詞",
+        "lemma": "た",
+        "cForm": "仮定形"
+      }
+    ],
+    "explanation_en": "Conditional form (tara-form)",
+    "explanation_ja": "条件形（たら形）"
+  },
+  {
+    "id": "s2_potential_godan",
+    "name": "potential",
+    "display": "～える（可能形）",
+    "stage": 2,
+    "type": "cform",
+    "cform": "已然形-一般",
+    "pos1": "動詞",
+    "explanation_en": "Potential form of godan verbs (can do)",
+    "explanation_ja": "五段動詞の可能形"
+  },
+  {
+    "id": "s2_te_ageru",
+    "name": "te_ageru",
+    "display": "～てあげる",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "lemma": "て",
+        "pos1": "助詞"
+      },
+      {
+        "lemma": "上げる",
+        "pos1": "動詞"
+      }
+    ],
+    "explanation_en": "Doing something for someone (te ageru)",
+    "explanation_ja": "恩恵表現（てあげる）"
+  },
+  {
+    "id": "s2_te_morau",
+    "name": "te_morau",
+    "display": "～てもらう",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "lemma": "て",
+        "pos1": "助詞"
+      },
+      {
+        "lemma": "貰う",
+        "pos1": "動詞"
+      }
+    ],
+    "explanation_en": "Receiving a favor (te morau)",
+    "explanation_ja": "恩恵表現（てもらう）"
+  },
+  {
+    "id": "s2_te_kureru",
+    "name": "te_kureru",
+    "display": "～てくれる",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "lemma": "て",
+        "pos1": "助詞"
+      },
+      {
+        "lemma": "呉れる",
+        "pos1": "動詞"
+      }
+    ],
+    "explanation_en": "Someone does something for you (te kureru)",
+    "explanation_ja": "恩恵表現（てくれる）"
+  },
+  {
+    "id": "s2_te_shimau",
+    "name": "te_shimau",
+    "display": "～てしまう",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "lemma": "て",
+        "pos1": "助詞"
+      },
+      {
+        "lemma": "仕舞う",
+        "pos1": "動詞"
+      }
+    ],
+    "explanation_en": "Completion / regret (te shimau)",
+    "explanation_ja": "完了・残念を表す（てしまう）"
+  },
+  {
+    "id": "s2_chau",
+    "name": "te_shimau_colloquial",
+    "display": "～ちゃう",
+    "stage": 2,
+    "type": "surface_seq",
+    "surfaces": [
+      "ちゃう",
+      "ちゃった",
+      "ちゃって",
+      "じゃう",
+      "じゃった",
+      "じゃって"
+    ],
+    "explanation_en": "Colloquial completion/regret (chau/jau)",
+    "explanation_ja": "完了・残念の口語形（ちゃう・じゃう）"
+  },
+  {
+    "id": "s2_you_ni_naru",
+    "name": "you_ni_naru",
+    "display": "～ようになる",
+    "stage": 2,
+    "type": "surface_seq",
+    "surfaces": [
+      "ようになる",
+      "ようになった",
+      "ようになって",
+      "ようになり"
+    ],
+    "explanation_en": "Come to / reach a state (you ni naru)",
+    "explanation_ja": "変化を表す（ようになる）"
+  },
+  {
+    "id": "s2_you_ni_suru",
+    "name": "you_ni_suru",
+    "display": "～ようにする",
+    "stage": 2,
+    "type": "surface_seq",
+    "surfaces": [
+      "ようにする",
+      "ようにした",
+      "ようにして",
+      "ようにし"
+    ],
+    "explanation_en": "Make an effort to (you ni suru)",
+    "explanation_ja": "努力・習慣を表す（ようにする）"
+  },
+  {
+    "id": "s2_rashii",
+    "name": "rashii",
+    "display": "～らしい",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "助動詞",
+        "lemma": "らしい"
+      }
+    ],
+    "explanation_en": "Seems like / apparently (rashii)",
+    "explanation_ja": "推定を表す（らしい）"
+  },
+  {
+    "id": "s2_sou_appearance",
+    "name": "sou_da_appearance",
+    "display": "～そうだ（様態）",
+    "stage": 2,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "pos1": "動詞",
+        "cForm": "連用形"
+      },
+      {
+        "lemma": "そう-様態",
+        "pos1": "形状詞"
+      }
+    ],
+    "explanation_en": "Looks like / appears to (sou da - appearance)",
+    "explanation_ja": "様態を表す（そうだ）"
+  },
+  {
+    "id": "s2_noni",
+    "name": "noni",
+    "display": "～のに",
+    "stage": 2,
+    "type": "surface_seq",
+    "surfaces": [
+      "のに、",
+      "のに。"
+    ],
+    "explanation_en": "Despite / although (noni)",
+    "explanation_ja": "逆接を表す（のに）"
+  },
+  {
+    "id": "s2_tame_ni",
+    "name": "tame_ni",
+    "display": "～ために",
+    "stage": 2,
+    "type": "surface_seq",
+    "surfaces": [
+      "ために"
+    ],
+    "explanation_en": "In order to / because of (tame ni)",
+    "explanation_ja": "目的・原因を表す（ために）"
+  },
+  {
+    "id": "s3_wake_da",
+    "name": "wake_da",
+    "display": "～わけだ",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "わけだ",
+      "わけです",
+      "わけが",
+      "わけで",
+      "わけに",
+      "わけは",
+      "わけも",
+      "わけない",
+      "わけありません"
+    ],
+    "explanation_en": "It means that / the reason is (wake da)",
+    "explanation_ja": "事情・理由を表す（わけだ）"
+  },
+  {
+    "id": "s3_hazu_da",
+    "name": "hazu_da",
+    "display": "～はずだ",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "はずだ",
+      "はずです",
+      "はずが",
+      "はずな",
+      "はずの"
+    ],
+    "explanation_en": "Should be / expected to (hazu da)",
+    "explanation_ja": "当然・予想を表す（はずだ）"
+  },
+  {
+    "id": "s3_koto_ni_naru",
+    "name": "koto_ni_naru",
+    "display": "～ことになる",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "ことになる",
+      "ことになった",
+      "ことになって",
+      "ことになり"
+    ],
+    "explanation_en": "It has been decided that (koto ni naru)",
+    "explanation_ja": "決定を表す（ことになる）"
+  },
+  {
+    "id": "s3_koto_ni_suru",
+    "name": "koto_ni_suru",
+    "display": "～ことにする",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "ことにする",
+      "ことにした",
+      "ことにして"
+    ],
+    "explanation_en": "Decide to do (koto ni suru)",
+    "explanation_ja": "自分の決定を表す（ことにする）"
+  },
+  {
+    "id": "s3_te_oku",
+    "name": "te_oku",
+    "display": "～ておく",
+    "stage": 3,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "lemma": "て",
+        "pos1": "助詞"
+      },
+      {
+        "lemma": "置く",
+        "pos2": "非自立可能"
+      }
+    ],
+    "explanation_en": "Do in advance / leave as is (te oku)",
+    "explanation_ja": "準備・放置を表す（ておく）"
+  },
+  {
+    "id": "s3_tsumori",
+    "name": "tsumori",
+    "display": "～つもり",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "つもりだ",
+      "つもりです",
+      "つもりで",
+      "つもりは",
+      "つもりが"
+    ],
+    "explanation_en": "Intend to / plan to (tsumori)",
+    "explanation_ja": "意図を表す（つもり）"
+  },
+  {
+    "id": "s3_you_da",
+    "name": "you_da",
+    "display": "～ようだ",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "ようだ",
+      "ようです",
+      "ような",
+      "ように"
+    ],
+    "explanation_en": "It seems / it appears (you da)",
+    "explanation_ja": "推定・比喩を表す（ようだ）"
+  },
+  {
+    "id": "s3_mitai_da",
+    "name": "mitai_da",
+    "display": "～みたいだ",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "みたいだ",
+      "みたいです",
+      "みたいな",
+      "みたいに"
+    ],
+    "explanation_en": "It looks like / similar to (mitai da)",
+    "explanation_ja": "推定・比喩を表す（みたいだ）"
+  },
+  {
+    "id": "s3_kamoshirenai",
+    "name": "kamoshirenai",
+    "display": "～かもしれない",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "かもしれない",
+      "かもしれません",
+      "かもしれなかった"
+    ],
+    "explanation_en": "Might / maybe (kamoshirenai)",
+    "explanation_ja": "可能性を表す（かもしれない）"
+  },
+  {
+    "id": "s3_ni_chigainai",
+    "name": "ni_chigainai",
+    "display": "～に違いない",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "に違いない",
+      "にちがいない",
+      "に相違ない"
+    ],
+    "explanation_en": "Must be / no doubt (ni chigai nai)",
+    "explanation_ja": "確信を表す（に違いない）"
+  },
+  {
+    "id": "s3_ni_totte",
+    "name": "ni_totte",
+    "display": "～にとって",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "にとって"
+    ],
+    "explanation_en": "For / from the standpoint of (ni totte)",
+    "explanation_ja": "立場を表す（にとって）"
+  },
+  {
+    "id": "s3_ni_tsuite",
+    "name": "ni_tsuite",
+    "display": "～について",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "について"
+    ],
+    "explanation_en": "About / concerning (ni tsuite)",
+    "explanation_ja": "対象を表す（について）"
+  },
+  {
+    "id": "s3_ni_taishite",
+    "name": "ni_taishite",
+    "display": "～に対して",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "に対して",
+      "に対する"
+    ],
+    "explanation_en": "Toward / against / in contrast to (ni taishite)",
+    "explanation_ja": "対象・対比を表す（に対して）"
+  },
+  {
+    "id": "s3_to_iu",
+    "name": "to_iu",
+    "display": "～という",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "という",
+      "ということ"
+    ],
+    "explanation_en": "Called / that (to iu)",
+    "explanation_ja": "引用・定義を表す（という）"
+  },
+  {
+    "id": "s3_sae",
+    "name": "sae",
+    "display": "～さえ",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "さえ"
+    ],
+    "explanation_en": "Even / as long as (sae)",
+    "explanation_ja": "極端な例・条件を表す（さえ）"
+  },
+  {
+    "id": "s3_bakari",
+    "name": "bakari",
+    "display": "～ばかり",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "ばかり"
+    ],
+    "explanation_en": "Only / just did / nothing but (bakari)",
+    "explanation_ja": "限定・直後を表す（ばかり）"
+  },
+  {
+    "id": "s3_tokoro_da",
+    "name": "tokoro_da",
+    "display": "～ところだ",
+    "stage": 3,
+    "type": "surface_seq",
+    "surfaces": [
+      "ところだ",
+      "ところです",
+      "ところで"
+    ],
+    "explanation_en": "About to / just did / in the middle of (tokoro da)",
+    "explanation_ja": "時間的局面を表す（ところだ）"
+  },
+  {
+    "id": "s4_keigo_itadaku",
+    "name": "itadaku",
+    "display": "～ていただく",
+    "stage": 4,
+    "type": "lemma_seq",
+    "sequence": [
+      {
+        "lemma": "て",
+        "pos1": "助詞"
+      },
+      {
+        "lemma": "頂く",
+        "pos1": "動詞"
+      }
+    ],
+    "explanation_en": "Humble form of receiving a favor (itadaku)",
+    "explanation_ja": "謙譲語（いただく）"
+  },
+  {
+    "id": "s4_mono_da",
+    "name": "mono_da",
+    "display": "～ものだ",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "ものだ",
+      "ものです",
+      "もんだ"
+    ],
+    "explanation_en": "It's natural that / used to (mono da)",
+    "explanation_ja": "感慨・当然を表す（ものだ）"
+  },
+  {
+    "id": "s4_mono_no",
+    "name": "mono_no",
+    "display": "～ものの",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "ものの"
+    ],
+    "explanation_en": "Although / even though (mono no)",
+    "explanation_ja": "逆接を表す（ものの）"
+  },
+  {
+    "id": "s4_dokoro_ka",
+    "name": "dokoro_ka",
+    "display": "～どころか",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "どころか"
+    ],
+    "explanation_en": "Far from / let alone (dokoro ka)",
+    "explanation_ja": "程度の甚だしさを表す（どころか）"
+  },
+  {
+    "id": "s4_ni_kanshite",
+    "name": "ni_kanshite",
+    "display": "～に関して",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "に関して",
+      "に関する"
+    ],
+    "explanation_en": "Regarding / concerning (ni kanshite)",
+    "explanation_ja": "関連を表す（に関して）"
+  },
+  {
+    "id": "s4_ni_oite",
+    "name": "ni_oite",
+    "display": "～において",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "において",
+      "における"
+    ],
+    "explanation_en": "In / at (formal) (ni oite)",
+    "explanation_ja": "場所・場面を表す（において）"
+  },
+  {
+    "id": "s4_to_wa_kagiranai",
+    "name": "to_wa_kagiranai",
+    "display": "～とは限らない",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "とは限らない",
+      "とはかぎらない"
+    ],
+    "explanation_en": "Not necessarily (to wa kagiranai)",
+    "explanation_ja": "部分否定を表す（とは限らない）"
+  },
+  {
+    "id": "s4_zaru_wo_enai",
+    "name": "zaru_wo_enai",
+    "display": "～ざるを得ない",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "ざるを得ない",
+      "ざるをえない"
+    ],
+    "explanation_en": "Cannot help but (zaru wo enai)",
+    "explanation_ja": "不可避を表す（ざるを得ない）"
+  },
+  {
+    "id": "s4_ni_suginai",
+    "name": "ni_suginai",
+    "display": "～にすぎない",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "にすぎない",
+      "に過ぎない"
+    ],
+    "explanation_en": "Merely / nothing more than (ni suginai)",
+    "explanation_ja": "限定を表す（にすぎない）"
+  },
+  {
+    "id": "s4_to_shite",
+    "name": "to_shite",
+    "display": "～として",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "として"
+    ],
+    "explanation_en": "As / in the role of (to shite)",
+    "explanation_ja": "資格・立場を表す（として）"
+  },
+  {
+    "id": "s4_kuse_ni",
+    "name": "kuse_ni",
+    "display": "～くせに",
+    "stage": 4,
+    "type": "surface_seq",
+    "surfaces": [
+      "くせに"
+    ],
+    "explanation_en": "Even though / despite (kuse ni - critical)",
+    "explanation_ja": "非難の逆接を表す（くせに）"
+  },
+  {
+    "id": "s5_ni_mo_kakawarazu",
+    "name": "ni_mo_kakawarazu",
+    "display": "～にもかかわらず",
+    "stage": 5,
+    "type": "surface_seq",
+    "surfaces": [
+      "にもかかわらず",
+      "にも拘わらず",
+      "にも関わらず"
+    ],
+    "explanation_en": "Despite / in spite of (ni mo kakawarazu)",
+    "explanation_ja": "逆接を表す（にもかかわらず）"
+  },
+  {
+    "id": "s5_wo_motte",
+    "name": "wo_motte",
+    "display": "～をもって",
+    "stage": 5,
+    "type": "surface_seq",
+    "surfaces": [
+      "をもって",
+      "を以て"
+    ],
+    "explanation_en": "By means of / with (wo motte - formal)",
+    "explanation_ja": "手段・期限を表す（をもって）"
+  },
+  {
+    "id": "s5_ni_saishite",
+    "name": "ni_saishite",
+    "display": "～に際して",
+    "stage": 5,
+    "type": "surface_seq",
+    "surfaces": [
+      "に際して",
+      "に際し"
+    ],
+    "explanation_en": "On the occasion of (ni saishite)",
+    "explanation_ja": "機会を表す（に際して）"
+  },
+  {
+    "id": "s5_wo_towazu",
+    "name": "wo_towazu",
+    "display": "～を問わず",
+    "stage": 5,
+    "type": "surface_seq",
+    "surfaces": [
+      "を問わず",
+      "をとわず"
+    ],
+    "explanation_en": "Regardless of (wo towazu)",
+    "explanation_ja": "無関係を表す（を問わず）"
+  },
+  {
+    "id": "s5_ni_tomonatte",
+    "name": "ni_tomonatte",
+    "display": "～に伴って",
+    "stage": 5,
+    "type": "surface_seq",
+    "surfaces": [
+      "に伴って",
+      "にともなって",
+      "に伴い",
+      "にともない"
+    ],
+    "explanation_en": "Along with / as (ni tomonatte)",
+    "explanation_ja": "付随を表す（に伴って）"
+  },
+  {
+    "id": "s6_classical_beshi",
+    "name": "classical_beshi",
+    "display": "～べし",
+    "stage": 6,
+    "type": "surface_seq",
+    "surfaces": [
+      "べし",
+      "べきだ",
+      "べきである",
+      "べきもの"
+    ],
+    "explanation_en": "Should/must (beshi - literary)",
+    "explanation_ja": "古典的当然・義務の助動詞（べし）"
+  },
+  {
+    "id": "s6_ga_gotoku",
+    "name": "ga_gotoku",
+    "display": "～が如く",
+    "stage": 6,
+    "type": "surface_seq",
+    "surfaces": [
+      "が如く",
+      "のごとく",
+      "が如し",
+      "のごとし"
+    ],
+    "explanation_en": "Like / as if (ga gotoku - classical)",
+    "explanation_ja": "古典的比喩表現（が如く・のごとく）"
+  },
+  {
+    "id": "s6_taru_ya",
+    "name": "taru_ya",
+    "display": "～たるや",
+    "stage": 6,
+    "type": "surface_seq",
+    "surfaces": [
+      "たるや"
+    ],
+    "explanation_en": "As for being (taru ya - rhetorical)",
+    "explanation_ja": "感嘆を込めた主題提示（たるや）"
+  },
+  {
+    "id": "s6_arou_koto_ka",
+    "name": "arou_koto_ka",
+    "display": "あろうことか",
+    "stage": 6,
+    "type": "surface_seq",
+    "surfaces": [
+      "あろうことか"
+    ],
+    "explanation_en": "Of all things / unbelievably",
+    "explanation_ja": "驚嘆・非難を表す（あろうことか）"
+  }
+]

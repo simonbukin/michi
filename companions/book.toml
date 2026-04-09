@@ -1,0 +1,10 @@
+[book]
+title = "道 — Reading Companions"
+authors = ["道 Project"]
+language = "ja"
+src = "src"
+
+[build]
+build-dir = "../build/companions"
+
+[output.html]

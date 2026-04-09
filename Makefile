@@ -79,6 +79,7 @@ STAGES := stage1 stage2 stage3 stage4 stage5 stage6
         $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf) \
         immersion-book immersion-serve \
         colloquial-book colloquial-serve colloquial-epub colloquial-pdf \
+        companions-book companions-serve \
         all-books
 
 all: stage1 stage2 stage3 stage4 stage5 stage6
@@ -380,7 +381,18 @@ else
 	@echo "Built $(BUILDDIR)/colloquial-patterns.pdf"
 endif
 
-all-books: book immersion-book colloquial-book
+# --- Reading Companions ---
+
+companions-book: companions/src/SUMMARY.md
+	cd companions && mdbook build
+
+companions-serve: companions/src/SUMMARY.md
+	cd companions && mdbook serve --port 3003
+
+companions/src/SUMMARY.md: companions/gen_summary.py $(wildcard companions/onepiece/v*/ch*.md) $(wildcard companions/onepiece/v*/appendix_*.md)
+	cd companions && python3 gen_summary.py
+
+all-books: book immersion-book colloquial-book companions-book
 
 clean:
 	rm -rf $(BUILDDIR)

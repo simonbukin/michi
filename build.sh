@@ -27,6 +27,12 @@ python3 "$ROOT/colloquial/gen_summary.py"
 echo "==> Building colloquial patterns guide..."
 mdbook build "$ROOT/colloquial" --dest-dir "$DIST/colloquial"
 
+echo "==> Generating reading companions summary + symlinks..."
+python3 "$ROOT/companions/gen_summary.py"
+
+echo "==> Building reading companions..."
+mdbook build "$ROOT/companions" --dest-dir "$DIST/companions"
+
 echo "==> Creating landing page..."
 cp "$ROOT/public/index.html" "$DIST/index.html"
 

@@ -134,10 +134,10 @@ The following examples show the causative-passive in natural contexts, using bot
 
 **Childhood memories:**
 
-> 子どもの　とき、毎日　にゅうを　飲まされた。
+> <ruby>子<rt>こ</rt></ruby>どもの　とき、<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を　<ruby>飲<rt>の</rt></ruby>まされた。
 > "When I was a child, I was made to drink milk every day."
 
-> 小学校で　きらいな　きゅうしょくを　ぜんぶ　食べさせられた。
+> <ruby>小学校<rt>しょうがっこう</rt></ruby>で　<ruby>嫌<rt>きら</rt></ruby>いな　<ruby>給食<rt>きゅうしょく</rt></ruby>を　<ruby>全部<rt>ぜんぶ</rt></ruby>　<ruby>食<rt>た</rt></ruby>べさせられた。
 > "In elementary school, I was made to eat all of the school lunch I didn't like."
 
 > 弟は　にいさんに　いつも　へやの　そうじを　させられていた。（おとうと、にいさん）
@@ -145,10 +145,10 @@ The following examples show the causative-passive in natural contexts, using bot
 
 **School and studying:**
 
-> 高校で　むずかしい　すうがくの　もんだいを　たくさん　とかされた。
+> <ruby>高校<rt>こうこう</rt></ruby>で　<ruby>難<rt>むずか</rt></ruby>しい　<ruby>数学<rt>すうがく</rt></ruby>の　<ruby>問題<rt>もんだい</rt></ruby>を　たくさん　<ruby>解<rt>と</rt></ruby>かされた。
 > "In high school, I was made to solve many difficult math problems."
 
-> テストの　前に、先生に　何度も　ふくしゅうさせられた。
+> テストの　<ruby>前<rt>まえ</rt></ruby>に、<ruby>先生<rt>せんせい</rt></ruby>に　<ruby>何度<rt>なんど</rt></ruby>も　<ruby>復習<rt>ふくしゅう</rt></ruby>させられた。
 > "Before the exam, the teacher made me review many times."
 
 **Workplace:**
@@ -156,21 +156,21 @@ The following examples show the causative-passive in natural contexts, using bot
 > 入社した　ばかりの　とき、毎日　コピーを　とらされた。
 > "Right after joining the company, I was made to make copies every day."
 
-> きのう　急に　しゅっちょうに　行かされた。（しゅっちょう）
+> きのう　<ruby>急<rt>きゅう</rt></ruby>に　<ruby>出張<rt>しゅっちょう</rt></ruby>に　<ruby>行<rt>い</rt></ruby>かされた。
 > "Yesterday, I was suddenly made to go on a business trip."
 
-> ぶちょうに　三時間も　待たされた。
+> <ruby>部長<rt>ぶちょう</rt></ruby>に　<ruby>三時間<rt>さんじかん</rt></ruby>も　<ruby>待<rt>ま</rt></ruby>たされた。
 > "I was made to wait for three whole hours by the section chief."
 
 **General situations:**
 
-> びょういんで　長い　あいだ　待たされた。
+> <ruby>病院<rt>びょういん</rt></ruby>で　<ruby>長<rt>なが</rt></ruby>い　<ruby>間<rt>あいだ</rt></ruby>　待たされた。
 > "I was made to wait for a long time at the hospital."
 
-> パーティーで　しらない　うたを　歌わされた。（うたわされた）
+> パーティーで　<ruby>知<rt>し</rt></ruby>らない　<ruby>歌<rt>うた</rt></ruby>を　<ruby>歌<rt>うた</rt></ruby>わされた。
 > "At the party, I was made to sing a song I didn't know."
 
-> 友達の　ひっこしを　手伝わされた。
+> <ruby>友達<rt>ともだち</rt></ruby>の　<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しを　<ruby>手伝<rt>てつだ</rt></ruby>わされた。
 > "I was made to help with my friend's move."
 
 ---
@@ -204,15 +204,15 @@ The adversative nuance is inherent. Unlike the regular passive, which can be neu
 
 ## 5.6 Reading Passage
 
-わたしの　子どもの　ころの　思い出を　話します。
+わたしの　<ruby>子<rt>こ</rt></ruby>どもの　ころの　<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>を　<ruby>話<rt>はな</rt></ruby>します。
 
-わたしは　小学生の　とき、母に　毎朝　六時に　起きさせられました。そして、朝ごはんの　前に　三十分　ピアノを　ひかされました。ピアノは　あまり　すきではなかったので、とても　いやでした。
+わたしは　<ruby>小学生<rt>しょうがくせい</rt></ruby>の　とき、<ruby>母<rt>はは</rt></ruby>に　<ruby>毎朝<rt>まいあさ</rt></ruby>　<ruby>六時<rt>ろくじ</rt></ruby>に　<ruby>起<rt>お</rt></ruby>きさせられました。そして、<ruby>朝<rt>あさ</rt></ruby>ごはんの　<ruby>前<rt>まえ</rt></ruby>に　<ruby>三十分<rt>さんじゅっぷん</rt></ruby>　ピアノを　<ruby>弾<rt>ひ</rt></ruby>かされました。ピアノは　あまり　<ruby>好<rt>す</rt></ruby>きではなかったので、とても　<ruby>嫌<rt>いや</rt></ruby>でした。
 
-学校では、きゅうしょくが　ありました。わたしは　にんじんが　きらいでしたが、ぜんぶ　食べさせられました。「のこしては　いけません」と　先生に　言われて、泣きながら　食べた　ことも　あります。
+<ruby>学校<rt>がっこう</rt></ruby>では、<ruby>給食<rt>きゅうしょく</rt></ruby>が　ありました。わたしは　にんじんが　<ruby>嫌<rt>きら</rt></ruby>いでしたが、<ruby>全部<rt>ぜんぶ</rt></ruby>　食べさせられました。「<ruby>残<rt>のこ</rt></ruby>しては　いけません」と　<ruby>先生<rt>せんせい</rt></ruby>に　<ruby>言<rt>い</rt></ruby>われて、<ruby>泣<rt>な</rt></ruby>きながら　<ruby>食<rt>た</rt></ruby>べた　ことも　あります。
 
-高校に　入ってから、父に　毎日　えいごの　しんぶんを　読まされました。父は　「将来　やくに　立つ」と　言っていましたが、わたしは　むずかしくて　いやでした。
+<ruby>高校<rt>こうこう</rt></ruby>に　<ruby>入<rt>はい</rt></ruby>ってから、<ruby>父<rt>ちち</rt></ruby>に　<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>英語<rt>えいご</rt></ruby>の　<ruby>新聞<rt>しんぶん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>まされました。父は　「<ruby>将来<rt>しょうらい</rt></ruby>　<ruby>役<rt>やく</rt></ruby>に　<ruby>立<rt>た</rt></ruby>つ」と　言っていましたが、わたしは　<ruby>難<rt>むずか</rt></ruby>しくて　嫌でした。
 
-でも、今　思うと、ピアノを　ならわされた　おかげで、今でも　すこし　弾けます。えいごの　しんぶんを　読まされた　おかげで、大学の　えいごの　じゅぎょうは　あまり　むずかしくありませんでした。子どもの　ときは　いやだと　思っていましたが、今は　りょうしんに　かんしゃしています。
+でも、<ruby>今<rt>いま</rt></ruby>　<ruby>思<rt>おも</rt></ruby>うと、ピアノを　<ruby>習<rt>なら</rt></ruby>わされた　おかげで、今でも　<ruby>少<rt>すこ</rt></ruby>し　<ruby>弾<rt>ひ</rt></ruby>けます。英語の　新聞を　読まされた　おかげで、<ruby>大学<rt>だいがく</rt></ruby>の　英語の　<ruby>授業<rt>じゅぎょう</rt></ruby>は　あまり　難しくありませんでした。子どもの　ときは　嫌だと　思っていましたが、今は　<ruby>両親<rt>りょうしん</rt></ruby>に　<ruby>感謝<rt>かんしゃ</rt></ruby>しています。
 
 ---
 
@@ -236,15 +236,15 @@ Read the following passage about memories of strict school rules and the things 
 
 ---
 
-わたしの　母は　よく　むかしの　学校の　話を　します。母の　中学校は　とても　きまりが　きびしかったそうです。
+わたしの　<ruby>母<rt>はは</rt></ruby>は　よく　<ruby>昔<rt>むかし</rt></ruby>の　<ruby>学校<rt>がっこう</rt></ruby>の　<ruby>話<rt>はなし</rt></ruby>を　します。母の　<ruby>中学校<rt>ちゅうがっこう</rt></ruby>は　とても　<ruby>決<rt>き</rt></ruby>まりが　<ruby>厳<rt>きび</rt></ruby>しかったそうです。
 
-まず、かみの　けの　きまりが　ありました。おんなの　子は　かみを　短く　切らされたそうです。長い　かみは　ゆるされませんでした。男の　子も、前がみが　まゆげより　長いと、切らされました。
+まず、<ruby>髪<rt>かみ</rt></ruby>の　<ruby>毛<rt>け</rt></ruby>の　決まりが　ありました。<ruby>女<rt>おんな</rt></ruby>の　<ruby>子<rt>こ</rt></ruby>は　髪を　<ruby>短<rt>みじか</rt></ruby>く　<ruby>切<rt>き</rt></ruby>らされたそうです。<ruby>長<rt>なが</rt></ruby>い　髪は　<ruby>許<rt>ゆる</rt></ruby>されませんでした。<ruby>男<rt>おとこ</rt></ruby>の　子も、<ruby>前髪<rt>まえがみ</rt></ruby>が　<ruby>眉毛<rt>まゆげ</rt></ruby>より　長いと、切らされました。
 
-ふくそうの　きまりも　きびしかったそうです。冬でも　コートを　着る　ことが　できませんでした。さむくても、せいふくだけで　学校に　来させられました。くつ下の　いろまで　決められていて、白い　くつ下しか　はかされませんでした。
+<ruby>服装<rt>ふくそう</rt></ruby>の　決まりも　厳しかったそうです。<ruby>冬<rt>ふゆ</rt></ruby>でも　コートを　<ruby>着<rt>き</rt></ruby>る　ことが　できませんでした。<ruby>寒<rt>さむ</rt></ruby>くても、<ruby>制服<rt>せいふく</rt></ruby>だけで　学校に　<ruby>来<rt>こ</rt></ruby>させられました。<ruby>靴下<rt>くつした</rt></ruby>の　<ruby>色<rt>いろ</rt></ruby>まで　決められていて、<ruby>白<rt>しろ</rt></ruby>い　靴下しか　<ruby>履<rt>は</rt></ruby>かされませんでした。
 
-べんきょうの　ことでも、きびしく　させられました。テストの　点が　わるいと、放課後に　のこされて、何度も　同じ　問題を　とかされました。宿題を　わすれると、ろうかに　立たされることも　あったそうです。
+<ruby>勉強<rt>べんきょう</rt></ruby>の　ことでも、厳しく　させられました。テストの　<ruby>点<rt>てん</rt></ruby>が　<ruby>悪<rt>わる</rt></ruby>いと、<ruby>放課後<rt>ほうかご</rt></ruby>に　<ruby>残<rt>のこ</rt></ruby>されて、<ruby>何度<rt>なんど</rt></ruby>も　<ruby>同<rt>おな</rt></ruby>じ　<ruby>問題<rt>もんだい</rt></ruby>を　<ruby>解<rt>と</rt></ruby>かされました。<ruby>宿題<rt>しゅくだい</rt></ruby>を　<ruby>忘<rt>わす</rt></ruby>れると、<ruby>廊下<rt>ろうか</rt></ruby>に　<ruby>立<rt>た</rt></ruby>たされることも　あったそうです。
 
-母は　「いやだったけど、おかげで　がまんづよく　なれた」と　言っています。でも、「自分の　子どもには　あんな　きまりは　ない　ほうが　いい」とも　言っています。
+母は　「<ruby>嫌<rt>いや</rt></ruby>だったけど、おかげで　<ruby>我慢強<rt>がまんづよ</rt></ruby>く　なれた」と　<ruby>言<rt>い</rt></ruby>っています。でも、「<ruby>自分<rt>じぶん</rt></ruby>の　子どもには　あんな　決まりは　ない　ほうが　いい」とも　言っています。
 
 ---
 

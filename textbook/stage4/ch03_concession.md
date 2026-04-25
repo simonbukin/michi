@@ -171,7 +171,7 @@ These two look similar but function very differently:
 
 ### Examples
 
-> 専門家と　いえども、すべてを　知っている　わけでは　ない。
+> 専門家と　いえども、<ruby>全<rt>すべ</rt></ruby>てを　知っている　わけでは　ない。
 > "Even an expert does not know everything."
 
 > たとえ　大統領と　いえども、法の　上に　立つことは　できない。
@@ -290,7 +290,7 @@ Note: With い-adjectives, the full adjective form precedes ながら. With な-
 > 狭いながらも、居心地の　いい　部屋だ。
 > "Although it is small, it is a comfortable room."
 
-> 彼は　学生ながら、すでに　会社を　経営している。
+> 彼は　学生ながら、<ruby>既<rt>すで</rt></ruby>に　会社を　経営している。
 > "Although he is a student, he is already running a company."
 
 > 微力ながら、お手伝いさせていただきます。
@@ -335,7 +335,7 @@ The following table arranges this chapter's concessive expressions from most cas
 
 フリーランスになって三年が経った。会社を辞めた時は不安だったものの、今ではこの働き方が自分に合っていると感じている。
 
-とはいえ、すべてが順調というわけではない。収入は不安定だし、体調が悪くても休めない。会社員なら有給休暇を取ればいいものを、フリーランスにはそれがない。休んだところで、仕事は待ってくれない。
+とはいえ、<ruby>全<rt>すべ</rt></ruby>てが順調というわけではない。収入は不安定だし、体調が悪くても休めない。会社員なら有給休暇を取ればいいものを、フリーランスにはそれがない。休んだところで、仕事は待ってくれない。
 
 先月、大きなプロジェクトを引き受けた。経験があるとはいえ、今回のクライアントは要求が厳しく、修正を何度も求められた。直したそばから新しい修正が来る。正直、いらいらすることもあった。
 

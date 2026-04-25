@@ -1,6 +1,6 @@
 # Appendix C — Stage 5 Grammar Index
 
-This appendix lists every grammar point introduced in Stage 5 (Chapters 1–6), organized by chapter. Each entry includes the formation rule, meaning, and one example sentence.
+This appendix lists every grammar point introduced in Stage 5 (Chapters 1–6 cover modern N1 grammar; Chapters 10–11 cover classical grammar for reading), organized by chapter. Each entry includes the formation rule, meaning, and one example sentence. For grammar appearing in thematic chapters (yojijukugo, proverbs, manga, web Japanese, etc.), see the dedicated appendices.
 
 ---
 
@@ -80,6 +80,60 @@ This appendix lists every grammar point introduced in Stage 5 (Chapters 1–6), 
 
 ---
 
+## Chapter 10 — Classical Grammar Overview (For Recognition)
+
+These forms are not used productively at the N1 level but appear in modern formal writing, legal text, proverbs, set phrases, and literary allusion. The exam tests recognition.
+
+| Grammar Point | Classical Function | Modern Equivalent / Trace | Example | Ch. |
+|--------------|--------------------|--------------------------|---------|-----|
+| ～ず | Negation auxiliary | ～ない | 絶えず — *unceasingly* | 10 |
+| ～ざる | Attributive of ず | (used to modify nouns) | やむを得ざる事情 — *unavoidable circumstance* | 10 |
+| ～ぬ | Negative attributive | ～ない (in set phrases) | 知らぬ顔 — *a face that does not know* | 10 |
+| ～き | Past tense (witnessed) | ～た (literary) | 過ぎ去りし日 — *days gone by* | 10 |
+| ～けり | Past tense (heard, recalled) | (poetic past) | あはれなりけり — *was poignant* | 10 |
+| ～たり (perfective) | Completed state | ～た / ～ている | 堂々たる態度 — *a dignified attitude* | 10 |
+| ～なり (copula) | "to be" | だ／である (formal) | これは本なり — *this is a book* | 10 |
+| ～なり (hearsay) | "I hear that" | らしい／そうだ | 風流なり — *(it is said to be) elegant* | 10 |
+| ～べし | Obligation / conjecture | ～べき／～はず | 行くべし — *should go* | 10 |
+| ～べき | Attributive of べし | (used to modify nouns) | 行くべき道 — *the road one should take* | 10 |
+| ～べからず | Negative of べし | (formal prohibition) | 立入るべからず — *no entry* | 10 |
+| ～まじ | Negative conjecture | (rare; survives in あるまじき) | 教師にあるまじき言動 — *behavior unbecoming a teacher* | 10 |
+| ～む / ～ん | Volitional / conjecture | ～う／～よう | 行かん — *will go* | 10 |
+| ～む (attributive) | Will / shall | (rare in modern) | 行かんとする — *about to go* | 10 |
+| ～ごとし | "like, as" | ～ような | 雪のごとき肌 — *skin like snow* | 10 |
+| ～ごとく | Adverbial of ごとし | ～ように | 風のごとく走る — *runs like the wind* | 10 |
+| ～ものなり | "is the kind of thing that" | ～ものだ | 苦労はあるものなり — *struggles are inevitable* | 10 |
+| ～や否や | "as soon as" | ～やいなや | 着くや否や倒れた — *collapsed as soon as he arrived* | 10 |
+| ぞ／なむ／や／か／こそ | Emphasis particles (係り結び) | (mostly extinct; こそ survives) | これぞ本物 — *this is the real thing* | 10 |
+| ～ければ (classical) | Conditional / cause | ～ので／～から | 暗ければ見えず — *being dark, cannot see* | 10 |
+
+## Chapter 11 — Classical Verb System (For Recognition)
+
+| Grammar Point | Classical Form | Modern Reflex | Example | Ch. |
+|--------------|---------------|---------------|---------|-----|
+| 四段活用 | Four-grade conjugation | 五段活用 | 書く: 書か, 書き, 書く, 書け | 11 |
+| 上二段活用 | Upper bigrade | 上一段 | 起く → 起きる | 11 |
+| 下二段活用 | Lower bigrade | 下一段 | 受く → 受ける | 11 |
+| ナ行変格 | ナ-irregular (死ぬ, 去ぬ) | 五段 (absorbed) | 死ぬ — preserved | 11 |
+| ラ行変格 | ラ-irregular (あり, をり) | 五段 (absorbed into ある etc.) | あり → ある | 11 |
+| 命令形 (classical) | Imperative | (mostly preserved) | 行け — *go!* | 11 |
+| 已然形 | Realis form (with こそ, ば) | Mostly merged into 仮定形 | 起くれば — *because [it] rises* | 11 |
+| 連用形+けり | Past tense literary | ～た | 来たりけり — *(it) came* | 11 |
+| 終止形 vs 連体形 | Distinct forms in classical | Merged in modern | 行く (終止) vs 行く (連体) | 11 |
+| 助動詞 stacking | Auxiliary chains | Modern verbs use fewer | 死なざりけり — *did not die* | 11 |
+
+These forms appear regularly in:
+
+- **Legal documents** (使用すべからず, 害さざる範囲で)
+- **Proverbs** (聞かぬは一生の恥)
+- **Newspaper editorials** (～せざるを得ない, ～と言うべきである)
+- **Formal speeches and essays** (～たるもの, ～ごとし)
+- **Set greetings and ceremonial Japanese** (恐れながら, 不肖ながら)
+
+Productive command is not required for N1 — recognition and parsing are sufficient.
+
+---
+
 ## Grammar Point Count by Chapter
 
 | Chapter | Topic | Grammar Points |
@@ -90,4 +144,8 @@ This appendix lists every grammar point introduced in Stage 5 (Chapters 1–6), 
 | 4 | Determination | 6 |
 | 5 | Concession formal | 5 |
 | 6 | Inevitability | 3 |
-| **Total** | | **30** |
+| 10 | Classical residues (recognition) | 20 |
+| 11 | Classical verb system (recognition) | 10 |
+| **Total** | | **60** |
+
+Items in Chapters 10–11 are taught for recognition only. The 30 modern N1 grammar points in Chapters 1–6 are taught for parsing and where appropriate for productive use in formal writing.

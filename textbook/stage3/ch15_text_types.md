@@ -108,7 +108,7 @@ Opinion essays use a distinctive set of patterns:
 
 One of the most important patterns to recognize in opinion writing is たしかに...しかし (certainly..., however). This is a concession-pivot structure: the writer acknowledges the opposing view (たしかに) and then pivots to their own position (しかし).
 
-> たしかに、リモートワークには多くの利点がある。しかし、長期的に見ると、コミュニケーション不足が深刻な問題になる可能性がある。
+> <ruby>確<rt>たし</rt></ruby>かに、リモートワークには多くの利点がある。しかし、長期的に見ると、コミュニケーション不足が深刻な問題になる可能性がある。
 > "Certainly, remote work has many advantages. However, looking at it long-term, insufficient communication could become a serious problem."
 
 When you see たしかに in an essay, immediately look for the しかし or だが or けれども that follows. The writer's real position is after the pivot, not in the concession.
@@ -157,7 +157,7 @@ Instruction manuals and how-to texts follow a sequential structure: step 1, step
 > "When you press this button, the settings screen opens."
 
 **Plain imperative (for concise instructions):**
-> 次に、ふたを開ける。中の部品を取り出す。
+> 次に、<ruby>蓋<rt>ふた</rt></ruby>を開ける。中の部品を取り出す。
 > "Next, open the lid. Remove the parts inside."
 
 Note: In instruction manuals, the plain form (開ける, 取り出す) is used for concise, impersonal directions. This is not rude — it is simply the register of technical writing.

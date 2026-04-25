@@ -32,10 +32,10 @@ The pattern is consistent across all 五段 verbs with no exceptions. If you kno
 > 日本語が　読める。
 > "I can read Japanese."
 
-> この　みせで　さかなが　買える。
+> この　<ruby>店<rt>みせ</rt></ruby>で　<ruby>魚<rt>さかな</rt></ruby>が　<ruby>買<rt>か</rt></ruby>える。
 > "You can buy fish at this shop."
 
-> あの　かわで　泳げる。
+> あの　<ruby>川<rt>かわ</rt></ruby>で　<ruby>泳<rt>およ</rt></ruby>げる。
 > "You can swim in that river."
 
 ### 一段 Verbs
@@ -50,10 +50,10 @@ For 一段 verbs, drop the final る and add られる.
 | 出る | 出られる | can go out |
 | 開ける | 開けられる | can open |
 
-> あさ　六時に　起きられる。
+> <ruby>朝<rt>あさ</rt></ruby>　六時に　起きられる。
 > "I can wake up at six in the morning."
 
-> この　レストランで　にくが　食べられる。
+> この　レストランで　<ruby>肉<rt>にく</rt></ruby>が　食べられる。
 > "You can eat meat at this restaurant."
 
 ### Irregular Verbs
@@ -70,7 +70,7 @@ The two irregular verbs have unique potential forms that must simply be memorize
 > あした　来られる？
 > "Can you come tomorrow?"
 
-> りょうりが　できる。
+> <ruby>料理<rt>りょうり</rt></ruby>が　できる。
 > "I can cook." (Literally: "cooking can be done")
 
 ---
@@ -89,13 +89,13 @@ This is a critical point. Regardless of what class the original verb belongs to,
 
 This makes conjugation straightforward once you have formed the potential. You never need to worry about 五段 sound changes when conjugating a potential verb — the original class no longer matters.
 
-> きのう　はやく　起きられなかった。
+> きのう　<ruby>早<rt>はや</rt></ruby>く　起きられなかった。
 > "I couldn't wake up early yesterday."
 
 > 日本語が　話せるように　なりたい。
 > "I want to become able to speak Japanese."
 
-> かんじが　読めなくて　こまった。
+> <ruby>漢字<rt>かんじ</rt></ruby>が　読めなくて　<ruby>困<rt>こま</rt></ruby>った。
 > "I couldn't read the kanji and was troubled."
 
 ---
@@ -152,7 +152,7 @@ There is actually a practical advantage to ら抜き: it disambiguates the poten
 > あした　来れる？（ら抜き）
 > "Can you come tomorrow?"
 
-> この　アプリで　えいがが　見れる。（ら抜き）
+> この　アプリで　<ruby>映画<rt>えいが</rt></ruby>が　見れる。（ら抜き）
 > "You can watch movies with this app."
 
 ---
@@ -166,10 +166,10 @@ Japanese has a second way to express ability: the dictionary form of a verb foll
 > 日本語を　話す　ことが　できる。
 > "I can speak Japanese."
 
-> この　みせで　カードで　はらう　ことが　できる。
+> この　<ruby>店<rt>みせ</rt></ruby>で　カードで　<ruby>払<rt>はら</rt></ruby>う　ことが　できる。
 > "You can pay by card at this shop."
 
-> ここで　しゃしんを　とる　ことが　できます。
+> ここで　<ruby>写真<rt>しゃしん</rt></ruby>を　<ruby>撮<rt>と</rt></ruby>る　ことが　できます。
 > "You can take photos here." (polite)
 
 Note that with ことができる, the original particle を is retained — there is no particle shift to が for the verb's object, because the verb remains in dictionary form. The が in ことができる marks こと as the subject of できる.
@@ -180,7 +180,7 @@ There is no meaning difference between the two constructions. 日本語が話せ
 
 The negative is formed by negating できる: ことができない.
 
-> ここでは　タバコを　すう　ことが　できません。
+> ここでは　タバコを　<ruby>吸<rt>す</rt></ruby>う　ことが　できません。
 > "You cannot smoke here." (polite)
 
 ---
@@ -193,7 +193,7 @@ Japanese makes a distinction that English usually does not: the difference betwe
 
 見える describes something entering your field of vision naturally, without effort. You do not choose to see it — it simply appears.
 
-> まどから　ふじさんが　見える。
+> <ruby>窓<rt>まど</rt></ruby>から　<ruby>富士山<rt>ふじさん</rt></ruby>が　見える。
 > "Mt. Fuji is visible from the window." / "You can see Mt. Fuji from the window."
 
 > 字が　小さくて　見えない。
@@ -203,17 +203,17 @@ Japanese makes a distinction that English usually does not: the difference betwe
 
 見られる describes the ability or opportunity to deliberately watch or view something.
 
-> この　サイトで　むりょうで　えいがが　見られる。
+> この　サイトで　<ruby>無料<rt>むりょう</rt></ruby>で　<ruby>映画<rt>えいが</rt></ruby>が　見られる。
 > "You can watch movies for free on this site."
 
-> びじゅつかんで　ピカソの　えが　見られる。
+> <ruby>美術館<rt>びじゅつかん</rt></ruby>で　ピカソの　<ruby>絵<rt>え</rt></ruby>が　見られる。
 > "You can see Picasso's paintings at the art museum."
 
 ### 聞こえる（きこえる）— "Is audible / Can be heard" (spontaneous)
 
 聞こえる describes a sound reaching your ears naturally.
 
-> となりの　へやから　おんがくが　聞こえる。
+> <ruby>隣<rt>となり</rt></ruby>の　<ruby>部屋<rt>へや</rt></ruby>から　<ruby>音楽<rt>おんがく</rt></ruby>が　聞こえる。
 > "I can hear music from the next room."
 
 > 声が　小さくて　聞こえない。（こえ）
@@ -237,13 +237,13 @@ Both 見える and 聞こえる are 一段 verbs and conjugate accordingly.
 
 ## 1.7 Reading Passage
 
-わたしは　田中ゆきと　言います。今　大学で　日本語を　べんきょうしています。
+わたしは　田中ゆきと　<ruby>言<rt>い</rt></ruby>います。<ruby>今<rt>いま</rt></ruby>　<ruby>大学<rt>だいがく</rt></ruby>で　<ruby>日本語<rt>にほんご</rt></ruby>を　<ruby>勉強<rt>べんきょう</rt></ruby>しています。
 
-日本語の　べんきょうを　はじめてから　二年に　なりました。今は　かんたんな　しんぶんの　きじが　読めます。ニュースも　ゆっくり　話してもらえれば、だいたい　わかります。でも、まだ　日本の　ドラマは　ぜんぶ　聞き取る　ことが　できません。話すのが　はやくて、聞こえても　意味が　わからない　ことが　あります。
+日本語の　勉強を　<ruby>始<rt>はじ</rt></ruby>めてから　<ruby>二年<rt>にねん</rt></ruby>に　なりました。今は　<ruby>簡単<rt>かんたん</rt></ruby>な　<ruby>新聞<rt>しんぶん</rt></ruby>の　<ruby>記事<rt>きじ</rt></ruby>が　<ruby>読<rt>よ</rt></ruby>めます。ニュースも　ゆっくり　<ruby>話<rt>はな</rt></ruby>してもらえれば、だいたい　わかります。でも、まだ　<ruby>日本<rt>にほん</rt></ruby>の　ドラマは　<ruby>全部<rt>ぜんぶ</rt></ruby>　<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>る　ことが　できません。話すのが　<ruby>速<rt>はや</rt></ruby>くて、<ruby>聞<rt>き</rt></ruby>こえても　<ruby>意味<rt>いみ</rt></ruby>が　わからない　ことが　あります。
 
-来年の　なつ、日本に　りょこうに　行きたいと　思っています。ともだちの　さとうさんは　日本語が　じょうずで、一人で　りょこうできます。わたしも　一人で　電車の　きっぷが　買えるように　なりたいです。レストランで　日本語で　ちゅうもんが　できるように　なりたいです。
+<ruby>来年<rt>らいねん</rt></ruby>の　<ruby>夏<rt>なつ</rt></ruby>、日本に　<ruby>旅行<rt>りょこう</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きたいと　<ruby>思<rt>おも</rt></ruby>っています。<ruby>友達<rt>ともだち</rt></ruby>の　<ruby>佐藤<rt>さとう</rt></ruby>さんは　日本語が　<ruby>上手<rt>じょうず</rt></ruby>で、<ruby>一人<rt>ひとり</rt></ruby>で　旅行できます。わたしも　一人で　<ruby>電車<rt>でんしゃ</rt></ruby>の　<ruby>切符<rt>きっぷ</rt></ruby>が　<ruby>買<rt>か</rt></ruby>えるように　なりたいです。レストランで　日本語で　<ruby>注文<rt>ちゅうもん</rt></ruby>が　できるように　なりたいです。
 
-今は　まだ　かんじが　あまり　読めません。百ぐらい　わかりますが、えきの　かんばんは　むずかしいです。でも、ひらがなが　ある　ところは　だいじょうぶです。日本に　行ったら、毎日　日本語を　つかう　ことが　できるから、もっと　上手に　なれると　思います。
+今は　まだ　<ruby>漢字<rt>かんじ</rt></ruby>が　あまり　読めません。<ruby>百<rt>ひゃく</rt></ruby>ぐらい　わかりますが、<ruby>駅<rt>えき</rt></ruby>の　<ruby>看板<rt>かんばん</rt></ruby>は　<ruby>難<rt>むずか</rt></ruby>しいです。でも、ひらがなが　ある　ところは　<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。日本に　行ったら、<ruby>毎日<rt>まいにち</rt></ruby>　日本語を　<ruby>使<rt>つか</rt></ruby>う　ことが　できるから、もっと　<ruby>上手<rt>じょうず</rt></ruby>に　なれると　思います。
 
 ---
 
@@ -265,15 +265,15 @@ Read the following passage about a foreign exchange student reflecting on their 
 
 ---
 
-わたしは　マークです。アメリカから　来ました。日本に　来てから　もう　一年です。
+わたしは　マークです。アメリカから　<ruby>来<rt>き</rt></ruby>ました。<ruby>日本<rt>にほん</rt></ruby>に　来てから　もう　<ruby>一年<rt>いちねん</rt></ruby>です。
 
-一年前は、日本語が　ほとんど　話せませんでした。レストランで　ちゅうもんする　ことも　できませんでした。メニューの　かんじが　読めなくて、いつも　写真を　指さしていました。友達の　話も　はやくて　聞き取れませんでした。
+一年<ruby>前<rt>まえ</rt></ruby>は、<ruby>日本語<rt>にほんご</rt></ruby>が　ほとんど　<ruby>話<rt>はな</rt></ruby>せませんでした。レストランで　<ruby>注文<rt>ちゅうもん</rt></ruby>する　ことも　できませんでした。メニューの　<ruby>漢字<rt>かんじ</rt></ruby>が　<ruby>読<rt>よ</rt></ruby>めなくて、いつも　<ruby>写真<rt>しゃしん</rt></ruby>を　<ruby>指<rt>ゆび</rt></ruby>さしていました。<ruby>友達<rt>ともだち</rt></ruby>の　<ruby>話<rt>はなし</rt></ruby>も　<ruby>速<rt>はや</rt></ruby>くて　<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>れませんでした。
 
-今は　だいぶ　変わりました。かんたんな　かいわなら　できます。スーパーで　店員さんに　聞かれた　ことが　わかります。漢字も　三百ぐらい　読めるように　なりました。電車の　アナウンスも　だいたい　聞き取れます。
+<ruby>今<rt>いま</rt></ruby>は　だいぶ　<ruby>変<rt>か</rt></ruby>わりました。<ruby>簡単<rt>かんたん</rt></ruby>な　<ruby>会話<rt>かいわ</rt></ruby>なら　できます。スーパーで　<ruby>店員<rt>てんいん</rt></ruby>さんに　<ruby>聞<rt>き</rt></ruby>かれた　ことが　わかります。漢字も　<ruby>三百<rt>さんびゃく</rt></ruby>ぐらい　読めるように　なりました。電車の　アナウンスも　だいたい　聞き取れます。
 
-でも、まだ　できない　ことも　あります。ニュースは　はやくて　ぜんぶ　聞き取る　ことが　できません。電話で　日本語を　話すのは　とくに　むずかしいです。あいての　かおが　見えないと、わからない　ことが　多いです。
+でも、まだ　できない　ことも　あります。ニュースは　速くて　<ruby>全部<rt>ぜんぶ</rt></ruby>　聞き取る　ことが　できません。<ruby>電話<rt>でんわ</rt></ruby>で　日本語を　話すのは　<ruby>特<rt>とく</rt></ruby>に　<ruby>難<rt>むずか</rt></ruby>しいです。<ruby>相手<rt>あいて</rt></ruby>の　<ruby>顔<rt>かお</rt></ruby>が　<ruby>見<rt>み</rt></ruby>えないと、わからない　ことが　<ruby>多<rt>おお</rt></ruby>いです。
 
-来年は　日本の　会社で　はたらきたいです。けいごが　使えるように　なれば、しゅうしょくの　めんせつも　できると　思います。もっと　がんばります。
+<ruby>来年<rt>らいねん</rt></ruby>は　日本の　<ruby>会社<rt>かいしゃ</rt></ruby>で　<ruby>働<rt>はたら</rt></ruby>きたいです。<ruby>敬語<rt>けいご</rt></ruby>が　<ruby>使<rt>つか</rt></ruby>えるように　なれば、<ruby>就職<rt>しゅうしょく</rt></ruby>の　<ruby>面接<rt>めんせつ</rt></ruby>も　できると　<ruby>思<rt>おも</rt></ruby>います。もっと　<ruby>頑張<rt>がんば</rt></ruby>ります。
 
 ---
 

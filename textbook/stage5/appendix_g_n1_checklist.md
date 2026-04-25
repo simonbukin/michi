@@ -1,91 +1,169 @@
 # Appendix G — N1 Grammar Checklist
 
-This appendix serves as a test-preparation checklist cross-referencing all N1-level grammar points covered in Stage 5 of 道 with their chapter locations. Items marked with "—" in the Chapter column are supplementary patterns not explicitly taught in a specific chapter but frequently tested on the N1 exam. Use the "Confident?" column to track your review progress: check off items you can recognize, understand, and produce correctly. Any unchecked boxes indicate areas to revisit before the exam.
+This appendix is the master test-preparation checklist for N1 grammar covered in Stage 5 of 道. It serves three purposes:
+
+1. **Verify coverage.** Every N1-tested grammar point should appear here, mapped to a Stage 5 chapter (or marked supplementary if it appears across the textbook in multiple stages).
+2. **Organize by function.** The original 80+ N1 patterns are notoriously hard to study as a flat list. Grouping them by what they *do* — emphasize, concede, condition, exclude — makes them learnable as families and recognizable in unfamiliar combinations.
+3. **Track progress.** Use the **Confident?** column to check off items as you can recognize, parse, and reproduce them. Unchecked boxes flag your remaining gaps before the exam.
+
+A bracketed level mark — **[H]**, **[M]**, **[L]** — gives a rough exam frequency: H = appears almost every cycle, M = appears in most, L = uncommon but in the official inventory. Items not bracketed are H by default.
+
+For each item, an entry of "—" in the Chapter column means the pattern is part of the N1 inventory but is reviewed in this textbook in passing or in earlier stages, not in a dedicated Stage 5 section. The appendix entry *is* the brief teaching for those.
 
 ---
 
-| Grammar Point | Meaning | Chapter | Confident? |
-|---|---|---|---|
-| ～あっての | owing to; only because of (indispensable condition) | — | ☐ |
-| ～いかんだ／いかんで | depending on; according to | — | ☐ |
-| ～いかんにかかわらず | regardless of; irrespective of | — | ☐ |
-| ～いかんによっては | depending on (the outcome of) | — | ☐ |
-| ～いかんによらず | regardless of; no matter what | — | ☐ |
-| ～う（よう）が／う（よう）と | no matter what one does; even if | 5 | ☐ |
-| ～う（よう）が～まいが | whether one does or doesn't | — | ☐ |
-| ～う（よう）にも～ない | even if one wanted to, one can't | — | ☐ |
-| ～をおいて～ない | apart from; no one/nothing other than | 4 | ☐ |
-| ～かたがた | while also; at the same time as (formal) | — | ☐ |
-| ～かたわら | while; alongside (doing something else) | — | ☐ |
-| ～が最後（がさいご） | once one does, it's the end (no going back) | — | ☐ |
-| ～が故に（がゆえに） | because of; precisely because (literary) | — | ☐ |
-| ～きらいがある | have a tendency to (negative habit) | — | ☐ |
-| ～極まる／極まりない（きわまる／きわまりない） | extremely; utterly; to the utmost degree | 1 | ☐ |
-| ～くらいなら | rather than (doing something undesirable) | — | ☐ |
-| ～こととて | because; since (formal apology/explanation) | — | ☐ |
-| ～ことなしに | without doing | — | ☐ |
-| ～ごとき／ごとく（復習） | like; as (classical simile; review from Stage 4) | — | ☐ |
-| ～限りだ（かぎりだ） | extremely; to the utmost (emotional emphasis) | 1 | ☐ |
-| ～ずくめ | nothing but; all; entirely | — | ☐ |
-| ～ずとも | even without doing; even if one does not | 2 | ☐ |
-| ～ずにはおかない／ないではおかない | cannot help but; inevitably causes | 6 | ☐ |
-| ～ずにはすまない／ないではすまない | cannot avoid doing; must inevitably do | 6 | ☐ |
-| ～そびれる | miss the chance to; fail to do | — | ☐ |
-| ～たところで | even if one does (futile result) | — | ☐ |
-| ～たりとも～ない | not even (one); not a single | 3 | ☐ |
-| ～たる（社会人たるもの） | as a; befitting the status of (classical copula) | — | ☐ |
-| ～だに | even (just thinking about it); merely | — | ☐ |
-| ～であれ／であろうと | even if it is; no matter whether | 5 | ☐ |
-| ～てからというもの | ever since (a turning point) | — | ☐ |
-| ～てはいられない | cannot afford to keep ~ing; can't just sit around | 6 | ☐ |
-| ～てやまない（てやまない） | never cease to; earnestly; from the heart | 1 | ☐ |
-| ～とあって | given that; because (special circumstances) | 3 | ☐ |
-| ～とあれば | if it is (the case that); if (for someone's sake) | 3 | ☐ |
-| ～というところだ／といったところだ | at most; roughly; about (setting an upper limit) | — | ☐ |
-| ～といい～といい | whether it's ~ or ~; in every respect | — | ☐ |
-| ～といったらない／といったらありはしない | indescribably; extremely; you can't imagine how | — | ☐ |
-| ～とて | even; even though (literary concessive) | 5 | ☐ |
-| ～とは | to think that; how surprising that (disbelief) | — | ☐ |
-| ～とはいえ（復習） | although; be that as it may (review) | — | ☐ |
-| ～ともあろう（人が） | someone of such stature (and yet) | — | ☐ |
-| ～ともなると／ともなれば | when it comes to (a level as significant as) | 3 | ☐ |
-| ～ところを | despite being in the middle of; while (interrupted) | 5 | ☐ |
-| ～ないまでも | even if not; if not going so far as to | 2 | ☐ |
-| ～ないものでもない（復習） | it's not impossible to (review) | — | ☐ |
-| ～なくして（は） | without (something indispensable) | 3 | ☐ |
-| ～なしに（は） | without; unless there is | 3 | ☐ |
-| ～ならいざしらず | if it were ~ that's one thing, but | — | ☐ |
-| ～ならでは | unique to; only possible with; impossible without | 4 | ☐ |
-| ～なり～なり | whether ~ or ~; either ~ or ~ (choices) | — | ☐ |
-| ～にあるまじき | unbecoming of; unforgivable for | — | ☐ |
-| ～に足る（にたる） | be worth; be sufficient to | 2 | ☐ |
-| ～にかたくない | not hard to (imagine/understand) | — | ☐ |
-| ～にして | at (a point in time/status); only at; and also | — | ☐ |
-| ～にそくして／に即した | in accordance with; in line with (facts/reality) | — | ☐ |
-| ～に堪える（にたえる） | be worthy of; can withstand | 2 | ☐ |
-| ～に堪えない（にたえない） | cannot endure; too ~ to bear; unworthy of | 1 | ☐ |
-| ～にとどまらず | not limited to; goes beyond | — | ☐ |
-| ～に値する（にあたいする） | be worthy of; deserve; merit | 2 | ☐ |
-| ～にひきかえ | in contrast to; unlike; whereas | — | ☐ |
-| ～にもまして | more than; above all; even more than | — | ☐ |
-| ～の至り（のいたり） | the height of; the utmost (emotion/honor) | 1 | ☐ |
-| ～のみ | only (literary equivalent of だけ) | — | ☐ |
-| ～のやら | I wonder if/what (uncertainty, worry) | — | ☐ |
-| ～は言うに及ばず（はいうにおよばず） | goes without saying; not to mention | — | ☐ |
-| ～はさておき | setting aside; leaving aside for now | — | ☐ |
-| ～ばこそ | precisely because (emphatic positive reason) | — | ☐ |
-| ～ばそれまでだ | if ~ then that's the end of it; no point then | — | ☐ |
-| ～べからざる | must not; that cannot be (classical attributive) | — | ☐ |
-| ～べく | in order to (literary purpose) | — | ☐ |
-| ～べくして | as was meant to be; was bound to | 4 | ☐ |
-| ～べくもない | cannot possibly; there is no way to | 4 | ☐ |
-| ～まじき | should not; must not; unbecoming | 2 | ☐ |
-| ～までだ／までのことだ | all one can do is; it just means that | — | ☐ |
-| ～までもない | it goes without saying; there is no need to | 4 | ☐ |
-| ～まみれ（復習） | covered in (review from Stage 4) | — | ☐ |
-| ～めく（復習） | to seem like; to take on the quality of (review) | — | ☐ |
-| ～もさることながら | ~ is one thing, but; not only ~ but also | — | ☐ |
-| ～をものともせず | in defiance of; undaunted by | 4 | ☐ |
-| ～をよそに | ignoring; paying no attention to; in disregard of | 5 | ☐ |
-| ～んがため（に） | in order to (literary/emphatic purpose) | — | ☐ |
-| ～んばかり（復習） | as if about to; on the verge of (review) | — | ☐ |
+## 1. Emphatic Assertion and Strong Feeling
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～てやまない **[H]** | earnestly; never cease to | te-form + やまない. Emotional verbs only. | 1 | ☐ |
+| ～に堪えない（にたえない） **[H]** | too ~ to bear; deeply moved | Noun + に堪えない. Two senses by context. | 1 | ☐ |
+| ～極まる/極まりない（きわまる） **[H]** | extremely; utterly | な-adj stem + 極まる. Strong negative usually. | 1 | ☐ |
+| ～の至り（のいたり） **[M]** | the height of; the utmost | Noun + の至り. Formal emotion. | 1 | ☐ |
+| ～限りだ（かぎりだ） **[M]** | nothing but ~; extremely | adj + 限りだ. Personal emotion only. | 1 | ☐ |
+| ～といったらない／ありはしない **[M]** | indescribably ~ | Stem + といったらない. Spoken intensifier. | — | ☐ |
+| ～ばこそ **[M]** | precisely because | ば-form + こそ. Emphatic positive reason. | — | ☐ |
+| ～とは **[M]** | to think that ~; how (surprising) | Plain + とは. Surprise/disbelief. | — | ☐ |
+
+## 2. Worth, Sufficiency, and Judgment
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～に足る／足りる（にたる） **[H]** | worth; sufficient to | Dict + に足る. Trust, evaluation. | 2 | ☐ |
+| ～に値する（にあたいする） **[H]** | deserves; merits | Noun/Dict + に値する. Evaluative. | 2 | ☐ |
+| ～に堪える（にたえる） **[M]** | worthy of; can withstand | Noun + に堪える. Often 鑑賞, 批判, 観察. | 2 | ☐ |
+| ～まじき **[H]** | unbecoming of; should not | Dict + まじき + Noun. Classical neg. | 2 | ☐ |
+| ～ないまでも **[M]** | even if not to the extent of | ない + までも. Concessive minimum. | 2 | ☐ |
+| ～ずとも **[M]** | even without doing | Stem ず + とも. Literary 〜なくても. | 2 | ☐ |
+| ～にかたくない **[M]** | not hard to (imagine) | Noun + にかたくない. Mostly 想像/察する. | — | ☐ |
+
+## 3. Conditional and Circumstantial
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～ともなると／ともなれば **[H]** | when it comes to (level X) | Noun + ともなると. Significance. | 3 | ☐ |
+| ～とあって **[H]** | given that; since | Plain/Noun + とあって. Special circumstance. | 3 | ☐ |
+| ～とあれば **[M]** | if it is for | Plain/Noun + とあれば. Sake-of conditional. | 3 | ☐ |
+| ～たりとも～ない **[H]** | not even a single | 一+counter + たりとも + neg. | 3 | ☐ |
+| ～なしに（は）／なくして（は） **[H]** | without; unless there is | Noun + なしに(は). Indispensable. | 3 | ☐ |
+| ～が最後（がさいご） **[M]** | once one does, that's it | た-form + が最後. No going back. | — | ☐ |
+| ～ならいざしらず **[M]** | if it were ~, fine, but | Noun + ならいざしらず. | — | ☐ |
+| ～いかんだ／いかんで **[M]** | depending on | Noun + のいかんだ. Formal/legal. | — | ☐ |
+| ～いかんによっては **[M]** | depending on (the outcome) | Noun + のいかんによっては. | — | ☐ |
+| ～いかんによらず／いかんにかかわらず **[M]** | regardless of | Noun + のいかんによらず. | — | ☐ |
+| ～にそくして／に即した **[M]** | in line with (facts/reality) | Noun + に即して. Formal alignment. | — | ☐ |
+| ～あっての **[H]** | only because of; thanks to | Noun + あっての + Noun. Indispensable. | — | ☐ |
+
+## 4. Determination, Inevitability, Exclusivity
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～べくして **[H]** | as was meant to be | Dict + べくして. 成功すべくして成功した. | 4 | ☐ |
+| ～べくもない **[M]** | no way to; cannot possibly | Dict + べくもない. Literary impossibility. | 4 | ☐ |
+| ～をものともせず（に） **[H]** | undaunted by | Noun + をものともせず. Triumph despite. | 4 | ☐ |
+| ～をおいて（他に）～ない **[H]** | no one/nothing other than | Noun + をおいて + neg. Sole option. | 4 | ☐ |
+| ～ならでは（の） **[H]** | unique to; only possible with | Noun + ならではの + Noun. Praise. | 4 | ☐ |
+| ～までもない／までもなく **[H]** | no need to; goes without saying | Dict + までもない. | 4 | ☐ |
+| ～ずにはおかない／ないではおかない **[H]** | inevitably causes | Stem ず + にはおかない. Forceful. | 6 | ☐ |
+| ～ずにはすまない／ないではすまない **[H]** | cannot avoid doing | Stem ず + にはすまない. Obligation. | 6 | ☐ |
+| ～てはいられない **[M]** | cannot afford to keep ~ing | te-form + はいられない. | 6 | ☐ |
+| ～までだ／までのことだ **[M]** | all one can do is | Dict + までのことだ. Resignation. | — | ☐ |
+| ～ばそれまでだ **[M]** | if ~, that's the end of it | ば + それまでだ. No remedy. | — | ☐ |
+| ～んがため（に） **[M]** | in order to (literary) | Stem ん + がために. Strong purpose. | — | ☐ |
+| ～べく **[M]** | in order to (literary) | Dict + べく. Literary purpose. | — | ☐ |
+
+## 5. Concession and Contrast
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～であれ／であろうと **[H]** | even if it is; no matter whether | Noun + であれ. Formal concession. | 5 | ☐ |
+| ～（よ）うが／（よ）うと **[H]** | no matter how/what | Volitional + が. Defiance. | 5 | ☐ |
+| ～（よ）うが～まいが **[M]** | whether one does or doesn't | Vol + が + neg-vol + が. Indifference. | — | ☐ |
+| ～とて **[M]** | even though (literary) | Plain/Noun + とて. Literary concession. | 5 | ☐ |
+| ～ところを **[M]** | despite being in (state) | Plain + ところを. Polite intrusion. | 5 | ☐ |
+| ～をよそに **[M]** | indifferent to; ignoring | Noun + をよそに. Disregard. | 5 | ☐ |
+| ～にひきかえ **[M]** | in contrast to; unlike | Noun + にひきかえ. Comparative. | — | ☐ |
+| ～もさることながら **[M]** | not only ~ but also | Noun + もさることながら. | — | ☐ |
+| ～たところで **[M]** | even if one does | た-form + ところで. Futile result. | — | ☐ |
+| ～ともあろう（人が） **[M]** | someone of such stature | Noun + ともあろう. Disappointment. | — | ☐ |
+| ～にあるまじき **[M]** | unbecoming of (status) | Noun + にあるまじき. Outrage. | — | ☐ |
+| ～ならまだしも **[M]** | if ~ that's one thing, but | Noun + ならまだしも. | — | ☐ |
+
+## 6. Continuation, Range, and Inclusion
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～かたがた **[M]** | while also; combining | Noun + かたがた. Formal politeness. | — | ☐ |
+| ～かたわら **[M]** | while; alongside | Noun の/Dict + かたわら. Side activity. | — | ☐ |
+| ～がてら **[M]** | while doing; on the way | Stem/Noun + がてら. Casual side trip. | — | ☐ |
+| ～は言うに及ばず **[M]** | not to mention | Noun + はいうに及ばず. | — | ☐ |
+| ～にとどまらず **[M]** | not limited to; goes beyond | Noun + にとどまらず. | — | ☐ |
+| ～といい～といい **[M]** | whether ~ or ~; in every respect | Noun + といい. Praise/criticism cumulative. | — | ☐ |
+| ～なり～なり **[M]** | whether ~ or ~ (choices) | Noun/Dict + なり. Suggestion of options. | — | ☐ |
+| ～にもまして **[M]** | more than; even more than | Noun + にもまして. Comparative max. | — | ☐ |
+| ～ずくめ **[M]** | nothing but; entirely | Noun + ずくめ. 黒ずくめ, いいことずくめ. | — | ☐ |
+| ～まみれ | covered in (review S4) | Noun + まみれ. 泥, 血, ほこり. | — | ☐ |
+
+## 7. Reason and Cause (Literary)
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～が故に（がゆえに） **[H]** | because of; precisely because | Plain/Noun + が故に. Literary. | — | ☐ |
+| ～こととて **[M]** | because; since (formal apology) | Noun の/Plain + こととて. Apology context. | — | ☐ |
+| ～とあって | given that (see §3) | — | 3 | (see §3) |
+
+## 8. Negation, Limitation, and Restriction
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～ないものでもない **[M]** | not impossible to | ない + ものでもない. Reluctant possibility. | — | ☐ |
+| ～ことなしに **[M]** | without doing | Dict + ことなしに. Literary 〜ずに. | — | ☐ |
+| ～きらいがある **[M]** | tendency to (negative) | Dict + きらいがある. Bad habit observation. | — | ☐ |
+| ～そびれる **[M]** | miss the chance to | Stem + そびれる. Lost opportunity. | — | ☐ |
+| ～にかたくない **[M]** | not hard to (see §2) | — | — | (see §2) |
+| ～だに **[L]** | even (just thinking) | Verb + だに. 想像するだに恐ろしい. | — | ☐ |
+| ～のみ **[L]** | only (literary) | Noun/Dict + のみ. Literary だけ. | — | ☐ |
+| ～たる（社会人たるもの） **[L]** | as a; befitting | Noun + たる + Noun. Classical copula. | — | ☐ |
+| ～にして **[L]** | and yet; only at | Noun + にして. 一夜にして, 三十にして. | — | ☐ |
+
+## 9. Discourse, Quoting, and Aside
+
+| Grammar Point | Meaning | Brief Form / Notes | Chapter | Confident? |
+|---|---|---|---|---|
+| ～はさておき **[M]** | setting aside; leaving aside | Noun + はさておき. Topic shift. | — | ☐ |
+| ～というところだ／といったところだ **[M]** | at most; roughly | Noun + といったところだ. Upper estimate. | — | ☐ |
+| ～てからというもの **[M]** | ever since (turning point) | te-form + からというもの. Life change. | — | ☐ |
+| ～のやら **[L]** | I wonder (worry) | Plain + のやら. 困ったのやら. | — | ☐ |
+| ～べからざる **[L]** | must not; that cannot be | Dict + べからざる + Noun. Classical attributive. | — | ☐ |
+| ～めく **[L]** | to seem like; take on the quality of (review S4) | Noun + めく. 春めく. | — | ☐ |
+| ～んばかり | as if about to (review S4) | Stem ん + ばかり. Almost-but-not-quite. | — | ☐ |
+| ～ごとき／ごとく | like; as (classical) | Dict/Noun + ごとく. Classical simile (review). | — | ☐ |
+| ～う（よう）にも～ない **[M]** | even if one wanted to, can't | Vol + にも + neg potential. | — | ☐ |
+
+---
+
+## Quick Diagnostic
+
+If you can identify the **function category** for each grammar point above on first sight — even without knowing the exact meaning — your N1 reading is in good shape. The exam tests recognition under time pressure, and recognition starts with knowing what *kind* of meaning to expect from a given form.
+
+For each cluster (1–9 above), ask yourself: **what does this category do for a sentence?**
+
+- §1 makes a claim more emotionally intense.
+- §2 evaluates whether something deserves a response.
+- §3 sets up a circumstance under which something holds.
+- §4 names something as inevitable, exclusive, or determined.
+- §5 grants the opposite while pushing through.
+- §6 includes additional ranges or items.
+- §7 gives a literary reason.
+- §8 limits, negates, or restricts scope.
+- §9 manages discourse — asides, quotes, hedges.
+
+Approaching the inventory functionally rather than alphabetically lets you guess the meaning of unfamiliar forms by their shape (〜にして as "and yet" guessed correctly because adversative structures often pivot on ～にして, 〜ながらも, etc.). This is the recognition skill the N1 actually rewards.
+
+---
+
+## Counting
+
+The list contains **80 grammar points** in nine functional categories. Of these, **30 are taught explicitly in Stage 5 chapters 1–6** (with full examples and reading practice). The remaining **50 are part of the N1 inventory** but are reviewed only in this checklist or in earlier stages. For the latter, the brief form notes here are sufficient for recognition; the exam expects you to parse them but does not require productive command.
+
+If you can confidently check off all 80 boxes, you are ready for the N1 grammar section. If you are below 60 confident, focus first on the **[H]** items, which carry the most weight on the exam.

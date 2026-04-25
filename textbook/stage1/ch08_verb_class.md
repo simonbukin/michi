@@ -16,13 +16,13 @@ Every Japanese verb belongs to one of three classes:
 
 The largest class. The name 五段 means "five levels" because these verbs use all five vowel rows of the かな chart when they conjugate. The dictionary form (辞書形, じしょけい — the base form you find in a dictionary) ends in an う-row sound: く, ぐ, す, つ, ぬ, ぶ, む, or る.
 
-Examples: かく (write), のむ (drink), はなす (speak), まつ (wait)
+Examples: <ruby>書<rt>か</rt></ruby>く (write), <ruby>飲<rt>の</rt></ruby>む (drink), <ruby>話<rt>はな</rt></ruby>す (speak), <ruby>待<rt>ま</rt></ruby>つ (wait)
 
 ### 一段（いちだん）動詞 — Vowel-Stem Verbs
 
 The name 一段 means "one level" because these verbs only use one vowel row when they conjugate. The dictionary form always ends in る, and the sound before る is always in the い-row or the え-row.
 
-Examples: たべる (eat), みる (see), おきる (wake up), ねる (sleep)
+Examples: <ruby>食<rt>た</rt></ruby>べる (eat), <ruby>見<rt>み</rt></ruby>る (see), <ruby>起<rt>お</rt></ruby>きる (wake up), <ruby>寝<rt>ね</rt></ruby>る (sleep)
 
 ### 不規則（ふきそく）動詞 — Irregular Verbs
 
@@ -75,10 +75,10 @@ Here is the procedure:
 
 If no — if it ends in く, ぐ, す, つ, ぬ, ぶ, む, or う — it is 五段. No exceptions. You are done.
 
-- かく → ends in く → 五段
-- のむ → ends in む → 五段
-- はなす → ends in す → 五段
-- かう → ends in う → 五段
+- <ruby>書<rt>か</rt></ruby>く → ends in く → 五段
+- <ruby>飲<rt>の</rt></ruby>む → ends in む → 五段
+- <ruby>話<rt>はな</rt></ruby>す → ends in す → 五段
+- <ruby>買<rt>か</rt></ruby>う → ends in う → 五段
 
 This covers the majority of verbs you will encounter. If the final sound is anything other than る, classification is trivial.
 
@@ -86,9 +86,9 @@ This covers the majority of verbs you will encounter. If the final sound is anyt
 
 If the sound before る is NOT in the い-row or え-row — that is, if it is in the あ-row, う-row, or お-row — it is 五段. No exceptions.
 
-- つくる → く is う-row → 五段
-- とおる (pass through) → お is お-row → 五段
-- なおる (be fixed) → お is お-row → 五段
+- <ruby>作<rt>つく</rt></ruby>る → く is う-row → 五段
+- <ruby>通<rt>とお</rt></ruby>る (pass through) → お is お-row → 五段
+- <ruby>直<rt>なお</rt></ruby>る (be fixed) → お is お-row → 五段
 
 **Step 3: If it ends in る AND the sound before る IS in the い-row or え-row — this is where the problem is.**
 
@@ -196,14 +196,14 @@ This is entirely mechanical. Find the final sound, look at the same column in th
 
 A few more examples to make the pattern concrete:
 
-- よむ → よ**み**ます (む → み)
-- きく → き**き**ます (く → き)
-- いく → い**き**ます (く → き)
-- かう → か**い**ます (う → い)
-- あう → あ**い**ます (う → い)
-- すわる → すわ**り**ます (る → り)
-- もつ → も**ち**ます (つ → ち)
-- たつ → た**ち**ます (つ → ち)
+- <ruby>読<rt>よ</rt></ruby>む → <ruby>読<rt>よ</rt></ruby>**み**ます (む → み)
+- <ruby>聞<rt>き</rt></ruby>く → <ruby>聞<rt>き</rt></ruby>**き**ます (く → き)
+- <ruby>行<rt>い</rt></ruby>く → <ruby>行<rt>い</rt></ruby>**き**ます (く → き)
+- <ruby>買<rt>か</rt></ruby>う → <ruby>買<rt>か</rt></ruby>**い**ます (う → い)
+- <ruby>会<rt>あ</rt></ruby>う → <ruby>会<rt>あ</rt></ruby>**い**ます (う → い)
+- <ruby>座<rt>すわ</rt></ruby>る → <ruby>座<rt>すわ</rt></ruby>**り**ます (る → り)
+- <ruby>持<rt>も</rt></ruby>つ → <ruby>持<rt>も</rt></ruby>**ち**ます (つ → ち)
+- <ruby>立<rt>た</rt></ruby>つ → <ruby>立<rt>た</rt></ruby>**ち**ます (つ → ち)
 
 ### 一段動詞: Drop る, Add ます
 
@@ -235,9 +235,9 @@ No sound changes. No chart lookup. Just drop る and add ます.
 
 ### Why Classification Matters — A Concrete Example
 
-Consider かえる (帰る, to return). It ends in える. If you mistakenly classify it as 一段 and apply the 一段 rule (drop る, add ます), you get かえます. But かえる is 五段. The correct ます-form is かえ**り**ます (る → り + ます).
+Consider <ruby>帰<rt>かえ</rt></ruby>る (帰る, to return). It ends in える. If you mistakenly classify it as 一段 and apply the 一段 rule (drop る, add ます), you get かえます. But 帰る is 五段. The correct ます-form is かえ**り**ます (る → り + ます).
 
-かえます is actually the ます-form of かえる（変える, to change）, which IS 一段. So the wrong classification does not just produce nonsense — it produces a different verb's form. This is why getting the class right matters.
+かえます is actually the ます-form of <ruby>変<rt>か</rt></ruby>える（変える, to change）, which IS 一段. So the wrong classification does not just produce nonsense — it produces a different verb's form. This is why getting the class right matters.
 
 ---
 
@@ -245,14 +245,14 @@ Consider かえる (帰る, to return). It ends in える. If you mistakenly cla
 
 The ます-form has exactly four variants, produced by combining two tenses (non-past and past) with two polarities (affirmative and negative).
 
-Using かく (write, 五段) as the example:
+Using <ruby>書<rt>か</rt></ruby>く (write, 五段) as the example:
 
 |  | 非過去 (non-past) | 過去 (past) |
 |---|---|---|
 | 肯定 (affirmative) | かきます | かきました |
 | 否定 (negative) | かきません | かきませんでした |
 
-And using たべる (eat, 一段):
+And using <ruby>食<rt>た</rt></ruby>べる (eat, 一段):
 
 |  | 非過去 (non-past) | 過去 (past) |
 |---|---|---|
@@ -288,13 +288,13 @@ Once you can produce the ます-form, the other three forms are automatic. There
 
 ### What Each Form Means
 
-**かきます** — "I write" or "I will write." This form covers both present habitual action and future action. Context determines which.
+**<ruby>書<rt>か</rt></ruby>きます** — "I write" or "I will write." This form covers both present habitual action and future action. Context determines which.
 
-**かきました** — "I wrote." Completed past action.
+**書きました** — "I wrote." Completed past action.
 
-**かきません** — "I do not write" or "I will not write." Present habitual negative or future negative.
+**書きません** — "I do not write" or "I will not write." Present habitual negative or future negative.
 
-**かきませんでした** — "I did not write." Past negative.
+**書きませんでした** — "I did not write." Past negative.
 
 ---
 
@@ -323,24 +323,24 @@ These time words typically appear at the beginning of the sentence or before the
 
 ### Examples
 
-> あした　ともだちに　あいます。
+> あした　<ruby>友<rt>とも</rt></ruby>だちに　<ruby>会<rt>あ</rt></ruby>います。
 > Tomorrow I will meet a friend.
 
-> まいにち　ほんを　よみます。
+> <ruby>毎日<rt>まいにち</rt></ruby>　<ruby>本<rt>ほん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>みます。
 > I read books every day.
 
-> きのう　えいがを　みました。
+> きのう　<ruby>映画<rt>えいが</rt></ruby>を　<ruby>見<rt>み</rt></ruby>ました。
 > Yesterday I watched a movie.
 
-> きょう　にほんごを　べんきょうします。
+> きょう　<ruby>日本語<rt>にほんご</rt></ruby>を　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > Today I will study Japanese. / Today I study Japanese.
 
-> まいあさ　ろくじに　おきます。
+> <ruby>毎朝<rt>まいあさ</rt></ruby>　<ruby>六<rt>ろく</rt></ruby>じに　<ruby>起<rt>お</rt></ruby>きます。
 > Every morning I wake up at six.
 
-Notice that the time words resolve any ambiguity. あした makes あいます future. まいにち makes よみます habitual present. Without a time word, the default interpretation depends on context — but in practice, speakers almost always include one when the time frame matters.
+Notice that the time words resolve any ambiguity. あした makes 会います future. 毎日 makes 読みます habitual present. Without a time word, the default interpretation depends on context — but in practice, speakers almost always include one when the time frame matters.
 
-**A note on particles appearing in these examples:** You see を and に here. The particle を marks the direct object of a verb — the thing being acted upon. The particle に marks various targets, including the person you meet (ともだちに あいます) and the time at which something happens (ろくじに おきます). These particles are formally introduced in the next chapter. For now, focus on the verb forms and time words.
+**A note on particles appearing in these examples:** You see を and に here. The particle を marks the direct object of a verb — the thing being acted upon. The particle に marks various targets, including the person you meet (<ruby>友<rt>とも</rt></ruby>だちに 会います) and the time at which something happens (<ruby>六<rt>ろく</rt></ruby>じに 起きます). These particles are formally introduced in the next chapter. For now, focus on the verb forms and time words.
 
 ---
 
@@ -424,7 +424,7 @@ All four ます variants apply exactly as with する:
 
 This pattern is extremely productive. Japanese borrows verbs from other languages by turning foreign words into する compounds. You will encounter many more of these throughout this book. Whenever you see a noun followed by する, you know it is a する-class verb and conjugates accordingly.
 
-**A note on spacing:** In this book, する compounds are written with する attached directly to the noun: べんきょうする, not べんきょう する. Some materials separate them with a space or with を (べんきょうを する). Both are grammatical. The を version treats the noun as a direct object of する, while the combined version treats the whole expression as a single verb. For most purposes, the difference does not matter at this level.
+**A note on spacing:** In this book, する compounds are written with する attached directly to the noun: <ruby>勉強<rt>べんきょう</rt></ruby>する, not 勉強 する. Some materials separate them with a space or with を (勉強を する). Both are grammatical. The を version treats the noun as a direct object of する, while the combined version treats the whole expression as a single verb. For most purposes, the difference does not matter at this level.
 
 ---
 
@@ -432,53 +432,53 @@ This pattern is extremely productive. Japanese borrows verbs from other language
 
 The following sentences use only grammar and vocabulary from this chapter and previous chapters. Read each one and confirm that you can identify the verb, its class, and its ます variant.
 
-> まいにち ほんを よみます。
+> <ruby>毎日<rt>まいにち</rt></ruby> <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます。
 > I read books every day.
 
-> あした ともだちに あいます。
+> あした <ruby>友<rt>とも</rt></ruby>だちに <ruby>会<rt>あ</rt></ruby>います。
 > Tomorrow I will meet a friend.
 
-> きのう えいがを みました。
+> きのう <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ました。
 > Yesterday I watched a movie.
 
-> にほんごを べんきょうします。
+> <ruby>日本語<rt>にほんご</rt></ruby>を <ruby>勉強<rt>べんきょう</rt></ruby>します。
 > I study Japanese.
 
-> きょう さんぽしません。
+> きょう <ruby>散歩<rt>さんぽ</rt></ruby>しません。
 > Today I will not take a walk.
 
-> まいあさ ろくじに おきます。
+> <ruby>毎朝<rt>まいあさ</rt></ruby> <ruby>六<rt>ろく</rt></ruby>じに <ruby>起<rt>お</rt></ruby>きます。
 > Every morning I wake up at six.
 
-> きのう りょうりしませんでした。
+> きのう <ruby>料理<rt>りょうり</rt></ruby>しませんでした。
 > Yesterday I did not cook.
 
-> まいばん おんがくを ききます。
+> <ruby>毎晩<rt>まいばん</rt></ruby> <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きます。
 > Every evening I listen to music.
 
-> あした ともだちが きます。
+> あした <ruby>友<rt>とも</rt></ruby>だちが <ruby>来<rt>き</rt></ruby>ます。
 > Tomorrow a friend will come.
 
-> きのう ほんを かいました。
+> きのう <ruby>本<rt>ほん</rt></ruby>を <ruby>買<rt>か</rt></ruby>いました。
 > Yesterday I bought a book.
 
-> この ほんを よみますか。
+> この <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みますか。
 > Will you read this book? / Do you read this book?
 
-> いいえ、よみません。
+> いいえ、読みません。
 > No, I do not read it. / No, I will not read it.
 
 ### Questions with Verbs
 
 To ask a verb question, add か to the end of the ます-form sentence, exactly as you did with ですか.
 
-> まいにち べんきょうしますか。
+> <ruby>毎日<rt>まいにち</rt></ruby> <ruby>勉強<rt>べんきょう</rt></ruby>しますか。
 > Do you study every day?
 
-> きのう なにを たべましたか。
+> きのう なにを <ruby>食<rt>た</rt></ruby>べましたか。
 > What did you eat yesterday?
 
-> あした どこに いきますか。
+> あした どこに <ruby>行<rt>い</rt></ruby>きますか。
 > Where will you go tomorrow?
 
 The question word stays in its natural position — the position where the answer would go. This is the same principle from Chapter 5.
@@ -510,29 +510,29 @@ The next chapter introduces the particles を, に, で, and へ — the particl
 
 ---
 
-## 8.11 Reading Passage — がくせいの いちにち
+## 8.11 Reading Passage — <ruby>学生<rt>がくせい</rt></ruby>の <ruby>一日<rt>いちにち</rt></ruby>
 
 Read the following passage. It uses ます-form verbs in all four tense/polarity combinations. Every grammar point and vocabulary item has been introduced in this chapter or in previous chapters. Read it once without looking at the translation, then check your understanding.
 
 ---
 
-わたしは 大学の がくせいです。まいにち いそがしいです。
+わたしは 大学の <ruby>学生<rt>がくせい</rt></ruby>です。<ruby>毎日<rt>まいにち</rt></ruby> <ruby>忙<rt>いそが</rt></ruby>しいです。
 
-あさ 七じに おきます。あさごはんを たべます。コーヒーを のみます。
+<ruby>朝<rt>あさ</rt></ruby> <ruby>七<rt>しち</rt></ruby>じに <ruby>起<rt>お</rt></ruby>きます。<ruby>朝<rt>あさ</rt></ruby>ごはんを <ruby>食<rt>た</rt></ruby>べます。コーヒーを <ruby>飲<rt>の</rt></ruby>みます。
 
-八じに 大学に いきます。九じから じゅぎょうが はじまります。ごぜんは にほんごの じゅぎょうです。にほんごの じゅぎょうで たくさん はなします。
+<ruby>八<rt>はち</rt></ruby>じに 大学に <ruby>行<rt>い</rt></ruby>きます。<ruby>九<rt>く</rt></ruby>じから <ruby>授業<rt>じゅぎょう</rt></ruby>が <ruby>始<rt>はじ</rt></ruby>まります。<ruby>午前<rt>ごぜん</rt></ruby>は <ruby>日本語<rt>にほんご</rt></ruby>の 授業です。日本語の 授業で たくさん <ruby>話<rt>はな</rt></ruby>します。
 
-ひるは がくしょくで たべます。がくしょくは やすいです。
+<ruby>昼<rt>ひる</rt></ruby>は <ruby>学食<rt>がくしょく</rt></ruby>で <ruby>食<rt>た</rt></ruby>べます。学食は <ruby>安<rt>やす</rt></ruby>いです。
 
-ごごは れきしの じゅぎょうです。せんせいの はなしを ききます。ノートに かきます。
+<ruby>午後<rt>ごご</rt></ruby>は <ruby>歴史<rt>れきし</rt></ruby>の 授業です。<ruby>先生<rt>せんせい</rt></ruby>の <ruby>話<rt>はなし</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きます。ノートに <ruby>書<rt>か</rt></ruby>きます。
 
-四じに じゅぎょうが おわります。としょかんで べんきょうします。としょかんで ほんを よみます。レポートも かきます。
+<ruby>四<rt>よん</rt></ruby>じに 授業が <ruby>終<rt>お</rt></ruby>わります。<ruby>図書館<rt>としょかん</rt></ruby>で <ruby>勉強<rt>べんきょう</rt></ruby>します。図書館で <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます。レポートも 書きます。
 
-よる うちに かえります。ばんごはんを つくります。りょうりは あまり じょうずじゃありません。でも、まいにち つくります。
+<ruby>夜<rt>よる</rt></ruby> うちに <ruby>帰<rt>かえ</rt></ruby>ります。<ruby>晩<rt>ばん</rt></ruby>ごはんを <ruby>作<rt>つく</rt></ruby>ります。<ruby>料理<rt>りょうり</rt></ruby>は あまり <ruby>上手<rt>じょうず</rt></ruby>じゃありません。でも、毎日 作ります。
 
-十一じに ねます。きんようびの よるは ねません。ともだちと カラオケに いきます。
+<ruby>十一<rt>じゅういち</rt></ruby>じに <ruby>寝<rt>ね</rt></ruby>ます。<ruby>金曜日<rt>きんようび</rt></ruby>の 夜は 寝ません。<ruby>友<rt>とも</rt></ruby>だちと カラオケに 行きます。
 
-きのうも カラオケに いきました。とても たのしかったです。でも、けさは おきませんでした。じゅぎょうに おくれました。
+きのうも カラオケに 行きました。とても たのしかったです。でも、けさは 起きませんでした。授業に <ruby>遅<rt>おく</rt></ruby>れました。
 
 ---
 
@@ -560,21 +560,21 @@ Yesterday, I also went to karaoke. It was very fun. But this morning, I did not 
 
 ### Notes on the passage
 
-**いそがしい** — "busy." An い-adjective (formally introduced in Chapter 13). For now, recognize it before です.
+**<ruby>忙<rt>いそが</rt></ruby>しい** — "busy." An い-adjective (formally introduced in Chapter 13). For now, recognize it before です.
 
-**じゅぎょう** — "class / lesson." A common word in student life.
+**<ruby>授業<rt>じゅぎょう</rt></ruby>** — "class / lesson." A common word in student life.
 
-**がくしょく** — "school cafeteria." Short for がくせいしょくどう. University cafeterias in Japan are known for being affordable — often 300-500 yen for a full meal.
+**<ruby>学食<rt>がくしょく</rt></ruby>** — "school cafeteria." Short for <ruby>学生食堂<rt>がくせいしょくどう</rt></ruby>. University cafeterias in Japan are known for being affordable — often 300-500 yen for a full meal.
 
 **レポート** — "report / essay." A katakana loanword from English. University students in Japan frequently write レポート as assignments.
 
 **あまり...じゃありません** — "not very..." あまり pairs with a negative to mean "not much / not very." This pattern is covered in detail later.
 
-**ねません** — Negative of ねます. This is the ません form introduced in this chapter.
+**<ruby>寝<rt>ね</rt></ruby>ません** — Negative of 寝ます. This is the ません form introduced in this chapter.
 
-**たのしかったです** — "it was fun." Past tense of the adjective たのしい. Adjective past tense is covered later; recognize this as a set phrase.
+**<ruby>楽<rt>たの</rt></ruby>しかったです** — "it was fun." Past tense of the adjective <ruby>楽<rt>たの</rt></ruby>しい. Adjective past tense is covered later; recognize this as a set phrase.
 
-**おくれました** — "was late." The past tense ます-form of おくれる (一段), meaning "to be late."
+**<ruby>遅<rt>おく</rt></ruby>れました** — "was late." The past tense ます-form of 遅れる (一段), meaning "to be late."
 
 ---
 

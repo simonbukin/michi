@@ -35,7 +35,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 愛憎 | あいぞう | ⓪ | noun | love and hate | N3 | 3.25 |
 | あいだ | — | ⓪ | noun | between, interval | N5 | 1.6 |
 | あいづち | — | ⓪ | noun | back-channeling, listener responses | N5 | 1.23 |
-| 相槌 | あいづち | ③ | 名 | aizuchi; backchanneling; two smiths hammering at an object in turn | N1 | 5.15 |
+| 相槌 | あいづち | ③ | 名 | aizuchi; backchanneling; two smiths hammering at an object in turn | N1 | 1.23 |
 | 相手 | あいて | ③ | noun | companion; partner; company | N4 | 2.17 |
 | 曖昧 | あいまい | ⓪ | — | vague; ambiguous; unclear | N1+ | 6 |
 | あう | — | ① | 五段 verb | to meet | N5 | 1.8 |
@@ -47,7 +47,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | あかい | — | ⓪ | い-adj | red | N5 | 1.15 |
 | 赤字 | あかじ | ⓪ | 名 | (being in) the red; deficit; red letter | N2 | 4.18 |
 | 明かす | あかす | ② | 動五 | to pass (the night); to spend; to reveal | N1 | 5.13 |
-| あかるい | — | ⓪ | い-adj | bright | N5 | 1.15 |
+| あかるい | — | ⓪ | い-adj | bright | N5 | 1.13 |
 | 上がり | あがり | ⓪ | 名 | rise; increase; ascent | N1 | 5.11 |
 | あき | — | ① | noun | autumn | N5 | 1.15 |
 | 空き地 | あきち | ⓪ | noun | vacant land; unoccupied ground; empty lot | N3 | 3.26 |
@@ -158,7 +158,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 異世界 | いせかい | ② | 名 | another world (esp. in fiction); otherworld; parallel universe | N1 | 5.19 |
 | 已然形 | いぜんけい | ③ | 名 | realis form (of verbs and adjectives in classical Japanese); perfective form | N1 | 5.11 |
 | 位相 | いそう | ⓪ | — | phase (e.g. wave, electricity, moon); topology; register | N1+ | 6 |
-| 忙しい | いそがしい | ④ | い-adj | busy; occupied; hectic | N4 | 2.23 |
+| 忙しい | いそがしい | ④ | い-adj | busy; occupied; hectic | N4 | 1.16 |
 | いそぐ | — | ② | 五段 verb | to hurry | N5 | 1.10 |
 | 急ぐ | いそぐ | ② | 五段 verb | to hurry; to rush; to hasten | N4 | 2.19 |
 | 依存 | いぞん | ⓪ | noun | dependence; reliance | N3 | 3.21 |
@@ -760,7 +760,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 経験 | けいけん | ⓪ | noun | experience | N4 | 2.12 |
 | 経験する | けいけんする | ⓪ | する verb | to experience | N4 | 2.12 |
 | 傾向 | けいこう | ⓪ | noun | tendency; trend; inclination | N3 | 3.14 |
-| 敬語 | けいご | ⓪ | noun | honorific; term of respect; polite expression | N4 | 2.15 |
+| 敬語 | けいご | ⓪ | noun | honorific; term of respect; polite expression | N4 | 1.24 |
 | 警察 | けいさつ | ⓪ | noun | police; police officer; police station | N4 | 2.6 |
 | 経済 | けいざい | ① | noun | economy; economics; finance | N4 | 2.24 |
 | 掲示板 | けいじばん | ⓪ | noun | bulletin board; display board; notice board | N3 | 3.21 |
@@ -791,7 +791,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 検査する | けんさする | ① | する verb | to examine, to inspect | N4 | 2.20 |
 | 検察官 | けんさつかん | ③ | — | public prosecutor | N1+ | 6 |
 | 検証 | けんしょう | ⓪ | — | verification; inspection | N1+ | 6 |
-| 謙譲語 | けんじょうご | ③ | noun | humble language (e.g. itadaku) | N4 | 2.17 |
+| 謙譲語 | けんじょうご | ③ | noun | humble language (e.g. itadaku) | N4 | 1.24 |
 | 謙遜 | けんそん | ⓪ | — | modesty; humility; being humble | N1+ | 6 |
 | 建築 | けんちく | ⓪ | noun | construction; architecture (of buildings) | N4 | 2.19 |
 | 顕著 | けんちょ | ① | ナ | remarkable; striking; obvious | N1 | 5.23 |
@@ -992,7 +992,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 資金 | しきん | ① | 名 | funds; capital | N2 | 4.18 |
 | しくしく | しくしく | ① | 擬・副 | weeping; sobbing; softly (crying) | N1 | 5.9 |
 | 四苦八苦 | しくはっく | ④ | 名・する | being in dire distress; being hard put to it; being hard pressed (for money) | N1 | 5.7 |
-| 試験 | しけん | ② | noun | examination; exam; test | N4 | 2.12 |
+| 試験 | しけん | ② | noun | examination; exam; test | N4 | 1.16 |
 | 施行 | しこう | ⓪ | 名・する | putting in force (a law); putting into operation; putting into effect | N2 | 4.22 |
 | 試行錯誤 | しこうさくご | ④ | 名 | trial and error | N1 | 5.7 |
 | 仕事 | しごと | ⓪ | noun | work; job; labor | N4 | 2.23 |
@@ -1132,7 +1132,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | シーズン | — | ① | noun | season (period in which regulated games are played); season (division of the year)... | N4 | 2.21 |
 | 字音 | じおん | ⓪ | — | Chinese-derived reading of a kanji | N1+ | 6 |
 | 時価総額 | じかそうがく | ④ | — | market capitalization; market capitalisation; market cap | N1+ | 6 |
-| 時間 | じかん | ⓪ | noun | time; hour; period | N4 | 2.19 |
+| 時間 | じかん | ⓪ | noun | time; hour; period | N4 | 1.16 |
 | 字訓 | じくん | ⓪ | — | the Japanese reading of a kanji | N1+ | 6 |
 | 事故 | じこ | ① | noun | accident; incident; trouble | N4 | 2.3 |
 | 自業自得 | じごうじとく | ④ | 名 | paying for one's mistakes; getting one's just deserts... | N1 | 5.7 |
@@ -1161,7 +1161,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 受験する | じゅけんする | ① | する verb | to take an exam | N3 | 3.19 |
 | 授受表現 | じゅじゅひょうげん | ⑤ | — | giving/receiving expressions | N1+ | 6 |
 | 受理 | じゅり | ① | — | acceptance | N1+ | 6 |
-| 準備 | じゅんび | ① | noun | preparation; arrangements; getting ready | N4 | 2.27 |
+| 準備 | じゅんび | ① | noun | preparation; arrangements; getting ready | N4 | 1.16 |
 | 準備する | じゅんびする | ① | する verb | to prepare | N4 | 2.27 |
 | 準用 | じゅんよう | ⓪ | — | to apply (the law) with necessary modifications; to apply mutatis mutandis; to apply correspondingly | N1+ | 6 |
 | 純利益 | じゅんりえき | ③ | 名 | net income; net profit | N2 | 4.18 |
@@ -1332,7 +1332,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | そろそろ | — | ① | adverb | soon; before long; any time now | N5 | 1.20 |
 | そわそわ | そわそわ | ① | 擬・副 | restlessly; nervously; uneasily | N1 | 5.9 |
 | 損益計算書 | そんえきけいさんしょ | ⓪ | — | profit and loss statement | N1+ | 6 |
-| 尊敬語 | そんけいご | ③ | noun | honorific language | N4 | 2.16 |
+| 尊敬語 | そんけいご | ③ | noun | honorific language | N4 | 1.24 |
 | 存在 | そんざい | ⓪ | noun | existence; being; presence | N3 | 3.14 |
 | 存在する | そんざいする | ⓪ | する verb | to exist | N3 | 3.14 |
 | 損失 | そんしつ | ⓪ | 名 | loss (of assets, profit, etc.) | N2 | 4.18 |
@@ -1519,7 +1519,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 抵当 | ていとう | ⓪ | — | mortgage; security; hypothec | N1+ | 6 |
 | 程度 | ていど | ① | 名 | degree; amount; grade | N2 | 4.5 |
 | 丁寧 | ていねい | ① | な-adj | polite; courteous; civil | N4 | 2.15 |
-| 丁寧語 | ていねいご | — | noun | polite language (e.g. masu, desu) | N4 | 2.15 |
+| 丁寧語 | ていねいご | — | noun | polite language (e.g. masu, desu) | N4 | 1.24 |
 | 提喩 | ていゆ | ① | — | synecdoche | N1+ | 6 |
 | 定量的 | ていりょうてき | ⓪ | — | quantitative | N1+ | 6 |
 | ている | — | auxiliary | — | progressive / resultative | N5 | 1 |
@@ -1685,7 +1685,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 鳴る | なる | ① | 五段 verb | to sound; to ring; to resound | N4 | 2.10 |
 | なるべく | — | ⓪ | adverb | as much as possible | N4 | 2.26 |
 | なるほど | — | ⓪ | interjection | I see; that's right; indeed | N5 | 1.23 |
-| なるほど | なるほど | ⓪ | 副・感 | I see; that's right; indeed | N1 | 5.15 |
+| なるほど | なるほど | ⓪ | 副・感 | I see; that's right; indeed | N1 | 1.23 |
 | なれ合い | なれあい | ⓪ | 名 | collusion; conspiracy; common-law marriage | N1 | 5.22 |
 | 慣れる | なれる | ② | 一段 verb | to get used to; to grow accustomed to; to become familiar with | N4 | 2.25 |
 | ナレーション | なれーしょん | ③ | 名 | narration | N1 | 5.17 |
@@ -1889,7 +1889,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | 広がる | ひろがる | ⓪ | 五段 verb | to spread (out); to extend; to stretch | N4 | 2.21 |
 | 広げる | ひろげる | ⓪ | 一段 verb | to spread; to extend; to expand | N4 | 2.21 |
 | 貧困 | ひんこん | ⓪ | noun | poverty; penury; need | N3 | 3.14 |
-| 美化語 | びかご | — | noun | elegant speech (esp. the use of the prefixes "o-" and "go-"); refined language; polite language | N4 | 2.15 |
+| 美化語 | びかご | — | noun | elegant speech (esp. the use of the prefixes "o-" and "go-"); refined language; polite language | N4 | 1.24 |
 | びくびく | びくびく | ① | 擬・副 | being afraid of; being fearful; being timid | N1 | 5.9 |
 | 描写 | びょうしゃ | ⓪ | 名・する | depiction; description; portrayal | N2 | 4.21 |
 | ビール | — | ① | noun | beer | N5 | 1.3 |
@@ -2474,7 +2474,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | てんきよほう | 天気予報 | ④ | noun | weather forecast | N5 | 1.20 |
 | おんな | 女 | ③ | noun | woman | N5 | 1.4 |
 | おんなのひと | 女の人 | ⑤ | noun | woman (polite) | N5 | 1.4 |
-| すき | 好き | ② | な-adj | liked, fond of | N5 | 1.6 |
+| すき | 好き | ② | な-adj | liked, fond of | N5 | 1.1 |
 | いもうと | 妹 | ④ | noun | (my) younger sister | N5 | 1.1 |
 | つま | 妻 | ① | noun | (my) wife | N5 | 1.22 |
 | むすめ | 娘 | ③ | noun | (my) daughter | N5 | 1.22 |
@@ -2639,7 +2639,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | かんがえる | 考える | ④ | 一段 verb | to think, to consider | N5 | 1.18 |
 | きく | 聞く | ⓪ | 五段 verb | to listen; to ask | N5 | 1.1 |
 | にく | 肉 | ② | noun | meat | N5 | 1.18 |
-| かた | 肩 | ① | noun | shoulder | N5 | 1.15 |
+| かた | 肩 | ① | noun | shoulder | N5 | 1.1 |
 | せなか | 背中 | ⓪ | noun | back (body part) | N5 | 1.15 |
 | ぬぐ | 脱ぐ | ① | 五段 verb | to take off (clothes) | N5 | 1.10 |
 | じぶん | 自分 | ⓪ | noun | oneself | N5 | 1.22 |
@@ -2708,7 +2708,7 @@ This index consolidates every vocabulary item across all six stages of 道. Defi
 | さかな | 魚 | ⓪ | noun | fish | N5 | 1.6 |
 | とり | 鳥 | ⓪ | noun | bird | N5 | 1.6 |
 | めん | 麺 | ① | noun | noodles (general) | N5 | 1.18 |
-| はな | 鼻 | ⓪ | noun | nose | N5 | 1.15 |
+| はな | 鼻 | ⓪ | noun | nose | N5 | 1.2 |
 | ～にする | — | — | expression | to decide on | N5 | 1.18 |
 | ～ほど～ない | — | — | expression | not as ~ as | N5 | 1.15 |
 

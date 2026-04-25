@@ -139,7 +139,7 @@ Both mean "the cake that a friend made." The の version sounds slightly softer 
 > 昨日 買った 本は おもしろかったです。
 > "The book I bought yesterday was interesting."
 
-> 先生が 出した 宿題は むずかしいです。
+> 先生が 出した 宿題は <ruby>難<rt>むずか</rt></ruby>しいです。
 > "The homework that the teacher assigned is difficult."
 
 > 田中さんが 撮った 写真を 見ましたか。
@@ -204,7 +204,7 @@ To make "the summer when I went to Japan":
 > 大学に 入った 年に 友達が たくさん できました。
 > "In the year I entered university, I made many friends."
 
-> 初めて 日本語を 聞いた 日を おぼえています。
+> 初めて 日本語を 聞いた 日を <ruby>覚<rt>おぼ</rt></ruby>えています。
 > "I remember the day I first heard Japanese."
 
 ### Other types
@@ -297,9 +297,9 @@ This is a grammatical (if somewhat dense) Japanese sentence with three layers of
 
 クラスの 中で 一番 日本語が 上手な 人は リンさんです。リンさんは 子どもの 時 日本に 住んでいた ことが あるから、日本語が よく わかります。
 
-わたしの 隣に すわっている 人は マリアさんです。マリアさんは 先月 日本に 旅行した 時に 買った 本を 時々 クラスに 持って来ます。日本の 店で 見つけた まんがだそうです。
+わたしの 隣に <ruby>座<rt>すわ</rt></ruby>っている 人は マリアさんです。マリアさんは 先月 日本に 旅行した 時に 買った 本を 時々 クラスに 持って来ます。日本の 店で 見つけた まんがだそうです。
 
-先週 新しく 入った 学生が 二人 います。まだ 名前を おぼえていない 人も いますが、みんな 一緒に がんばっています。
+先週 新しく 入った 学生が 二人 います。まだ 名前を <ruby>覚<rt>おぼ</rt></ruby>えていない 人も いますが、みんな 一緒に <ruby>頑張<rt>がんば</rt></ruby>っています。
 
 先生が いつも 言っている ことが あります。「毎日 少しずつ 勉強する 人が 上手に なります」。わたしも そうだと 思います。
 

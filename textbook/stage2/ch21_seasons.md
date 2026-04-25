@@ -258,19 +258,19 @@ Understanding the seasonal calendar is not merely cultural enrichment — it dir
 
 ### 日本の四季
 
-日本に来て、もう一年が経った。四つの季節を全部経験して、日本の季節の美しさがよく分かるようになった。
+日本に<ruby>来<rt>き</rt></ruby>て、もう<ruby>一年<rt>いちねん</rt></ruby>が<ruby>経<rt>た</rt></ruby>った。<ruby>四<rt>よっ</rt></ruby>つの<ruby>季節<rt>きせつ</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>して、日本の季節の<ruby>美<rt>うつく</rt></ruby>しさがよく<ruby>分<rt>わ</rt></ruby>かるようになった。
 
-春は本当にすばらしかった。三月の終わりに桜が咲き始めて、四月の初めに満開になった。友達と上野公園でお花見をした。桜の下でお弁当を食べながらビールを飲んで、とても楽しかった。日本人の友達が「桜はすぐ散るから、美しいんだよ」と言っていた。なるほどと思った。
+<ruby>春<rt>はる</rt></ruby>は<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>素晴<rt>すば</rt></ruby>らしかった。<ruby>三月<rt>さんがつ</rt></ruby>の<ruby>終<rt>お</rt></ruby>わりに<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めて、<ruby>四月<rt>しがつ</rt></ruby>の<ruby>初<rt>はじ</rt></ruby>めに<ruby>満開<rt>まんかい</rt></ruby>になった。<ruby>友達<rt>ともだち</rt></ruby>と<ruby>上野公園<rt>うえのこうえん</rt></ruby>でお<ruby>花見<rt>はなみ</rt></ruby>をした。桜の<ruby>下<rt>した</rt></ruby>でお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べながらビールを<ruby>飲<rt>の</rt></ruby>んで、とても<ruby>楽<rt>たの</rt></ruby>しかった。<ruby>日本人<rt>にほんじん</rt></ruby>の友達が「桜はすぐ<ruby>散<rt>ち</rt></ruby>るから、美しいんだよ」と<ruby>言<rt>い</rt></ruby>っていた。なるほどと<ruby>思<rt>おも</rt></ruby>った。
 
-梅雨は大変だった。六月から七月まで、ほとんど毎日雨が降っていた。じめじめしていて、洗濯物がなかなか乾かなかった。でも、雨の中の紫陽花はとてもきれいだった。
+<ruby>梅雨<rt>つゆ</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>だった。<ruby>六月<rt>ろくがつ</rt></ruby>から<ruby>七月<rt>しちがつ</rt></ruby>まで、ほとんど<ruby>毎日<rt>まいにち</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っていた。じめじめしていて、<ruby>洗濯物<rt>せんたくもの</rt></ruby>がなかなか<ruby>乾<rt>かわ</rt></ruby>かなかった。でも、雨の<ruby>中<rt>なか</rt></ruby>の<ruby>紫陽花<rt>あじさい</rt></ruby>はとてもきれいだった。
 
-夏は暑くて蒸し暑かった。でも、花火大会や夏祭りがあって、楽しいこともたくさんあった。友達に誘われて、浴衣を着て夏祭りに行った。焼きそばやかき氷を食べて、盆踊りを見た。
+<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>くて<ruby>蒸<rt>む</rt></ruby>し暑かった。でも、<ruby>花火大会<rt>はなびたいかい</rt></ruby>や<ruby>夏祭<rt>なつまつ</rt></ruby>りがあって、楽しいこともたくさんあった。友達に<ruby>誘<rt>さそ</rt></ruby>われて、<ruby>浴衣<rt>ゆかた</rt></ruby>を<ruby>着<rt>き</rt></ruby>て夏祭りに<ruby>行<rt>い</rt></ruby>った。<ruby>焼<rt>や</rt></ruby>きそばやかき<ruby>氷<rt>ごおり</rt></ruby>を食べて、<ruby>盆踊<rt>ぼんおど</rt></ruby>りを<ruby>見<rt>み</rt></ruby>た。
 
-秋は一番好きな季節になった。涼しくて過ごしやすい。十一月に京都に紅葉を見に行ったが、赤や黄色の葉がとてもきれいで、何度も写真を撮った。
+<ruby>秋<rt>あき</rt></ruby>は<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きな季節になった。<ruby>涼<rt>すず</rt></ruby>しくて<ruby>過<rt>す</rt></ruby>ごしやすい。<ruby>十一月<rt>じゅういちがつ</rt></ruby>に<ruby>京都<rt>きょうと</rt></ruby>に<ruby>紅葉<rt>こうよう</rt></ruby>を見に行ったが、<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>がとてもきれいで、<ruby>何度<rt>なんど</rt></ruby>も<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>った。
 
-冬は思ったより寒くなかった。雪はあまり降らなかったが、空気が乾燥していた。年末に友達の実家に招待されて、おせち料理を一緒に食べた。初詣にも行って、お参りの仕方を教えてもらった。
+<ruby>冬<rt>ふゆ</rt></ruby>は思ったより<ruby>寒<rt>さむ</rt></ruby>くなかった。<ruby>雪<rt>ゆき</rt></ruby>はあまり降らなかったが、<ruby>空気<rt>くうき</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>していた。<ruby>年末<rt>ねんまつ</rt></ruby>に友達の<ruby>実家<rt>じっか</rt></ruby>に<ruby>招待<rt>しょうたい</rt></ruby>されて、おせち<ruby>料理<rt>りょうり</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に食べた。<ruby>初詣<rt>はつもうで</rt></ruby>にも行って、お<ruby>参<rt>まい</rt></ruby>りの<ruby>仕方<rt>しかた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてもらった。
 
-日本の季節には、それぞれ特別な行事や食べ物がある。季節の変化を楽しむ文化が、日本のすばらしいところだと思う。
+日本の季節には、それぞれ<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>行事<rt>ぎょうじ</rt></ruby>や食べ物がある。季節の<ruby>変化<rt>へんか</rt></ruby>を楽しむ<ruby>文化<rt>ぶんか</rt></ruby>が、日本の素晴らしいところだと思う。
 
 ### Translation
 

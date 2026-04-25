@@ -105,15 +105,15 @@ The following table contains every grammar pattern taught in Chapters 1 through 
 
 ## 29.2 Extended Reading Passage 1 — 京都への旅
 
-去年の秋、友達の鈴木さんと一緒に京都に旅行に行った。鈴木さんは京都に行ったことがなかったので、とても楽しみにしていた。旅行の前に、ガイドブックを買って読んでおいた。有名なお寺や神社の場所を調べておいたし、おいしい食べ物の店も調べておいた。ホテルは二か月前に予約しておいた。秋の京都は人気があるので、早く予約しなければ取れないと聞いていたからだ。
+<ruby>去年<rt>きょねん</rt></ruby>の<ruby>秋<rt>あき</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>鈴木<rt>すずき</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>京都<rt>きょうと</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>った。鈴木さんは京都に行ったことがなかったので、とても<ruby>楽<rt>たの</rt></ruby>しみにしていた。旅行の<ruby>前<rt>まえ</rt></ruby>に、ガイドブックを<ruby>買<rt>か</rt></ruby>って<ruby>読<rt>よ</rt></ruby>んでおいた。<ruby>有名<rt>ゆうめい</rt></ruby>なお<ruby>寺<rt>てら</rt></ruby>や<ruby>神社<rt>じんじゃ</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べておいたし、おいしい<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>も調べておいた。ホテルは<ruby>二<rt>に</rt></ruby>か<ruby>月<rt>げつ</rt></ruby>前に<ruby>予約<rt>よやく</rt></ruby>しておいた。秋の京都は<ruby>人気<rt>にんき</rt></ruby>があるので、<ruby>早<rt>はや</rt></ruby>く予約しなければ<ruby>取<rt>と</rt></ruby>れないと<ruby>聞<rt>き</rt></ruby>いていたからだ。
 
-京都に着いたら、まず金閣寺に行くことにした。バスに乗って四十分ぐらいかかった。金閣寺に着いた時、紅葉がとてもきれいだった。赤や黄色の葉が金色の建物の前に広がっていて、まるで絵のようだった。写真をたくさん撮ったが、カメラでは本物の美しさが撮れないと思った。あの場所で実際に見なければ分からない美しさだった。外国人の観光客にも大勢会った。英語で道を聞かれたので、日本語と英語を混ぜて教えてあげた。
+京都に<ruby>着<rt>つ</rt></ruby>いたら、まず<ruby>金閣寺<rt>きんかくじ</rt></ruby>に行くことにした。バスに<ruby>乗<rt>の</rt></ruby>って<ruby>四十分<rt>よんじゅっぷん</rt></ruby>ぐらいかかった。金閣寺に着いた<ruby>時<rt>とき</rt></ruby>、<ruby>紅葉<rt>こうよう</rt></ruby>がとてもきれいだった。<ruby>赤<rt>あか</rt></ruby>や<ruby>黄色<rt>きいろ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>が<ruby>金色<rt>きんいろ</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>の前に<ruby>広<rt>ひろ</rt></ruby>がっていて、まるで<ruby>絵<rt>え</rt></ruby>のようだった。<ruby>写真<rt>しゃしん</rt></ruby>をたくさん<ruby>撮<rt>と</rt></ruby>ったが、カメラでは<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさが撮れないと<ruby>思<rt>おも</rt></ruby>った。あの場所で<ruby>実際<rt>じっさい</rt></ruby>に<ruby>見<rt>み</rt></ruby>なければ<ruby>分<rt>わ</rt></ruby>からない美しさだった。<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>観光客<rt>かんこうきゃく</rt></ruby>にも<ruby>大勢<rt>おおぜい</rt></ruby><ruby>会<rt>あ</rt></ruby>った。<ruby>英語<rt>えいご</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を聞かれたので、<ruby>日本語<rt>にほんご</rt></ruby>と英語を<ruby>混<rt>ま</rt></ruby>ぜて<ruby>教<rt>おし</rt></ruby>えてあげた。
 
-次の日は嵐山に行った。竹林の道を歩いていると、風で竹が揺れる音が聞こえてきた。静かで気持ちがよかった。鈴木さんが「こんな場所があるとは知らなかった。来てよかった」と言った。昼ごはんは川の近くの店で湯豆腐を食べてみた。京都に来たら湯豆腐を食べたほうがいいとガイドブックに書いてあったからだ。あたたかくて、体がだんだん温まってきた。
+<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>嵐山<rt>あらしやま</rt></ruby>に行った。<ruby>竹林<rt>ちくりん</rt></ruby>の道を<ruby>歩<rt>ある</rt></ruby>いていると、<ruby>風<rt>かぜ</rt></ruby>で<ruby>竹<rt>たけ</rt></ruby>が<ruby>揺<rt>ゆ</rt></ruby>れる<ruby>音<rt>おと</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえてきた。<ruby>静<rt>しず</rt></ruby>かで<ruby>気持<rt>きも</rt></ruby>ちがよかった。鈴木さんが「こんな場所があるとは<ruby>知<rt>し</rt></ruby>らなかった。来てよかった」と<ruby>言<rt>い</rt></ruby>った。<ruby>昼<rt>ひる</rt></ruby>ごはんは<ruby>川<rt>かわ</rt></ruby>の近くの店で<ruby>湯豆腐<rt>ゆどうふ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてみた。京都に来たら湯豆腐を食べたほうがいいとガイドブックに<ruby>書<rt>か</rt></ruby>いてあったからだ。<ruby>暖<rt>あたた</rt></ruby>かくて、<ruby>体<rt>からだ</rt></ruby>がだんだん<ruby>温<rt>あたた</rt></ruby>まってきた。
 
-三日目の朝、少し雨に降られてしまった。傘を持ってこなかったので、コンビニで買わなければならなかった。でも、雨の京都も風情があってよかった。お寺の庭の石が雨に濡れて光っていた。鈴木さんは「雨の日に来られてよかったかもしれない」と笑った。
+<ruby>三日目<rt>みっかめ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、少し<ruby>雨<rt>あめ</rt></ruby>に<ruby>降<rt>ふ</rt></ruby>られてしまった。<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってこなかったので、コンビニで買わなければならなかった。でも、雨の京都も<ruby>風情<rt>ふぜい</rt></ruby>があってよかった。お寺の<ruby>庭<rt>にわ</rt></ruby>の<ruby>石<rt>いし</rt></ruby>が雨に<ruby>濡<rt>ぬ</rt></ruby>れて<ruby>光<rt>ひか</rt></ruby>っていた。鈴木さんは「雨の日に来られてよかったかもしれない」と<ruby>笑<rt>わら</rt></ruby>った。
 
-帰りの新幹線の中で、撮った写真を見ながら、いい旅だったと思った。京都はまた行きたい。今度は春に行って、桜を見たいと思う。
+<ruby>帰<rt>かえ</rt></ruby>りの<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、撮った写真を見ながら、いい<ruby>旅<rt>たび</rt></ruby>だったと思った。京都はまた行きたい。<ruby>今度<rt>こんど</rt></ruby>は<ruby>春<rt>はる</rt></ruby>に行って、<ruby>桜<rt>さくら</rt></ruby>を見たいと思う。
 
 ---
 
@@ -141,13 +141,13 @@ On the Shinkansen home, looking at the photos we had taken, I thought it was a g
 
 お疲れ様でございます。営業部の田中でございます。
 
-来週の水曜日に予定されております会議の件について、ご連絡いたします。会議室の予約がまだ取れておりませんでしたので、先ほど第三会議室を押さえておきました。時間は午後二時から四時までとなっております。
+<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>水曜日<rt>すいようび</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>されております<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>件<rt>けん</rt></ruby>について、ご<ruby>連絡<rt>れんらく</rt></ruby>いたします。<ruby>会議室<rt>かいぎしつ</rt></ruby>の<ruby>予約<rt>よやく</rt></ruby>がまだ<ruby>取<rt>と</rt></ruby>れておりませんでしたので、<ruby>先<rt>さき</rt></ruby>ほど<ruby>第三会議室<rt>だいさんかいぎしつ</rt></ruby>を<ruby>押<rt>おさ</rt></ruby>えておきました。<ruby>時間<rt>じかん</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby><ruby>二時<rt>にじ</rt></ruby>から<ruby>四時<rt>よじ</rt></ruby>までとなっております。
 
-資料につきましては、現在準備を進めております。明日中にお送りいたしますので、事前にご確認いただければ幸いです。また、先日ご依頼いただきました売上のデータも、資料に含めてございます。
+<ruby>資料<rt>しりょう</rt></ruby>につきましては、<ruby>現在<rt>げんざい</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めております。<ruby>明日中<rt>あしたじゅう</rt></ruby>にお<ruby>送<rt>おく</rt></ruby>りいたしますので、<ruby>事前<rt>じぜん</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>いただければ<ruby>幸<rt>さいわ</rt></ruby>いです。また、<ruby>先日<rt>せんじつ</rt></ruby>ご<ruby>依頼<rt>いらい</rt></ruby>いただきました<ruby>売上<rt>うりあげ</rt></ruby>のデータも、資料に<ruby>含<rt>ふく</rt></ruby>めてございます。
 
-なお、佐藤課長より、当日は出張のためご出席いただけないとのご連絡がございました。佐藤課長の代わりに、中村さんが出席されるそうです。
+なお、<ruby>佐藤<rt>さとう</rt></ruby><ruby>課長<rt>かちょう</rt></ruby>より、<ruby>当日<rt>とうじつ</rt></ruby>は<ruby>出張<rt>しゅっちょう</rt></ruby>のためご<ruby>出席<rt>しゅっせき</rt></ruby>いただけないとのご連絡がございました。佐藤課長の<ruby>代<rt>か</rt></ruby>わりに、<ruby>中村<rt>なかむら</rt></ruby>さんが出席されるそうです。
 
-何かご不明な点がございましたら、お気軽にお申し付けください。何卒よろしくお願いいたします。
+<ruby>何<rt>なに</rt></ruby>かご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたら、お<ruby>気軽<rt>きがる</rt></ruby>にお<ruby>申<rt>もう</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けください。<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。
 
 田中太郎
 営業部
@@ -160,9 +160,9 @@ On the Shinkansen home, looking at the photos we had taken, I thought it was a g
 
 お疲れ様です。ご連絡ありがとうございます。
 
-会議室の手配、ありがとうございました。第三会議室で問題ございません。資料は明日中にいただければ、木曜日に目を通しておきます。
+会議室の<ruby>手配<rt>てはい</rt></ruby>、ありがとうございました。第三会議室で<ruby>問題<rt>もんだい</rt></ruby>ございません。資料は明日中にいただければ、<ruby>木曜日<rt>もくようび</rt></ruby>に<ruby>目<rt>め</rt></ruby>を<ruby>通<rt>とお</rt></ruby>しておきます。
 
-佐藤課長の件、承知いたしました。中村さんには、先日の案件についても説明しておいていただけますか。会議で議論することになっておりますので、背景を理解しておいていただきたいと思います。
+佐藤課長の件、<ruby>承知<rt>しょうち</rt></ruby>いたしました。中村さんには、先日の<ruby>案件<rt>あんけん</rt></ruby>についても<ruby>説明<rt>せつめい</rt></ruby>しておいていただけますか。会議で<ruby>議論<rt>ぎろん</rt></ruby>することになっておりますので、<ruby>背景<rt>はいけい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>しておいていただきたいと思います。
 
 それでは、当日よろしくお願いいたします。
 
@@ -213,17 +213,17 @@ Ichiro Yamamoto
 
 **「やっと金曜日」**
 
-今週、まじで大変だった。月曜日から毎日残業で、家に帰るのが十時過ぎ。火曜日なんか十一時だったし。上司に新しいプロジェクトを任されて、資料を全部一人で作らなきゃいけなくなっちゃった。
+<ruby>今週<rt>こんしゅう</rt></ruby>、まじで<ruby>大変<rt>たいへん</rt></ruby>だった。<ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>毎日<rt>まいにち</rt></ruby><ruby>残業<rt>ざんぎょう</rt></ruby>で、<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>るのが<ruby>十時<rt>じゅうじ</rt></ruby><ruby>過<rt>す</rt></ruby>ぎ。<ruby>火曜日<rt>かようび</rt></ruby>なんか<ruby>十一時<rt>じゅういちじ</rt></ruby>だったし。<ruby>上司<rt>じょうし</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しいプロジェクトを<ruby>任<rt>まか</rt></ruby>されて、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>で<ruby>作<rt>つく</rt></ruby>らなきゃいけなくなっちゃった。
 
-水曜日、やっと資料が完成したと思ったら、上司に「ここ、ちょっと違うんじゃない？」って言われて、結局全部やり直し。マジかよって思ったけど、確かに見直してみたら間違ってる部分があった。自分のミスだから仕方ない。でも、もうちょっと早く言ってほしかったな。
+<ruby>水曜日<rt>すいようび</rt></ruby>、やっと資料が<ruby>完成<rt>かんせい</rt></ruby>したと<ruby>思<rt>おも</rt></ruby>ったら、上司に「ここ、ちょっと<ruby>違<rt>ちが</rt></ruby>うんじゃない？」って<ruby>言<rt>い</rt></ruby>われて、<ruby>結局<rt>けっきょく</rt></ruby>全部やり<ruby>直<rt>なお</rt></ruby>し。マジかよって思ったけど、<ruby>確<rt>たし</rt></ruby>かに<ruby>見直<rt>みなお</rt></ruby>してみたら<ruby>間違<rt>まちが</rt></ruby>ってる<ruby>部分<rt>ぶぶん</rt></ruby>があった。<ruby>自分<rt>じぶん</rt></ruby>のミスだから<ruby>仕方<rt>しかた</rt></ruby>ない。でも、もうちょっと<ruby>早<rt>はや</rt></ruby>く言ってほしかったな。
 
-木曜日は会議が三つもあって、一日中会議室にいた。昼ごはんを食べる時間もなくて、コンビニのおにぎりを会議の合間に食べといた。先輩が「大丈夫？顔色悪いよ」って心配してくれた。「大丈夫っす」って言ったけど、全然大丈夫じゃなかった。
+<ruby>木曜日<rt>もくようび</rt></ruby>は会議が<ruby>三<rt>みっ</rt></ruby>つもあって、<ruby>一日中<rt>いちにちじゅう</rt></ruby>会議室にいた。<ruby>昼<rt>ひる</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べる<ruby>時間<rt>じかん</rt></ruby>もなくて、コンビニのおにぎりを会議の<ruby>合間<rt>あいま</rt></ruby>に食べといた。<ruby>先輩<rt>せんぱい</rt></ruby>が「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？<ruby>顔色<rt>かおいろ</rt></ruby><ruby>悪<rt>わる</rt></ruby>いよ」って<ruby>心配<rt>しんぱい</rt></ruby>してくれた。「大丈夫っす」って言ったけど、<ruby>全然<rt>ぜんぜん</rt></ruby>大丈夫じゃなかった。
 
-で、今日金曜日。朝起きたら体が重くて、行きたくないなって思ったけど、今日を乗り越えたら週末じゃん。頑張って出勤した。午前中にプロジェクトの発表があって、めっちゃ緊張した。でも、上司に「よくできてる」って褒められて、ちょっとうれしかった。やった甲斐があったかな。
+で、<ruby>今日<rt>きょう</rt></ruby><ruby>金曜日<rt>きんようび</rt></ruby>。<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたら<ruby>体<rt>からだ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くて、<ruby>行<rt>い</rt></ruby>きたくないなって思ったけど、今日を<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>えたら<ruby>週末<rt>しゅうまつ</rt></ruby>じゃん。<ruby>頑張<rt>がんば</rt></ruby>って<ruby>出勤<rt>しゅっきん</rt></ruby>した。<ruby>午前中<rt>ごぜんちゅう</rt></ruby>にプロジェクトの<ruby>発表<rt>はっぴょう</rt></ruby>があって、めっちゃ<ruby>緊張<rt>きんちょう</rt></ruby>した。でも、上司に「よくできてる」って<ruby>褒<rt>ほ</rt></ruby>められて、ちょっと<ruby>嬉<rt>うれ</rt></ruby>しかった。やった<ruby>甲斐<rt>かい</rt></ruby>があったかな。
 
-今週学んだこと：締め切りの前に余裕を持っておくこと。ギリギリだとミスに気づけないし、直す時間もなくなっちゃう。来週からは早めに取りかかるようにしよう。
+今週<ruby>学<rt>まな</rt></ruby>んだこと：<ruby>締<rt>し</rt></ruby>め<ruby>切<rt>き</rt></ruby>りの前に<ruby>余裕<rt>よゆう</rt></ruby>を持っておくこと。ギリギリだとミスに<ruby>気<rt>き</rt></ruby>づけないし、<ruby>直<rt>なお</rt></ruby>す時間もなくなっちゃう。来週からは早めに<ruby>取<rt>と</rt></ruby>りかかるようにしよう。
 
-とりあえず、今夜はビール飲んで寝る。おつかれ、自分。
+とりあえず、<ruby>今夜<rt>こんや</rt></ruby>はビール<ruby>飲<rt>の</rt></ruby>んで<ruby>寝<rt>ね</rt></ruby>る。おつかれ、自分。
 
 ---
 
@@ -249,15 +249,15 @@ Anyway, tonight I'm drinking beer and going to sleep. Good job, me.
 
 **「春の体調管理」**
 
-春になると、体の調子が悪くなる人が増えてきます。冬から春への季節の変わり目は、気温の変化が大きいために、体に負担がかかりやすいのです。「最近、なんだか疲れやすくなった」「よく眠れなくなってきた」という方は、以下のことに気をつけてみてはいかがでしょうか。
+<ruby>春<rt>はる</rt></ruby>になると、<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてきます。<ruby>冬<rt>ふゆ</rt></ruby>から春への<ruby>季節<rt>きせつ</rt></ruby>の<ruby>変<rt>か</rt></ruby>わり<ruby>目<rt>め</rt></ruby>は、<ruby>気温<rt>きおん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいために、体に<ruby>負担<rt>ふたん</rt></ruby>がかかりやすいのです。「<ruby>最近<rt>さいきん</rt></ruby>、なんだか<ruby>疲<rt>つか</rt></ruby>れやすくなった」「よく<ruby>眠<rt>ねむ</rt></ruby>れなくなってきた」という<ruby>方<rt>かた</rt></ruby>は、<ruby>以下<rt>いか</rt></ruby>のことに気をつけてみてはいかがでしょうか。
 
-まず、睡眠について。春は日が長くなっていくので、つい夜更かしをしてしまいがちです。しかし、睡眠時間が減ると、免疫力が下がって風邪を引きやすくなるそうです。できれば毎日同じ時間に寝るようにしたほうがいいでしょう。寝る前にスマートフォンを見ると眠りにくくなるらしいので、寝る一時間前にはスマートフォンを置いておくことをおすすめします。
+まず、<ruby>睡眠<rt>すいみん</rt></ruby>について。春は<ruby>日<rt>ひ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>くなっていくので、つい<ruby>夜更<rt>よふ</rt></ruby>かしをしてしまいがちです。しかし、<ruby>睡眠時間<rt>すいみんじかん</rt></ruby>が<ruby>減<rt>へ</rt></ruby>ると、<ruby>免疫力<rt>めんえきりょく</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がって<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きやすくなるそうです。できれば毎日同じ時間に<ruby>寝<rt>ね</rt></ruby>るようにしたほうがいいでしょう。寝る前にスマートフォンを<ruby>見<rt>み</rt></ruby>ると<ruby>眠<rt>ねむ</rt></ruby>りにくくなるらしいので、寝る<ruby>一時間<rt>いちじかん</rt></ruby>前にはスマートフォンを<ruby>置<rt>お</rt></ruby>いておくことをおすすめします。
 
-次に、食事です。春は新しい生活が始まる人も多く、忙しくて朝ごはんを食べないで出かけてしまうことがあるかもしれません。しかし、朝ごはんを抜くと、昼まで体が動きにくくなりますし、昼に食べすぎてしまうこともあります。簡単なものでいいので、何か食べてから出かけるようにしましょう。
+次に、<ruby>食事<rt>しょくじ</rt></ruby>です。春は<ruby>新<rt>あたら</rt></ruby>しい<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる人も多く、<ruby>忙<rt>いそが</rt></ruby>しくて<ruby>朝<rt>あさ</rt></ruby>ごはんを食べないで出かけてしまうことがあるかもしれません。しかし、朝ごはんを<ruby>抜<rt>ぬ</rt></ruby>くと、<ruby>昼<rt>ひる</rt></ruby>まで体が<ruby>動<rt>うご</rt></ruby>きにくくなりますし、昼に食べすぎてしまうこともあります。<ruby>簡単<rt>かんたん</rt></ruby>なものでいいので、<ruby>何<rt>なに</rt></ruby>か食べてから出かけるようにしましょう。
 
-また、花粉症に悩まされている方も多いのではないでしょうか。花粉の多い日は、外出する前にマスクをしておいたほうがいいでしょう。帰宅したら、服についた花粉を払ってから家に入るようにすると、室内の花粉を減らすことができるはずです。
+また、<ruby>花粉症<rt>かふんしょう</rt></ruby>に<ruby>悩<rt>なや</rt></ruby>まされている方も多いのではないでしょうか。<ruby>花粉<rt>かふん</rt></ruby>の多い日は、<ruby>外出<rt>がいしゅつ</rt></ruby>する前にマスクをしておいたほうがいいでしょう。<ruby>帰宅<rt>きたく</rt></ruby>したら、<ruby>服<rt>ふく</rt></ruby>についた花粉を<ruby>払<rt>はら</rt></ruby>ってから家に入るようにすると、<ruby>室内<rt>しつない</rt></ruby>の花粉を減らすことができるはずです。
 
-春は気持ちのいい季節ですが、体調を崩しやすい季節でもあります。無理をしないで、自分の体の声を聞くようにしてください。
+春は<ruby>気持<rt>きも</rt></ruby>ちのいい季節ですが、<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>しやすい季節でもあります。<ruby>無理<rt>むり</rt></ruby>をしないで、自分の体の<ruby>声<rt>こえ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くようにしてください。
 
 ---
 

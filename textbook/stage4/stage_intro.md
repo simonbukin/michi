@@ -4,6 +4,16 @@
 
 Stage 4 is where you stop studying Japanese and start using it. The grammar, vocabulary, and reading strategies from Stages 1-3 gave you the ability to handle adapted and lightly simplified texts. Stage 4 removes the scaffolding entirely: you will read unsimplified authentic texts, produce keigo fluently, process natural-speed spoken Japanese, and internalize the dense compound grammar that characterizes real written Japanese at the professional and academic level.
 
+## Why Classical Grammar Comes First
+
+The opening two chapters of this stage — `ch01_classical_residues` and `ch02_classical_temporal` — cover grammar inherited from classical Japanese: ざる, ず, べからず, ごとく, なり, や否や, つつ, and similar forms. This is unusual. Most textbooks treat classical grammar as an advanced afterthought or skip it entirely. Stage 4 puts it first, and the reasoning matters.
+
+Modern formal Japanese is saturated with classical residues. A newspaper editorial uses ざるを得ない and 〜つつある in its first paragraph. A government notice opens with 〜にあたり and closes with 〜なければならない. A literary novel narrates with ごとく and 〜たり〜たり. A legal document is built on べからず and 〜の限り. If you postpone classical grammar until "after" the modern N2 inventory, you cannot read any of these texts when you encounter them in the journalistic, academic, and literary chapters later in this stage — and those chapters are where the bulk of your reading practice happens.
+
+Treating these forms as classical does not mean treating them as archaic. They are productive features of modern register-shifted Japanese. A learner who knows that ざる is the classical negative, that べき is its hortative cousin, and that 〜つつ is a continuative converb has unlocked a whole layer of formal writing that opaque pattern-matching cannot.
+
+The same principle applies in reverse: a learner who only knows the modern colloquial system will misparse formal Japanese systematically, treating these forms as exotic rather than as the standard register variants they are. Stage 4 starts with classical grammar to prevent that misparsing for the rest of the stage.
+
 This stage covers:
 
 - **Classical grammar residues in modern Japanese** — ざる, ず, べからず, ごとく, なり, や否や, and other forms inherited from classical Japanese that appear routinely in formal modern writing

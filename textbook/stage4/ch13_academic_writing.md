@@ -119,7 +119,7 @@ In Japanese academic writing, a common paragraph structure is:
 
 This structure, sometimes called 確かに…しかし… construction, is extremely common:
 
-> **確かに**、経済成長は　国民の　生活水準を　向上させてきた。**しかし**、成長の　恩恵が　すべての　層に　均等に　行き渡っているとは　**言い難い**。
+> **確かに**、経済成長は　国民の　生活水準を　向上させてきた。**しかし**、成長の　恩恵が　<ruby>全<rt>すべ</rt></ruby>ての　層に　均等に　行き渡っているとは　**言い難い**。
 > "Certainly, economic growth has raised the standard of living. However, it is hard to say that the benefits of growth have reached all segments equally."
 
 ---

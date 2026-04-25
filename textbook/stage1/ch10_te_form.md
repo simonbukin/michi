@@ -51,7 +51,7 @@ That is the entire rule. No sound changes, no special cases.
 | おしえる | おしえて | teach, tell |
 | かりる | かりて | borrow |
 
-If you can identify a verb as 一段, you already know its て-form. The challenge, as always, is telling 一段 verbs apart from 五段 verbs that happen to end in る. Review the criteria from Chapter 9: if the sound before る is in the い段 or え段 (the い or え vowel row), the verb is **likely** 一段. Verbs like かえる ("return," 五段) and きる ("cut," 五段) are exceptions that must be memorized individually. When in doubt, a dictionary will tell you.
+If you can identify a verb as 一段, you already know its て-form. The challenge, as always, is telling 一段 verbs apart from 五段 verbs that happen to end in る. Review the criteria from Chapter 9: if the sound before る is in the い段 or え段 (the い or え vowel row), the verb is **likely** 一段. Verbs like <ruby>帰<rt>かえ</rt></ruby>る ("return," 五段) and <ruby>切<rt>き</rt></ruby>る ("cut," 五段) are exceptions that must be memorized individually. When in doubt, a dictionary will tell you.
 
 ---
 
@@ -64,7 +64,7 @@ Japanese has exactly two irregular verbs. Their て-forms are:
 | する | して | do |
 | くる | きて | come |
 
-That is the complete list. There are no other irregular verbs in Japanese. Compound verbs built on する (like べんきょうする, "to study") follow the same pattern: べんきょうする → べんきょうして. Compound verbs built on くる (like もってくる, "to bring") do the same: もってくる → もってきて.
+That is the complete list. There are no other irregular verbs in Japanese. Compound verbs built on する (like <ruby>勉強<rt>べんきょう</rt></ruby>する, "to study") follow the same pattern: 勉強する → 勉強して. Compound verbs built on くる (like <ruby>持<rt>も</rt></ruby>ってくる, "to bring") do the same: 持ってくる → 持ってきて.
 
 Memorize する → して and くる → きて. You are done with the irregular verbs.
 
@@ -224,17 +224,17 @@ Use this if it helps. Discard it if it does not. The table is the authority.
 
 ---
 
-## 10.5 The One Exception: いく → いって
+## 10.5 The One Exception: <ruby>行<rt>い</rt></ruby>く → 行って
 
-The verb いく (to go) should follow Pattern 1. Its dictionary form ends in く, so by the rule, it should become いいて. But it does not.
+The verb <ruby>行<rt>い</rt></ruby>く (to go) should follow Pattern 1. Its dictionary form ends in く, so by the rule, it should become いいて. But it does not.
 
-> いく → **いって**
+> 行く → **行って**
 
-Not いいて. いって. It follows the って pattern (Pattern 4) instead of the いて pattern (Pattern 1).
+Not いいて. 行って. It follows the って pattern (Pattern 4) instead of the いて pattern (Pattern 1).
 
 This is the **only exception** in the entire 五段 て-form system. Every other verb obeys the five patterns without deviation. There is no satisfying grammatical reason for this exception — it is a historical irregularity that has been preserved in modern Japanese. Simply memorize it.
 
-The compound verb もっていく (to take/bring something going) follows the same exception: もっていく → もっていって.
+The compound verb <ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く (to take/bring something going) follows the same exception: 持って行く → 持って行って.
 
 For clarity:
 
@@ -295,35 +295,35 @@ Here are fifteen verbs worked through step by step.
 
 ---
 
-**たべる** (eat) — 一段. Drop る, add て. → **たべて**
+**<ruby>食<rt>た</rt></ruby>べる** (eat) — 一段. Drop る, add て. → **食べて**
 
 **する** (do) — Irregular. → **して**
 
-**かく** (write) — 五段, ends in く. く → いて. → **かいて**
+**<ruby>書<rt>か</rt></ruby>く** (write) — 五段, ends in く. く → いて. → **書いて**
 
-**のむ** (drink) — 五段, ends in む. む → んで. → **のんで**
+**<ruby>飲<rt>の</rt></ruby>む** (drink) — 五段, ends in む. む → んで. → **飲んで**
 
-**くる** (come) — Irregular. → **きて**
+**<ruby>来<rt>く</rt></ruby>る** (come) — Irregular. → **きて**
 
-**まつ** (wait) — 五段, ends in つ. つ → って. → **まって**
+**<ruby>待<rt>ま</rt></ruby>つ** (wait) — 五段, ends in つ. つ → って. → **待って**
 
-**おしえる** (teach) — 一段. Drop る, add て. → **おしえて**
+**<ruby>教<rt>おし</rt></ruby>える** (teach) — 一段. Drop る, add て. → **教えて**
 
-**はなす** (speak) — 五段, ends in す. す → して. → **はなして**
+**<ruby>話<rt>はな</rt></ruby>す** (speak) — 五段, ends in す. す → して. → **話して**
 
-**およぐ** (swim) — 五段, ends in ぐ. ぐ → いで. → **およいで**
+**<ruby>泳<rt>およ</rt></ruby>ぐ** (swim) — 五段, ends in ぐ. ぐ → いで. → **泳いで**
 
-**いく** (go) — 五段, ends in く — but this is the exception. → **いって**
+**<ruby>行<rt>い</rt></ruby>く** (go) — 五段, ends in く — but this is the exception. → **行って**
 
-**よぶ** (call) — 五段, ends in ぶ. ぶ → んで. → **よんで**
+**<ruby>呼<rt>よ</rt></ruby>ぶ** (call) — 五段, ends in ぶ. ぶ → んで. → **呼んで**
 
-**あける** (open) — 一段. Drop る, add て. → **あけて**
+**<ruby>開<rt>あ</rt></ruby>ける** (open) — 一段. Drop る, add て. → **開けて**
 
-**かう** (buy) — 五段, ends in う. う → って. → **かって**
+**<ruby>買<rt>か</rt></ruby>う** (buy) — 五段, ends in う. う → って. → **買って**
 
-**べんきょうする** (study) — Compound of する. → **べんきょうして**
+**<ruby>勉強<rt>べんきょう</rt></ruby>する** (study) — Compound of する. → **勉強して**
 
-**かえる** (return) — 五段, ends in る. る → って. → **かえって**
+**<ruby>帰<rt>かえ</rt></ruby>る** (return) — 五段, ends in る. る → って. → **帰って**
 
 ---
 
@@ -335,7 +335,7 @@ Work through this process with every new verb you encounter. Within a few weeks 
 
 **Confusing 一段 and 五段 verbs that end in る.**
 
-This is the most common source of error. The verb かえる (return) is 五段 — its て-form is かえって. The verb たべる (eat) is 一段 — its て-form is たべて. If you misidentify the verb class, you will produce the wrong て-form. There is no shortcut here other than learning which verbs belong to which class. A few common 五段 verbs that look like 一段:
+This is the most common source of error. The verb <ruby>帰<rt>かえ</rt></ruby>る (return) is 五段 — its て-form is 帰って. The verb <ruby>食<rt>た</rt></ruby>べる (eat) is 一段 — its て-form is 食べて. If you misidentify the verb class, you will produce the wrong て-form. There is no shortcut here other than learning which verbs belong to which class. A few common 五段 verbs that look like 一段:
 
 | Verb | Class | て-Form |
 |------|-------|---------|
@@ -356,29 +356,29 @@ Compare with genuine 一段 verbs:
 
 Notice that かえる, きる, and いる each have both a 五段 and a 一段 version with different meanings. Context and dictionaries are your tools for disambiguation.
 
-**Forgetting that いく is an exception.**
+**Forgetting that <ruby>行<rt>い</rt></ruby>く is an exception.**
 
-The form いいて does not exist. It is always いって.
+The form いいて does not exist. It is always 行って.
 
 **Producing てforms with ます-stem.**
 
-Some learners try to build the て-form from the ます-stem (for example, のみ + て = のみて). This does not work for 五段 verbs. The て-form is built from the **dictionary form**, not the ます-stem. のむ → のんで, not のみて.
+Some learners try to build the て-form from the ます-stem (for example, のみ + て = のみて). This does not work for 五段 verbs. The て-form is built from the **dictionary form**, not the ます-stem. <ruby>飲<rt>の</rt></ruby>む → 飲んで, not のみて.
 
 ---
 
-## 10.9 Reading Passage — あさの じゅんび
+## 10.9 Reading Passage — <ruby>朝<rt>あさ</rt></ruby>の <ruby>準備<rt>じゅんび</rt></ruby>
 
 Read the following passage. It uses て-form to connect sequential actions — this is one of the most basic uses of the て-form, covered in detail in Chapter 11. For now, focus on recognizing the て-forms and identifying which dictionary-form verb each one comes from.
 
 ---
 
-まいあさ 六時に おきて、かおを あらって、はを みがきます。それから、コーヒーを いれて、パンを たべます。
+<ruby>毎朝<rt>まいあさ</rt></ruby> <ruby>六<rt>ろく</rt></ruby><ruby>時<rt>じ</rt></ruby>に <ruby>起<rt>お</rt></ruby>きて、<ruby>顔<rt>かお</rt></ruby>を <ruby>洗<rt>あら</rt></ruby>って、<ruby>歯<rt>は</rt></ruby>を <ruby>磨<rt>みが</rt></ruby>きます。それから、コーヒーを <ruby>入<rt>い</rt></ruby>れて、パンを <ruby>食<rt>た</rt></ruby>べます。
 
-しごとの かばんに ほんと ノートを いれて、くつを はいて、いえを でます。
+<ruby>仕事<rt>しごと</rt></ruby>の かばんに <ruby>本<rt>ほん</rt></ruby>と ノートを 入れて、<ruby>靴<rt>くつ</rt></ruby>を <ruby>履<rt>は</rt></ruby>いて、<ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ます。
 
-えきまで あるいて、でんしゃに のって、かいしゃに いきます。かいしゃまで 四十分ぐらいです。
+<ruby>駅<rt>えき</rt></ruby>まで <ruby>歩<rt>ある</rt></ruby>いて、<ruby>電車<rt>でんしゃ</rt></ruby>に <ruby>乗<rt>の</rt></ruby>って、<ruby>会社<rt>かいしゃ</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます。会社まで <ruby>四十<rt>よんじゅう</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ぐらいです。
 
-でんしゃの なかで おんがくを きいて、ニュースを よみます。
+電車の <ruby>中<rt>なか</rt></ruby>で <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>いて、ニュースを <ruby>読<rt>よ</rt></ruby>みます。
 
 ---
 
@@ -411,31 +411,31 @@ Notice how many different patterns appear in a single short passage. The て-for
 
 ---
 
-### Reading Passage 2 — おまつりの じゅんび
+### Reading Passage 2 — おまつりの <ruby>準備<rt>じゅんび</rt></ruby>
 
 Read the following passage. It describes getting ready for a summer festival, using the て-form to connect sequences of actions. Focus on identifying each て-form and its dictionary form.
 
 ---
 
-きょうは まちの なつまつりです。ともだちの ゆきさんと いきます。
+きょうは <ruby>町<rt>まち</rt></ruby>の <ruby>夏祭<rt>なつまつ</rt></ruby>りです。<ruby>友<rt>とも</rt></ruby>だちの ゆきさんと <ruby>行<rt>い</rt></ruby>きます。
 
-まず、おしいれを あけて、ゆかたを だします。ゆかたは きれいな あおい いろです。
+まず、<ruby>押<rt>お</rt></ruby>し<ruby>入<rt>い</rt></ruby>れを <ruby>開<rt>あ</rt></ruby>けて、ゆかたを <ruby>出<rt>だ</rt></ruby>します。ゆかたは きれいな <ruby>青<rt>あお</rt></ruby>い <ruby>色<rt>いろ</rt></ruby>です。
 
-ゆかたを きて、おびを しめて、かがみを みます。ちょっと むずかしいです。どうがを みて、もう 一かい しめます。こんどは うまく できました。
+ゆかたを <ruby>着<rt>き</rt></ruby>て、おびを <ruby>締<rt>し</rt></ruby>めて、<ruby>鏡<rt>かがみ</rt></ruby>を <ruby>見<rt>み</rt></ruby>ます。ちょっと <ruby>難<rt>むずか</rt></ruby>しいです。<ruby>動画<rt>どうが</rt></ruby>を 見て、もう <ruby>一<rt>いっ</rt></ruby><ruby>回<rt>かい</rt></ruby> 締めます。<ruby>今度<rt>こんど</rt></ruby>は うまく できました。
 
-げたを はいて、きんちゃくを もって、いえを でます。
+げたを <ruby>履<rt>は</rt></ruby>いて、きんちゃくを <ruby>持<rt>も</rt></ruby>って、<ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>ます。
 
-ゆきさんの いえまで あるいて、ドアを ノックします。ゆきさんも ゆかたを きています。あかい ゆかたです。
+ゆきさんの 家まで <ruby>歩<rt>ある</rt></ruby>いて、ドアを ノックします。ゆきさんも ゆかたを 着ています。<ruby>赤<rt>あか</rt></ruby>い ゆかたです。
 
-二人で えきまで あるいて、でんしゃに のって、まつりの かいじょうに いきます。
+<ruby>二人<rt>ふたり</rt></ruby>で <ruby>駅<rt>えき</rt></ruby>まで 歩いて、<ruby>電車<rt>でんしゃ</rt></ruby>に <ruby>乗<rt>の</rt></ruby>って、まつりの <ruby>会場<rt>かいじょう</rt></ruby>に 行きます。
 
-かいじょうに ついて、まず やたいを みます。やきそばの やたいが あります。やきそばを かって、 たべます。とても おいしいです。つぎに、りんごあめを かって、たべます。
+会場に <ruby>着<rt>つ</rt></ruby>いて、まず <ruby>屋台<rt>やたい</rt></ruby>を 見ます。やきそばの 屋台が あります。やきそばを <ruby>買<rt>か</rt></ruby>って、 <ruby>食<rt>た</rt></ruby>べます。とても おいしいです。つぎに、りんごあめを 買って、食べます。
 
-たいこの おとが きこえます。おんがくを きいて、おどりを みます。
+<ruby>太鼓<rt>たいこ</rt></ruby>の <ruby>音<rt>おと</rt></ruby>が <ruby>聞<rt>き</rt></ruby>こえます。<ruby>音楽<rt>おんがく</rt></ruby>を 聞いて、<ruby>踊<rt>おど</rt></ruby>りを 見ます。
 
-よるに なって、はなびが はじまります。みんなで そらを みて、「きれい！」と いいます。
+<ruby>夜<rt>よる</rt></ruby>に なって、<ruby>花火<rt>はなび</rt></ruby>が <ruby>始<rt>はじ</rt></ruby>まります。みんなで <ruby>空<rt>そら</rt></ruby>を 見て、「きれい！」と <ruby>言<rt>い</rt></ruby>います。
 
-おまつりが おわって、でんしゃに のって、いえに かえります。たのしい 一日でした。
+おまつりが <ruby>終<rt>お</rt></ruby>わって、電車に 乗って、家に <ruby>帰<rt>かえ</rt></ruby>ります。<ruby>楽<rt>たの</rt></ruby>しい <ruby>一日<rt>いちにち</rt></ruby>でした。
 
 ---
 
@@ -483,7 +483,7 @@ The festival ends, we ride the train, and go home. It was a fun day.
 
 ### Notes on the passage
 
-**ゆかた** — A lightweight cotton kimono worn in summer, especially to festivals, firework shows, and at hot spring inns. Wearing a yukata to a なつまつり is one of the most iconic summer experiences in Japan.
+**ゆかた** — A lightweight cotton kimono worn in summer, especially to festivals, firework shows, and at hot spring inns. Wearing a yukata to a <ruby>夏祭<rt>なつまつ</rt></ruby>り is one of the most iconic summer experiences in Japan.
 
 **おび** — "obi / sash." The wide belt tied around a yukata or kimono. Tying it properly is famously tricky — hence the character looking at a video for help.
 
@@ -491,9 +491,9 @@ The festival ends, we ride the train, and go home. It was a fun day.
 
 **きんちゃく** — A small drawstring pouch, used in place of a regular bag when wearing a yukata.
 
-**やたい** — "food stall." Summer festivals feature rows of stalls selling やきそば (fried noodles), りんごあめ (candy apples), たこやき (octopus balls), かきごおり (shaved ice), and much more.
+**<ruby>屋台<rt>やたい</rt></ruby>** — "food stall." Summer festivals feature rows of stalls selling やきそば (fried noodles), りんごあめ (candy apples), たこやき (octopus balls), かきごおり (shaved ice), and much more.
 
-**きこえます** — "can be heard." The potential form of きく. Potential forms are covered later; for now, recognize this as "I can hear."
+**<ruby>聞<rt>き</rt></ruby>こえます** — "can be heard." The potential form of <ruby>聞<rt>き</rt></ruby>く. Potential forms are covered later; for now, recognize this as "I can hear."
 
 **「きれい！」と いいます** — "say 'Beautiful!'" The quotation particle と is introduced later. For now, recognize と いいます as "say [quote]."
 

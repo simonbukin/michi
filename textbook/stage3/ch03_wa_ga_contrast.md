@@ -210,7 +210,7 @@ The が is doing exhaustive identification: "This one, out of all of them."
 > 冷蔵庫に何**が**ある？
 > "What's in the refrigerator?"
 >
-> 牛乳とたまご**が**ある。
+> 牛乳と<ruby>卵<rt>たまご</rt></ruby>**が**ある。
 > "There's milk and eggs."
 
 Again, が marks the newly identified items. If the answer used は:

@@ -12,7 +12,7 @@ By the end of this chapter, you will be able to construct the kind of multi-sent
 
 You learned と思う in Stage 1 as the basic way to say "I think that...":
 
-> 日本語は　むずかしいと　思います。
+> 日本語は　<ruby>難<rt>むずか</rt></ruby>しいと　<ruby>思<rt>おも</rt></ruby>います。
 > "I think Japanese is difficult."
 
 This section pushes と思う into more complex territory.
@@ -21,16 +21,16 @@ This section pushes と思う into more complex territory.
 
 The clause before と can be as long and complex as you need. The entire clause, no matter how many words it contains, is the content of the thought. The only rule is that the clause must end in a plain form before と.
 
-> あしたは　雨が　降ると　思います。
+> <ruby>明日<rt>あした</rt></ruby>は　<ruby>雨<rt>あめ</rt></ruby>が　<ruby>降<rt>ふ</rt></ruby>ると　思います。
 > "I think it will rain tomorrow."
 
 > 田中さんは　もう　うちに　帰ったと　思います。
 > "I think Tanaka has already gone home."
 
-> この　しけんは　先生が　思っているより　むずかしいと　思う。
+> この　<ruby>試験<rt>しけん</rt></ruby>は　<ruby>先生<rt>せんせい</rt></ruby>が　思っているより　難しいと　思う。
 > "I think this exam is harder than the teacher thinks."
 
-Notice the last example: a と思う embedded inside another と思う. This is perfectly natural. The inner clause （先生が思っているより　むずかしい） is the content of the outer と思う.
+Notice the last example: a と思う embedded inside another と思う. This is perfectly natural. The inner clause （先生が思っているより　難しい） is the content of the outer と思う.
 
 ### Negative opinions: ～ないと思う vs ～と思わない
 
@@ -38,7 +38,7 @@ When you want to say "I don't think...," Japanese has two structures, and they a
 
 **～ないと思う** — "I think that [something] is not the case." This is the standard, natural pattern.
 
-> あしたは　雨が　降らないと　思います。
+> 明日は　雨が　降らないと　思います。
 > "I think it won't rain tomorrow."
 
 > 田中さんは　来ないと　思います。
@@ -63,10 +63,10 @@ Let us break it down:
 
 Together: "I think it might be the case that..."
 
-> 田中さんは　忙しいんじゃないかと　思います。
+> <ruby>田中<rt>たなか</rt></ruby>さんは　<ruby>忙<rt>いそが</rt></ruby>しいんじゃないかと　思います。
 > "I think Tanaka might be busy." (Hedged — softer than 忙しいと思います)
 
-> この　計画は　ちょっと　むずかしいんじゃないかと　思います。
+> この　<ruby>計画<rt>けいかく</rt></ruby>は　ちょっと　難しいんじゃないかと　思います。
 > "I think this plan might be a bit difficult."
 
 > あの　店は　もう　閉まったんじゃないかと　思います。
@@ -76,9 +76,9 @@ The effect is significant. Compare:
 
 | Expression | Directness |
 |---|---|
-| むずかしいです | Statement of fact |
-| むずかしいと　思います | Direct opinion |
-| むずかしいんじゃないかと　思います | Hedged, tentative opinion |
+| 難しいです | Statement of fact |
+| 難しいと　思います | Direct opinion |
+| 難しいんじゃないかと　思います | Hedged, tentative opinion |
 
 The hedged form is especially useful in workplace settings, when disagreeing with someone, or when bringing up a potentially sensitive point. It allows the speaker to float an idea without committing to it forcefully.
 
@@ -93,7 +93,7 @@ There is a subtle but important difference between these two forms.
 
 **と思っている** — A belief or opinion that has been held over time.
 
-> 日本語の　べんきょうは　たいせつだと　思っています。
+> 日本語の　<ruby>勉強<rt>べんきょう</rt></ruby>は　<ruby>大切<rt>たいせつ</rt></ruby>だと　思っています。
 > "I believe (and have believed) that studying Japanese is important."
 
 > 来年　日本に　行きたいと　思っています。
@@ -241,7 +241,7 @@ These conjunctive expressions add information to what has already been said. The
 > あの　アパートは　駅から　近いです。それに、家賃も　安いです。
 > "That apartment is close to the station. Moreover, the rent is cheap too."
 
-> 日本語は　文法が　むずかしいです。それに、漢字も　たくさん　あります。
+> 日本語は　<ruby>文法<rt>ぶんぽう</rt></ruby>が　難しいです。それに、<ruby>漢字<rt>かんじ</rt></ruby>も　たくさん　あります。
 > "Japanese grammar is difficult. On top of that, there are lots of kanji too."
 
 > 今日は　仕事が　多かった。それに、会議も　三つ　あった。
@@ -319,10 +319,10 @@ Japanese has multiple words for "but," and the differences are primarily about r
 
 でも begins a new sentence and introduces a contrasting or unexpected point. It is the most common contrastive connector in casual conversation.
 
-> 日本語は　むずかしい。でも、おもしろい。
+> 日本語は　難しい。でも、<ruby>面白<rt>おもしろ</rt></ruby>い。
 > "Japanese is difficult. But it's interesting."
 
-> たくさん　勉強した。でも、テストは　だめだった。
+> たくさん　<ruby>勉強<rt>べんきょう</rt></ruby>した。でも、テストは　<ruby>駄目<rt>だめ</rt></ruby>だった。
 > "I studied a lot. But the test went badly."
 
 > 雨が　降っている。でも、行きたい。
@@ -396,17 +396,17 @@ This trailing けど is one of the most important pragmatic tools in Japanese. I
 
 ## 24.7 Reading Passage
 
-日本語の　べんきょうに　ついて、わたしの　意見を　書きます。
+日本語の　<ruby>勉強<rt>べんきょう</rt></ruby>に　ついて、わたしの　<ruby>意見<rt>いけん</rt></ruby>を　<ruby>書<rt>か</rt></ruby>きます。
 
-わたしは　三年前に　日本語の　べんきょうを　はじめました。はじめた　きっかけは、日本の　アニメが　好きだったからです。字幕なしで　アニメが　見たいと　思って、べんきょうを　はじめることに　しました。
+わたしは　三年前に　日本語の　勉強を　<ruby>始<rt>はじ</rt></ruby>めました。始めた　きっかけは、日本の　アニメが　<ruby>好<rt>す</rt></ruby>きだったからです。<ruby>字幕<rt>じまく</rt></ruby>なしで　アニメが　<ruby>見<rt>み</rt></ruby>たいと　<ruby>思<rt>おも</rt></ruby>って、勉強を　始めることに　しました。
 
-日本語は　むずかしいと　言う　人が　多いです。たしかに、漢字は　たいへんだし、敬語も　ふくざつです。しかし、わたしは　日本語の　べんきょうは　楽しいと　思っています。むずかしいところも　ありますが、新しい　ことばを　おぼえたり、日本語で　文を　読めるように　なったりすると、とても　うれしいです。
+日本語は　<ruby>難<rt>むずか</rt></ruby>しいと　<ruby>言<rt>い</rt></ruby>う　<ruby>人<rt>ひと</rt></ruby>が　<ruby>多<rt>おお</rt></ruby>いです。<ruby>確<rt>たし</rt></ruby>かに、<ruby>漢字<rt>かんじ</rt></ruby>は　<ruby>大変<rt>たいへん</rt></ruby>だし、<ruby>敬語<rt>けいご</rt></ruby>も　<ruby>複雑<rt>ふくざつ</rt></ruby>です。しかし、わたしは　日本語の　勉強は　<ruby>楽<rt>たの</rt></ruby>しいと　思っています。難しいところも　ありますが、<ruby>新<rt>あたら</rt></ruby>しい　<ruby>言葉<rt>ことば</rt></ruby>を　<ruby>覚<rt>おぼ</rt></ruby>えたり、日本語で　<ruby>文<rt>ぶん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>めるように　なったりすると、とても　<ruby>嬉<rt>うれ</rt></ruby>しいです。
 
-日本語の　文法で　一番　むずかしいのは、敬語ではないかと　思います。だれに　どの　ことばを　使えば　いいのか、はじめは　ぜんぜん　わかりませんでした。でも、毎日　少しずつ　れんしゅうすれば、だんだん　わかるように　なります。
+日本語の　<ruby>文法<rt>ぶんぽう</rt></ruby>で　<ruby>一番<rt>いちばん</rt></ruby>　難しいのは、敬語ではないかと　思います。だれに　どの　言葉を　<ruby>使<rt>つか</rt></ruby>えば　いいのか、<ruby>初<rt>はじ</rt></ruby>めは　<ruby>全然<rt>ぜんぜん</rt></ruby>　<ruby>分<rt>わ</rt></ruby>かりませんでした。でも、<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>少<rt>すこ</rt></ruby>しずつ　<ruby>練習<rt>れんしゅう</rt></ruby>すれば、だんだん　分かるように　なります。
 
-それに、日本語が　わかると、いい　ことが　たくさん　あります。日本の　映画が　わかるし、日本人の　友だちと　話せるし、日本に　旅行した　ときも　便利です。ですから、むずかしくても、べんきょうを　続ける　かちが　あると　思います。
+それに、日本語が　分かると、いい　ことが　たくさん　あります。日本の　<ruby>映画<rt>えいが</rt></ruby>が　分かるし、日本人の　<ruby>友<rt>とも</rt></ruby>だちと　<ruby>話<rt>はな</rt></ruby>せるし、日本に　<ruby>旅行<rt>りょこう</rt></ruby>した　ときも　<ruby>便利<rt>べんり</rt></ruby>です。ですから、難しくても、勉強を　<ruby>続<rt>つづ</rt></ruby>ける　<ruby>価値<rt>かち</rt></ruby>が　あると　思います。
 
-日本語を　べんきょうしている　人に　伝えたいのは、あきらめないで　ほしいと　いうことです。時間は　かかりますが、かならず　上手に　なります。いっしょに　がんばりましょう。
+日本語を　勉強している　人に　<ruby>伝<rt>つた</rt></ruby>えたいのは、<ruby>諦<rt>あきら</rt></ruby>めないで　ほしいと　いうことです。<ruby>時間<rt>じかん</rt></ruby>は　かかりますが、<ruby>必<rt>かなら</rt></ruby>ず　<ruby>上手<rt>じょうず</rt></ruby>に　なります。<ruby>一緒<rt>いっしょ</rt></ruby>に　<ruby>頑張<rt>がんば</rt></ruby>りましょう。
 
 ---
 

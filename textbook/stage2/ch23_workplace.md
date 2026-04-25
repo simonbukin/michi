@@ -373,21 +373,21 @@ The general principle: when in doubt, err on the side of more polite. No one is 
 
 ### バイトの初日
 
-大学の近くのカフェでアルバイトを始めることになった。求人サイトで見つけて、電話で応募した。面接は店長と十五分ぐらい話しただけで、「来週から来られますか」と言われた。
+<ruby>大学<rt>だいがく</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くのカフェでアルバイトを<ruby>始<rt>はじ</rt></ruby>めることになった。<ruby>求人<rt>きゅうじん</rt></ruby>サイトで<ruby>見<rt>み</rt></ruby>つけて、<ruby>電話<rt>でんわ</rt></ruby>で<ruby>応募<rt>おうぼ</rt></ruby>した。<ruby>面接<rt>めんせつ</rt></ruby>は<ruby>店長<rt>てんちょう</rt></ruby>と<ruby>十五分<rt>じゅうごふん</rt></ruby>ぐらい<ruby>話<rt>はな</rt></ruby>しただけで、「<ruby>来週<rt>らいしゅう</rt></ruby>から<ruby>来<rt>こ</rt></ruby>られますか」と<ruby>言<rt>い</rt></ruby>われた。
 
-時給は千百五十円で、交通費も出る。シフトは週三日で、月曜と水曜と金曜の午後に入ることにした。
+<ruby>時給<rt>じきゅう</rt></ruby>は<ruby>千百五十円<rt>せんひゃくごじゅうえん</rt></ruby>で、<ruby>交通費<rt>こうつうひ</rt></ruby>も<ruby>出<rt>で</rt></ruby>る。シフトは<ruby>週三日<rt>しゅうみっか</rt></ruby>で、<ruby>月曜<rt>げつよう</rt></ruby>と<ruby>水曜<rt>すいよう</rt></ruby>と<ruby>金曜<rt>きんよう</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることにした。
 
-初日、少し早めに着いて、「おはようございます。今日からお世話になります、田中です」と挨拶した。店長が「ようこそ。じゃあ、まず店の中を案内するね」と言って、キッチン、ホール、レジ、倉庫を見せてくれた。
+<ruby>初日<rt>しょにち</rt></ruby>、<ruby>少<rt>すこ</rt></ruby>し<ruby>早<rt>はや</rt></ruby>めに<ruby>着<rt>つ</rt></ruby>いて、「おはようございます。<ruby>今日<rt>きょう</rt></ruby>からお<ruby>世話<rt>せわ</rt></ruby>になります、<ruby>田中<rt>たなか</rt></ruby>です」と<ruby>挨拶<rt>あいさつ</rt></ruby>した。店長が「ようこそ。じゃあ、まず<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>するね」と言って、キッチン、ホール、レジ、<ruby>倉庫<rt>そうこ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてくれた。
 
-最初にエプロンとネームプレートをもらった。それから、店長が仕事の流れを説明してくれた。
+<ruby>最初<rt>さいしょ</rt></ruby>にエプロンとネームプレートをもらった。それから、店長が<ruby>仕事<rt>しごと</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>説明<rt>せつめい</rt></ruby>してくれた。
 
-「まず、お客様が来たら、『いらっしゃいませ』と言ってね。注文を聞くときは『ご注文をお伺いします』。お水は先に出す。料理ができたら、テーブルに運ぶ。お会計のときは『ありがとうございました』。基本はこれだけ。分からないことがあったら、何でも聞いて。」
+「まず、お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>が<ruby>来<rt>き</rt></ruby>たら、『いらっしゃいませ』と<ruby>言<rt>い</rt></ruby>ってね。<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くときは『ご注文をお<ruby>伺<rt>うかが</rt></ruby>いします』。お<ruby>水<rt>みず</rt></ruby>は<ruby>先<rt>さき</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す。<ruby>料理<rt>りょうり</rt></ruby>ができたら、テーブルに<ruby>運<rt>はこ</rt></ruby>ぶ。お<ruby>会計<rt>かいけい</rt></ruby>のときは『ありがとうございました』。<ruby>基本<rt>きほん</rt></ruby>はこれだけ。<ruby>分<rt>わ</rt></ruby>からないことがあったら、<ruby>何<rt>なん</rt></ruby>でも聞いて。」
 
-先輩のスタッフが一人ついてくれて、最初の二時間はずっと横で見ていた。レジの使い方を教えてもらったり、注文の取り方を見せてもらったりした。
+<ruby>先輩<rt>せんぱい</rt></ruby>のスタッフが<ruby>一人<rt>ひとり</rt></ruby>ついてくれて、最初の<ruby>二時間<rt>にじかん</rt></ruby>はずっと<ruby>横<rt>よこ</rt></ruby>で見ていた。レジの使い方を教えてもらったり、注文の<ruby>取<rt>と</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を見せてもらったりした。
 
-三時間目から一人でホールに出た。最初はメニューの名前を間違えたり、注文を聞き返したりして、少し大変だった。でも、お客様はみんな優しくて、先輩も「最初はみんなそうだよ」と言ってくれた。
+<ruby>三時間目<rt>さんじかんめ</rt></ruby>から一人でホールに出た。最初はメニューの<ruby>名前<rt>なまえ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えたり、注文を<ruby>聞<rt>き</rt></ruby>き<ruby>返<rt>かえ</rt></ruby>したりして、少し<ruby>大変<rt>たいへん</rt></ruby>だった。でも、お客様はみんな<ruby>優<rt>やさ</rt></ruby>しくて、先輩も「最初はみんなそうだよ」と言ってくれた。
 
-帰るとき、「お先に失礼します」と言ったら、店長が「お疲れ様。また水曜日ね」と言った。疲れたけど、楽しかった。少しずつ慣れていけばいいと思った。
+<ruby>帰<rt>かえ</rt></ruby>るとき、「お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>します」と言ったら、店長が「お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>。また水曜日ね」と言った。<ruby>疲<rt>つか</rt></ruby>れたけど、<ruby>楽<rt>たの</rt></ruby>しかった。少しずつ<ruby>慣<rt>な</rt></ruby>れていけばいいと思った。
 
 ### Translation
 

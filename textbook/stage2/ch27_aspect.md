@@ -354,7 +354,7 @@ The five patterns in this chapter are not isolated grammar points. They form an 
 
 These patterns can work together in the same narrative. Consider a story about preparing for a party:
 
-> パーティーの　ために、ケーキを　作っておいた。飲み物は　もう　買ってある。部屋も　きれいに　掃除してある。でも、料理を　作りすぎてしまった。友達が　少しずつ　集まってきた。夜に　なっていくと、だんだん　にぎやかに　なってきた。
+> パーティーの　ために、ケーキを　<ruby>作<rt>つく</rt></ruby>っておいた。<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は　もう　<ruby>買<rt>か</rt></ruby>ってある。<ruby>部屋<rt>へや</rt></ruby>も　きれいに　<ruby>掃除<rt>そうじ</rt></ruby>してある。でも、<ruby>料理<rt>りょうり</rt></ruby>を　作りすぎてしまった。<ruby>友達<rt>ともだち</rt></ruby>が　<ruby>少<rt>すこ</rt></ruby>しずつ　<ruby>集<rt>あつ</rt></ruby>まってきた。夜に　なっていくと、だんだん　<ruby>賑<rt>にぎ</rt></ruby>やかに　なってきた。
 
 This short passage uses ておいた (prepared in advance), てある (resulting state of preparation), てしまった (overdid it — regret), and なってきた (change arriving at the present). Each aspect marker adds a specific shade of meaning that would be lost without it.
 
@@ -372,17 +372,17 @@ Some aspect markers appear together with other grammar patterns:
 
 ### パーティーの　準備
 
-来週の　土曜日に、友達の　誕生日パーティーを　することに　なった。場所は　私の　アパートだ。十人ぐらい　来る　はずだから、いろいろ　準備しておかなければ　ならない。
+<ruby>来週<rt>らいしゅう</rt></ruby>の　<ruby>土曜日<rt>どようび</rt></ruby>に、<ruby>友達<rt>ともだち</rt></ruby>の　<ruby>誕生日<rt>たんじょうび</rt></ruby>パーティーを　することに　なった。<ruby>場所<rt>ばしょ</rt></ruby>は　<ruby>私<rt>わたし</rt></ruby>の　アパートだ。<ruby>十人<rt>じゅうにん</rt></ruby>ぐらい　<ruby>来<rt>く</rt></ruby>る　はずだから、いろいろ　<ruby>準備<rt>じゅんび</rt></ruby>しておかなければ　ならない。
 
-まず、部屋を　きれいに　掃除した。テーブルの　上の　物を　全部　片付けてしまって、床も　掃除機を　かけておいた。壁に　きれいな　飾りを　貼っておいた。これで　部屋の　準備は　できた。
+まず、<ruby>部屋<rt>へや</rt></ruby>を　きれいに　<ruby>掃除<rt>そうじ</rt></ruby>した。テーブルの　<ruby>上<rt>うえ</rt></ruby>の　<ruby>物<rt>もの</rt></ruby>を　<ruby>全部<rt>ぜんぶ</rt></ruby>　<ruby>片付<rt>かたづ</rt></ruby>けてしまって、<ruby>床<rt>ゆか</rt></ruby>も　<ruby>掃除機<rt>そうじき</rt></ruby>を　かけておいた。<ruby>壁<rt>かべ</rt></ruby>に　きれいな　<ruby>飾<rt>かざ</rt></ruby>りを　<ruby>貼<rt>は</rt></ruby>っておいた。これで　部屋の　準備は　できた。
 
-次に、買い物だ。飲み物と　お菓子を　買いに　スーパーに　行ってきた。ビールと　ジュースを　たくさん　買ってきて、冷蔵庫に　入れておいた。お菓子は　テーブルの　上に　並べてある。
+<ruby>次<rt>つぎ</rt></ruby>に、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>だ。<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と　お<ruby>菓子<rt>かし</rt></ruby>を　買いに　スーパーに　<ruby>行<rt>い</rt></ruby>ってきた。ビールと　ジュースを　たくさん　買ってきて、<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に　<ruby>入<rt>い</rt></ruby>れておいた。お菓子は　テーブルの　上に　<ruby>並<rt>なら</rt></ruby>べてある。
 
-料理は　当日に　作る　つもりだったが、仕事が　忙しくなってきたので、前の　日に　作っておくことに　した。カレーなら　前の　日に　作っておいた　ほうが　おいしくなる。サラダの　野菜も　切っておいた。
+<ruby>料理<rt>りょうり</rt></ruby>は　<ruby>当日<rt>とうじつ</rt></ruby>に　<ruby>作<rt>つく</rt></ruby>る　つもりだったが、<ruby>仕事<rt>しごと</rt></ruby>が　<ruby>忙<rt>いそが</rt></ruby>しくなってきたので、<ruby>前<rt>まえ</rt></ruby>の　<ruby>日<rt>ひ</rt></ruby>に　作っておくことに　した。カレーなら　前の　日に　作っておいた　ほうが　おいしくなる。サラダの　<ruby>野菜<rt>やさい</rt></ruby>も　<ruby>切<rt>き</rt></ruby>っておいた。
 
-一つ　心配な　ことが　ある。先週、友達の　山田さんに　パーティーの　日を　間違えて　教えてしまった。土曜日なのに、金曜日だと　言ってしまったのだ。すぐ　メッセージを　送って　直しておいた。届いているだろうか。山田さんは　メッセージを　読んでくれただろうか。来なかったら　困る。
+<ruby>一<rt>ひと</rt></ruby>つ　<ruby>心配<rt>しんぱい</rt></ruby>な　ことが　ある。先週、友達の　<ruby>山田<rt>やまだ</rt></ruby>さんに　パーティーの　日を　<ruby>間違<rt>まちが</rt></ruby>えて　<ruby>教<rt>おし</rt></ruby>えてしまった。土曜日なのに、<ruby>金曜日<rt>きんようび</rt></ruby>だと　<ruby>言<rt>い</rt></ruby>ってしまったのだ。すぐ　メッセージを　<ruby>送<rt>おく</rt></ruby>って　<ruby>直<rt>なお</rt></ruby>しておいた。<ruby>届<rt>とど</rt></ruby>いているだろうか。山田さんは　メッセージを　<ruby>読<rt>よ</rt></ruby>んでくれただろうか。<ruby>来<rt>こ</rt></ruby>なかったら　<ruby>困<rt>こま</rt></ruby>る。
 
-だんだん　準備が　進んできた。あとは　当日を　待つだけだ。みんなが　楽しんでくれると　いいな。パーティーが　終わった　後は、片付けが　大変に　なっていくだろうけど、それは　その　時に　考えよう。
+だんだん　準備が　<ruby>進<rt>すす</rt></ruby>んできた。あとは　当日を　<ruby>待<rt>ま</rt></ruby>つだけだ。みんなが　<ruby>楽<rt>たの</rt></ruby>しんでくれると　いいな。パーティーが　<ruby>終<rt>お</rt></ruby>わった　<ruby>後<rt>あと</rt></ruby>は、<ruby>片付<rt>かたづ</rt></ruby>けが　大変に　なっていくだろうけど、それは　その　<ruby>時<rt>とき</rt></ruby>に　<ruby>考<rt>かんが</rt></ruby>えよう。
 
 ---
 
@@ -408,17 +408,17 @@ Read the following passage about preparing for a typhoon. Notice how the aspect 
 
 ---
 
-天気予報に　よると、明日の　夜、大きな　台風が　来るそうだ。わたしは　いろいろ　準備しておかなければ　ならない。
+<ruby>天気予報<rt>てんきよほう</rt></ruby>に　よると、<ruby>明日<rt>あした</rt></ruby>の　<ruby>夜<rt>よる</rt></ruby>、<ruby>大<rt>おお</rt></ruby>きな　<ruby>台風<rt>たいふう</rt></ruby>が　<ruby>来<rt>く</rt></ruby>るそうだ。わたしは　いろいろ　<ruby>準備<rt>じゅんび</rt></ruby>しておかなければ　ならない。
 
-まず、外に　出ている　ものを　ぜんぶ　家の　中に　入れておいた。ベランダの　植木鉢は　もう　中に　入れてある。自転車も　たおれないように　かべに　つないでおいた。
+まず、<ruby>外<rt>そと</rt></ruby>に　<ruby>出<rt>で</rt></ruby>ている　ものを　<ruby>全部<rt>ぜんぶ</rt></ruby>　<ruby>家<rt>いえ</rt></ruby>の　<ruby>中<rt>なか</rt></ruby>に　<ruby>入<rt>い</rt></ruby>れておいた。ベランダの　<ruby>植木鉢<rt>うえきばち</rt></ruby>は　もう　中に　入れてある。<ruby>自転車<rt>じてんしゃ</rt></ruby>も　<ruby>倒<rt>たお</rt></ruby>れないように　<ruby>壁<rt>かべ</rt></ruby>に　<ruby>繋<rt>つな</rt></ruby>いでおいた。
 
-食べ物と　水は　おととい　買っておいた。パンと　カップめんが　たなの　上に　並べてある。水は　六本　買ってきて、台所に　置いてある。懐中電灯と　電池も　だいぶ前に　準備してあるから、だいじょうぶだ。
+<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>と　<ruby>水<rt>みず</rt></ruby>は　おととい　<ruby>買<rt>か</rt></ruby>っておいた。パンと　カップ<ruby>麺<rt>めん</rt></ruby>が　<ruby>棚<rt>たな</rt></ruby>の　<ruby>上<rt>うえ</rt></ruby>に　<ruby>並<rt>なら</rt></ruby>べてある。水は　<ruby>六本<rt>ろっぽん</rt></ruby>　買ってきて、<ruby>台所<rt>だいどころ</rt></ruby>に　<ruby>置<rt>お</rt></ruby>いてある。<ruby>懐中電灯<rt>かいちゅうでんとう</rt></ruby>と　<ruby>電池<rt>でんち</rt></ruby>も　だいぶ<ruby>前<rt>まえ</rt></ruby>に　準備してあるから、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だ。
 
-ひとつ　しまったと　思った　ことが　ある。ラジオの　電池が　なくなっていることに　気が　ついた。新しい　電池を　買いに　行こうと　思ったが、もう　みせが　閉まってしまっていた。となりの　山田さんに　聞いてみたら、電池を　分けてくれた。たすかった。
+ひとつ　しまったと　<ruby>思<rt>おも</rt></ruby>った　ことが　ある。ラジオの　電池が　なくなっていることに　<ruby>気<rt>き</rt></ruby>が　ついた。<ruby>新<rt>あたら</rt></ruby>しい　電池を　買いに　<ruby>行<rt>い</rt></ruby>こうと　思ったが、もう　<ruby>店<rt>みせ</rt></ruby>が　<ruby>閉<rt>し</rt></ruby>まってしまっていた。<ruby>隣<rt>となり</rt></ruby>の　<ruby>山田<rt>やまだ</rt></ruby>さんに　<ruby>聞<rt>き</rt></ruby>いてみたら、電池を　<ruby>分<rt>わ</rt></ruby>けてくれた。<ruby>助<rt>たす</rt></ruby>かった。
 
-窓には　テープを　貼っておいた。お風呂にも　水を　ためておいた。これで　準備は　全部　終わった。
+<ruby>窓<rt>まど</rt></ruby>には　テープを　<ruby>貼<rt>は</rt></ruby>っておいた。お<ruby>風呂<rt>ふろ</rt></ruby>にも　水を　ためておいた。これで　準備は　<ruby>全部<rt>ぜんぶ</rt></ruby>　<ruby>終<rt>お</rt></ruby>わった。
 
-外では　もう　風が　強くなってきている。空も　だんだん　暗くなっていく。今夜は　たいへんな　夜に　なりそうだ。安全に　すごせるように、早めに　家に　入っておこう。
+外では　もう　<ruby>風<rt>かぜ</rt></ruby>が　<ruby>強<rt>つよ</rt></ruby>くなってきている。<ruby>空<rt>そら</rt></ruby>も　だんだん　<ruby>暗<rt>くら</rt></ruby>くなっていく。<ruby>今夜<rt>こんや</rt></ruby>は　<ruby>大変<rt>たいへん</rt></ruby>な　夜に　なりそうだ。<ruby>安全<rt>あんぜん</rt></ruby>に　<ruby>過<rt>す</rt></ruby>ごせるように、<ruby>早<rt>はや</rt></ruby>めに　家に　入っておこう。
 
 ---
 

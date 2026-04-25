@@ -14,9 +14,9 @@ Because ます-forms can only appear in one place: at the end of a sentence dire
 
 Here is a concrete preview. To say "I think it will rain," you need to embed the verb "rain" inside the sentence as a clause before と思う. That embedded verb must be in its plain form:
 
-> あめが ふると 思います。
+> <ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>ふ</rt></ruby>ると <ruby>思<rt>おも</rt></ruby>います。
 
-You cannot say あめが ふりますと 思います. It is ungrammatical. The embedded clause requires a plain form. This pattern repeats across Japanese grammar: つもりだ (intention), ことができる (ability), まえに (before doing), あとで (after doing), と (conditional), から (because) — all of these require plain forms. Without them, you are locked out of intermediate Japanese entirely.
+You cannot say 雨が 降りますと 思います. It is ungrammatical. The embedded clause requires a plain form. This pattern repeats across Japanese grammar: つもりだ (intention), ことができる (ability), まえに (before doing), あとで (after doing), と (conditional), から (because) — all of these require plain forms. Without them, you are locked out of intermediate Japanese entirely.
 
 Plain forms are also the forms of casual speech. When Japanese speakers talk to close friends, family members, or people younger than them in informal situations, they use plain forms at the end of sentences. You will hear them constantly in any Japanese media — anime, dramas, films, songs, social media.
 
@@ -93,8 +93,8 @@ The verb ある ("to exist," inanimate) has a completely irregular negative: な
 
 This is a **suppletive** form, meaning the negative is a completely different word from the affirmative, the way English "go" becomes "went" rather than "goed." You already know this form from い-adjective negation and from じゃない. The word ない is deeply embedded in the Japanese negative system. The verb ある simply uses it directly as its own negative.
 
-> へやに ねこが いない。 (いる → いない — regular)
-> つくえの うえに ほんが ない。 (ある → ない — suppletive)
+> <ruby>部屋<rt>へや</rt></ruby>に <ruby>猫<rt>ねこ</rt></ruby>が いない。 (いる → いない — regular)
+> <ruby>机<rt>つくえ</rt></ruby>の <ruby>上<rt>うえ</rt></ruby>に <ruby>本<rt>ほん</rt></ruby>が ない。 (ある → ない — suppletive)
 
 ### Practice: identify the ない-form
 
@@ -250,10 +250,10 @@ Verbs are not the only words with plain and polite forms. Adjectives and noun-co
 
 The plain forms are the ones on the left. They are the forms that appear before grammar patterns like と思う:
 
-> このほんは たかいと 思います。
+> この<ruby>本<rt>ほん</rt></ruby>は <ruby>高<rt>たか</rt></ruby>いと <ruby>思<rt>おも</rt></ruby>います。
 > "I think this book is expensive."
 
-> きのうは さむかったと 思います。
+> きのうは <ruby>寒<rt>さむ</rt></ruby>かったと 思います。
 > "I think yesterday was cold."
 
 Full paradigm for いい (good) — recall that いい is irregular:
@@ -317,36 +317,36 @@ Now that you know plain forms, you can begin to understand casual Japanese. In i
 
 Polite:
 
-> あした、えいがを みますか。
+> あした、<ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ますか。
 > "Will you watch a movie tomorrow?"
 
 Casual:
 
-> あした、えいがを みる？
+> あした、映画を 見る？
 > "Watching a movie tomorrow?"
 
 Polite:
 
-> きのう、なにを たべましたか。
+> きのう、なにを <ruby>食<rt>た</rt></ruby>べましたか。
 > "What did you eat yesterday?"
 
 Casual:
 
-> きのう、なにを たべた？
+> きのう、なにを 食べた？
 > "What'd you eat yesterday?"
 
 ### Features of casual speech
 
 **Questions drop か.** In casual speech, questions are marked by rising intonation alone. In writing, a question mark is often used instead of か:
 
-> これ、たべる？ (Do you eat this?)
-> もう、でた？ (Did you already leave?)
+> これ、<ruby>食<rt>た</rt></ruby>べる？ (Do you eat this?)
+> もう、<ruby>出<rt>で</rt></ruby>た？ (Did you already leave?)
 
 Adding か to a plain-form sentence can sound blunt or even aggressive in some contexts, particularly with male speakers. At this stage, simply be aware that casual questions usually lack か.
 
 **Particles are often dropped.** In casual speech, は, を, and sometimes other particles are frequently omitted when the meaning is clear from context:
 
-> ごはん たべた？ (を dropped — "Did you eat?")
+> ごはん 食べた？ (を dropped — "Did you eat?")
 > これ いい？ (は dropped — "Is this okay?")
 
 This does not mean particles are optional in Japanese. They are grammatically required. But in fast casual speech, speakers rely on context and shared knowledge to fill in the gaps. You should not drop particles in your own speech at this stage. You should recognize that missing particles are normal in casual Japanese, not errors.
@@ -376,9 +376,9 @@ Japanese casual speech compresses certain て-form constructions into shorter fo
 Examples:
 
 > なにを してる？ (= している — "What are you doing?")
-> もう たべちゃった。 (= たべてしまった — "I already ate it all.")
-> べんきょう しとく。 (= しておく — "I'll study in advance.")
-> みてない。 (= みていない — "I haven't seen it.")
+> もう <ruby>食<rt>た</rt></ruby>べちゃった。 (= 食べてしまった — "I already ate it all.")
+> <ruby>勉強<rt>べんきょう</rt></ruby> しとく。 (= しておく — "I'll study in advance.")
+> <ruby>見<rt>み</rt></ruby>てない。 (= 見ていない — "I haven't seen it.")
 
 These contractions are pervasive. The ている → てる contraction in particular is so common that many speakers use it even in semi-polite speech. You will learn to produce these naturally over time. For now, when you hear てる, know that it is ている. When you hear ちゃった, know that it is てしまった.
 
@@ -398,27 +398,27 @@ You now have every tool needed to form and recognize the four basic conjugations
 
 ---
 
-## 12.8 Reading Passage — しゅうまつの けいかく
+## 12.8 Reading Passage — <ruby>週末<rt>しゅうまつ</rt></ruby>の <ruby>計画<rt>けいかく</rt></ruby>
 
-ゆうこさんと けんさんが はなしています。
+ゆうこさんと けんさんが <ruby>話<rt>はな</rt></ruby>しています。
 
-ゆうこ：けんくん、しゅうまつ なにする？
+ゆうこ：けんくん、週末 なにする？
 
-けん：うーん、どようびは ともだちと えいがを みると おもう。あたらしい にほんの えいがが ある んだ。
+けん：うーん、<ruby>土曜日<rt>どようび</rt></ruby>は <ruby>友<rt>とも</rt></ruby>だちと <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ると <ruby>思<rt>おも</rt></ruby>う。<ruby>新<rt>あたら</rt></ruby>しい <ruby>日本<rt>にほん</rt></ruby>の 映画が ある んだ。
 
-ゆうこ：へえ、いいね。どんな えいが？
+ゆうこ：へえ、いいね。どんな 映画？
 
-けん：よく しらない。でも、ともだちが おもしろいと おもうって いってた。ゆうこは？
+けん：よく <ruby>知<rt>し</rt></ruby>らない。でも、友だちが <ruby>面白<rt>おもしろ</rt></ruby>いと 思うって <ruby>言<rt>い</rt></ruby>ってた。ゆうこは？
 
-ゆうこ：わたしは どようびに かいものに いく。あたらしい ふくが ほしい んだ。にちようびは なにも しない。うちで ゆっくりする。
+ゆうこ：わたしは 土曜日に <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に <ruby>行<rt>い</rt></ruby>く。新しい <ruby>服<rt>ふく</rt></ruby>が <ruby>欲<rt>ほ</rt></ruby>しい んだ。<ruby>日曜日<rt>にちようび</rt></ruby>は なにも しない。うちで ゆっくりする。
 
-けん：にちようびに いっしょに ごはんを たべない？えきの ちかくに あたらしい みせが できた。
+けん：日曜日に <ruby>一緒<rt>いっしょ</rt></ruby>に ごはんを <ruby>食<rt>た</rt></ruby>べない？<ruby>駅<rt>えき</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くに 新しい <ruby>店<rt>みせ</rt></ruby>が できた。
 
-ゆうこ：いいね！いく いく！なんじ？
+ゆうこ：いいね！行く 行く！<ruby>何時<rt>なんじ</rt></ruby>？
 
-けん：じゅうにじごろは どう？
+けん：<ruby>十二時<rt>じゅうにじ</rt></ruby>ごろは どう？
 
-ゆうこ：うん、だいじょうぶ。たのしみ！
+ゆうこ：うん、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。<ruby>楽<rt>たの</rt></ruby>しみ！
 
 ---
 
@@ -450,15 +450,15 @@ Yuko: Yeah, that works. I'm looking forward to it!
 
 **なにする？** — "What are you doing?" Casual form of なにを しますか. The を particle is often dropped in casual speech.
 
-**みると おもう** — "I think I'll watch." と おもう with a plain form verb expresses what the speaker thinks.
+**<ruby>見<rt>み</rt></ruby>ると <ruby>思<rt>おも</rt></ruby>う** — "I think I'll watch." と 思う with a plain form verb expresses what the speaker thinks.
 
 **ある んだ** — "there is (you see)." んだ (casual form of んです) adds explanation or emphasis.
 
-**おもしろいと おもうって いってた** — "said he thinks it's interesting." って is a casual quotation marker. いってた is a casual contraction of いっていた (was saying).
+**<ruby>面白<rt>おもしろ</rt></ruby>いと 思うって <ruby>言<rt>い</rt></ruby>ってた** — "said he thinks it's interesting." って is a casual quotation marker. 言ってた is a casual contraction of 言っていた (was saying).
 
 **なにも しない** — "not doing anything." なにも with a negative verb means "nothing."
 
-**たべない？** — "Won't you eat?" / "Want to eat?" A negative plain form used as a casual invitation.
+**<ruby>食<rt>た</rt></ruby>べない？** — "Won't you eat?" / "Want to eat?" A negative plain form used as a casual invitation.
 
 **できた** — "opened" / "was made." The た-form of できる (to be completed / to come into existence).
 

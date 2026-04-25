@@ -521,7 +521,7 @@ When ても is combined with an interrogative word (何, だれ, どこ, いつ,
 > だれが 来ても、大丈夫です。 — "No matter who comes, it's fine."
 > どこに 行っても、日本語を 使います。 — "No matter where I go, I use Japanese."
 > いつ 来ても、いいですよ。 — "No matter when you come, it's fine."
-> どんなに 勉強しても、漢字を おぼえられません。 — "No matter how much I study, I can't memorize the kanji."
+> どんなに 勉強しても、漢字を <ruby>覚<rt>おぼ</rt></ruby>えられません。 — "No matter how much I study, I can't memorize the kanji."
 
 This pattern is extremely common and useful.
 
@@ -539,7 +539,7 @@ This pattern is extremely common and useful.
 
 もし 日本の 会社で 働くなら、日本語だけではなく、日本の ビジネスの やり方も 勉強する ことを おすすめします。日本の 会社に 入ると、敬語を たくさん 使います。敬語が わからなかったら、仕事が 大変に なるかもしれません。
 
-それから、最近は 外国人を 採用する 会社が 増えているそうです。あきらめなければ、きっと いい 仕事が 見つかるはずです。がんばってください。
+それから、最近は 外国人を 採用する 会社が 増えているそうです。あきらめなければ、きっと いい 仕事が 見つかるはずです。<ruby>頑張<rt>がんば</rt></ruby>ってください。
 
 ---
 

@@ -131,7 +131,7 @@ Plain form (non-past) + ことにしている
 > 毎朝　六時に　起きる　ことに　しています。
 > "I make it a practice to wake up at six every morning."
 
-> 寝る　前に　かならず　歯を　磨く　ことに　している。
+> <ruby>寝<rt>ね</rt></ruby>る　<ruby>前<rt>まえ</rt></ruby>に　<ruby>必<rt>かなら</rt></ruby>ず　<ruby>歯<rt>は</rt></ruby>を　<ruby>磨<rt>みが</rt></ruby>く　ことに　している。
 > "I always make sure to brush my teeth before bed."
 
 > 甘い　ものを　食べない　ことに　している。
@@ -196,7 +196,7 @@ Formation: ない-form, replace final い with で.
 > 何も　言わないで　帰った。
 > "He left without saying anything."
 
-> 傘を　持たないで　出かけたら、雨に　降られた。
+> <ruby>傘<rt>かさ</rt></ruby>を　<ruby>持<rt>も</rt></ruby>たないで　<ruby>出<rt>で</rt></ruby>かけたら、<ruby>雨<rt>あめ</rt></ruby>に　<ruby>降<rt>ふ</rt></ruby>られた。
 > "I went out without an umbrella and got rained on."
 
 > 電気を　消さないで　寝て　しまった。
@@ -220,7 +220,7 @@ Formation: ない-form, replace final い with くて. (This is the same て-for
 > 日本語が　わからなくて、困った。
 > "I didn't understand Japanese, so I was in trouble." (Reason)
 
-> 友だちが　来なくて、さびしかった。
+> <ruby>友<rt>とも</rt></ruby>だちが　<ruby>来<rt>こ</rt></ruby>なくて、<ruby>寂<rt>さび</rt></ruby>しかった。
 > "My friend didn't come, so I was lonely." (Reason)
 
 > 薬を　飲まなくて、熱が　下がらなかった。
@@ -315,21 +315,21 @@ Both express prohibition, but the tone is different.
 
 ## 26.6 Reading Passage
 
-次の　文は、インターネットの　そうだんサイトに　書かれた　しつもんと　回答です。
+<ruby>次<rt>つぎ</rt></ruby>の　<ruby>文<rt>ぶん</rt></ruby>は、インターネットの　<ruby>相談<rt>そうだん</rt></ruby>サイトに　<ruby>書<rt>か</rt></ruby>かれた　<ruby>質問<rt>しつもん</rt></ruby>と　<ruby>回答<rt>かいとう</rt></ruby>です。
 
 ---
 
-**しつもん：**
+**質問：**
 
-大学生です。最近、夜　なかなか　眠れなくて、朝も　起きられなくて　困っています。授業に　遅刻する　ことが　多くなりました。友だちに　そうだんしたら、「早く　寝れば　いいじゃない」と　言われましたが、早く　ベッドに　入っても、ぜんぜん　眠れないんです。どう　したら　いいでしょうか。
+<ruby>大学生<rt>だいがくせい</rt></ruby>です。<ruby>最近<rt>さいきん</rt></ruby>、<ruby>夜<rt>よる</rt></ruby>　なかなか　<ruby>眠<rt>ねむ</rt></ruby>れなくて、<ruby>朝<rt>あさ</rt></ruby>も　<ruby>起<rt>お</rt></ruby>きられなくて　<ruby>困<rt>こま</rt></ruby>っています。<ruby>授業<rt>じゅぎょう</rt></ruby>に　<ruby>遅刻<rt>ちこく</rt></ruby>する　ことが　多くなりました。<ruby>友<rt>とも</rt></ruby>だちに　相談したら、「<ruby>早<rt>はや</rt></ruby>く　<ruby>寝<rt>ね</rt></ruby>れば　いいじゃない」と　<ruby>言<rt>い</rt></ruby>われましたが、早く　ベッドに　<ruby>入<rt>はい</rt></ruby>っても、<ruby>全然<rt>ぜんぜん</rt></ruby>　眠れないんです。どう　したら　いいでしょうか。
 
 **回答１：**
 
-わたしも　前に　同じ　けいけんが　ありました。寝る　前に　スマホを　見ないで　ください。画面の　光が　よくないそうです。わたしは　寝る　一時間　前に　スマホを　見ない　ことに　しています。それに、毎日　同じ　時間に　起きる　ことに　しています。休みの　日も　同じ　時間に　起きれば、体の　リズムが　よくなりますよ。
+わたしも　<ruby>前<rt>まえ</rt></ruby>に　<ruby>同<rt>おな</rt></ruby>じ　<ruby>経験<rt>けいけん</rt></ruby>が　ありました。寝る　前に　スマホを　<ruby>見<rt>み</rt></ruby>ないで　ください。<ruby>画面<rt>がめん</rt></ruby>の　<ruby>光<rt>ひかり</rt></ruby>が　よくないそうです。わたしは　寝る　<ruby>一時間<rt>いちじかん</rt></ruby>　前に　スマホを　見ない　ことに　しています。それに、<ruby>毎日<rt>まいにち</rt></ruby>　同じ　<ruby>時間<rt>じかん</rt></ruby>に　起きる　ことに　しています。<ruby>休<rt>やす</rt></ruby>みの　<ruby>日<rt>ひ</rt></ruby>も　同じ　時間に　起きれば、<ruby>体<rt>からだ</rt></ruby>の　リズムが　よくなりますよ。
 
 **回答２：**
 
-一度、病院に　行って　みたら　どうですか。なかなか　眠れないのは、ストレスが　原因かもしれません。わたしの　友だちも　同じ　問題が　あって、医者に　そうだんしたら、いい　アドバイスを　もらえたと　言っていました。あまり　一人で　なやまないで、だれかに　そうだんした　ほうが　いいと　思います。コーヒーや　お茶を　飲みすぎていませんか。午後は　カフェインを　とらない　ことに　したら　いいかもしれません。
+<ruby>一度<rt>いちど</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>に　<ruby>行<rt>い</rt></ruby>って　みたら　どうですか。なかなか　眠れないのは、ストレスが　<ruby>原因<rt>げんいん</rt></ruby>かもしれません。わたしの　友だちも　同じ　<ruby>問題<rt>もんだい</rt></ruby>が　あって、<ruby>医者<rt>いしゃ</rt></ruby>に　相談したら、いい　アドバイスを　もらえたと　言っていました。あまり　<ruby>一人<rt>ひとり</rt></ruby>で　<ruby>悩<rt>なや</rt></ruby>まないで、だれかに　相談した　ほうが　いいと　<ruby>思<rt>おも</rt></ruby>います。コーヒーや　お<ruby>茶<rt>ちゃ</rt></ruby>を　<ruby>飲<rt>の</rt></ruby>みすぎていませんか。<ruby>午後<rt>ごご</rt></ruby>は　カフェインを　<ruby>摂<rt>と</rt></ruby>らない　ことに　したら　いいかもしれません。
 
 ---
 

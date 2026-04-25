@@ -128,7 +128,7 @@ Coaches, teammates, and spectators use the imperative freely during sports.
 > 投げろ！（なげろ）
 > "Throw it!"
 
-> がんばれ！
+> <ruby>頑張<rt>がんば</rt></ruby>れ！
 > "Do your best! / Hang in there!"
 
 > 打て！（うて）
@@ -204,7 +204,7 @@ In emergencies, the imperative is used because there is no time for politeness.
 > やさいも　食べなさい。
 > "Eat your vegetables too."
 
-> しゅくだいを　しなさい。
+> <ruby>宿題<rt>しゅくだい</rt></ruby>を　しなさい。
 > "Do your homework."
 
 > もう　ねなさい。おそいよ。
@@ -215,10 +215,10 @@ In emergencies, the imperative is used because there is no time for politeness.
 
 なさい also appears on exams and in written instructions:
 
-> つぎの　ぶんを　読んで、しつもんに　こたえなさい。
+> <ruby>次<rt>つぎ</rt></ruby>の　<ruby>文<rt>ぶん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>んで、<ruby>質問<rt>しつもん</rt></ruby>に　<ruby>答<rt>こた</rt></ruby>えなさい。
 > "Read the following sentences and answer the questions."
 
-> 正しい　ものを　えらびなさい。（ただしい）
+> <ruby>正<rt>ただ</rt></ruby>しい　ものを　<ruby>選<rt>えら</rt></ruby>びなさい。
 > "Choose the correct one."
 
 In casual speech, なさい is sometimes shortened to な or なよ:

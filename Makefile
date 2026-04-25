@@ -63,6 +63,7 @@ MONO_FONT := DejaVu Sans Mono
 endif
 
 PDF_PANDOC_FLAGS := --pdf-engine=$(PDF_ENGINE) \
+	--lua-filter=$(ASSETS)/ruby-filter.lua \
 	-V mainfont="$(CJK_MAIN)" \
 	-V sansfont="$(CJK_SANS)" \
 	-V monofont="$(MONO_FONT)" \
@@ -77,10 +78,10 @@ STAGES := stage1 stage2 stage3 stage4 stage5 stage6
 
 .PHONY: all clean book serve $(STAGES) \
         $(foreach s,$(STAGES),$(s)-md $(s)-html $(s)-epub $(s)-pdf) \
-        immersion-book immersion-serve \
+        immersion-book immersion-serve immersion-epub \
         colloquial-book colloquial-serve colloquial-epub colloquial-pdf \
-        companions-book companions-serve \
-        all-books
+        companions-book companions-serve companions-epub \
+        all-books all-epub
 
 all: stage1 stage2 stage3 stage4 stage5 stage6
 
@@ -342,6 +343,20 @@ immersion-serve: immersion/src/SUMMARY.md
 immersion/src/SUMMARY.md: immersion/gen_summary.py $(wildcard immersion/stage*/ch*.md) $(wildcard immersion/stage*/stage_intro.md)
 	cd immersion && python3 gen_summary.py
 
+IMMERSION_SOURCES := immersion/front_matter.md immersion/front_matter_stack.md \
+	$(foreach s,stage1 stage2 stage3 stage4 stage5 stage6, \
+		$(wildcard immersion/$(s)/stage_intro.md) $(sort $(wildcard immersion/$(s)/ch*.md)))
+
+immersion-epub: $(BUILDDIR)
+	pandoc $(PANDOC_FLAGS) \
+		--css=$(ASSETS)/water.css \
+		--metadata title="道 — Immersion Guide" \
+		--metadata author="道 Project" \
+		--metadata lang=ja \
+		-o $(BUILDDIR)/immersion-guide.epub \
+		$(IMMERSION_SOURCES)
+	@echo "Built $(BUILDDIR)/immersion-guide.epub"
+
 # --- Colloquial Patterns Guide ---
 
 COLLOQUIAL_SOURCES := colloquial/front-matter.md \
@@ -392,7 +407,24 @@ companions-serve: companions/src/SUMMARY.md
 companions/src/SUMMARY.md: companions/gen_summary.py $(wildcard companions/onepiece/v*/ch*.md) $(wildcard companions/onepiece/v*/appendix_*.md)
 	cd companions && python3 gen_summary.py
 
+COMPANIONS_V01_SOURCES := companions/intro.md \
+	$(sort $(wildcard companions/onepiece/v01/ch*.md)) \
+	$(sort $(wildcard companions/onepiece/v01/appendix_*.md))
+
+companions-epub: $(BUILDDIR)
+	pandoc $(PANDOC_FLAGS) \
+		--css=$(ASSETS)/water.css \
+		--metadata title="道 — One Piece Vol. 1 Reading Companion" \
+		--metadata author="道 Project" \
+		--metadata lang=ja \
+		-o $(BUILDDIR)/companions-onepiece-v01.epub \
+		$(COMPANIONS_V01_SOURCES)
+	@echo "Built $(BUILDDIR)/companions-onepiece-v01.epub"
+
 all-books: book immersion-book colloquial-book companions-book
+
+all-epub: $(BUILDDIR) stage1-epub stage2-epub stage3-epub stage4-epub stage5-epub stage6-epub immersion-epub colloquial-epub companions-epub
+	@echo "All ePubs built in $(BUILDDIR)/"
 
 clean:
 	rm -rf $(BUILDDIR)

@@ -28,7 +28,7 @@ In English, "I" is required. In Japanese, it is not only unnecessary but would s
 Objects are dropped when the referent is obvious.
 
 > A：この本、読んだ？
-> B：うん、もう読んだ。おもしろかったよ。
+> B：うん、もう読んだ。<ruby>面白<rt>おもしろ</rt></ruby>かったよ。
 > A: "Did you read this book?"
 > B: "Yeah, (I) already read (it). (It) was interesting."
 

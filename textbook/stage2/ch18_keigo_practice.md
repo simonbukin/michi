@@ -348,27 +348,27 @@ The following is a short business email exchange. Read through it, identify the 
 
 ---
 
-**件名：打ち合わせ日程のご確認**
+**<ruby>件名<rt>けんめい</rt></ruby>：<ruby>打<rt>う</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせ<ruby>日程<rt>にってい</rt></ruby>のご<ruby>確認<rt>かくにん</rt></ruby>**
 
-株式会社山田商事
-営業部　佐藤様
+<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby><ruby>山田商事<rt>やまだしょうじ</rt></ruby>
+<ruby>営業部<rt>えいぎょうぶ</rt></ruby>　<ruby>佐藤<rt>さとう</rt></ruby><ruby>様<rt>さま</rt></ruby>
 
-いつもお世話になっております。
-東京電子の田中でございます。
+いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。
+<ruby>東京電子<rt>とうきょうでんし</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>でございます。
 
-先日はお忙しい中、お時間をいただきありがとうございました。
-お話しいただいた新しいプロジェクトについて、社内で検討いたしました。
-ぜひ参加させていただきたいと考えております。
+<ruby>先日<rt>せんじつ</rt></ruby>はお<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>なか</rt></ruby>、お<ruby>時間<rt>じかん</rt></ruby>をいただきありがとうございました。
+お<ruby>話<rt>はな</rt></ruby>しいただいた<ruby>新<rt>あたら</rt></ruby>しいプロジェクトについて、<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検討<rt>けんとう</rt></ruby>いたしました。
+ぜひ<ruby>参加<rt>さんか</rt></ruby>させていただきたいと<ruby>考<rt>かんが</rt></ruby>えております。
 
-つきましては、詳細を打ち合わせるお時間をいただけないでしょうか。
-来週でしたら、火曜日か木曜日の午後が都合がよいのですが、
+つきましては、<ruby>詳細<rt>しょうさい</rt></ruby>を打ち合わせるお時間をいただけないでしょうか。
+<ruby>来週<rt>らいしゅう</rt></ruby>でしたら、<ruby>火曜日<rt>かようび</rt></ruby>か<ruby>木曜日<rt>もくようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>が<ruby>都合<rt>つごう</rt></ruby>がよいのですが、
 佐藤様のご都合はいかがでしょうか。
 
-お忙しいところ恐れ入りますが、
-ご検討のほどよろしくお願い申し上げます。
+お忙しいところ<ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>りますが、
+ご検討のほどよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます。
 
 東京電子株式会社
-企画部　田中一郎
+<ruby>企画部<rt>きかくぶ</rt></ruby>　<ruby>田中一郎<rt>たなかいちろう</rt></ruby>
 
 ---
 
@@ -381,19 +381,19 @@ The following is a short business email exchange. Read through it, identify the 
 山田商事の佐藤でございます。
 
 ご連絡ありがとうございます。
-プロジェクトへのご参加、大変うれしく存じます。
+プロジェクトへのご参加、<ruby>大変<rt>たいへん</rt></ruby><ruby>嬉<rt>うれ</rt></ruby>しく<ruby>存<rt>ぞん</rt></ruby>じます。
 
-来週の木曜日、午後二時はいかがでしょうか。
-弊社の会議室をご用意いたします。
+来週の木曜日、午後<ruby>二時<rt>にじ</rt></ruby>はいかがでしょうか。
+<ruby>弊社<rt>へいしゃ</rt></ruby>の<ruby>会議室<rt>かいぎしつ</rt></ruby>をご<ruby>用意<rt>ようい</rt></ruby>いたします。
 
-お越しの際は、一階の受付にお声がけくださいませ。
-担当の者がご案内いたします。
+お<ruby>越<rt>こ</rt></ruby>しの<ruby>際<rt>さい</rt></ruby>は、<ruby>一階<rt>いっかい</rt></ruby>の<ruby>受付<rt>うけつけ</rt></ruby>にお<ruby>声<rt>こえ</rt></ruby>がけくださいませ。
+<ruby>担当<rt>たんとう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>がご<ruby>案内<rt>あんない</rt></ruby>いたします。
 
-それでは、お会いできるのを楽しみにしております。
+それでは、お<ruby>会<rt>あ</rt></ruby>いできるのを<ruby>楽<rt>たの</rt></ruby>しみにしております。
 よろしくお願いいたします。
 
 山田商事株式会社
-営業部　佐藤花子
+営業部　<ruby>佐藤花子<rt>さとうはなこ</rt></ruby>
 
 ---
 
@@ -489,19 +489,19 @@ The following is a customer service interaction at a department store. Read thro
 
 店員：いらっしゃいませ。何かお探しでしょうか。
 
-客：すみません、このかばんの色違いはありますか。
+<ruby>客<rt>きゃく</rt></ruby>：すみません、このかばんの<ruby>色違<rt>いろちが</rt></ruby>いはありますか。
 
-店員：はい、少々お待ちくださいませ。ただいまお調べいたします。
+<ruby>店員<rt>てんいん</rt></ruby>：はい、<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちくださいませ。ただいまお<ruby>調<rt>しら</rt></ruby>べいたします。
 （しばらくして）
-お待たせいたしました。こちらに黒と茶色がございます。
+お待たせいたしました。こちらに<ruby>黒<rt>くろ</rt></ruby>と<ruby>茶色<rt>ちゃいろ</rt></ruby>がございます。
 
-客：茶色を見せてもらえますか。
+客：茶色を<ruby>見<rt>み</rt></ruby>せてもらえますか。
 
-店員：かしこまりました。どうぞ、お手に取ってご覧くださいませ。
+店員：かしこまりました。どうぞ、お<ruby>手<rt>て</rt></ruby>に<ruby>取<rt>と</rt></ruby>ってご<ruby>覧<rt>らん</rt></ruby>くださいませ。
 
 客：これはいくらですか。
 
-店員：こちらは一万二千円でございます。ただいまセール中で、二割引きになっております。
+店員：こちらは<ruby>一万二千円<rt>いちまんにせんえん</rt></ruby>でございます。ただいまセール<ruby>中<rt>ちゅう</rt></ruby>で、<ruby>二割引<rt>にわりび</rt></ruby>きになっております。
 
 客：じゃあ、これにします。
 
@@ -509,17 +509,17 @@ The following is a customer service interaction at a department store. Read thro
 
 客：はい、お願いします。
 
-店員：かしこまりました。お包みいたしますので、少々お待ちくださいませ。
+店員：かしこまりました。お<ruby>包<rt>つつ</rt></ruby>みいたしますので、少々お待ちくださいませ。
 （しばらくして）
-お待たせいたしました。こちらでございます。お会計は九千六百円でございます。
+お待たせいたしました。こちらでございます。お<ruby>会計<rt>かいけい</rt></ruby>は<ruby>九千六百円<rt>きゅうせんろっぴゃくえん</rt></ruby>でございます。
 
-客：カードで払えますか。
+客：カードで<ruby>払<rt>はら</rt></ruby>えますか。
 
-店員：はい、承っております。こちらにカードをお入れください。
+店員：はい、<ruby>承<rt>うけたまわ</rt></ruby>っております。こちらにカードをお<ruby>入<rt>い</rt></ruby>れください。
 
 客：ありがとうございます。
 
-店員：ありがとうございました。またのお越しをお待ちしております。
+店員：ありがとうございました。またのお<ruby>越<rt>こ</rt></ruby>しをお待ちしております。
 
 ---
 

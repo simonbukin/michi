@@ -204,7 +204,7 @@ For reference, the affirmative form means "as long as (the condition holds)":
 > 昼夜を　問わず、緊急時には　ご連絡ください。
 > "Please contact us in emergencies regardless of the time of day or night."
 
-> 国籍を　問わず、すべての　住民が　対象です。
+> 国籍を　問わず、<ruby>全<rt>すべ</rt></ruby>ての　住民が　対象です。
 > "All residents are eligible regardless of nationality."
 
 > 天候を　問わず、イベントは　予定通り　開催します。
@@ -290,13 +290,13 @@ However, にかかわらず is more flexible because it can follow か-questions
 
 佐藤：前の会社では、パスワードを付箋に書いて画面に貼っている人がいたんだけど、それを上司に見られたが最後、始末書を書かされていたよ。
 
-鈴木：ひどいな。でも、セキュリティ意識が低いままでは、どんなシステムを入れたところで意味がない。
+鈴木：<ruby>酷<rt>ひど</rt></ruby>いな。でも、セキュリティ意識が低いままでは、どんなシステムを入れたところで意味がない。
 
 佐藤：そうだね。正社員か契約社員かにかかわらず全員が対象だし、会社も本気だということだよ。
 
 鈴木：できるものなら研修をサボりたいけど、欠席したら最後、人事部に目をつけられるだろうな。
 
-佐藤：はは、そうだね。おとなしく出席しよう。
+佐藤：はは、そうだね。<ruby>大人<rt>おとな</rt></ruby>しく出席しよう。
 
 ---
 

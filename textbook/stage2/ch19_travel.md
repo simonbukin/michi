@@ -407,19 +407,19 @@ The construction ～には (purpose) combines the purpose particle に with は 
 
 ### 金沢への旅
 
-先月、友達と　二人で　金沢に　旅行した。朝の六時に　東京駅に　着いて、窓口で　北陸新幹線の　指定席を　二枚　買った。片道で　一枚　一万四千円ぐらいだった。
+<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と　<ruby>二人<rt>ふたり</rt></ruby>で　<ruby>金沢<rt>かなざわ</rt></ruby>に　<ruby>旅行<rt>りょこう</rt></ruby>した。<ruby>朝<rt>あさ</rt></ruby>の<ruby>六時<rt>ろくじ</rt></ruby>に　<ruby>東京駅<rt>とうきょうえき</rt></ruby>に　<ruby>着<rt>つ</rt></ruby>いて、<ruby>窓口<rt>まどぐち</rt></ruby>で　<ruby>北陸新幹線<rt>ほくりくしんかんせん</rt></ruby>の　<ruby>指定席<rt>していせき</rt></ruby>を　<ruby>二枚<rt>にまい</rt></ruby>　<ruby>買<rt>か</rt></ruby>った。<ruby>片道<rt>かたみち</rt></ruby>で　<ruby>一枚<rt>いちまい</rt></ruby>　<ruby>一万四千円<rt>いちまんよんせんえん</rt></ruby>ぐらいだった。
 
-新幹線は　七時二十分発で、金沢には　十時前に　着いた。二時間半で　着くなんて、本当に　速いと　思った。
+<ruby>新幹線<rt>しんかんせん</rt></ruby>は　<ruby>七時二十分発<rt>しちじにじゅっぷんはつ</rt></ruby>で、金沢には　<ruby>十時<rt>じゅうじ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に　着いた。<ruby>二時間半<rt>にじかんはん</rt></ruby>で　着くなんて、<ruby>本当<rt>ほんとう</rt></ruby>に　<ruby>速<rt>はや</rt></ruby>いと　<ruby>思<rt>おも</rt></ruby>った。
 
-駅を　出ると、まず　ホテルに　荷物を　預けに　行った。ホテルは　駅の　東口から　歩いて　十分ぐらいの　ところにあった。チェックインは　三時からだったので、荷物だけ　預けて、観光に　出かけた。
+<ruby>駅<rt>えき</rt></ruby>を　<ruby>出<rt>で</rt></ruby>ると、まず　ホテルに　<ruby>荷物<rt>にもつ</rt></ruby>を　<ruby>預<rt>あず</rt></ruby>けに　<ruby>行<rt>い</rt></ruby>った。ホテルは　駅の　<ruby>東口<rt>ひがしぐち</rt></ruby>から　<ruby>歩<rt>ある</rt></ruby>いて　<ruby>十分<rt>じゅっぷん</rt></ruby>ぐらいの　ところにあった。チェックインは　<ruby>三時<rt>さんじ</rt></ruby>からだったので、荷物だけ　預けて、<ruby>観光<rt>かんこう</rt></ruby>に　<ruby>出<rt>で</rt></ruby>かけた。
 
-最初に　兼六園に　行った。タクシーに　乗ろうと　思ったが、バスの　方が　安いと　聞いたので、バスで　行くことにした。バス停で　「兼六園行きは　何番ですか」と　聞いたら、近くにいた　おばあさんが　親切に　教えてくれた。
+<ruby>最初<rt>さいしょ</rt></ruby>に　<ruby>兼六園<rt>けんろくえん</rt></ruby>に　行った。タクシーに　<ruby>乗<rt>の</rt></ruby>ろうと　思ったが、バスの　<ruby>方<rt>ほう</rt></ruby>が　<ruby>安<rt>やす</rt></ruby>いと　<ruby>聞<rt>き</rt></ruby>いたので、バスで　行くことにした。バス<ruby>停<rt>てい</rt></ruby>で　「兼六園<ruby>行<rt>ゆ</rt></ruby>きは　<ruby>何番<rt>なんばん</rt></ruby>ですか」と　聞いたら、<ruby>近<rt>ちか</rt></ruby>くにいた　おばあさんが　<ruby>親切<rt>しんせつ</rt></ruby>に　<ruby>教<rt>おし</rt></ruby>えてくれた。
 
-兼六園は　本当に　きれいだった。秋だったので、紅葉が　すばらしかった。写真を　たくさん　撮った。
+<ruby>兼六園<rt>けんろくえん</rt></ruby>は　<ruby>本当<rt>ほんとう</rt></ruby>に　きれいだった。<ruby>秋<rt>あき</rt></ruby>だったので、<ruby>紅葉<rt>こうよう</rt></ruby>が　<ruby>素晴<rt>すば</rt></ruby>らしかった。<ruby>写真<rt>しゃしん</rt></ruby>を　たくさん　<ruby>撮<rt>と</rt></ruby>った。
 
-夜は　ホテルの　近くの　店で　お寿司を　食べた。金沢は　魚が　新鮮で　おいしいと　聞いていたが、本当に　そうだった。東京で　食べるより　ずっと　おいしかった。
+<ruby>夜<rt>よる</rt></ruby>は　ホテルの　<ruby>近<rt>ちか</rt></ruby>くの　<ruby>店<rt>みせ</rt></ruby>で　お<ruby>寿司<rt>すし</rt></ruby>を　<ruby>食<rt>た</rt></ruby>べた。金沢は　<ruby>魚<rt>さかな</rt></ruby>が　<ruby>新鮮<rt>しんせん</rt></ruby>で　おいしいと　聞いていたが、本当に　そうだった。<ruby>東京<rt>とうきょう</rt></ruby>で　食べるより　ずっと　おいしかった。
 
-次の日は　ひがし茶屋街を　歩いてから、近江町市場で　海鮮丼を　食べた。午後三時の　新幹線で　東京に　帰った。短い旅行だったが、とても　楽しかった。また　行きたいと　思っている。
+<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は　ひがし<ruby>茶屋街<rt>ちゃやがい</rt></ruby>を　<ruby>歩<rt>ある</rt></ruby>いてから、<ruby>近江町市場<rt>おうみちょういちば</rt></ruby>で　<ruby>海鮮丼<rt>かいせんどん</rt></ruby>を　食べた。<ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>の　新幹線で　東京に　<ruby>帰<rt>かえ</rt></ruby>った。<ruby>短<rt>みじか</rt></ruby>い旅行だったが、とても　<ruby>楽<rt>たの</rt></ruby>しかった。また　行きたいと　思っている。
 
 ### Translation
 

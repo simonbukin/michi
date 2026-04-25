@@ -76,7 +76,7 @@ The causee is marked with を for coercion and に for permission.
 > 先生は　学生**を**　立たせた。（たたせた）
 > "The teacher made the students stand up." (coercion)
 
-> 母は　子ども**に**　あそばせた。
+> <ruby>母<rt>はは</rt></ruby>は　<ruby>子<rt>こ</rt></ruby>ども**に**　<ruby>遊<rt>あそ</rt></ruby>ばせた。
 > "The mother let the children play." (permission)
 
 > 部長は　田中さん**を**　帰らせた。（ぶちょう）
@@ -121,31 +121,31 @@ The causative naturally appears in contexts involving a power differential. The 
 > 母は　子どもに　ミルクを　飲ませた。
 > "The mother had the child drink milk."
 
-> 父は　子どもを　はやく　ねさせた。
+> <ruby>父<rt>ちち</rt></ruby>は　子どもを　<ruby>早<rt>はや</rt></ruby>く　<ruby>寝<rt>ね</rt></ruby>させた。
 > "The father made the child go to bed early."
 
 **Teacher → Student:**
 
-> 先生は　学生に　さくぶんを　書かせた。（さくぶん）
+> <ruby>先生<rt>せんせい</rt></ruby>は　<ruby>学生<rt>がくせい</rt></ruby>に　<ruby>作文<rt>さくぶん</rt></ruby>を　<ruby>書<rt>か</rt></ruby>かせた。
 > "The teacher had the students write essays."
 
-> コーチは　せんしゅを　毎日　はしらせた。
+> コーチは　<ruby>選手<rt>せんしゅ</rt></ruby>を　<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>走<rt>はし</rt></ruby>らせた。
 > "The coach made the athletes run every day."
 
 **Boss → Subordinate:**
 
-> 部長は　わたしに　この　しごとを　させた。
+> <ruby>部長<rt>ぶちょう</rt></ruby>は　わたしに　この　<ruby>仕事<rt>しごと</rt></ruby>を　させた。
 > "The section chief had me do this work."
 
-> 社長は　しゃいんを　ざんぎょうさせた。（しゃいん、ざんぎょう）
+> <ruby>社長<rt>しゃちょう</rt></ruby>は　<ruby>社員<rt>しゃいん</rt></ruby>を　<ruby>残業<rt>ざんぎょう</rt></ruby>させた。
 > "The company president made the employees work overtime."
 
 **Context determining "make" vs "let":**
 
-> 先生は　びょうきの　学生に　帰らせた。
+> <ruby>先生<rt>せんせい</rt></ruby>は　<ruby>病気<rt>びょうき</rt></ruby>の　<ruby>学生<rt>がくせい</rt></ruby>に　<ruby>帰<rt>かえ</rt></ruby>らせた。
 > "The teacher let the sick student go home."
 
-> 母は　子どもに　すきな　ものを　えらばせた。（えらぶ）
+> <ruby>母<rt>はは</rt></ruby>は　<ruby>子<rt>こ</rt></ruby>どもに　<ruby>好<rt>す</rt></ruby>きな　ものを　<ruby>選<rt>えら</rt></ruby>ばせた。
 > "The mother let the child choose what they liked."
 
 Note how the same grammatical structure can express kindness (letting a sick student go home) or authority (making employees work overtime). The causative itself is neutral — it simply encodes the fact that one person's action was directed by another. Whether that direction is benevolent, neutral, or oppressive comes from the context.
@@ -166,7 +166,7 @@ Since all causative verbs are 一段, the て-form is always formed by dropping 
 > 少し　考えさせてください。（かんがえる）
 > "Please let me think about it for a moment."
 
-> この　しごとを　わたしに　やらせてください。
+> この　<ruby>仕事<rt>しごと</rt></ruby>を　わたしに　やらせてください。
 > "Please let me do this work."
 
 > 自己紹介させてください。（じこしょうかい）
@@ -226,15 +226,15 @@ Read the following passage about club activities in a Japanese high school, wher
 
 ---
 
-わたしは　高校一年生の　とき、やきゅう部に　入りました。やきゅう部は　とても　きびしかったです。
+わたしは　<ruby>高校<rt>こうこう</rt></ruby><ruby>一年生<rt>いちねんせい</rt></ruby>の　とき、<ruby>野球<rt>やきゅう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に　<ruby>入<rt>はい</rt></ruby>りました。野球部は　とても　<ruby>厳<rt>きび</rt></ruby>しかったです。
 
-先輩たちは　わたしたち　一年生に　いろいろな　ことを　させました。まず、毎朝　六時に　グラウンドに　来させました。三年生が　れんしゅうする　前に、わたしたちに　グラウンドの　そうじを　させました。
+<ruby>先輩<rt>せんぱい</rt></ruby>たちは　わたしたち　一年生に　いろいろな　ことを　させました。まず、<ruby>毎朝<rt>まいあさ</rt></ruby>　<ruby>六時<rt>ろくじ</rt></ruby>に　グラウンドに　<ruby>来<rt>こ</rt></ruby>させました。<ruby>三年生<rt>さんねんせい</rt></ruby>が　<ruby>練習<rt>れんしゅう</rt></ruby>する　<ruby>前<rt>まえ</rt></ruby>に、わたしたちに　グラウンドの　<ruby>掃除<rt>そうじ</rt></ruby>を　させました。
 
-キャプテンの　山本先輩は　とくに　きびしい　人でした。わたしたちを　毎日　三十分　走らせました。声が　小さいと、もう　一度　あいさつを　させました。「もっと　大きい　声を　出せ」と　よく　言われました。
+キャプテンの　<ruby>山本<rt>やまもと</rt></ruby>先輩は　<ruby>特<rt>とく</rt></ruby>に　厳しい　<ruby>人<rt>ひと</rt></ruby>でした。わたしたちを　<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>三十分<rt>さんじゅっぷん</rt></ruby>　<ruby>走<rt>はし</rt></ruby>らせました。<ruby>声<rt>こえ</rt></ruby>が　<ruby>小<rt>ちい</rt></ruby>さいと、もう　<ruby>一度<rt>いちど</rt></ruby>　<ruby>挨拶<rt>あいさつ</rt></ruby>を　させました。「もっと　<ruby>大<rt>おお</rt></ruby>きい　声を　<ruby>出<rt>だ</rt></ruby>せ」と　よく　<ruby>言<rt>い</rt></ruby>われました。
 
-でも、先輩は　ときどき　やさしい　ところも　ありました。れんしゅうの　後、じょうずに　できた　一年生には　自分の　ジュースを　飲ませてくれました。うまく　できなくても、がんばった　人には　「よくやった」と　言って、やすませてくれました。
+でも、先輩は　ときどき　<ruby>優<rt>やさ</rt></ruby>しい　ところも　ありました。練習の　<ruby>後<rt>あと</rt></ruby>、<ruby>上手<rt>じょうず</rt></ruby>に　できた　一年生には　<ruby>自分<rt>じぶん</rt></ruby>の　ジュースを　<ruby>飲<rt>の</rt></ruby>ませてくれました。うまく　できなくても、<ruby>頑張<rt>がんば</rt></ruby>った　人には　「よくやった」と　言って、<ruby>休<rt>やす</rt></ruby>ませてくれました。
 
-今　思うと、先輩が　きびしく　させてくれた　おかげで、わたしは　つよく　なれたと　思います。
+<ruby>今<rt>いま</rt></ruby>　<ruby>思<rt>おも</rt></ruby>うと、先輩が　厳しく　させてくれた　おかげで、わたしは　<ruby>強<rt>つよ</rt></ruby>く　なれたと　思います。
 
 ---
 

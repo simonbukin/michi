@@ -89,3 +89,60 @@ In the tables below, each entry provides the proverb in kanji, its full reading,
 | 嘘も方便 | うそもほうべん | Even a lie can be an expedient means | Sometimes a lie serves a greater good | Justifying white lies; Buddhist concept of skillful means (方便) |
 | 良薬口に苦し | りょうやくくちににがし | Good medicine tastes bitter | Honest advice is hard to hear but beneficial | Defending harsh criticism; encouraging someone to accept difficult feedback |
 | 案ずるより産むが易し | あんずるよりうむがやすし | Giving birth is easier than worrying about it | Things are often easier in practice than in anxious anticipation | Encouraging action over excessive worry; reassuring someone before a challenge |
+
+---
+
+## Animals & Nature
+
+| ことわざ | 読み | Literal Meaning | Actual Meaning | Context of Use |
+|---|---|---|---|---|
+| 蛙の子は蛙 | かえるのこはかえる | A frog's child is a frog | Children resemble their parents (often pejoratively) | Resigned observation about generational patterns |
+| 虎穴に入らずんば虎子を得ず | こけつにいらずんばこじをえず | Without entering the tiger's den, you won't get the cub | Nothing ventured, nothing gained | Encouraging risk-taking for high-value rewards |
+| 馬の耳に念仏 | うまのみみにねんぶつ | Buddhist chant in a horse's ear | Wasted on someone who won't listen | Frustration with a non-listener; futile advice |
+| 雀百まで踊り忘れず | すずめひゃくまでおどりわすれず | Sparrows don't forget their dance even at a hundred | Childhood habits last a lifetime | Observing entrenched behavior, good or bad |
+| 鶴の一声 | つるのひとこえ | A single cry from a crane | The decisive word from a high authority | When a senior figure ends a debate with one statement |
+| 河童の川流れ | かっぱのかわながれ | Even kappa get carried away in rivers | Even experts have off days (cf. 猿も木から落ちる) | Comforting an expert after a slip |
+
+---
+
+## Time, Seasons, and Change
+
+| ことわざ | 読み | Literal Meaning | Actual Meaning | Context of Use |
+|---|---|---|---|---|
+| 光陰矢の如し | こういんやのごとし | Time is like an arrow | Time flies | Reflecting on how quickly time passes |
+| 桃栗三年柿八年 | ももくりさんねんかきはちねん | Peaches and chestnuts in three years, persimmons in eight | Different goals require different timeframes; patience varies | Setting realistic expectations for results |
+| 柳に雪折れなし | やなぎにゆきおれなし | The willow does not snap under snow | Flexibility outlasts rigidity | Praising adaptability over stubborn strength |
+| 待てば海路の日和あり | まてばかいろのひよりあり | If you wait, fair sailing weather will come | Patience brings opportunity | Encouraging someone to wait out a bad period |
+
+---
+
+## Money and Practical Life
+
+| ことわざ | 読み | Literal Meaning | Actual Meaning | Context of Use |
+|---|---|---|---|---|
+| 安物買いの銭失い | やすものがいのぜにうしない | Cheap purchases waste money | You get what you pay for | Warning against false economy |
+| 金は天下の回り物 | かねはてんかのまわりもの | Money is the world's circulating thing | Money flows; wealth is impermanent | Comforting after financial loss; rejecting hoarding |
+| 一銭を笑う者は一銭に泣く | いっせんをわらうものはいっせんになく | One who laughs at a penny will weep over a penny | Treating small amounts carelessly leads to ruin | Defending frugality |
+| 隣の芝生は青い | となりのしばふはあおい | The neighbor's lawn is green | The grass is always greener | Cautioning against envy |
+
+---
+
+## Risk and Caution
+
+| ことわざ | 読み | Literal Meaning | Actual Meaning | Context of Use |
+|---|---|---|---|---|
+| 君子危うきに近寄らず | くんしあやうきにちかよらず | A wise person does not approach danger | The smart move is prevention | Choosing not to engage with risky people or situations |
+| 石橋を叩いて渡る | いしばしをたたいてわたる | Tap a stone bridge before crossing | Be excessively cautious | Describing a (sometimes overly) careful person |
+| 後悔先に立たず | こうかいさきにたたず | Regret does not stand before | You can't undo a past mistake | Accepting irreversibility; cautioning against rashness |
+| 弘法も筆の誤り | こうぼうもふでのあやまり | Even Kōbō makes brush slips | Even masters err (cf. 河童の川流れ, 猿も木から落ちる) | Comforting an expert who has erred |
+
+---
+
+## Speech and Silence
+
+| ことわざ | 読み | Literal Meaning | Actual Meaning | Context of Use |
+|---|---|---|---|---|
+| 沈黙は金 | ちんもくはきん | Silence is gold | Saying less is often wiser | Praising restraint; criticizing chatter |
+| 口は災いの元 | くちはわざわいのもと | The mouth is the source of disaster | Careless speech invites trouble | Warning before a sensitive conversation |
+| 言わぬが花 | いわぬがはな | Not saying is the flower | Some things are best left unsaid | Defending discretion over disclosure |
+| 二度あることは三度ある | にどあることはさんどある | What has happened twice will happen thrice | Patterns repeat | Predicting another instance after two |

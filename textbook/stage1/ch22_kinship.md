@@ -72,19 +72,19 @@ Look at the table carefully. Several patterns emerge.
 
 When you are speaking with someone outside your family — a colleague, a teacher, a classmate, a shopkeeper — and the topic is your own family, use the humble うち terms.
 
-> ちちは いしゃです。
+> <ruby>父<rt>ちち</rt></ruby>は <ruby>医者<rt>いしゃ</rt></ruby>です。
 > "My father is a doctor."
 
-> ははは きょねん たいいんしました。
+> <ruby>母<rt>はは</rt></ruby>は <ruby>去年<rt>きょねん</rt></ruby> <ruby>退院<rt>たいいん</rt></ruby>しました。
 > "My mother retired last year."
 
-> あには とうきょうに すんでいます。
+> <ruby>兄<rt>あに</rt></ruby>は <ruby>東京<rt>とうきょう</rt></ruby>に <ruby>住<rt>す</rt></ruby>んでいます。
 > "My older brother lives in Tokyo."
 
-> いもうとは だいがくせいです。
+> <ruby>妹<rt>いもうと</rt></ruby>は <ruby>大学生<rt>だいがくせい</rt></ruby>です。
 > "My younger sister is a college student."
 
-> つまは きょうしを しています。
+> <ruby>妻<rt>つま</rt></ruby>は <ruby>教師<rt>きょうし</rt></ruby>を しています。
 > "My wife works as a teacher."
 
 In every case, you are presenting your family modestly to someone on the outside. The うち forms accomplish this.
@@ -93,19 +93,19 @@ In every case, you are presenting your family modestly to someone on the outside
 
 When the family members belong to the person you are speaking with, or to a third person you want to show respect toward, use the そと terms.
 
-> おとうさんは おげんきですか。
+> <ruby>お父<rt>とう</rt></ruby>さんは お<ruby>元気<rt>げんき</rt></ruby>ですか。
 > "Is your father well?"
 
-> おかあさんに よろしく おつたえください。
+> <ruby>お母<rt>かあ</rt></ruby>さんに よろしく おつたえください。
 > "Please give my regards to your mother."
 
-> おねえさんは なにを していますか。
+> <ruby>お姉<rt>ねえ</rt></ruby>さんは なにを していますか。
 > "What does your older sister do?"
 
-> むすこさんは おいくつですか。
+> <ruby>息子<rt>むすこ</rt></ruby>さんは おいくつですか。
 > "How old is your son?"
 
-> ごかぞくは おおきいですか。
+> ご<ruby>家族<rt>かぞく</rt></ruby>は <ruby>大<rt>おお</rt></ruby>きいですか。
 > "Is your family large?"
 
 These そと forms elevate the other person's family, which is the respectful thing to do.
@@ -114,13 +114,13 @@ These そと forms elevate the other person's family, which is the respectful th
 
 This is the rule that catches learners off guard. When you talk to your own mother, you say おかあさん, not はは. When you call your father, you say おとうさん, not ちち.
 
-> おかあさん、ばんごはん まだ？
+> お母さん、<ruby>晩<rt>ばん</rt></ruby>ごはん まだ？
 > "Mom, is dinner not ready yet?"
 
-> おとうさん、でんわだよ。
+> お父さん、<ruby>電話<rt>でんわ</rt></ruby>だよ。
 > "Dad, you have a phone call."
 
-> おねえちゃん、ちょっと てつだって。
+> おねえちゃん、ちょっと <ruby>手伝<rt>てつだ</rt></ruby>って。
 > "Sis, give me a hand."
 
 (Notice おねえちゃん in the last example. Within the family, ちゃん can replace さん for a warmer, more casual tone. This is common among siblings and with younger family members.)
@@ -132,15 +132,15 @@ The reason for this rule is logical once you think about it: the うち terms ar
 The same person — your actual father — is referred to with two different terms depending on the conversational context.
 
 **At the office, talking to a coworker:**
-> ちちが にゅういんしたので、きょうは はやく かえります。
+> <ruby>父<rt>ちち</rt></ruby>が <ruby>入院<rt>にゅういん</rt></ruby>したので、<ruby>今日<rt>きょう</rt></ruby>は <ruby>早<rt>はや</rt></ruby>く <ruby>帰<rt>かえ</rt></ruby>ります。
 > "My father was hospitalized, so I'm leaving early today."
 
 **At home, talking to your father:**
-> おとうさん、くすりは のんだ？
+> <ruby>お父<rt>とう</rt></ruby>さん、<ruby>薬<rt>くすり</rt></ruby>は <ruby>飲<rt>の</rt></ruby>んだ？
 > "Dad, did you take your medicine?"
 
 **At a friend's house, asking about their father:**
-> おとうさんは もう たいいんしましたか。
+> お父さんは もう <ruby>退院<rt>たいいん</rt></ruby>しましたか。
 > "Has your father been discharged from the hospital?"
 
 Three sentences, three different contexts, and おとうさん appears in two of them for two different reasons — once as a form of address to your own father, and once as a respectful reference to someone else's father. The key is always: who am I talking to, and whose family member am I talking about?
@@ -151,22 +151,22 @@ Three sentences, three different contexts, and おとうさん appears in two of
 
 ### Mistake 1: Using おかあさん about your own mother to an outsider
 
-> ✕ おかあさんは びょうきです。 (talking to your teacher about your own mother)
-> ○ ははは びょうきです。
+> ✕ お母さんは <ruby>病気<rt>びょうき</rt></ruby>です。 (talking to your teacher about your own mother)
+> ○ <ruby>母<rt>はは</rt></ruby>は 病気です。
 
 If you say おかあさん when describing your mother to your teacher, you are elevating your own family member in front of an outsider. This sounds wrong — roughly equivalent to calling your own mother "the esteemed Mrs. Smith" in a business meeting. The correct term is はは.
 
 ### Mistake 2: Using ちち about someone else's father
 
-> ✕ たなかさんの ちちは せんせいですか。
-> ○ たなかさんの おとうさんは せんせいですか。
+> ✕ <ruby>田中<rt>たなか</rt></ruby>さんの <ruby>父<rt>ちち</rt></ruby>は <ruby>先生<rt>せんせい</rt></ruby>ですか。
+> ○ 田中さんの <ruby>お父<rt>とう</rt></ruby>さんは 先生ですか。
 
 ちち is exclusively for your own father. Using it for someone else's father fails to show the expected respect.
 
 ### Mistake 3: Using ちち to address your own father
 
-> ✕ ちち、おはよう。
-> ○ おとうさん、おはよう。
+> ✕ <ruby>父<rt>ちち</rt></ruby>、おはよう。
+> ○ <ruby>お父<rt>とう</rt></ruby>さん、おはよう。
 
 As discussed in Rule 3, うち terms are for describing, not for addressing.
 
@@ -187,7 +187,7 @@ Consider what you already know:
 
 - **Giving and receiving verbs (Chapter 21):** あげる (I/my group gives) versus くれる (someone gives to me/my group). The choice depends on whether the giver is うち or そと.
 - **Family terms (this chapter):** ちち (my father, humble) versus おとうさん (your father, respectful). The choice depends on whether the family member is うち or そと.
-- **Business language:** When referring to your own company, you say うちの かいしゃ or へいしゃ (our humble company). When referring to someone else's company, you say おたくの かいしゃ or きしゃ (your esteemed company). Same principle.
+- **Business language:** When referring to your own company, you say うちの <ruby>会社<rt>かいしゃ</rt></ruby> or <ruby>弊社<rt>へいしゃ</rt></ruby> (our humble company). When referring to someone else's company, you say おたくの 会社 or <ruby>貴社<rt>きしゃ</rt></ruby> (your esteemed company). Same principle.
 
 In Stage 2, you will study the honorific system (けいご) systematically. There are three layers:
 
@@ -203,17 +203,17 @@ This is why learning the family system matters beyond mere vocabulary. It trains
 
 ## 22.6 Reading Passage
 
-### わたしの かぞく
+### わたしの <ruby>家族<rt>かぞく</rt></ruby>
 
-きのう、かいしゃで たなかさんと ひるごはんを たべました。たなかさんが 「ごかぞくは なんにんですか」と きいたので、わたしは かぞくの ことを はなしました。
+<ruby>昨日<rt>きのう</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>で <ruby>田中<rt>たなか</rt></ruby>さんと <ruby>昼<rt>ひる</rt></ruby>ごはんを <ruby>食<rt>た</rt></ruby>べました。田中さんが 「ご家族は <ruby>何人<rt>なんにん</rt></ruby>ですか」と <ruby>聞<rt>き</rt></ruby>いたので、わたしは 家族の ことを <ruby>話<rt>はな</rt></ruby>しました。
 
-「ごにんかぞくです。ちちと ははと あにと いもうとが います。ちちは ぎんこうに つとめています。ははは えいごの きょうしを しています。あには けっこんして、おおさかに すんでいます。いもうとは まだ こうこうせいです。」
+「<ruby>五人家族<rt>ごにんかぞく</rt></ruby>です。<ruby>父<rt>ちち</rt></ruby>と <ruby>母<rt>はは</rt></ruby>と <ruby>兄<rt>あに</rt></ruby>と <ruby>妹<rt>いもうと</rt></ruby>が います。父は <ruby>銀行<rt>ぎんこう</rt></ruby>に <ruby>勤<rt>つと</rt></ruby>めています。母は <ruby>英語<rt>えいご</rt></ruby>の <ruby>教師<rt>きょうし</rt></ruby>を しています。兄は <ruby>結婚<rt>けっこん</rt></ruby>して、<ruby>大阪<rt>おおさか</rt></ruby>に <ruby>住<rt>す</rt></ruby>んでいます。妹は まだ <ruby>高校生<rt>こうこうせい</rt></ruby>です。」
 
-たなかさんは 「おにいさんは おしごとは なにを していますか」と きいたので、「あには プログラマーです」と こたえました。
+田中さんは 「<ruby>お兄<rt>にい</rt></ruby>さんは お<ruby>仕事<rt>しごと</rt></ruby>は なにを していますか」と 聞いたので、「兄は プログラマーです」と <ruby>答<rt>こた</rt></ruby>えました。
 
-それから、わたしも たなかさんに きました。「たなかさんの おとうさんは おげんきですか。」たなかさんは 「ええ、おかげさまで。ちちは まいあさ こうえんを さんぽしています」と いいました。
+それから、わたしも 田中さんに 聞きました。「田中さんの <ruby>お父<rt>とう</rt></ruby>さんは お<ruby>元気<rt>げんき</rt></ruby>ですか。」田中さんは 「ええ、おかげさまで。父は <ruby>毎朝<rt>まいあさ</rt></ruby> <ruby>公園<rt>こうえん</rt></ruby>を <ruby>散歩<rt>さんぽ</rt></ruby>しています」と <ruby>言<rt>い</rt></ruby>いました。
 
-おもしろいと おもいました。たなかさんも じぶんの おとうさんの ことを はなすとき、「ちち」と いいました。わたしたちは ふたりとも、じぶんの かぞくの ことを はなすとき、うちのことばを つかっていたのです。
+<ruby>面白<rt>おもしろ</rt></ruby>いと <ruby>思<rt>おも</rt></ruby>いました。田中さんも <ruby>自分<rt>じぶん</rt></ruby>の お父さんの ことを 話すとき、「父」と 言いました。わたしたちは <ruby>二人<rt>ふたり</rt></ruby>とも、自分の 家族の ことを 話すとき、うちの<ruby>言葉<rt>ことば</rt></ruby>を <ruby>使<rt>つか</rt></ruby>っていたのです。
 
 ---
 
@@ -242,35 +242,35 @@ Pay close attention to how the two sets of terms alternate in this passage.
 
 The last paragraph makes the point explicitly: both speakers follow the same system. When you describe your own family to someone else, you use うち terms. When someone asks about your family, they use そと terms. The system is consistent, predictable, and automatic for native speakers.
 
-Also notice おしごと in Tanaka's question. The お prefix is a politeness marker on しごと (work), used here because Tanaka is asking about the speaker's brother respectfully. This is another instance of the そと principle — elevating what belongs to the other person.
+Also notice お<ruby>仕事<rt>しごと</rt></ruby> in Tanaka's question. The お prefix is a politeness marker on 仕事 (work), used here because Tanaka is asking about the speaker's brother respectfully. This is another instance of the そと principle — elevating what belongs to the other person.
 
 ---
 
-### Reading Passage 2 — かぞくの しょうかい
+### Reading Passage 2 — <ruby>家族<rt>かぞく</rt></ruby>の <ruby>紹介<rt>しょうかい</rt></ruby>
 
 Read the following passage. The speaker introduces their family at a neighborhood gathering. Pay attention to the うち/そと distinction.
 
 ---
 
-きょう、ちかくの こうみんかんで あつまりが ありました。あたらしい まちに ひっこしたので、きんじょの ひとに かぞくを しょうかいしました。
+<ruby>今日<rt>きょう</rt></ruby>、<ruby>近<rt>ちか</rt></ruby>くの <ruby>公民館<rt>こうみんかん</rt></ruby>で <ruby>集<rt>あつ</rt></ruby>まりが ありました。<ruby>新<rt>あたら</rt></ruby>しい <ruby>町<rt>まち</rt></ruby>に <ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>したので、<ruby>近所<rt>きんじょ</rt></ruby>の <ruby>人<rt>ひと</rt></ruby>に 家族を <ruby>紹介<rt>しょうかい</rt></ruby>しました。
 
-「はじめまして。やまだです。かぞくは ごにんです。わたしと つまと こどもが さんにんです。」
+「はじめまして。<ruby>山田<rt>やまだ</rt></ruby>です。家族は <ruby>五人<rt>ごにん</rt></ruby>です。わたしと <ruby>妻<rt>つま</rt></ruby>と <ruby>子供<rt>こども</rt></ruby>が <ruby>三人<rt>さんにん</rt></ruby>です。」
 
-「ちちは とうきょうに すんでいます。はちじゅうさいですが、まだ げんきです。ははも とうきょうにいます。りょうしんは ときどき あそびに きます。」
+「<ruby>父<rt>ちち</rt></ruby>は <ruby>東京<rt>とうきょう</rt></ruby>に <ruby>住<rt>す</rt></ruby>んでいます。<ruby>八十歳<rt>はちじゅうさい</rt></ruby>ですが、まだ <ruby>元気<rt>げんき</rt></ruby>です。<ruby>母<rt>はは</rt></ruby>も 東京にいます。<ruby>両親<rt>りょうしん</rt></ruby>は ときどき <ruby>遊<rt>あそ</rt></ruby>びに きます。」
 
-きんじょの たなかさんが ききました。「おこさんは おいくつですか。」
+近所の <ruby>田中<rt>たなか</rt></ruby>さんが <ruby>聞<rt>き</rt></ruby>きました。「お<ruby>子<rt>こ</rt></ruby>さんは おいくつですか。」
 
-「うえの むすめは じゅうさんさいで、ちゅうがくせいです。まんなかの むすこは じゅっさいで、しょうがくせいです。いちばん したの むすめは まだ ごさいです。」
+「<ruby>上<rt>うえ</rt></ruby>の <ruby>娘<rt>むすめ</rt></ruby>は <ruby>十三歳<rt>じゅうさんさい</rt></ruby>で、<ruby>中学生<rt>ちゅうがくせい</rt></ruby>です。<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>の <ruby>息子<rt>むすこ</rt></ruby>は <ruby>十歳<rt>じゅっさい</rt></ruby>で、<ruby>小学生<rt>しょうがくせい</rt></ruby>です。<ruby>一番<rt>いちばん</rt></ruby> <ruby>下<rt>した</rt></ruby>の 娘は まだ <ruby>五歳<rt>ごさい</rt></ruby>です。」
 
-たなかさんは 「うちの むすこも しょうがくせいですよ。おなじ がっこうかもしれませんね」と いいました。
+田中さんは 「うちの 息子も 小学生ですよ。<ruby>同<rt>おな</rt></ruby>じ <ruby>学校<rt>がっこう</rt></ruby>かもしれませんね」と <ruby>言<rt>い</rt></ruby>いました。
 
 「そうですか。おいくつですか。」
 
-「むすこは じゅういっさいです。よねんせいです。」
+「息子は <ruby>十一歳<rt>じゅういっさい</rt></ruby>です。<ruby>四年生<rt>よねんせい</rt></ruby>です。」
 
-「うちの むすこも よねんせいです。おなじ クラスかもしれませんね。」
+「うちの 息子も 四年生です。同じ クラスかもしれませんね。」
 
-ふたりで わらいました。いい まちに ひっこしたと おもいました。
+<ruby>二人<rt>ふたり</rt></ruby>で <ruby>笑<rt>わら</rt></ruby>いました。いい 町に 引っ越したと <ruby>思<rt>おも</rt></ruby>いました。
 
 ---
 
@@ -298,13 +298,13 @@ We both laughed. I thought we moved to a good town.
 
 ### Notes
 
-- こうみんかん — community center, a public hall found in most neighborhoods.
-- ひっこした — past of ひっこす (to move/relocate), a 五段 verb.
-- つま — "my wife" (うち term). The そと equivalent for someone else's wife is おくさん.
-- おこさん — "your child/children" (そと term). Tanaka uses this to ask about the speaker's children. The うち equivalent is こども or むすこ/むすめ.
+- <ruby>公民館<rt>こうみんかん</rt></ruby> — community center, a public hall found in most neighborhoods.
+- <ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>した — past of <ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す (to move/relocate), a 五段 verb.
+- <ruby>妻<rt>つま</rt></ruby> — "my wife" (うち term). The そと equivalent for someone else's wife is <ruby>奥<rt>おく</rt></ruby>さん.
+- お<ruby>子<rt>こ</rt></ruby>さん — "your child/children" (そと term). Tanaka uses this to ask about the speaker's children. The うち equivalent is <ruby>子供<rt>こども</rt></ruby> or <ruby>息子<rt>むすこ</rt></ruby>/<ruby>娘<rt>むすめ</rt></ruby>.
 - おいくつ — "how old?" A polite way to ask age, using the お prefix.
 - かもしれません — "might be." A pattern expressing possibility. Treat as a set phrase for now.
-- うえの / まんなかの / したの — "oldest / middle / youngest," literally "upper / middle / lower."
+- <ruby>上<rt>うえ</rt></ruby>の / <ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>の / <ruby>下<rt>した</rt></ruby>の — "oldest / middle / youngest," literally "upper / middle / lower."
 
 ---
 
@@ -316,9 +316,9 @@ Japanese has two complete sets of family vocabulary, not as a historical acciden
 
 | Situation | Which set? | Example |
 |-----------|-----------|---------|
-| Describing your own family to an outsider | うち (humble) | ちちは いしゃです。 |
-| Talking about someone else's family | そと (respectful) | おとうさんは おげんきですか。 |
-| Addressing your own family directly | そと (respectful) | おとうさん、おはよう。 |
+| Describing your own family to an outsider | うち (humble) | <ruby>父<rt>ちち</rt></ruby>は <ruby>医者<rt>いしゃ</rt></ruby>です。 |
+| Talking about someone else's family | そと (respectful) | <ruby>お父<rt>とう</rt></ruby>さんは お<ruby>元気<rt>げんき</rt></ruby>ですか。 |
+| Addressing your own family directly | そと (respectful) | お父さん、おはよう。 |
 
 **The logic:**
 

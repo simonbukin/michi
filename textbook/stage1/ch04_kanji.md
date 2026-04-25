@@ -594,7 +594,56 @@ The character is composed of 田 (rice field) and 力 (power) — the person who
 
 ---
 
-## 4.8 Recognition Strategies
+## 4.8 連濁 (れんだく): Sequential Voicing in Compounds
+
+When two words are joined to form a compound, the first consonant of the second word often voices. This is called 連濁 (れんだく). It is one of the most pervasive sound changes in Japanese, and a learner who is unaware of it will systematically mishear compounds and fail to find them in dictionaries.
+
+The pattern is simple to state. A voiceless consonant at the start of the second element becomes its voiced counterpart:
+
+| Voiceless | Voiced | Example |
+|-----------|--------|---------|
+| か → が | か → が | 手 (て) + 紙 (かみ) → 手紙 (てがみ, letter) |
+| さ → ざ | さ → ざ | 鼻 (はな) + 血 (ち) → 鼻血 (はなぢ, nosebleed) |
+| た → だ | た → だ | 一 (ひと) + 月 (つき) → 一月 (ひとつき, one month) |
+| は → ば | は → ば | 花 (はな) + 火 (ひ) → 花火 (はなび, fireworks) |
+| は → ぱ | は → ぱ | 一 (いっ) + 本 (ほん) → 一本 (いっぽん, one cylindrical) |
+
+The shift from は to ぱ deserves special note. After a small っ (a geminate), the consonant が or ば is impossible — the voicing target is ぱ instead. This is the same phonotactic rule that makes counter readings shift in Chapter 7 (一本 いっぽん, 三本 さんぼん, 何本 なんぼん).
+
+You have already encountered rendaku without it being named. In this chapter:
+
+- 花火 (はなび) — はな + ひ. The ひ voiced to び.
+- 火山 (かざん) — か + やま would be the bare reading, but compounded the おんよみ pair is か + さん, and the さ voiced to ざ. (Sino-Japanese compounds rendaku less, but still do.)
+- 小川 (おがわ) — お + かわ. The か voiced to が.
+- 金魚 (きんぎょ) — きん + ぎょ rather than きん + きょ. The き voiced to ぎ.
+
+### Why This Matters for Comprehension
+
+If you encounter the word はなび in speech and expect 花 (はな) + 火 (ひ) without rendaku, you will not recognize it. You will hear "hanabi" and look for a word starting with hi, find nothing, and assume you do not know it. The same problem affects te-form compounds, place names, and any compound word you encounter for the first time.
+
+The cure is awareness, not memorization. When a compound surprises you with a voiced consonant, recognize that the underlying word has the voiceless form. はなび → はな + ひ. てがみ → て + かみ. たけのこ (bamboo shoot) → たけ + の + こ — and the こ is the same こ as in ki-no-こ (mushroom), where rendaku also operates.
+
+### When Rendaku Does Not Apply
+
+Rendaku is a tendency, not a rule, and it has well-known restrictions. You do not need to memorize these now — but recognizing the pattern is useful when you hear a compound and the second element does *not* voice.
+
+**Lyman's Law.** If the second element already contains a voiced obstruent (が, ぎ, ぐ, げ, ご, ざ, じ, ず, ぜ, ぞ, だ, ぢ, づ, で, ど, ば, び, ぶ, べ, ぼ), rendaku is blocked. The classic example is 大風 (おおかぜ, gale) — か does not voice to が because かぜ already contains ぜ. Likewise 紙くず (かみくず, paper scrap), not かみぐず, because くず already contains ず. The intuition is that Japanese phonology resists having two voiced obstruents inside one phonological word.
+
+**Foreign loanwords (gairaigo).** Words borrowed from English, Portuguese, etc., generally resist rendaku. アイス + コーヒー stays アイスコーヒー, never アイスゴーヒー.
+
+**Sino-Japanese compounds (kango)** rendaku less reliably than native compounds. 国家 (こっか, nation), 一個 (いっこ, one item), 半開 (はんかい, half-open) — kango compounds often preserve the voiceless consonant.
+
+**Coordinate compounds** (where the two elements are equal partners, "A and B" rather than "A's B") tend to block rendaku: 山川 (やまかわ, mountains and rivers), 草木 (くさき, grass and trees) — though some idiomatic ones do voice: 親子 (おやこ, parent and child).
+
+### Recognition Habit
+
+Practical rule: when you encounter a word in writing and the kanji you recognize would normally read with a voiceless consonant at the start of the second element, but the furigana shows a voiced one, that is rendaku. When you hear an unknown word that begins promisingly but ends with an unexpected voiced consonant in the middle, mentally try the unvoiced version of the second element and see if you recognize the morpheme.
+
+Rendaku will become automatic with exposure. The first hundred compound words you learn account for the bulk of the rendaku you will ever need to recognize, because they are also the most frequent words in the language. The goal of this section is to name the phenomenon so you can recognize it as a regularity rather than a string of arbitrary exceptions.
+
+---
+
+## 4.9 Recognition Strategies
 
 You now have 25 kanji. Before they become 50, then 100, then 500, establish the analytical habits that will scale.
 

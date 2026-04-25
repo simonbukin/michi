@@ -323,17 +323,17 @@ In Japan, a personal seal (印鑑 or はんこ) is used instead of a signature o
 
 ### ゆうちょ銀行のATMの使い方
 
-日本に来たばかりのとき、ATMの使い方が分からなくて困った。英語の画面もあるが、近くの小さい郵便局のATMには英語がなかった。友達に使い方を教えてもらったので、ここに書いておく。
+<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たばかりのとき、ATMの<ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からなくて<ruby>困<rt>こま</rt></ruby>った。<ruby>英語<rt>えいご</rt></ruby>の<ruby>画面<rt>がめん</rt></ruby>もあるが、<ruby>近<rt>ちか</rt></ruby>くの<ruby>小<rt>ちい</rt></ruby>さい<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>のATMには英語がなかった。<ruby>友達<rt>ともだち</rt></ruby>に使い方を<ruby>教<rt>おし</rt></ruby>えてもらったので、ここに<ruby>書<rt>か</rt></ruby>いておく。
 
-まず、キャッシュカードを入れる。画面に「お取引を　お選びください」と出るので、「お引き出し」を押す。次に、暗証番号を四桁入力する。間違えないように気をつけたほうがいい。三回間違えると、カードが使えなくなるそうだ。
+まず、キャッシュカードを<ruby>入<rt>い</rt></ruby>れる。画面に「お<ruby>取引<rt>とりひき</rt></ruby>を　お<ruby>選<rt>えら</rt></ruby>びください」と<ruby>出<rt>で</rt></ruby>るので、「お<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>し」を<ruby>押<rt>お</rt></ruby>す。<ruby>次<rt>つぎ</rt></ruby>に、<ruby>暗証番号<rt>あんしょうばんごう</rt></ruby>を<ruby>四桁<rt>よんけた</rt></ruby><ruby>入力<rt>にゅうりょく</rt></ruby>する。<ruby>間違<rt>まちが</rt></ruby>えないように<ruby>気<rt>き</rt></ruby>をつけたほうがいい。<ruby>三回<rt>さんかい</rt></ruby>間違えると、カードが使えなくなるそうだ。
 
-暗証番号を入れたら、金額を入力する。千円単位で選べる。金額を入力して「確認」を押すと、「手数料がかかりますが、よろしいですか」と聞かれることがある。ゆうちょ銀行のATMを使えば、平日の昼間は手数料がかからない。でも、夜や土日に使うと、百十円の手数料がかかる。
+暗証番号を入れたら、<ruby>金額<rt>きんがく</rt></ruby>を入力する。<ruby>千円<rt>せんえん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>で<ruby>選<rt>えら</rt></ruby>べる。金額を入力して「<ruby>確認<rt>かくにん</rt></ruby>」を押すと、「<ruby>手数料<rt>てすうりょう</rt></ruby>がかかりますが、よろしいですか」と<ruby>聞<rt>き</rt></ruby>かれることがある。ゆうちょ<ruby>銀行<rt>ぎんこう</rt></ruby>のATMを使えば、<ruby>平日<rt>へいじつ</rt></ruby>の<ruby>昼間<rt>ひるま</rt></ruby>は手数料がかからない。でも、<ruby>夜<rt>よる</rt></ruby>や<ruby>土日<rt>どにち</rt></ruby>に使うと、<ruby>百十円<rt>ひゃくじゅうえん</rt></ruby>の手数料がかかる。
 
-お金が出てきたら、カードと明細書を忘れずに取る。明細書には残高が書いてあるので、確認しておくといい。
+お<ruby>金<rt>かね</rt></ruby>が出てきたら、カードと<ruby>明細書<rt>めいさいしょ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れずに<ruby>取<rt>と</rt></ruby>る。明細書には<ruby>残高<rt>ざんだか</rt></ruby>が書いてあるので、確認しておくといい。
 
-振り込みも同じATMでできる。「お振り込み」を選んで、振込先の銀行名、支店名、口座番号、金額を入力する。振り込みには手数料がかかることが多いので、先に確認したほうがいい。
+<ruby>振<rt>ふ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>みも<ruby>同<rt>おな</rt></ruby>じATMでできる。「お振り込み」を選んで、<ruby>振込先<rt>ふりこみさき</rt></ruby>の<ruby>銀行名<rt>ぎんこうめい</rt></ruby>、<ruby>支店名<rt>してんめい</rt></ruby>、<ruby>口座番号<rt>こうざばんごう</rt></ruby>、金額を入力する。振り込みには手数料がかかることが<ruby>多<rt>おお</rt></ruby>いので、<ruby>先<rt>さき</rt></ruby>に確認したほうがいい。
 
-最近はスマホのアプリで振り込みができるようになったので、ATMに行かなくてもいい場合も多い。でも、ATMの使い方を知っておくと、いざというときに便利だ。
+<ruby>最近<rt>さいきん</rt></ruby>はスマホのアプリで振り込みができるようになったので、ATMに行かなくてもいい<ruby>場合<rt>ばあい</rt></ruby>も多い。でも、ATMの使い方を<ruby>知<rt>し</rt></ruby>っておくと、いざというときに<ruby>便利<rt>べんり</rt></ruby>だ。
 
 ### Translation
 

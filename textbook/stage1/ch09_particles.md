@@ -10,16 +10,16 @@ You have already met several particles: は (topic), が (subject), も (also), 
 
 The particle を marks the **direct object** of a verb — the thing that receives the action.
 
-> ほんを　よみます。
+> <ruby>本<rt>ほん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>みます。
 > I read a book.
 
-> みずを　のみます。
+> <ruby>水<rt>みず</rt></ruby>を　<ruby>飲<rt>の</rt></ruby>みます。
 > I drink water.
 
-> てがみを　かきます。
+> <ruby>手紙<rt>てがみ</rt></ruby>を　<ruby>書<rt>か</rt></ruby>きます。
 > I write a letter.
 
-> テレビを　みます。
+> テレビを　<ruby>見<rt>み</rt></ruby>ます。
 > I watch television.
 
 **を is written with the hiragana を but pronounced "お."** This is another particle pronunciation exception, like は being pronounced "わ" and へ being pronounced "え." The character を exists almost exclusively as this particle — you will rarely see it used for anything else.
@@ -30,16 +30,16 @@ The sentence structure is:
 
 The を tells the listener: "this noun is what the verb acts upon." The verb always comes at the end of the sentence. Between は (topic) and を (object), a basic action sentence looks like this:
 
-> わたしは　ほんを　よみます。
+> わたしは　<ruby>本<rt>ほん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>みます。
 > I read a book.
 
-> たなかさんは　コーヒーを　のみます。
+> <ruby>田中<rt>たなか</rt></ruby>さんは　コーヒーを　<ruby>飲<rt>の</rt></ruby>みます。
 > Tanaka-san drinks coffee.
 
-> がくせいは　にほんごを　べんきょうします。
+> <ruby>学生<rt>がくせい</rt></ruby>は　<ruby>日本語<rt>にほんご</rt></ruby>を　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > The student studies Japanese.
 
-When the topic is obvious from context, it is dropped — just as with です sentences. ほんを よみます by itself is a complete sentence meaning "I read a book" (or "he reads a book," etc., depending on context).
+When the topic is obvious from context, it is dropped — just as with です sentences. 本を 読みます by itself is a complete sentence meaning "I read a book" (or "he reads a book," etc., depending on context).
 
 ---
 
@@ -49,21 +49,21 @@ The particle に is the most versatile particle in Japanese. You already know it
 
 ### Direction / Destination
 
-When used with movement verbs like いく (to go), くる (to come), and かえる (to return), に marks the place you are heading toward.
+When used with movement verbs like <ruby>行<rt>い</rt></ruby>く (to go), <ruby>来<rt>く</rt></ruby>る (to come), and <ruby>帰<rt>かえ</rt></ruby>る (to return), に marks the place you are heading toward.
 
-> がっこうに　いきます。
+> <ruby>学校<rt>がっこう</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きます。
 > I go to school.
 
-> うちに　かえります。
+> うちに　<ruby>帰<rt>かえ</rt></ruby>ります。
 > I return home.
 
-> 日本に　きます。
+> <ruby>日本<rt>にほん</rt></ruby>に　<ruby>来<rt>き</rt></ruby>ます。
 > (Someone) comes to Japan.
 
-> としょかんに　いきます。
+> <ruby>図書館<rt>としょかん</rt></ruby>に　行きます。
 > I go to the library.
 
-> レストランに　いきます。
+> レストランに　行きます。
 > I go to the restaurant.
 
 The pattern is: **[destination]に　[movement verb]**. The に marks the arrival point — the place where you end up.
@@ -72,19 +72,19 @@ The pattern is: **[destination]に　[movement verb]**. The に marks the arriva
 
 に also marks a **specific point in time** — a time that could appear on a clock or calendar.
 
-> 七じに　おきます。
+> <ruby>七<rt>しち</rt></ruby>じに　<ruby>起<rt>お</rt></ruby>きます。
 > I wake up at 7 o'clock.
 
-> 六じに　たべます。
+> <ruby>六<rt>ろく</rt></ruby>じに　<ruby>食<rt>た</rt></ruby>べます。
 > I eat at 6 o'clock.
 
-> 十二じに　ねます。
+> <ruby>十二<rt>じゅうに</rt></ruby>じに　<ruby>寝<rt>ね</rt></ruby>ます。
 > I go to bed at 12 o'clock.
 
-> 月よう日に　いきます。
+> <ruby>月<rt>げつ</rt></ruby>よう<ruby>日<rt>び</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きます。
 > I go on Monday.
 
-> 三月に　きます。
+> <ruby>三月<rt>さんがつ</rt></ruby>に　<ruby>来<rt>き</rt></ruby>ます。
 > (Someone) comes in March.
 
 The pattern is: **[time]に　[verb]**. Which time words take に and which do not is covered in detail in Section 9.6.
@@ -93,13 +93,13 @@ The pattern is: **[time]に　[verb]**. Which time words take に and which do n
 
 Certain verbs require a person as a target or partner. に marks that person.
 
-> ともだちに　あいます。
+> <ruby>友<rt>とも</rt></ruby>だちに　<ruby>会<rt>あ</rt></ruby>います。
 > I meet a friend.
 
-> せんせいに　ききます。
+> <ruby>先生<rt>せんせい</rt></ruby>に　<ruby>聞<rt>き</rt></ruby>きます。
 > I ask the teacher.
 
-> 田中さんに　でんわします。
+> <ruby>田中<rt>たなか</rt></ruby>さんに　<ruby>電話<rt>でんわ</rt></ruby>します。
 > I call Tanaka-san.
 
 Think of に here as "to" or "toward" — the verb is directed at a person.
@@ -108,10 +108,10 @@ Think of に here as "to" or "toward" — the verb is directed at a person.
 
 When giving something to someone, に marks the recipient.
 
-> せんせいに　あげます。
+> <ruby>先生<rt>せんせい</rt></ruby>に　あげます。
 > I give (it) to the teacher.
 
-> ともだちに　ほんを　あげます。
+> <ruby>友<rt>とも</rt></ruby>だちに　<ruby>本<rt>ほん</rt></ruby>を　あげます。
 > I give a book to a friend.
 
 The verb あげる (to give) will be treated fully in a later chapter. For now, notice the pattern: **[person]に　[thing]を　[verb]**. The recipient is marked with に; the thing given is marked with を.
@@ -124,19 +124,19 @@ The particle で has two core uses with action verbs: marking the **location whe
 
 ### Location of Action
 
-> としょかんで　べんきょうします。
+> <ruby>図書館<rt>としょかん</rt></ruby>で　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > I study at the library.
 
-> レストランで　たべます。
+> レストランで　<ruby>食<rt>た</rt></ruby>べます。
 > I eat at a restaurant.
 
-> こうえんで　あそびます。
+> <ruby>公園<rt>こうえん</rt></ruby>で　<ruby>遊<rt>あそ</rt></ruby>びます。
 > I play at the park.
 
-> うちで　ほんを　よみます。
+> うちで　<ruby>本<rt>ほん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>みます。
 > I read a book at home.
 
-> えきで　ともだちに　あいます。
+> <ruby>駅<rt>えき</rt></ruby>で　<ruby>友<rt>とも</rt></ruby>だちに　<ruby>会<rt>あ</rt></ruby>います。
 > I meet a friend at the station.
 
 The pattern is: **[place]で　[action verb]**. The で tells the listener: "this is where the action happens." The action is dynamic — someone is doing something at that location.
@@ -145,35 +145,35 @@ The pattern is: **[place]で　[action verb]**. The で tells the listener: "thi
 
 で also marks what you use to perform an action — a tool, vehicle, language, or material.
 
-> にほんごで　はなします。
+> <ruby>日本語<rt>にほんご</rt></ruby>で　<ruby>話<rt>はな</rt></ruby>します。
 > I speak in Japanese.
 
-> えいごで　かきます。
+> <ruby>英語<rt>えいご</rt></ruby>で　<ruby>書<rt>か</rt></ruby>きます。
 > I write in English.
 
-> バスで　いきます。
+> バスで　<ruby>行<rt>い</rt></ruby>きます。
 > I go by bus.
 
-> でんしゃで　いきます。
+> <ruby>電車<rt>でんしゃ</rt></ruby>で　行きます。
 > I go by train.
 
-> はしで　たべます。
+> <ruby>箸<rt>はし</rt></ruby>で　<ruby>食<rt>た</rt></ruby>べます。
 > I eat with chopsticks.
 
-> ペンで　かきます。
+> ペンで　書きます。
 > I write with a pen.
 
 Think of this で as "by means of" or "using." The instrument comes before で, and the verb comes at the end as always.
 
 A full sentence might combine several particles:
 
-> わたしは　としょかんで　にほんごで　てがみを　かきます。
+> わたしは　<ruby>図書館<rt>としょかん</rt></ruby>で　<ruby>日本語<rt>にほんご</rt></ruby>で　<ruby>手紙<rt>てがみ</rt></ruby>を　<ruby>書<rt>か</rt></ruby>きます。
 > I write a letter in Japanese at the library.
 
 Word order between は and the verb is flexible, but the verb must come last. All the following mean the same thing:
 
-> としょかんで　にほんごで　てがみを　かきます。
-> にほんごで　としょかんで　てがみを　かきます。
+> 図書館で　日本語で　手紙を　書きます。
+> 日本語で　図書館で　手紙を　書きます。
 
 The first ordering, where location comes before means, is slightly more natural, but neither is wrong.
 
@@ -183,13 +183,13 @@ The first ordering, where location comes before means, is slightly more natural,
 
 The particle へ also marks direction of movement. It overlaps significantly with に for destinations.
 
-> がっこうへ　いきます。
+> <ruby>学校<rt>がっこう</rt></ruby>へ　<ruby>行<rt>い</rt></ruby>きます。
 > I go toward school.
 
-> 日本へ　きます。
+> <ruby>日本<rt>にほん</rt></ruby>へ　<ruby>来<rt>き</rt></ruby>ます。
 > (Someone) comes to Japan.
 
-> うちへ　かえります。
+> うちへ　<ruby>帰<rt>かえ</rt></ruby>ります。
 > I return home.
 
 **へ is written with the hiragana へ but pronounced "え."** This is the third particle pronunciation exception, alongside は ("わ") and を ("お"). When you see へ after a noun and before a movement verb, read it as "え."
@@ -198,8 +198,8 @@ The particle へ also marks direction of movement. It overlaps significantly wit
 
 Both of these sentences are correct and mean nearly the same thing:
 
-> がっこう**に**　いきます。
-> がっこう**へ**　いきます。
+> <ruby>学校<rt>がっこう</rt></ruby>**に**　<ruby>行<rt>い</rt></ruby>きます。
+> 学校**へ**　行きます。
 
 The difference is subtle:
 
@@ -227,28 +227,28 @@ The rule is:
 
 Compare:
 
-> へやに　います。
+> <ruby>部屋<rt>へや</rt></ruby>に　います。
 > I am in the room. (existing — just being there)
 
-> へやで　べんきょうします。
+> 部屋で　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > I study in the room. (acting — doing something there)
 
-> としょかんに　ほんが　あります。
+> <ruby>図書館<rt>としょかん</rt></ruby>に　<ruby>本<rt>ほん</rt></ruby>が　あります。
 > There are books in the library. (existing)
 
-> としょかんで　ほんを　よみます。
+> 図書館で　本を　<ruby>読<rt>よ</rt></ruby>みます。
 > I read books in the library. (acting)
 
-> こうえんに　こどもが　います。
+> <ruby>公園<rt>こうえん</rt></ruby>に　<ruby>子<rt>こ</rt></ruby>どもが　います。
 > There are children in the park. (existing)
 
-> こうえんで　こどもが　あそびます。
+> 公園で　子どもが　<ruby>遊<rt>あそ</rt></ruby>びます。
 > Children play in the park. (acting)
 
-> えきに　人が　います。
+> <ruby>駅<rt>えき</rt></ruby>に　<ruby>人<rt>ひと</rt></ruby>が　います。
 > There are people at the station. (existing)
 
-> えきで　ともだちを　まちます。
+> 駅で　<ruby>友<rt>とも</rt></ruby>だちを　<ruby>待<rt>ま</rt></ruby>ちます。
 > I wait for a friend at the station. (acting)
 
 The test is simple: ask yourself what the verb is. If the verb is いる or ある, use に. If the verb is any action — studying, reading, eating, playing, waiting — use で.
@@ -267,10 +267,10 @@ Not all time words take the particle に. The rule is consistent:
 
 These are times that refer to a fixed point on a clock or calendar:
 
-> 七じ**に**　おきます。 — I wake up at 7 o'clock.
-> 月よう日**に**　いきます。 — I go on Monday.
-> 三月**に**　きます。 — (Someone) comes in March.
-> 一日**に**　はじまります。 — It starts on the 1st.
+> <ruby>七<rt>しち</rt></ruby>じ**に**　<ruby>起<rt>お</rt></ruby>きます。 — I wake up at 7 o'clock.
+> <ruby>月<rt>げつ</rt></ruby>よう<ruby>日<rt>び</rt></ruby>**に**　<ruby>行<rt>い</rt></ruby>きます。 — I go on Monday.
+> <ruby>三月<rt>さんがつ</rt></ruby>**に**　<ruby>来<rt>き</rt></ruby>ます。 — (Someone) comes in March.
+> <ruby>一日<rt>ついたち</rt></ruby>**に**　<ruby>始<rt>はじ</rt></ruby>まります。 — It starts on the 1st.
 
 The pattern: if you can point to it on a clock or calendar, attach に.
 
@@ -278,13 +278,13 @@ The pattern: if you can point to it on a clock or calendar, attach に.
 
 These are relative times — defined by their relationship to "now":
 
-> **きょう**　べんきょうします。 — I study today.
-> **あした**　いきます。 — I go tomorrow.
-> **きのう**　きました。 — (Someone) came yesterday. (past form — preview)
-> **まいにち**　よみます。 — I read every day.
-> **まいあさ**　おきます。 — I wake up every morning.
-> **まいばん**　ねます。 — I go to bed every night.
-> **いま**　たべます。 — I eat now.
+> **きょう**　<ruby>勉強<rt>べんきょう</rt></ruby>します。 — I study today.
+> **あした**　<ruby>行<rt>い</rt></ruby>きます。 — I go tomorrow.
+> **きのう**　<ruby>来<rt>き</rt></ruby>ました。 — (Someone) came yesterday. (past form — preview)
+> **<ruby>毎日<rt>まいにち</rt></ruby>**　<ruby>読<rt>よ</rt></ruby>みます。 — I read every day.
+> **<ruby>毎朝<rt>まいあさ</rt></ruby>**　<ruby>起<rt>お</rt></ruby>きます。 — I wake up every morning.
+> **<ruby>毎晩<rt>まいばん</rt></ruby>**　<ruby>寝<rt>ね</rt></ruby>ます。 — I go to bed every night.
+> **いま**　<ruby>食<rt>た</rt></ruby>べます。 — I eat now.
 
 These words do not attach to a fixed point on a calendar. きょう is "today" — it shifts every 24 hours. まいにち is "every day" — it is not one specific day. いま is "now" — it moves constantly. None of them take に.
 
@@ -310,24 +310,24 @@ The particle と has two functions: marking a **companion** and making an **exha
 
 ### Companion — "With"
 
-> ともだちと　いきます。
+> <ruby>友<rt>とも</rt></ruby>だちと　<ruby>行<rt>い</rt></ruby>きます。
 > I go with a friend.
 
-> 田中さんと　レストランで　たべます。
+> <ruby>田中<rt>たなか</rt></ruby>さんと　レストランで　<ruby>食<rt>た</rt></ruby>べます。
 > I eat at a restaurant with Tanaka-san.
 
-> かぞくと　こうえんで　あそびます。
+> <ruby>家族<rt>かぞく</rt></ruby>と　<ruby>公園<rt>こうえん</rt></ruby>で　<ruby>遊<rt>あそ</rt></ruby>びます。
 > I play at the park with my family.
 
-> せんせいと　はなします。
+> <ruby>先生<rt>せんせい</rt></ruby>と　<ruby>話<rt>はな</rt></ruby>します。
 > I talk with the teacher.
 
 The pattern is: **[person]と　[verb]**. The と tells the listener that this person is the companion — the one who joins in the action.
 
-Note on あう: The verb あう (to meet) can take either に or と for the person.
+Note on <ruby>会<rt>あ</rt></ruby>う: The verb 会う (to meet) can take either に or と for the person.
 
-> ともだち**に**　あいます。
-> ともだち**と**　あいます。
+> <ruby>友<rt>とも</rt></ruby>だち**に**　<ruby>会<rt>あ</rt></ruby>います。
+> 友だち**と**　会います。
 
 Both are correct. に emphasizes the directional aspect — going to meet someone. と emphasizes the mutual aspect — meeting with someone. The difference is minor.
 
@@ -335,16 +335,16 @@ Both are correct. に emphasizes the directional aspect — going to meet someon
 
 When connecting nouns in a complete list, use と between each item:
 
-> ほんと　ノートを　かいます。
+> <ruby>本<rt>ほん</rt></ruby>と　ノートを　<ruby>買<rt>か</rt></ruby>います。
 > I buy a book and a notebook. (those two, and nothing else)
 
-> コーヒーと　みずを　のみます。
+> コーヒーと　<ruby>水<rt>みず</rt></ruby>を　<ruby>飲<rt>の</rt></ruby>みます。
 > I drink coffee and water.
 
-> ペンと　ノートと　ほんを　かいます。
+> ペンと　ノートと　本を　買います。
 > I buy a pen, a notebook, and a book.
 
-The key characteristic of と is that it is **exhaustive** — the list is complete. ほんと ノートを かいます means you buy exactly a book and a notebook, nothing more.
+The key characteristic of と is that it is **exhaustive** — the list is complete. 本と ノートを 買います means you buy exactly a book and a notebook, nothing more.
 
 Japanese has another particle, や, that makes a **non-exhaustive** list — "things like A and B (and others)." That particle is introduced in a later chapter. For now, remember: と = complete list; や = partial list.
 
@@ -356,70 +356,70 @@ The particles から and まで mark the **starting point** and **ending point**
 
 ### から — "From" / "Starting at"
 
-> 九じから　はたらきます。
+> <ruby>九<rt>く</rt></ruby>じから　<ruby>働<rt>はたら</rt></ruby>きます。
 > I work from 9 o'clock.
 
-> 月よう日から　べんきょうします。
+> <ruby>月<rt>げつ</rt></ruby>よう<ruby>日<rt>び</rt></ruby>から　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > I study from Monday.
 
-> えきから　あるきます。
+> <ruby>駅<rt>えき</rt></ruby>から　<ruby>歩<rt>ある</rt></ruby>きます。
 > I walk from the station.
 
 ### まで — "Until" / "Up to"
 
-> 五じまで　はたらきます。
+> <ruby>五<rt>ご</rt></ruby>じまで　<ruby>働<rt>はたら</rt></ruby>きます。
 > I work until 5 o'clock.
 
-> 金よう日まで　べんきょうします。
+> <ruby>金<rt>きん</rt></ruby>よう<ruby>日<rt>び</rt></ruby>まで　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > I study until Friday.
 
-> がっこうまで　あるきます。
+> <ruby>学校<rt>がっこう</rt></ruby>まで　<ruby>歩<rt>ある</rt></ruby>きます。
 > I walk to school. (as far as school)
 
 ### から and まで Together
 
 These particles are frequently paired:
 
-> 九じから　五じまで　はたらきます。
+> <ruby>九<rt>く</rt></ruby>じから　<ruby>五<rt>ご</rt></ruby>じまで　<ruby>働<rt>はたら</rt></ruby>きます。
 > I work from 9 to 5.
 
-> 月よう日から　金よう日まで　がっこうに　いきます。
+> <ruby>月<rt>げつ</rt></ruby>よう<ruby>日<rt>び</rt></ruby>から　<ruby>金<rt>きん</rt></ruby>よう日まで　<ruby>学校<rt>がっこう</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きます。
 > I go to school from Monday to Friday.
 
-> うちから　えきまで　じてんしゃで　いきます。
+> うちから　<ruby>駅<rt>えき</rt></ruby>まで　<ruby>自転車<rt>じてんしゃ</rt></ruby>で　行きます。
 > I go from home to the station by bicycle.
 
-> 八じから　十じまで　としょかんで　べんきょうします。
+> <ruby>八<rt>はち</rt></ruby>じから　<ruby>十<rt>じゅう</rt></ruby>じまで　<ruby>図書館<rt>としょかん</rt></ruby>で　<ruby>勉強<rt>べんきょう</rt></ruby>します。
 > I study at the library from 8 to 10.
 
 Notice how particles stack in a single sentence: から, まで, で, and を can all appear together, each marking a different noun. The verb always comes last.
 
 A full sentence with many particles:
 
-> わたしは　まいにち　九じから　五じまで　かいしゃで　はたらきます。
+> わたしは　<ruby>毎日<rt>まいにち</rt></ruby>　九じから　五じまで　<ruby>会社<rt>かいしゃ</rt></ruby>で　<ruby>働<rt>はたら</rt></ruby>きます。
 > Every day, I work at the company from 9 to 5.
 
 Count the particles: は (topic), から (start), まで (end), で (location of action). Each one marks exactly one noun, and together they build a complete, precise sentence.
 
 ---
 
-## 9.9 Reading Passage — まいにちの せいかつ
+## 9.9 Reading Passage — <ruby>毎日<rt>まいにち</rt></ruby>の <ruby>生活<rt>せいかつ</rt></ruby>
 
 Read the following passage. Every grammar point and vocabulary item has been introduced in this chapter or in previous chapters. Read it once without looking at the translation, then check your understanding.
 
 ---
 
-わたしは　まいあさ　六じはんに　おきます。かおを　あらって、あさごはんを　たべます。まいあさ　コーヒーと　パンを　たべます。
+わたしは　<ruby>毎朝<rt>まいあさ</rt></ruby>　<ruby>六<rt>ろく</rt></ruby>じはんに　<ruby>起<rt>お</rt></ruby>きます。<ruby>顔<rt>かお</rt></ruby>を　<ruby>洗<rt>あら</rt></ruby>って、<ruby>朝<rt>あさ</rt></ruby>ごはんを　<ruby>食<rt>た</rt></ruby>べます。毎朝　コーヒーと　パンを　食べます。
 
-七じに　うちを　でます。えきまで　じてんしゃで　いきます。えきから　でんしゃで　かいしゃに　いきます。
+<ruby>七<rt>しち</rt></ruby>じに　うちを　<ruby>出<rt>で</rt></ruby>ます。<ruby>駅<rt>えき</rt></ruby>まで　<ruby>自転車<rt>じてんしゃ</rt></ruby>で　<ruby>行<rt>い</rt></ruby>きます。駅から　<ruby>電車<rt>でんしゃ</rt></ruby>で　<ruby>会社<rt>かいしゃ</rt></ruby>に　行きます。
 
-かいしゃで　九じから　五じまで　はたらきます。ひるは　十二じに　レストランで　ひるごはんを　たべます。ときどき　田中さんと　たべます。
+会社で　<ruby>九<rt>く</rt></ruby>じから　<ruby>五<rt>ご</rt></ruby>じまで　<ruby>働<rt>はたら</rt></ruby>きます。<ruby>昼<rt>ひる</rt></ruby>は　<ruby>十二<rt>じゅうに</rt></ruby>じに　レストランで　<ruby>昼<rt>ひる</rt></ruby>ごはんを　食べます。ときどき　<ruby>田中<rt>たなか</rt></ruby>さんと　食べます。
 
-五じに　しごとが　おわります。えきから　でんしゃで　かえります。うちに　六じはんに　つきます。
+五じに　<ruby>仕事<rt>しごと</rt></ruby>が　<ruby>終<rt>お</rt></ruby>わります。駅から　電車で　<ruby>帰<rt>かえ</rt></ruby>ります。うちに　六じはんに　<ruby>着<rt>つ</rt></ruby>きます。
 
-よるは　うちで　ばんごはんを　つくります。ときどき　にほんごで　りょうりの　ほんを　よみます。ばんごはんの　あとで、テレビを　みます。
+<ruby>夜<rt>よる</rt></ruby>は　うちで　<ruby>晩<rt>ばん</rt></ruby>ごはんを　<ruby>作<rt>つく</rt></ruby>ります。ときどき　<ruby>日本語<rt>にほんご</rt></ruby>で　<ruby>料理<rt>りょうり</rt></ruby>の　<ruby>本<rt>ほん</rt></ruby>を　<ruby>読<rt>よ</rt></ruby>みます。晩ごはんの　あとで、テレビを　<ruby>見<rt>み</rt></ruby>ます。
 
-まいばん　十一じに　ねます。
+<ruby>毎晩<rt>まいばん</rt></ruby>　<ruby>十一<rt>じゅういち</rt></ruby>じに　<ruby>寝<rt>ね</rt></ruby>ます。
 
 ---
 
@@ -441,15 +441,15 @@ Every night I go to bed at 11 o'clock.
 
 ### Notes on the Passage
 
-**かおを あらって** — "Wash my face and..." The て-form connects two actions in sequence. The て-form is formally introduced in a later chapter. For now, recognize the pattern: あらう → あらって means "wash and (then)..." This is a natural preview — you will encounter this form constantly in daily Japanese.
+**<ruby>顔<rt>かお</rt></ruby>を <ruby>洗<rt>あら</rt></ruby>って** — "Wash my face and..." The て-form connects two actions in sequence. The て-form is formally introduced in a later chapter. For now, recognize the pattern: <ruby>洗<rt>あら</rt></ruby>う → 洗って means "wash and (then)..." This is a natural preview — you will encounter this form constantly in daily Japanese.
 
-**かお** — "face." A new vocabulary word used here in a natural context.
+**顔** — "face." A new vocabulary word used here in a natural context.
 
-**ひる** — "noon" / "daytime." Here it functions as a relative time word and does not take に.
+**<ruby>昼<rt>ひる</rt></ruby>** — "noon" / "daytime." Here it functions as a relative time word and does not take に.
 
-**おわります** — "ends / finishes." The polite form of おわる (五段). The subject is しごと (work), marked with が.
+**<ruby>終<rt>お</rt></ruby>わります** — "ends / finishes." The polite form of 終わる (五段). The subject is <ruby>仕事<rt>しごと</rt></ruby> (work), marked with が.
 
-**つきます** — "arrives." The polite form of つく (五段). うちに つきます = I arrive home. The destination takes に.
+**<ruby>着<rt>つ</rt></ruby>きます** — "arrives." The polite form of <ruby>着<rt>つ</rt></ruby>く (五段). うちに 着きます = I arrive home. The destination takes に.
 
 **あとで** — "after." A useful time expression: ばんごはんの あとで = after dinner. Formally introduced in a later chapter.
 
@@ -457,27 +457,27 @@ Every night I go to bed at 11 o'clock.
 
 ---
 
-### Reading Passage 2 — こうえんへ いきました
+### Reading Passage 2 — <ruby>公園<rt>こうえん</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きました
 
 Read the following passage. It uses all the core particles introduced in this chapter — を, に, で, へ, と, から, まで. Read it once without looking at the translation, then check your understanding.
 
 ---
 
-にちようびに ともだちと こうえんへ いきました。
+<ruby>日曜日<rt>にちようび</rt></ruby>に <ruby>友<rt>とも</rt></ruby>だちと <ruby>公園<rt>こうえん</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きました。
 
-うちから こうえんまで バスで いきました。バスで 二十分ぐらいです。
+うちから 公園まで バスで 行きました。バスで <ruby>二十<rt>にじゅう</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ぐらいです。
 
-こうえんの いりぐちに 大きな とりいが あります。あれは めいじじんぐうの とりいです。
+公園の <ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>に <ruby>大<rt>おお</rt></ruby>きな <ruby>鳥居<rt>とりい</rt></ruby>が あります。あれは <ruby>明治神宮<rt>めいじじんぐう</rt></ruby>の 鳥居です。
 
-こうえんの なかを あるきました。みちの りょうがわに 大きな きが あります。とても しずかです。とうきょうの なかに こんな しずかな ばしょが あります。
+公園の <ruby>中<rt>なか</rt></ruby>を <ruby>歩<rt>ある</rt></ruby>きました。<ruby>道<rt>みち</rt></ruby>の <ruby>両側<rt>りょうがわ</rt></ruby>に 大きな <ruby>木<rt>き</rt></ruby>が あります。とても <ruby>静<rt>しず</rt></ruby>かです。<ruby>東京<rt>とうきょう</rt></ruby>の 中に こんな 静かな <ruby>場所<rt>ばしょ</rt></ruby>が あります。
 
-ひるに ベンチで おべんとうを たべました。おべんとうは コンビニで かいました。ともだちは おにぎりと おちゃを かいました。わたしは サンドイッチを かいました。
+<ruby>昼<rt>ひる</rt></ruby>に ベンチで おべんとうを <ruby>食<rt>た</rt></ruby>べました。おべんとうは コンビニで <ruby>買<rt>か</rt></ruby>いました。友だちは おにぎりと おちゃを 買いました。わたしは サンドイッチを 買いました。
 
-ごごは じんじゃに いきました。じんじゃで おまいりを しました。それから、おみくじを ひきました。わたしの おみくじは 「小吉」でした。ともだちの おみくじは 「大吉」でした。
+<ruby>午後<rt>ごご</rt></ruby>は <ruby>神社<rt>じんじゃ</rt></ruby>に 行きました。神社で おまいりを しました。それから、おみくじを <ruby>引<rt>ひ</rt></ruby>きました。わたしの おみくじは 「小吉」でした。友だちの おみくじは 「大吉」でした。
 
-三じから 四じまで いけの ちかくで やすみました。いけに こいが たくさん いました。あかい こいと しろい こいが いました。
+<ruby>三<rt>さん</rt></ruby>じから <ruby>四<rt>よん</rt></ruby>じまで <ruby>池<rt>いけ</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くで <ruby>休<rt>やす</rt></ruby>みました。池に <ruby>鯉<rt>こい</rt></ruby>が たくさん いました。<ruby>赤<rt>あか</rt></ruby>い 鯉と <ruby>白<rt>しろ</rt></ruby>い 鯉が いました。
 
-五じに こうえんを でました。えきまで あるいて、でんしゃで かえりました。
+<ruby>五<rt>ご</rt></ruby>じに 公園を <ruby>出<rt>で</rt></ruby>ました。<ruby>駅<rt>えき</rt></ruby>まで <ruby>歩<rt>ある</rt></ruby>いて、<ruby>電車<rt>でんしゃ</rt></ruby>で <ruby>帰<rt>かえ</rt></ruby>りました。
 
 ---
 
@@ -503,7 +503,7 @@ At 5, I left the park. I walked to the station and went home by train.
 
 ### Notes on the Passage
 
-**めいじじんぐう** — Meiji Shrine, located inside a large forested park in central Tokyo. It is one of the most visited shrines in Japan. The contrast between the quiet forest and the surrounding city is striking.
+**<ruby>明治神宮<rt>めいじじんぐう</rt></ruby>** — Meiji Shrine, located inside a large forested park in central Tokyo. It is one of the most visited shrines in Japan. The contrast between the quiet forest and the surrounding city is striking.
 
 **こんな** — "this kind of / such a." A こそあど word: こんな (this kind), そんな (that kind), あんな (that kind, far), どんな (what kind). Formally introduced later.
 
@@ -511,11 +511,11 @@ At 5, I left the park. I walked to the station and went home by train.
 
 **おみくじを ひきました** — "drew a fortune slip." おみくじ are paper fortunes found at shrines and temples. They range from 大吉 (great luck) to 大凶 (great misfortune). 小吉 is "small luck" — mildly good.
 
-**しずかな** — "quiet." A な-adjective (covered in Chapter 14). Recognize しずかな ばしょ as "a quiet place."
+**<ruby>静<rt>しず</rt></ruby>かな** — "quiet." A な-adjective (covered in Chapter 14). Recognize 静かな <ruby>場所<rt>ばしょ</rt></ruby> as "a quiet place."
 
-**こい** — "koi / carp." Ornamental fish found in ponds at many Japanese parks and temple grounds.
+**<ruby>鯉<rt>こい</rt></ruby>** — "koi / carp." Ornamental fish found in ponds at many Japanese parks and temple grounds.
 
-**あかい / しろい** — "red / white." い-adjectives (Chapter 13). Recognize them as color words modifying こい.
+**<ruby>赤<rt>あか</rt></ruby>い / <ruby>白<rt>しろ</rt></ruby>い** — "red / white." い-adjectives (Chapter 13). Recognize them as color words modifying 鯉.
 
 ---
 

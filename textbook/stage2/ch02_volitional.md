@@ -60,7 +60,7 @@ The most basic use of the volitional form is as a casual equivalent of ～まし
 > もう　帰ろう。
 > "Let's go home already."
 
-> あした　いっしょに　べんきょうしよう。
+> あした　<ruby>一緒<rt>いっしょ</rt></ruby>に　<ruby>勉強<rt>べんきょう</rt></ruby>しよう。
 > "Let's study together tomorrow."
 
 > ちょっと　休もう。（やすもう）
@@ -82,7 +82,7 @@ When the volitional is used by a speaker alone — without addressing a listener
 > よし、がんばろう。
 > "All right, I'll do my best."
 
-> あした　はやく　起きよう。
+> あした　<ruby>早<rt>はや</rt></ruby>く　起きよう。
 > "I'll wake up early tomorrow." (said to oneself)
 
 This "self-directed" use is common in internal monologue in novels and manga. You will encounter it frequently in narrative texts where a character is thinking to themselves.
@@ -98,13 +98,13 @@ The volitional form combined with と思う creates a construction that expresse
 > 来年　日本に　行こうと　思っている。
 > "I'm thinking of going to Japan next year."
 
-> あたらしい　パソコンを　買おうと　思う。
+> <ruby>新<rt>あたら</rt></ruby>しい　パソコンを　<ruby>買<rt>か</rt></ruby>おうと　<ruby>思<rt>おも</rt></ruby>う。
 > "I think I'll buy a new computer."
 
-> あした　ともだちに　電話しようと　思っています。
+> あした　<ruby>友達<rt>ともだち</rt></ruby>に　<ruby>電話<rt>でんわ</rt></ruby>しようと　思っています。
 > "I'm thinking of calling my friend tomorrow." (polite)
 
-> 日本語の　べんきょうを　つづけようと　思う。
+> <ruby>日本語<rt>にほんご</rt></ruby>の　<ruby>勉強<rt>べんきょう</rt></ruby>を　<ruby>続<rt>つづ</rt></ruby>けようと　思う。
 > "I think I'll continue studying Japanese."
 
 There is a subtle difference between と思う and と思っている in this construction. ～ようと思う expresses a decision being made at the moment of speaking — "I think I'll..." ～ようと思っている expresses an ongoing plan that has been in the speaker's mind for some time — "I've been thinking of..." Both are common, and the difference is often negligible in casual speech.
@@ -112,7 +112,7 @@ There is a subtle difference between と思う and と思っている in this co
 > 来月　引っ越そうと　思っている。（ひっこそう）
 > "I've been thinking of moving next month."
 
-> 今日は　はやく　ねようと　思う。
+> <ruby>今日<rt>きょう</rt></ruby>は　<ruby>早<rt>はや</rt></ruby>く　<ruby>寝<rt>ね</rt></ruby>ようと　思う。
 > "I think I'll go to bed early today."
 
 Compare this with つもり:
@@ -141,7 +141,7 @@ In the past tense (～ようとした), this construction typically describes an
 > 説明しようとしたが、ことばが　出なかった。（せつめい）
 > "I tried to explain, but the words wouldn't come out."
 
-> 電話しようとした　とき、ともだちが　来た。
+> 電話しようとした　とき、<ruby>友達<rt>ともだち</rt></ruby>が　<ruby>来<rt>き</rt></ruby>た。
 > "Just when I was about to call, my friend arrived."
 
 The nuance is important: ～ようとする describes the **attempt** or **intent** to do something, not the successful completion. It often pairs with failure or interruption. This is different from ～てみる (which you will learn later), where the action is actually carried out as an experiment.
@@ -153,35 +153,35 @@ In the present tense (～ようとしている), the construction can describe a
 > 電車が　出ようとしている。
 > "The train is about to leave."
 
-> 日が　しずもうとしている。
+> <ruby>日<rt>ひ</rt></ruby>が　<ruby>沈<rt>しず</rt></ruby>もうとしている。
 > "The sun is about to set."
 
-> あかちゃんが　あるこうとしている。
+> <ruby>赤<rt>あか</rt></ruby>ちゃんが　<ruby>歩<rt>ある</rt></ruby>こうとしている。
 > "The baby is trying to walk."
 
 In this usage, the line between "trying to" and "about to" can blur. Context and the nature of the verb determine the interpretation. With non-volitional subjects (the sun, a train), "about to" is the natural reading. With volitional subjects (a person, a baby), "trying to" is often more appropriate.
 
-> ねこが　テーブルの　上に　のろうとしている。
+> <ruby>猫<rt>ねこ</rt></ruby>が　テーブルの　<ruby>上<rt>うえ</rt></ruby>に　<ruby>乗<rt>の</rt></ruby>ろうとしている。
 > "The cat is trying to get on the table."
 
-> かれは　何かを　言おうとしたが、やめた。
+> <ruby>彼<rt>かれ</rt></ruby>は　<ruby>何<rt>なに</rt></ruby>かを　<ruby>言<rt>い</rt></ruby>おうとしたが、やめた。
 > "He tried to say something, but stopped."
 
 ---
 
 ## 2.5 Reading Passage
 
-あしたは　日曜日だ。何を　しよう？
+あしたは　<ruby>日曜日<rt>にちようび</rt></ruby>だ。<ruby>何<rt>なに</rt></ruby>を　しよう？
 
-さいきん、あまり　うんどうを　していない。あしたは　はやく　起きて、こうえんを　走ろうと　思う。三十分ぐらい　走ったら、シャワーを　あびて、あさごはんを　食べよう。
+<ruby>最近<rt>さいきん</rt></ruby>、あまり　<ruby>運動<rt>うんどう</rt></ruby>を　していない。あしたは　<ruby>早<rt>はや</rt></ruby>く　<ruby>起<rt>お</rt></ruby>きて、<ruby>公園<rt>こうえん</rt></ruby>を　<ruby>走<rt>はし</rt></ruby>ろうと　<ruby>思<rt>おも</rt></ruby>う。<ruby>三十分<rt>さんじゅっぷん</rt></ruby>ぐらい　走ったら、シャワーを　<ruby>浴<rt>あ</rt></ruby>びて、<ruby>朝<rt>あさ</rt></ruby>ごはんを　<ruby>食<rt>た</rt></ruby>べよう。
 
-ごごは　どうしよう。ともだちの　山田さんに　れんらくしようかな。先週、「あたらしい　カフェに　行こう」と　言っていたから、いっしょに　行こうと　思う。山田さんは　コーヒーが　大すきだから、きっと　よろこぶだろう。
+<ruby>午後<rt>ごご</rt></ruby>は　どうしよう。<ruby>友達<rt>ともだち</rt></ruby>の　<ruby>山田<rt>やまだ</rt></ruby>さんに　<ruby>連絡<rt>れんらく</rt></ruby>しようかな。<ruby>先週<rt>せんしゅう</rt></ruby>、「<ruby>新<rt>あたら</rt></ruby>しい　カフェに　<ruby>行<rt>い</rt></ruby>こう」と　<ruby>言<rt>い</rt></ruby>っていたから、<ruby>一緒<rt>いっしょ</rt></ruby>に　行こうと　思う。山田さんは　コーヒーが　<ruby>大好<rt>だいす</rt></ruby>きだから、きっと　<ruby>喜<rt>よろこ</rt></ruby>ぶだろう。
 
-カフェの　あとは、えいがを　見ようか。さいきん　見たい　えいがが　ある。山田さんも　見たいと　言っていた。えいがかんは　えきの　ちかくに　あるから、カフェから　あるいて　行ける。
+カフェの　<ruby>後<rt>あと</rt></ruby>は、<ruby>映画<rt>えいが</rt></ruby>を　<ruby>見<rt>み</rt></ruby>ようか。最近　見たい　映画が　ある。山田さんも　見たいと　言っていた。<ruby>映画館<rt>えいがかん</rt></ruby>は　<ruby>駅<rt>えき</rt></ruby>の　<ruby>近<rt>ちか</rt></ruby>くに　あるから、カフェから　<ruby>歩<rt>ある</rt></ruby>いて　<ruby>行<rt>い</rt></ruby>ける。
 
-よる　は、来月の　りょこうの　けいかくを　たてようと　思っている。日本に　行こうと　思っているが、まだ　ホテルを　きめていない。こんしゅうちゅうに　きめようと　思う。
+<ruby>夜<rt>よる</rt></ruby>は、<ruby>来月<rt>らいげつ</rt></ruby>の　<ruby>旅行<rt>りょこう</rt></ruby>の　<ruby>計画<rt>けいかく</rt></ruby>を　<ruby>立<rt>た</rt></ruby>てようと　思っている。<ruby>日本<rt>にほん</rt></ruby>に　行こうと　思っているが、まだ　ホテルを　<ruby>決<rt>き</rt></ruby>めていない。<ruby>今週中<rt>こんしゅうちゅう</rt></ruby>に　決めようと　思う。
 
-よし、あしたは　いい　一日に　しよう。
+よし、あしたは　いい　<ruby>一日<rt>いちにち</rt></ruby>に　しよう。
 
 ---
 

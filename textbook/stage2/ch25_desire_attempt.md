@@ -202,7 +202,7 @@ These suffixes describe how easy or hard an action is to perform. They attach to
 > この　本は　読みやすい。
 > "This book is easy to read."
 
-> あの　先生の　説明は　わかりやすいです。
+> あの　<ruby>先生<rt>せんせい</rt></ruby>の　<ruby>説明<rt>せつめい</rt></ruby>は　<ruby>分<rt>わ</rt></ruby>かりやすいです。
 > "That teacher's explanations are easy to understand."
 
 > この　ペンは　書きやすい。
@@ -216,13 +216,13 @@ These suffixes describe how easy or hard an action is to perform. They attach to
 > この　字は　小さくて　読みにくい。
 > "These characters are small and hard to read."
 
-> あの　人の　話は　わかりにくい。
+> あの　<ruby>人<rt>ひと</rt></ruby>の　<ruby>話<rt>はなし</rt></ruby>は　分かりにくい。
 > "That person's speech is hard to understand."
 
 > この　靴は　歩きにくい。
 > "These shoes are hard to walk in."
 
-> 言いにくいことですが、その　計画は　うまく　いかないと　思います。
+> <ruby>言<rt>い</rt></ruby>いにくいことですが、その　<ruby>計画<rt>けいかく</rt></ruby>は　うまく　いかないと　<ruby>思<rt>おも</rt></ruby>います。
 > "This is hard to say, but I think that plan won't go well."
 
 ### Conjugation
@@ -252,7 +252,7 @@ An important nuance: やすい and にくい describe the inherent quality of th
 
 やすい has a secondary meaning: "tends to, is prone to." This meaning is common and important.
 
-> この　かさは　壊れやすい。
+> この　<ruby>傘<rt>かさ</rt></ruby>は　<ruby>壊<rt>こわ</rt></ruby>れやすい。
 > "This umbrella breaks easily." (It's fragile)
 
 > 彼は　風邪を　引きやすい。
@@ -293,7 +293,7 @@ Context makes clear whether やすい means "easy to do" or "prone to." Often bo
 
 ### With い-adjectives — "too [adjective]"
 
-> この　かばんは　高すぎる。
+> この　<ruby>鞄<rt>かばん</rt></ruby>は　<ruby>高<rt>たか</rt></ruby>すぎる。
 > "This bag is too expensive."
 
 > 部屋が　暑すぎて、眠れない。

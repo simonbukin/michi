@@ -1,6 +1,6 @@
 # Chapter 15 — Describing and Comparing
 
-You now have two complete adjective systems. Chapter 13 covered い-adjectives — words like おおきい, たかい, あつい — which carry tense and polarity in their own endings. Chapter 14 covered な-adjectives — words like しずか, きれい, げんき — which behave like nouns and rely on the copula for conjugation. This chapter puts both systems to work.
+You now have two complete adjective systems. Chapter 13 covered い-adjectives — words like おおきい, たかい, あつい — which carry tense and polarity in their own endings. Chapter 14 covered な-adjectives — words like <ruby>静<rt>しず</rt></ruby>か, きれい, <ruby>元気<rt>げんき</rt></ruby> — which behave like nouns and rely on the copula for conjugation. This chapter puts both systems to work.
 
 Describing things in natural Japanese requires more than a single adjective at the end of a sentence. You need to say how much (degree adverbs), stack multiple descriptions together (adjective chaining), contrast two qualities (but), ask what kind (どんな), compare two or more things (より, ほど, いちばん), and describe people and weather with the right structural patterns. This chapter covers all of these.
 
@@ -14,13 +14,13 @@ An adjective by itself gives you a binary: something is big or it is not big, so
 
 とても is the standard word for "very." It works with both い-adjectives and な-adjectives.
 
-> このりょうりは とても おいしいです。
+> この<ruby>料理<rt>りょうり</rt></ruby>は とても おいしいです。
 > This food is very delicious.
 
-> あの こうえんは とても しずかです。
+> あの <ruby>公園<rt>こうえん</rt></ruby>は とても <ruby>静<rt>しず</rt></ruby>かです。
 > That park is very quiet.
 
-> きょうは とても さむいです。
+> <ruby>今日<rt>きょう</rt></ruby>は とても さむいです。
 > Today is very cold.
 
 とても is neutral in formality. It is appropriate in polite speech, writing, and casual conversation alike.
@@ -29,38 +29,38 @@ An adjective by itself gives you a binary: something is big or it is not big, so
 
 すこし means "a little" or "slightly." It places the quality at a low degree.
 
-> このへやは すこし くらいです。
+> この<ruby>部屋<rt>へや</rt></ruby>は すこし くらいです。
 > This room is a little dark.
 
-> そのえいがは すこし ながいです。
+> その<ruby>映画<rt>えいが</rt></ruby>は すこし ながいです。
 > That movie is a little long.
 
 ちょっと means the same thing but is more casual. In formal writing or polite speech to a superior, すこし is safer. In daily conversation with friends or coworkers, ちょっと is natural and common.
 
-> きょうは ちょっと あついです。
+> 今日は ちょっと あついです。
 > Today is a bit hot.
 
-> この もんだいは ちょっと むずかしいです。
+> この <ruby>問題<rt>もんだい</rt></ruby>は ちょっと <ruby>難<rt>むずか</rt></ruby>しいです。
 > This problem is a bit difficult.
 
 ### かなり — Fairly, Quite
 
 かなり sits between とても and すこし. It means "fairly" or "quite" — more than expected, but the speaker is not using the strongest word available.
 
-> この テストは かなり むずかしいです。
+> この テストは かなり 難しいです。
 > This test is quite difficult.
 
-> あの レストランは かなり ゆうめいです。
+> あの レストランは かなり <ruby>有名<rt>ゆうめい</rt></ruby>です。
 > That restaurant is fairly famous.
 
 ### まあまあ — So-So
 
 まあまあ means "so-so" or "not bad, not great." It expresses a middling evaluation.
 
-> この ほんは まあまあ おもしろいです。
+> この <ruby>本<rt>ほん</rt></ruby>は まあまあ <ruby>面白<rt>おもしろ</rt></ruby>いです。
 > This book is so-so interesting.
 
-> りょうりは まあまあ おいしかったです。
+> 料理は まあまあ おいしかったです。
 > The food was so-so good.
 
 まあまあ can also stand alone as a response. If someone asks how something was, you can simply say まあまあです — "It was so-so."
@@ -69,13 +69,13 @@ An adjective by itself gives you a binary: something is big or it is not big, so
 
 あまり is different from the adverbs above. It **requires a negative predicate**. あまり by itself means "not very" or "not much," and the adjective that follows must be in its negative form.
 
-> この りょうりは あまり おいしくないです。
+> この 料理は あまり おいしくないです。
 > This food is not very delicious.
 
-> あの まちは あまり しずかじゃないです。
+> あの <ruby>町<rt>まち</rt></ruby>は あまり 静かじゃないです。
 > That town is not very quiet.
 
-> きょうは あまり さむくないです。
+> 今日は あまり さむくないです。
 > Today is not very cold.
 
 You cannot say あまり おいしいです. The grammar requires the negative. Think of あまり as meaning "not to a great degree" — the negative is built into its meaning, and the predicate must match.
@@ -86,8 +86,8 @@ All degree adverbs go **directly before the adjective** they modify. The word or
 
 > [topic]は [degree adverb] [adjective]です。
 
-> この まちは とても きれいです。 (correct)
-> この まちは きれい とてもです。 (wrong)
+> この 町は とても きれいです。 (correct)
+> この 町は きれい とてもです。 (wrong)
 
 ---
 
@@ -108,17 +108,17 @@ Drop the final い and add くて.
 | ちかい | ちかくて |
 | あたらしい | あたらしくて |
 
-> この りょうりは やすくて おいしいです。
+> この <ruby>料理<rt>りょうり</rt></ruby>は やすくて おいしいです。
 > This food is cheap and delicious.
 
-> あの いえは おおきくて あたらしいです。
+> あの <ruby>家<rt>いえ</rt></ruby>は おおきくて <ruby>新<rt>あたら</rt></ruby>しいです。
 > That house is big and new.
 
 The て-form carries the meaning "and" — it connects one quality to the next. The final adjective in the chain takes its normal form (ending in い for い-adjectives, or な/です for な-adjectives).
 
 Note: いい ("good") has the irregular て-form よくて, following the same irregular stem as its other conjugations (よくない, よかった).
 
-> この みせは やすくて おいしくて、 サービスも いいです。
+> この <ruby>店<rt>みせ</rt></ruby>は やすくて おいしくて、 サービスも いいです。
 > This restaurant is cheap, delicious, and the service is good too.
 
 ### な-Adjective て-Form
@@ -134,10 +134,10 @@ Replace な with で.
 | べんり | べんりで |
 | にぎやか | にぎやかで |
 
-> あの まちは しずかで きれいです。
+> あの <ruby>町<rt>まち</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かで きれいです。
 > That town is quiet and beautiful.
 
-> やまださんは げんきで やさしいです。
+> やまださんは <ruby>元気<rt>げんき</rt></ruby>で やさしいです。
 > Yamada-san is energetic and kind.
 
 The で here is the て-form of the copula だ. It is not the particle で (place of action) — same sound, different grammar. Context makes the distinction clear: if で follows a な-adjective stem and connects to another adjective, it is the copula て-form.
@@ -146,7 +146,7 @@ The で here is the て-form of the copula だ. It is not the particle で (plac
 
 You can chain い-adjectives and な-adjectives together freely. Each adjective except the last one takes its て-form.
 
-> この へやは ひろくて あかるくて きれいです。
+> この <ruby>部屋<rt>へや</rt></ruby>は ひろくて あかるくて きれいです。
 > This room is spacious, bright, and beautiful.
 
 In this example, ひろい and あかるい (both い-adjectives) take くて, and きれい (な-adjective) appears last in its normal form with です.
@@ -156,7 +156,7 @@ In this example, ひろい and あかるい (both い-adjectives) take くて, a
 
 Here, しずか (な-adjective) takes で, and ひろい (い-adjective) modifies the noun へや directly. The chain can mix types in any order.
 
-> この まちは にぎやかで たのしくて、 とても すきです。
+> この 町は <ruby>賑<rt>にぎ</rt></ruby>やかで たのしくて、 とても <ruby>好<rt>す</rt></ruby>きです。
 > This town is lively and fun, and I like it a lot.
 
 ### Important Nuance
@@ -172,10 +172,10 @@ You already know が as the subject-marking particle (Chapter 5). It has a secon
 > おいしいですが、 たかいです。
 > It is delicious, but expensive.
 
-> この まちは きれいですが、 ちょっと ふべんです。
+> この <ruby>町<rt>まち</rt></ruby>は きれいですが、 ちょっと <ruby>不便<rt>ふべん</rt></ruby>です。
 > This town is beautiful, but a little inconvenient.
 
-> あの レストランは ゆうめいですが、 あまり おいしくないです。
+> あの レストランは <ruby>有名<rt>ゆうめい</rt></ruby>ですが、 あまり おいしくないです。
 > That restaurant is famous, but not very delicious.
 
 ### How It Works
@@ -186,17 +186,17 @@ The structure is:
 
 > [Clause A]ですが、 [Clause B]です。
 
-> やまださんは やさしいですが、 すこし しずかです。
+> やまださんは やさしいですが、 すこし <ruby>静<rt>しず</rt></ruby>かです。
 > Yamada-san is kind, but a little quiet.
 
-> きょうは あたたかいですが、 かぜが つよいです。
+> <ruby>今日<rt>きょう</rt></ruby>は あたたかいですが、 <ruby>風<rt>かぜ</rt></ruby>が つよいです。
 > Today is warm, but the wind is strong.
 
 ### Distinguishing Two Uses of が
 
 How do you tell contrastive が from subject-marking が? By position. Subject-marking が follows a noun and comes before the predicate of a single clause. Contrastive が comes **after a complete predicate** and introduces a new clause.
 
-> さかなが すきです。 (subject marker: さかな is what is liked)
+> <ruby>魚<rt>さかな</rt></ruby>が 好きです。 (subject marker: 魚 is what is liked)
 > おいしいですが、たかいです。 (contrastive: "but")
 
 There is no ambiguity in practice. If が appears after です or ます, it is contrastive.
@@ -211,27 +211,27 @@ This contrastive が is relatively formal. In casual speech, けど or けれど
 
 To ask what kind of thing something is, use どんな before a noun.
 
-> どんな たべものが すきですか。
+> どんな <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が <ruby>好<rt>す</rt></ruby>きですか。
 > What kind of food do you like?
 
-> どんな おんがくを ききますか。
+> どんな <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きますか。
 > What kind of music do you listen to?
 
-> どんな まちに すんでいますか。
+> どんな <ruby>町<rt>まち</rt></ruby>に <ruby>住<rt>す</rt></ruby>んでいますか。
 > What kind of town do you live in?
 
 どんな is a question word that modifies a noun directly. It does not change form. The answer replaces どんな with the relevant adjective or descriptive phrase.
 
-> どんな たべものが すきですか。
-> — からい たべものが すきです。
+> どんな 食べ物が 好きですか。
+> — <ruby>辛<rt>から</rt></ruby>い 食べ物が 好きです。
 > "I like spicy food."
 
-> どんな まちに すんでいますか。
-> — しずかで ちいさい まちに すんでいます。
+> どんな 町に 住んでいますか。
+> — <ruby>静<rt>しず</rt></ruby>かで ちいさい 町に 住んでいます。
 > "I live in a quiet, small town."
 
 > どんな ひとですか。
-> — やさしくて おもしろい ひとです。
+> — やさしくて <ruby>面白<rt>おもしろ</rt></ruby>い ひとです。
 > "A kind and interesting person."
 
 Note that the answer uses adjective chaining naturally. どんな questions invite descriptive answers, and this is where the て-form chains from Section 15.2 become immediately useful.
@@ -248,26 +248,26 @@ The most basic comparison pattern places より after the item that comes out lo
 
 > [A]は [B]より [adjective]です。
 
-> とうきょうは おおさかより おおきいです。
+> <ruby>東京<rt>とうきょう</rt></ruby>は <ruby>大阪<rt>おおさか</rt></ruby>より おおきいです。
 > "Tokyo is bigger than Osaka."
 
-> なつは はるより あついです。
+> <ruby>夏<rt>なつ</rt></ruby>は <ruby>春<rt>はる</rt></ruby>より あついです。
 > "Summer is hotter than spring."
 
-> にほんごは えいごより むずかしいです。
+> <ruby>日本語<rt>にほんご</rt></ruby>は <ruby>英語<rt>えいご</rt></ruby>より <ruby>難<rt>むずか</rt></ruby>しいです。
 > "Japanese is harder than English."
 
-> この ほんは あの ほんより おもしろいです。
+> この <ruby>本<rt>ほん</rt></ruby>は あの 本より <ruby>面白<rt>おもしろ</rt></ruby>いです。
 > "This book is more interesting than that book."
 
 The thing marked by より is the *lesser* side. とうきょうは おおさかより おおきい means "Tokyo is bigger, compared against Osaka." Osaka is the reference point; Tokyo exceeds it.
 
 This pattern works identically with な-adjectives:
 
-> この こうえんは あの こうえんより しずかです。
+> この <ruby>公園<rt>こうえん</rt></ruby>は あの 公園より <ruby>静<rt>しず</rt></ruby>かです。
 > "This park is quieter than that park."
 
-> やまださんは たなかさんより げんきです。
+> やまださんは たなかさんより <ruby>元気<rt>げんき</rt></ruby>です。
 > "Yamada-san is more energetic than Tanaka-san."
 
 ### BよりAのほうが — Alternative Word Order
@@ -276,20 +276,20 @@ There is a second way to express the same comparison. Instead of making A the to
 
 > [B]より [A]の　ほうが [adjective]です。
 
-> おおさかより とうきょうの　ほうが おおきいです。
+> 大阪より 東京の　ほうが おおきいです。
 > "Tokyo is bigger than Osaka."
 
-> えいごより にほんごの　ほうが むずかしいです。
+> 英語より 日本語の　ほうが 難しいです。
 > "Japanese is harder than English."
 
-> あの こうえんより この こうえんの　ほうが しずかです。
+> あの 公園より この 公園の　ほうが 静かです。
 > "This park is quieter than that park."
 
 The meaning is identical to the AはBより pattern. The difference is emphasis: のほうが draws attention to the winner of the comparison. In conversation, this form often sounds more natural when answering a question like "Which one is bigger?"
 
 You can also drop the より phrase when context makes it obvious:
 
-> にほんごの　ほうが むずかしいです。
+> 日本語の　ほうが 難しいです。
 > "Japanese is harder (than the other one we are talking about)."
 
 ### AはBほど〜ない — "A Is Not As ~ As B"
@@ -298,16 +298,16 @@ To say that something does *not* reach the level of something else, use ほど w
 
 > [A]は [B]ほど [adjective negative]です。
 
-> おおさかは とうきょうほど おおきくないです。
+> 大阪は 東京ほど おおきくないです。
 > "Osaka is not as big as Tokyo."
 
-> えいごは にほんごほど むずかしくないです。
+> 英語は 日本語ほど 難しくないです。
 > "English is not as hard as Japanese."
 
-> ふゆは なつほど あつくないです。
+> <ruby>冬<rt>ふゆ</rt></ruby>は 夏ほど あつくないです。
 > "Winter is not as hot as summer."
 
-> この まちは とうきょうほど にぎやかじゃないです。
+> この <ruby>町<rt>まち</rt></ruby>は 東京ほど <ruby>賑<rt>にぎ</rt></ruby>やかじゃないです。
 > "This town is not as lively as Tokyo."
 
 The grammar requires a negative predicate. You cannot say Aは Bほど おおきいです — the negative is mandatory. Think of ほど as meaning "to the degree of." おおさかは とうきょうほど おおきくない literally means "Osaka is not big to the degree of Tokyo."
@@ -320,16 +320,16 @@ To say something is the most or the best within a group, use いちばん ("numb
 
 > [group]で [A]が いちばん [adjective]です。
 
-> くだものの　なかで りんごが いちばん すきです。
+> <ruby>果物<rt>くだもの</rt></ruby>の　なかで りんごが いちばん <ruby>好<rt>す</rt></ruby>きです。
 > "Among fruits, I like apples the best."
 
 > この クラスで やまださんが いちばん せが たかいです。
 > "In this class, Yamada-san is the tallest."
 
-> 日本で ふじさんが いちばん たかいです。
+> 日本で <ruby>富士<rt>ふじ</rt></ruby>さんが いちばん たかいです。
 > "In Japan, Mt. Fuji is the tallest."
 
-> きせつの　なかで はるが いちばん すきです。
+> <ruby>季節<rt>きせつ</rt></ruby>の　なかで <ruby>春<rt>はる</rt></ruby>が いちばん 好きです。
 > "Among the seasons, I like spring the best."
 
 Notice that the item being described takes が, not は. This is because いちばん answers the implicit question "which one?" — and new-information answers use が (Chapter 5).
@@ -342,13 +342,13 @@ When two things are roughly equal, use と おなじくらい.
 
 > [A]は [B]と おなじくらい [adjective]です。
 
-> とうきょうは ニューヨークと おなじくらい おおきいです。
+> 東京は ニューヨークと おなじくらい おおきいです。
 > "Tokyo is about as big as New York."
 
-> この ほんは あの ほんと おなじくらい おもしろいです。
+> この <ruby>本<rt>ほん</rt></ruby>は あの 本と おなじくらい 面白いです。
 > "This book is about as interesting as that book."
 
-> きょうは きのうと おなじくらい さむいです。
+> <ruby>今日<rt>きょう</rt></ruby>は <ruby>昨日<rt>きのう</rt></ruby>と おなじくらい さむいです。
 > "Today is about as cold as yesterday."
 
 おなじくらい literally means "about the same degree." The と marks the item being compared to, and くらい indicates approximation.
@@ -365,24 +365,24 @@ To ask which of two things has more of a quality, use どちら ("which of two")
 
 > [A]と [B]と どちらが [adjective]ですか。
 
-> にほんごと えいごと どちらが むずかしいですか。
+> <ruby>日本語<rt>にほんご</rt></ruby>と <ruby>英語<rt>えいご</rt></ruby>と どちらが <ruby>難<rt>むずか</rt></ruby>しいですか。
 > "Which is harder, Japanese or English?"
 
-> なつと ふゆと どちらが すきですか。
+> <ruby>夏<rt>なつ</rt></ruby>と <ruby>冬<rt>ふゆ</rt></ruby>と どちらが <ruby>好<rt>す</rt></ruby>きですか。
 > "Which do you like better, summer or winter?"
 
-> とうきょうと おおさかと どちらが おおきいですか。
+> <ruby>東京<rt>とうきょう</rt></ruby>と <ruby>大阪<rt>おおさか</rt></ruby>と どちらが おおきいですか。
 > "Which is bigger, Tokyo or Osaka?"
 
 The answer uses のほうが (pointing to the winner), often with より (pointing to the loser):
 
-> — にほんごの　ほうが むずかしいです。
+> — 日本語の　ほうが 難しいです。
 > "Japanese is harder."
 
-> — にほんごの　ほうが えいごより むずかしいです。
+> — 日本語の　ほうが 英語より 難しいです。
 > "Japanese is harder than English."
 
-> — なつの　ほうが すきです。
+> — 夏の　ほうが 好きです。
 > "I like summer better."
 
 If the two are about equal, answer with おなじくらい:
@@ -398,22 +398,22 @@ To ask about the best among three or more, use the appropriate question word wit
 
 > [group]で なにが いちばん [adjective]ですか。
 
-> くだものの　なかで なにが いちばん すきですか。
+> <ruby>果物<rt>くだもの</rt></ruby>の　なかで なにが いちばん <ruby>好<rt>す</rt></ruby>きですか。
 > "Among fruits, what do you like the best?"
 
-> — りんごが いちばん すきです。
+> — りんごが いちばん 好きです。
 > "I like apples the best."
 
-> きせつの　なかで いつが いちばん すきですか。
+> <ruby>季節<rt>きせつ</rt></ruby>の　なかで いつが いちばん 好きですか。
 > "Among the seasons, when (which) do you like the best?"
 
-> — あきが いちばん すきです。
+> — <ruby>秋<rt>あき</rt></ruby>が いちばん 好きです。
 > "I like autumn the best."
 
 > 日本で どこが いちばん きれいですか。
 > "Where in Japan is the most beautiful?"
 
-> — きょうとが いちばん きれいです。
+> — <ruby>京都<rt>きょうと</rt></ruby>が いちばん きれいです。
 > "Kyoto is the most beautiful."
 
 The question word changes depending on what you are asking about: なに for things, どこ for places, だれ for people, いつ for times. The answer replaces the question word with the specific item and keeps いちばん.
@@ -428,23 +428,23 @@ The question word changes depending on what you are asking about: なに for thi
 
 Here are natural question-and-answer pairs that combine the patterns from this section:
 
-> A: とうきょうと きょうとと どちらが すきですか。
-> B: きょうとの　ほうが すきです。 しずかで きれいです。
+> A: <ruby>東京<rt>とうきょう</rt></ruby>と <ruby>京都<rt>きょうと</rt></ruby>と どちらが <ruby>好<rt>す</rt></ruby>きですか。
+> B: 京都の　ほうが 好きです。 <ruby>静<rt>しず</rt></ruby>かで きれいです。
 > "A: Which do you like better, Tokyo or Kyoto?"
 > "B: I like Kyoto better. It is quiet and beautiful."
 
-> A: にほんの たべもので なにが いちばん おいしいですか。
+> A: <ruby>日本<rt>にほん</rt></ruby>の <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>で なにが いちばん おいしいですか。
 > B: すしが いちばん おいしいです。
 > "A: What is the most delicious among Japanese food?"
 > "B: Sushi is the most delicious."
 
-> A: えいごと にほんごと どちらが むずかしいですか。
-> B: にほんごの　ほうが えいごより むずかしいです。 でも、 にほんごの　ほうが おもしろいです。
+> A: <ruby>英語<rt>えいご</rt></ruby>と <ruby>日本語<rt>にほんご</rt></ruby>と どちらが <ruby>難<rt>むずか</rt></ruby>しいですか。
+> B: 日本語の　ほうが 英語より 難しいです。 でも、 日本語の　ほうが <ruby>面白<rt>おもしろ</rt></ruby>いです。
 > "A: Which is harder, English or Japanese?"
 > "B: Japanese is harder than English. But Japanese is more interesting."
 
-> A: あなたの まちは とうきょうと おなじくらい おおきいですか。
-> B: いいえ、 わたしの まちは とうきょうほど おおきくないです。 とても ちいさい まちです。
+> A: あなたの <ruby>町<rt>まち</rt></ruby>は 東京と おなじくらい おおきいですか。
+> B: いいえ、 わたしの 町は 東京ほど おおきくないです。 とても ちいさい 町です。
 > "A: Is your town about as big as Tokyo?"
 > "B: No, my town is not as big as Tokyo. It is a very small town."
 
@@ -458,7 +458,7 @@ Japanese has a specific construction for describing a person's physical characte
 
 This pattern should remind you of the は / が distinction from Chapter 5. The は marks the topic (the person being talked about), and the が marks the specific attribute being described.
 
-> たなかさんは かみが ながいです。
+> たなかさんは <ruby>髪<rt>かみ</rt></ruby>が ながいです。
 > Tanaka-san has long hair.
 > (Literally: "As for Tanaka, hair is long.")
 
@@ -466,11 +466,11 @@ This pattern should remind you of the は / が distinction from Chapter 5. The 
 > Yamada-san is tall.
 > (Literally: "As for Yamada, height is tall.")
 
-> さとうさんは めが おおきいです。
+> さとうさんは <ruby>目<rt>め</rt></ruby>が おおきいです。
 > Sato-san has big eyes.
 > (Literally: "As for Sato, eyes are big.")
 
-> すずきさんは かおが まるいです。
+> すずきさんは <ruby>顔<rt>かお</rt></ruby>が まるいです。
 > Suzuki-san has a round face.
 > (Literally: "As for Suzuki, face is round.")
 
@@ -478,10 +478,10 @@ This is not a special exception. It is the standard は/が topic-subject struct
 
 This construction extends beyond physical traits to abilities and general attributes:
 
-> あのひとは こえが おおきいです。
+> あのひとは <ruby>声<rt>こえ</rt></ruby>が おおきいです。
 > That person has a loud voice.
 
-> この まちは みちが ひろいです。
+> この <ruby>町<rt>まち</rt></ruby>は <ruby>道<rt>みち</rt></ruby>が ひろいです。
 > This town has wide roads.
 
 The second example shows that this pattern is not limited to people. Any topic can be described this way when a specific aspect of it is being singled out.
@@ -490,10 +490,10 @@ The second example shows that this pattern is not limited to people. Any topic c
 
 You can chain adjectives within this structure:
 
-> たなかさんは かみが ながくて くろいです。
+> たなかさんは 髪が ながくて <ruby>黒<rt>くろ</rt></ruby>いです。
 > Tanaka-san has long, black hair.
 
-> やまださんは めが おおきくて まるいです。
+> やまださんは 目が おおきくて まるいです。
 > Yamada-san has big, round eyes.
 
 ---
@@ -506,13 +506,13 @@ Weather is one of the most common topics in daily conversation. Japanese uses se
 
 The simplest weather sentence uses the topic-comment structure with a noun predicate:
 
-> きょうは いい てんきです。
+> <ruby>今日<rt>きょう</rt></ruby>は いい <ruby>天気<rt>てんき</rt></ruby>です。
 > It is nice weather today.
 
-> あしたは あめです。
+> <ruby>明日<rt>あした</rt></ruby>は <ruby>雨<rt>あめ</rt></ruby>です。
 > Tomorrow is rain. (= It will rain tomorrow.)
 
-> きのうは くもりでした。
+> <ruby>昨日<rt>きのう</rt></ruby>は くもりでした。
 > Yesterday was cloudy.
 
 The weather nouns are:
@@ -529,15 +529,15 @@ The weather nouns are:
 
 To describe weather that is currently happening, use the ている form introduced in Chapter 11:
 
-> あめが ふっています。
+> 雨が <ruby>降<rt>ふ</rt></ruby>っています。
 > It is raining.
 
-> ゆきが ふっています。
+> <ruby>雪<rt>ゆき</rt></ruby>が 降っています。
 > It is snowing.
 
-The verb ふる (to fall — used for rain and snow) is a 五段 verb. Its て-form is ふって (following the つ→って pattern from Chapter 10).
+The verb <ruby>降<rt>ふ</rt></ruby>る (to fall — used for rain and snow) is a 五段 verb. Its て-form is 降って (following the つ→って pattern from Chapter 10).
 
-> そとは あめが ふっていますが、 あたたかいです。
+> <ruby>外<rt>そと</rt></ruby>は 雨が 降っていますが、 あたたかいです。
 > Outside it is raining, but it is warm.
 
 ### Temperature Adjectives
@@ -551,16 +551,16 @@ Temperature descriptions use い-adjectives:
 | すずしい | cool, refreshing | pleasant coolness |
 | あたたかい | warm | pleasant warmth |
 
-> きょうは とても あついです。
+> 今日は とても あついです。
 > Today is very hot.
 
-> けさは すこし さむかったです。
+> <ruby>今朝<rt>けさ</rt></ruby>は すこし さむかったです。
 > This morning was a little cold.
 
-> あきは すずしくて きもちがいいです。
+> <ruby>秋<rt>あき</rt></ruby>は すずしくて きもちがいいです。
 > Autumn is cool and pleasant.
 
-> はるは あたたかくて、 はなが きれいです。
+> <ruby>春<rt>はる</rt></ruby>は あたたかくて、 <ruby>花<rt>はな</rt></ruby>が きれいです。
 > Spring is warm, and the flowers are beautiful.
 
 Note the difference between temperature words for weather and for objects. あつい for weather means "hot (air temperature)." The same word can describe a hot room. For hot liquids or foods, あつい also works, but this chapter focuses on weather usage.
@@ -576,10 +576,10 @@ The four seasons appear frequently with weather descriptions:
 | あき | autumn |
 | ふゆ | winter |
 
-> 日本の なつは とても あつくて、 ふゆは かなり さむいです。
+> 日本の <ruby>夏<rt>なつ</rt></ruby>は とても あつくて、 <ruby>冬<rt>ふゆ</rt></ruby>は かなり さむいです。
 > Japanese summers are very hot, and winters are quite cold.
 
-> とうきょうの はるは あたたかくて、 さくらが きれいです。
+> <ruby>東京<rt>とうきょう</rt></ruby>の 春は あたたかくて、 <ruby>桜<rt>さくら</rt></ruby>が きれいです。
 > Spring in Tokyo is warm, and the cherry blossoms are beautiful.
 
 ---
@@ -611,34 +611,34 @@ This section introduces the body parts needed for describing people (Section 15.
 
 These words combine naturally with the double-subject construction:
 
-> あの ひとは はなが たかいです。
+> あの ひとは <ruby>鼻<rt>はな</rt></ruby>が たかいです。
 > That person has a prominent nose. (Literally: "nose is tall")
 
-> この あかちゃんは てが ちいさいです。
+> この <ruby>赤<rt>あか</rt></ruby>ちゃんは <ruby>手<rt>て</rt></ruby>が ちいさいです。
 > This baby has small hands.
 
-> せんせいは こえが おおきいです。
+> <ruby>先生<rt>せんせい</rt></ruby>は <ruby>声<rt>こえ</rt></ruby>が おおきいです。
 > The teacher has a loud voice.
 
-Note that はなが たかい ("nose is tall/high") is the standard Japanese way of saying someone has a prominent or well-defined nose. The same adjective たかい applies to both height (せがたかい) and noses (はながたかい) — different from English, which would use different words.
+Note that 鼻が たかい ("nose is tall/high") is the standard Japanese way of saying someone has a prominent or well-defined nose. The same adjective たかい applies to both height (せがたかい) and noses (鼻がたかい) — different from English, which would use different words.
 
 ---
 
-## 15.10 Reading Passage — わたしの まち と とうきょう
+## 15.10 Reading Passage — わたしの <ruby>町<rt>まち</rt></ruby> と <ruby>東京<rt>とうきょう</rt></ruby>
 
 Read the following passage. It uses adjective chaining, degree adverbs, contrastive が, the double-subject construction, and weather descriptions. All vocabulary and grammar come from this chapter and prior chapters.
 
 ---
 
-わたしは ちいさい まちに すんでいます。 この まちは しずかで きれいです。 みちが ひろくて、 くるまが あまり おおくないです。 こうえんも たくさん あります。 はるは あたたかくて、 はなが とても きれいです。 なつは すこし あついですが、 かぜが すずしいです。
+わたしは ちいさい <ruby>町<rt>まち</rt></ruby>に <ruby>住<rt>す</rt></ruby>んでいます。 この 町は <ruby>静<rt>しず</rt></ruby>かで きれいです。 <ruby>道<rt>みち</rt></ruby>が ひろくて、 <ruby>車<rt>くるま</rt></ruby>が あまり おおくないです。 <ruby>公園<rt>こうえん</rt></ruby>も たくさん あります。 <ruby>春<rt>はる</rt></ruby>は あたたかくて、 <ruby>花<rt>はな</rt></ruby>が とても きれいです。 <ruby>夏<rt>なつ</rt></ruby>は すこし あついですが、 <ruby>風<rt>かぜ</rt></ruby>が すずしいです。
 
-この まちには おおきい みせが あまり ありません。 かいものは ちょっと ふべんです。 でも、 たべものは やすくて おいしいです。 とくに やさいが しんせんで、 とても おいしいです。
+この 町には おおきい <ruby>店<rt>みせ</rt></ruby>が あまり ありません。 <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>は ちょっと <ruby>不便<rt>ふべん</rt></ruby>です。 でも、 <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は やすくて おいしいです。 とくに <ruby>野菜<rt>やさい</rt></ruby>が <ruby>新鮮<rt>しんせん</rt></ruby>で、 とても おいしいです。
 
-せんしゅう、 ともだちと とうきょうに いきました。 とうきょうは とても にぎやかで おおきい まちです。 ひとが おおくて、 でんしゃも おおいです。 たてものが たかくて あたらしいです。 レストランは ゆうめいで おいしいですが、 かなり たかいです。
+<ruby>先週<rt>せんしゅう</rt></ruby>、 <ruby>友達<rt>ともだち</rt></ruby>と <ruby>東京<rt>とうきょう</rt></ruby>に <ruby>行<rt>い</rt></ruby>きました。 東京は とても <ruby>賑<rt>にぎ</rt></ruby>やかで おおきい 町です。 ひとが おおくて、 <ruby>電車<rt>でんしゃ</rt></ruby>も おおいです。 <ruby>建物<rt>たてもの</rt></ruby>が たかくて <ruby>新<rt>あたら</rt></ruby>しいです。 レストランは <ruby>有名<rt>ゆうめい</rt></ruby>で おいしいですが、 かなり たかいです。
 
-とうきょうは べんりですが、 すこし うるさいです。 ひとも とても おおいです。 わたしの まちは ふべんですが、 しずかで きもちがいいです。 わたしは しずかな まちが すきです。
+東京は <ruby>便利<rt>べんり</rt></ruby>ですが、 すこし うるさいです。 ひとも とても おおいです。 わたしの 町は 不便ですが、 静かで きもちがいいです。 わたしは 静かな 町が <ruby>好<rt>す</rt></ruby>きです。
 
-きょうは くもりです。 すこし さむいですが、 あしたは はれです。 あしたは あたたかくて いい てんきです。 こうえんに いきたいです。
+<ruby>今日<rt>きょう</rt></ruby>は くもりです。 すこし さむいですが、 <ruby>明日<rt>あした</rt></ruby>は はれです。 明日は あたたかくて いい <ruby>天気<rt>てんき</rt></ruby>です。 公園に 行きたいです。
 
 ---
 
@@ -656,17 +656,17 @@ Today is cloudy. It is a little cold, but tomorrow is sunny. Tomorrow will be wa
 
 ---
 
-### Reading Passage 2 — きょうとと おおさか
+### Reading Passage 2 — <ruby>京都<rt>きょうと</rt></ruby>と <ruby>大阪<rt>おおさか</rt></ruby>
 
-にほんで ゆうめいな まちが ふたつ あります。きょうとと おおさかです。
+<ruby>日本<rt>にほん</rt></ruby>で <ruby>有名<rt>ゆうめい</rt></ruby>な <ruby>町<rt>まち</rt></ruby>が ふたつ あります。京都と 大阪です。
 
-きょうとは ふるい まちです。おてらが たくさん あって、とても しずかです。まちは おおさかより ちいさいですが、けしきは きょうとの ほうが きれいです。とくに あきは やまが あかくて きいろくて、とても うつくしいです。たべものは きょうりょうりが ゆうめいです。やさしい あじで、とても おいしいです。
+京都は <ruby>古<rt>ふる</rt></ruby>い 町です。お<ruby>寺<rt>てら</rt></ruby>が たくさん あって、とても <ruby>静<rt>しず</rt></ruby>かです。町は 大阪より ちいさいですが、<ruby>景色<rt>けしき</rt></ruby>は 京都の ほうが きれいです。とくに <ruby>秋<rt>あき</rt></ruby>は <ruby>山<rt>やま</rt></ruby>が <ruby>赤<rt>あか</rt></ruby>くて <ruby>黄色<rt>きいろ</rt></ruby>くて、とても <ruby>美<rt>うつく</rt></ruby>しいです。<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は <ruby>京料理<rt>きょうりょうり</rt></ruby>が 有名です。やさしい <ruby>味<rt>あじ</rt></ruby>で、とても おいしいです。
 
-おおさかは きょうとより にぎやかで、ひとが おおいです。たべものは にほんで いちばん おいしいと おもいます。たこやきと おこのみやきが とくに ゆうめいです。やすくて おいしい みせが おおさかの ほうが おおいです。おおさかの ひとは おもしろくて、よく わらいます。
+大阪は 京都より <ruby>賑<rt>にぎ</rt></ruby>やかで、ひとが おおいです。食べ物は 日本で いちばん おいしいと <ruby>思<rt>おも</rt></ruby>います。たこやきと おこのみやきが とくに 有名です。やすくて おいしい <ruby>店<rt>みせ</rt></ruby>が 大阪の ほうが おおいです。大阪の ひとは <ruby>面白<rt>おもしろ</rt></ruby>くて、よく <ruby>笑<rt>わら</rt></ruby>います。
 
-きょうとと おおさか、どちらが いいですか。しずかな ところが すきな ひとは きょうとの ほうが いいです。にぎやかな ところが すきな ひとは おおさかの ほうが いいです。
+京都と 大阪、どちらが いいですか。静かな ところが <ruby>好<rt>す</rt></ruby>きな ひとは 京都の ほうが いいです。賑やかな ところが 好きな ひとは 大阪の ほうが いいです。
 
-わたしは おおさかの ほうが すきです。たべものが やすくて おいしいですから。でも、きょうとの おてらも とても すきです。どちらも すばらしい まちです。
+わたしは 大阪の ほうが 好きです。食べ物が やすくて おいしいですから。でも、京都の お寺も とても 好きです。どちらも すばらしい 町です。
 
 ---
 
@@ -686,17 +686,17 @@ I prefer Osaka, because the food is cheap and delicious. But I also really like 
 
 ### Notes on the Passage
 
-**おおさかより ちいさいですが** — "smaller than Osaka, but..." より marks the standard of comparison.
+**大阪より ちいさいですが** — "smaller than Osaka, but..." より marks the standard of comparison.
 
-**きょうとの ほうが きれいです** — "Kyoto is more beautiful (of the two)." の ほうが marks the preferred or greater side in a comparison.
+**京都の ほうが きれいです** — "Kyoto is more beautiful (of the two)." の ほうが marks the preferred or greater side in a comparison.
 
-**にほんで いちばん おいしいと おもいます** — "I think it is the most delicious in Japan." いちばん creates a superlative; と おもいます adds the speaker's opinion.
+**日本で いちばん おいしいと <ruby>思<rt>おも</rt></ruby>います** — "I think it is the most delicious in Japan." いちばん creates a superlative; と 思います adds the speaker's opinion.
 
 **どちらが いいですか** — "which is better?" どちら is the polite word for "which (of two)."
 
 **どちらも すばらしい** — "both are wonderful." どちらも means "both."
 
-**よく わらいます** — "laugh a lot." よく as a frequency adverb meaning "often."
+**よく <ruby>笑<rt>わら</rt></ruby>います** — "laugh a lot." よく as a frequency adverb meaning "often."
 
 ---
 

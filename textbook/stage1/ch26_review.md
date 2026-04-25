@@ -293,17 +293,17 @@ Read the following passage. No translation is provided. Use the comprehension qu
 
 ---
 
-きのう、はじめて とうきょうに いきました。あさ はちじに いえを でて、でんしゃで とうきょうえきまで いきました。いちじかんぐらい かかりました。
+<ruby>昨日<rt>きのう</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めて <ruby>東京<rt>とうきょう</rt></ruby>に <ruby>行<rt>い</rt></ruby>きました。<ruby>朝<rt>あさ</rt></ruby> <ruby>八時<rt>はちじ</rt></ruby>に <ruby>家<rt>いえ</rt></ruby>を <ruby>出<rt>で</rt></ruby>て、<ruby>電車<rt>でんしゃ</rt></ruby>で <ruby>東京駅<rt>とうきょうえき</rt></ruby>まで 行きました。<ruby>一時間<rt>いちじかん</rt></ruby>ぐらい かかりました。
 
-とうきょうえきに ついたあとで、まず あさくさに いきました。かみなりもんの まえで しゃしんを とりました。あさくさは にんきがある ところなので、ひとが とても おおかったです。おてらの なかは しずかでしたけど、そとの みせは にぎやかでした。なかみせどおりで せんべいと おちゃを かいました。ともだちに あげる おみやげも さがしましたが、いい ものが みつからなかったので、あとで べつの みせで かうことに しました。
+東京駅に <ruby>着<rt>つ</rt></ruby>いたあとで、まず <ruby>浅草<rt>あさくさ</rt></ruby>に 行きました。<ruby>雷門<rt>かみなりもん</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>で <ruby>写真<rt>しゃしん</rt></ruby>を <ruby>撮<rt>と</rt></ruby>りました。浅草は <ruby>人気<rt>にんき</rt></ruby>がある ところなので、<ruby>人<rt>ひと</rt></ruby>が とても <ruby>多<rt>おお</rt></ruby>かったです。お<ruby>寺<rt>てら</rt></ruby>の <ruby>中<rt>なか</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かでしたけど、<ruby>外<rt>そと</rt></ruby>の <ruby>店<rt>みせ</rt></ruby>は <ruby>賑<rt>にぎ</rt></ruby>やかでした。<ruby>仲見世通<rt>なかみせどお</rt></ruby>りで <ruby>煎餅<rt>せんべい</rt></ruby>と おちゃを <ruby>買<rt>か</rt></ruby>いました。<ruby>友達<rt>ともだち</rt></ruby>に あげる おみやげも <ruby>探<rt>さが</rt></ruby>しましたが、いい ものが <ruby>見<rt>み</rt></ruby>つからなかったので、あとで <ruby>別<rt>べつ</rt></ruby>の 店で 買うことに しました。
 
-ひるごはんは あさくさの ちかくの ちいさい しょくどうで たべました。てんぷらが たべたかったので、てんどんに しました。やすくて おいしかったです。となりに すわっていた おばあさんが「ここの てんぷらは にじゅうねんまえから かわらないんですよ」と いっていました。
+<ruby>昼<rt>ひる</rt></ruby>ごはんは 浅草の <ruby>近<rt>ちか</rt></ruby>くの <ruby>小<rt>ちい</rt></ruby>さい <ruby>食堂<rt>しょくどう</rt></ruby>で <ruby>食<rt>た</rt></ruby>べました。<ruby>天<rt>てん</rt></ruby>ぷらが 食べたかったので、<ruby>天丼<rt>てんどん</rt></ruby>に しました。<ruby>安<rt>やす</rt></ruby>くて おいしかったです。<ruby>隣<rt>となり</rt></ruby>に <ruby>座<rt>すわ</rt></ruby>っていた おばあさんが「ここの 天ぷらは <ruby>二十年<rt>にじゅうねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>から <ruby>変<rt>か</rt></ruby>わらないんですよ」と <ruby>言<rt>い</rt></ruby>っていました。
 
-ごごは しぶやに いって、かいものを しました。ふくを みながら ともだちと あるきましたが、しぶやの ふくは たかいので、なにも かいませんでした。でも、えきの ちかくの ほんやで にほんごの まんがを にさつ かいました。
+<ruby>午後<rt>ごご</rt></ruby>は <ruby>渋谷<rt>しぶや</rt></ruby>に 行って、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を しました。<ruby>服<rt>ふく</rt></ruby>を <ruby>見<rt>み</rt></ruby>ながら 友達と <ruby>歩<rt>ある</rt></ruby>きましたが、渋谷の 服は <ruby>高<rt>たか</rt></ruby>いので、なにも 買いませんでした。でも、<ruby>駅<rt>えき</rt></ruby>の 近くの <ruby>本屋<rt>ほんや</rt></ruby>で <ruby>日本語<rt>にほんご</rt></ruby>の <ruby>漫画<rt>まんが</rt></ruby>を <ruby>二冊<rt>にさつ</rt></ruby> 買いました。
 
-ゆうがた、つかれたので、カフェに はいって コーヒーを のみました。まどから そとを みていたら、ゆうやけが とても きれいでした。とうきょうタワーも みえました。
+<ruby>夕方<rt>ゆうがた</rt></ruby>、<ruby>疲<rt>つか</rt></ruby>れたので、カフェに <ruby>入<rt>はい</rt></ruby>って コーヒーを <ruby>飲<rt>の</rt></ruby>みました。<ruby>窓<rt>まど</rt></ruby>から 外を 見ていたら、<ruby>夕焼<rt>ゆうや</rt></ruby>けが とても きれいでした。東京タワーも <ruby>見<rt>み</rt></ruby>えました。
 
-しちじごろ とうきょうを でて、くじすぎに いえに かえりました。つかれましたが、とても たのしい いちにちでした。こんどは ともだちと いっしょに いきたいです。
+<ruby>七時<rt>しちじ</rt></ruby>ごろ 東京を 出て、<ruby>九時<rt>くじ</rt></ruby>すぎに 家に <ruby>帰<rt>かえ</rt></ruby>りました。疲れましたが、とても <ruby>楽<rt>たの</rt></ruby>しい <ruby>一日<rt>いちにち</rt></ruby>でした。<ruby>今度<rt>こんど</rt></ruby>は 友達と <ruby>一緒<rt>いっしょ</rt></ruby>に 行きたいです。
 
 ---
 
@@ -311,16 +311,16 @@ Read the following passage. No translation is provided. Use the comprehension qu
 
 Answer each question in your head. All answers can be found in the passage.
 
-1. この ひとは なんで とうきょうに いきましたか。（どんな のりもの？）
-2. とうきょうえきまで どのぐらい かかりましたか。
-3. あさくさで なにを かいましたか。
-4. ともだちの おみやげは あさくさで かいましたか。どうしてですか。
-5. ひるごはんに なにを たべましたか。どうして それに しましたか。
-6. しぶやで ふくを かいましたか。どうしてですか。
-7. しぶやで なにを かいましたか。
-8. カフェから なにが みえましたか。
-9. いえに かえったのは なんじごろですか。
-10. この ひとは こんど だれと とうきょうに いきたいと おもっていますか。
+1. この <ruby>人<rt>ひと</rt></ruby>は なんで <ruby>東京<rt>とうきょう</rt></ruby>に <ruby>行<rt>い</rt></ruby>きましたか。（どんな <ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>？）
+2. 東京駅まで どのぐらい かかりましたか。
+3. <ruby>浅草<rt>あさくさ</rt></ruby>で なにを <ruby>買<rt>か</rt></ruby>いましたか。
+4. <ruby>友達<rt>ともだち</rt></ruby>の おみやげは 浅草で 買いましたか。どうしてですか。
+5. <ruby>昼<rt>ひる</rt></ruby>ごはんに なにを <ruby>食<rt>た</rt></ruby>べましたか。どうして それに しましたか。
+6. <ruby>渋谷<rt>しぶや</rt></ruby>で <ruby>服<rt>ふく</rt></ruby>を 買いましたか。どうしてですか。
+7. 渋谷で なにを 買いましたか。
+8. カフェから なにが <ruby>見<rt>み</rt></ruby>えましたか。
+9. <ruby>家<rt>いえ</rt></ruby>に <ruby>帰<rt>かえ</rt></ruby>ったのは <ruby>何時<rt>なんじ</rt></ruby>ごろですか。
+10. この 人は <ruby>今度<rt>こんど</rt></ruby> だれと 東京に 行きたいと <ruby>思<rt>おも</rt></ruby>っていますか。
 
 ---
 
@@ -328,32 +328,32 @@ Answer each question in your head. All answers can be found in the passage.
 
 ---
 
-わたしの まちは おおさかの みなみに あります。おおきい まちじゃありませんが、すみやすい ところだと おもいます。
+わたしの <ruby>町<rt>まち</rt></ruby>は <ruby>大阪<rt>おおさか</rt></ruby>の <ruby>南<rt>みなみ</rt></ruby>に あります。<ruby>大<rt>おお</rt></ruby>きい 町じゃありませんが、<ruby>住<rt>す</rt></ruby>みやすい ところだと <ruby>思<rt>おも</rt></ruby>います。
 
-えきの まえに おおきい スーパーが あります。やすくて べんりなので、まいにち たくさんの ひとが きます。スーパーの となりに ちいさい パンやが あって、あさ しちじに あくので、しごとに いくまえに よく パンを かいます。ここの メロンパンは まちで いちばん おいしいと おもいます。
+<ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>に 大きい スーパーが あります。<ruby>安<rt>やす</rt></ruby>くて <ruby>便利<rt>べんり</rt></ruby>なので、<ruby>毎日<rt>まいにち</rt></ruby> たくさんの <ruby>人<rt>ひと</rt></ruby>が <ruby>来<rt>き</rt></ruby>ます。スーパーの <ruby>隣<rt>となり</rt></ruby>に <ruby>小<rt>ちい</rt></ruby>さい パン<ruby>屋<rt>や</rt></ruby>が あって、<ruby>朝<rt>あさ</rt></ruby> <ruby>七時<rt>しちじ</rt></ruby>に <ruby>開<rt>あ</rt></ruby>くので、<ruby>仕事<rt>しごと</rt></ruby>に <ruby>行<rt>い</rt></ruby>く前に よく パンを <ruby>買<rt>か</rt></ruby>います。ここの メロンパンは 町で いちばん おいしいと 思います。
 
-えきから みなみに ごふんぐらい あるくと、おおきい こうえんが あります。こうえんには きが たくさん あって、はるは さくらが とても きれいです。あさ こうえんで さんぽしている ひとが おおいです。おじいさんが たいちを している のも よく みます。こうえんの なかに ちいさい としょかんも あります。しずかで きれいな としょかんなので、どようびに よく いって ほんを よみます。
+駅から 南に <ruby>五分<rt>ごふん</rt></ruby>ぐらい <ruby>歩<rt>ある</rt></ruby>くと、大きい <ruby>公園<rt>こうえん</rt></ruby>が あります。公園には <ruby>木<rt>き</rt></ruby>が たくさん あって、<ruby>春<rt>はる</rt></ruby>は <ruby>桜<rt>さくら</rt></ruby>が とても きれいです。朝 公園で <ruby>散歩<rt>さんぽ</rt></ruby>している 人が <ruby>多<rt>おお</rt></ruby>いです。おじいさんが <ruby>太極拳<rt>たいち</rt></ruby>を している のも よく <ruby>見<rt>み</rt></ruby>ます。公園の <ruby>中<rt>なか</rt></ruby>に 小さい <ruby>図書館<rt>としょかん</rt></ruby>も あります。<ruby>静<rt>しず</rt></ruby>かで きれいな 図書館なので、<ruby>土曜日<rt>どようび</rt></ruby>に よく 行って <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みます。
 
-まちの にしがわには かわが あります。かわの ちかくは しずかで、よるは とても くらいですが、なつは ひとが たくさん きて、はなびを みます。なつの はなびたいかいは この まちで いちばん にんきがある イベントです。まいとし いちまんにんぐらい きます。
+町の <ruby>西側<rt>にしがわ</rt></ruby>には <ruby>川<rt>かわ</rt></ruby>が あります。川の <ruby>近<rt>ちか</rt></ruby>くは 静かで、<ruby>夜<rt>よる</rt></ruby>は とても <ruby>暗<rt>くら</rt></ruby>いですが、<ruby>夏<rt>なつ</rt></ruby>は 人が たくさん 来て、<ruby>花火<rt>はなび</rt></ruby>を 見ます。夏の <ruby>花火大会<rt>はなびたいかい</rt></ruby>は この 町で いちばん <ruby>人気<rt>にんき</rt></ruby>がある イベントです。<ruby>毎年<rt>まいとし</rt></ruby> <ruby>一万人<rt>いちまんにん</rt></ruby>ぐらい 来ます。
 
-ふゆは さむくて、ゆきが ふることも ありますが、はるに なると あたたかくなって、まちが とても きれいに なります。
+<ruby>冬<rt>ふゆ</rt></ruby>は <ruby>寒<rt>さむ</rt></ruby>くて、<ruby>雪<rt>ゆき</rt></ruby>が <ruby>降<rt>ふ</rt></ruby>ることも ありますが、春に なると <ruby>温<rt>あたた</rt></ruby>かくなって、町が とても きれいに なります。
 
-この まちは とうきょうほど にぎやかじゃありませんが、わたしは この まちが すきです。しずかで、みどりが おおくて、ひとも やさしいです。
+この 町は <ruby>東京<rt>とうきょう</rt></ruby>ほど <ruby>賑<rt>にぎ</rt></ruby>やかじゃありませんが、わたしは この 町が <ruby>好<rt>す</rt></ruby>きです。静かで、<ruby>緑<rt>みどり</rt></ruby>が 多くて、人も <ruby>優<rt>やさ</rt></ruby>しいです。
 
 ---
 
 ### Comprehension Questions
 
-1. この まちは どこに ありますか。
-2. スーパーの となりに なにが ありますか。なんじに あきますか。
-3. パンやの メロンパンについて、この ひとは どう おもっていますか。
-4. こうえんで あさ なにを している ひとが おおいですか。
-5. この ひとは どようびに としょかんで なにを しますか。
-6. まちの にしがわに なにが ありますか。
-7. この まちで いちばん にんきがある イベントは なんですか。
-8. ふゆの てんきは どうですか。
-9. この まちと とうきょうを くらべると、どう ちがいますか。
-10. この ひとは じぶんの まちが すきですか。りゆうは なんですか。
+1. この <ruby>町<rt>まち</rt></ruby>は どこに ありますか。
+2. スーパーの <ruby>隣<rt>となり</rt></ruby>に なにが ありますか。何時に <ruby>開<rt>あ</rt></ruby>きますか。
+3. パン<ruby>屋<rt>や</rt></ruby>の メロンパンについて、この <ruby>人<rt>ひと</rt></ruby>は どう <ruby>思<rt>おも</rt></ruby>っていますか。
+4. <ruby>公園<rt>こうえん</rt></ruby>で <ruby>朝<rt>あさ</rt></ruby> なにを している 人が <ruby>多<rt>おお</rt></ruby>いですか。
+5. この 人は <ruby>土曜日<rt>どようび</rt></ruby>に <ruby>図書館<rt>としょかん</rt></ruby>で なにを しますか。
+6. 町の <ruby>西側<rt>にしがわ</rt></ruby>に なにが ありますか。
+7. この 町で いちばん <ruby>人気<rt>にんき</rt></ruby>がある イベントは なんですか。
+8. <ruby>冬<rt>ふゆ</rt></ruby>の <ruby>天気<rt>てんき</rt></ruby>は どうですか。
+9. この 町と <ruby>東京<rt>とうきょう</rt></ruby>を <ruby>比<rt>くら</rt></ruby>べると、どう <ruby>違<rt>ちが</rt></ruby>いますか。
+10. この 人は <ruby>自分<rt>じぶん</rt></ruby>の 町が <ruby>好<rt>す</rt></ruby>きですか。<ruby>理由<rt>りゆう</rt></ruby>は なんですか。
 
 ---
 
@@ -363,15 +363,15 @@ Answer each question in your head. All answers can be found in the passage.
 
 ゆいへ
 
-ひさしぶり。げんき？
+<ruby>久<rt>ひさ</rt></ruby>しぶり。<ruby>元気<rt>げんき</rt></ruby>？
 
-きのう やっと バイトが おわったんだ。しけんの まえなのに まいにち はたらいてて、ほんとに たいへんだった。でも、おかねが なかったから しかたなかったんだけど...
+<ruby>昨日<rt>きのう</rt></ruby> やっと バイトが <ruby>終<rt>お</rt></ruby>わったんだ。<ruby>試験<rt>しけん</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>なのに <ruby>毎日<rt>まいにち</rt></ruby> <ruby>働<rt>はたら</rt></ruby>いてて、ほんとに <ruby>大変<rt>たいへん</rt></ruby>だった。でも、おかねが なかったから <ruby>仕方<rt>しかた</rt></ruby>なかったんだけど...
 
-らいしゅうの きんようび、ひま？ じつは あたらしい カフェが えきの ちかくに できたんだけど、いっしょに いかない？ ケーキが すごく おいしいらしいよ。あと、パンケーキも あるって。ゆい、パンケーキ すきだったよね。
+<ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>金曜日<rt>きんようび</rt></ruby>、<ruby>暇<rt>ひま</rt></ruby>？ <ruby>実<rt>じつ</rt></ruby>は <ruby>新<rt>あたら</rt></ruby>しい カフェが <ruby>駅<rt>えき</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くに できたんだけど、<ruby>一緒<rt>いっしょ</rt></ruby>に <ruby>行<rt>い</rt></ruby>かない？ ケーキが すごく おいしいらしいよ。あと、パンケーキも あるって。ゆい、パンケーキ <ruby>好<rt>す</rt></ruby>きだったよね。
 
-テストの べんきょう、やばいんだけど、いちにちぐらい やすんでも だいじょうぶだと おもう。テストの まえに ちょっと リフレッシュ したほうが いいよね。
+テストの <ruby>勉強<rt>べんきょう</rt></ruby>、やばいんだけど、<ruby>一日<rt>いちにち</rt></ruby>ぐらい <ruby>休<rt>やす</rt></ruby>んでも <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だと <ruby>思<rt>おも</rt></ruby>う。テストの 前に ちょっと リフレッシュ したほうが いいよね。
 
-へんじ まってる。
+<ruby>返事<rt>へんじ</rt></ruby> <ruby>待<rt>ま</rt></ruby>ってる。
 
 まき
 
@@ -379,51 +379,51 @@ Answer each question in your head. All answers can be found in the passage.
 
 ### Comprehension Questions
 
-1. この メールを かいたのは だれですか。だれに かいていますか。
-2. まきさんは さいきん なにが たいへんでしたか。
-3. まきさんは らいしゅうの きんようび なにを したいですか。
-4. あたらしい カフェは どこに ありますか。
-5. ゆいさんは なにが すきですか。
-6. まきさんは テストの べんきょうについて どう おもっていますか。
+1. この メールを <ruby>書<rt>か</rt></ruby>いたのは だれですか。だれに 書いていますか。
+2. まきさんは <ruby>最近<rt>さいきん</rt></ruby> なにが <ruby>大変<rt>たいへん</rt></ruby>でしたか。
+3. まきさんは <ruby>来週<rt>らいしゅう</rt></ruby>の <ruby>金曜日<rt>きんようび</rt></ruby> なにを したいですか。
+4. <ruby>新<rt>あたら</rt></ruby>しい カフェは どこに ありますか。
+5. ゆいさんは なにが <ruby>好<rt>す</rt></ruby>きですか。
+6. まきさんは テストの <ruby>勉強<rt>べんきょう</rt></ruby>について どう <ruby>思<rt>おも</rt></ruby>っていますか。
 
 ### Register Notes
 
 This passage is written in casual register. Notice the following features:
 
-- **だ instead of です:** おわったんだ, たいへんだった. The plain copula だ replaces です in casual speech and writing.
-- **Dropped particles:** ゆい、パンケーキ すきだったよね — the は after ゆい and the が after パンケーキ are omitted. This is standard in casual Japanese.
-- **Trailing けど:** なかったんだけど... The sentence trails off. The unspoken conclusion is something like「だから たいへんだった」or similar.
-- **んだ for explanation:** おわったんだ, できたんだけど, やばいんだけど. Casual speech uses んだ (the plain form of んです) constantly for background explanation.
-- **Contracted forms:** はたらいてて is a contraction of はたらいていて. The い of ている is dropped. This is universal in casual speech.
-- **Question without か:** ひま？ いかない？ In casual speech, questions are formed by rising intonation alone, without the particle か.
-- **よね for seeking agreement:** いいよね, すきだったよね. The combination よ + ね asserts something while inviting the listener to confirm.
+- **だ instead of です:** 終わったんだ, 大変だった. The plain copula だ replaces です in casual speech and writing.
+- **Dropped particles:** ゆい、パンケーキ 好きだったよね — the は after ゆい and the が after パンケーキ are omitted. This is standard in casual Japanese.
+- **Trailing けど:** なかったんだけど... The sentence trails off. The unspoken conclusion is something like「だから 大変だった」or similar.
+- **んだ for explanation:** 終わったんだ, できたんだけど, やばいんだけど. Casual speech uses んだ (the plain form of んです) constantly for background explanation.
+- **Contracted forms:** 働いてて is a contraction of 働いていて. The い of ている is dropped. This is universal in casual speech.
+- **Question without か:** 暇？ 行かない？ In casual speech, questions are formed by rising intonation alone, without the particle か.
+- **よね for seeking agreement:** いいよね, 好きだったよね. The combination よ + ね asserts something while inviting the listener to confirm.
 - **って for hearsay:** おいしいらしいよ。あるって。 The particle って is the casual form of と (quotation). あるって is short for あるといっていた or あるそうだ.
 
 Every one of these features appears constantly in real Japanese. If you can read this email and understand the register shifts, you are already reading authentic casual Japanese.
 
 ---
 
-### Reading Passage 4 — にほんの せいかつ
+### Reading Passage 4 — <ruby>日本<rt>にほん</rt></ruby>の <ruby>生活<rt>せいかつ</rt></ruby>
 
 This is a diary entry. It uses a mix of polite and plain forms, time clauses, particles, and many grammar points from across Stage 1.
 
 ---
 
-四月十日　はれ
+四月十日　<ruby>晴<rt>は</rt></ruby>れ
 
-にほんに きて もう はんとしに なった。はじめて にほんに ついた 時 なにも わからなくて、ほんとうに たいへんだった。でも いまは すこしずつ にほんの せいかつに なれてきた。
+日本に <ruby>来<rt>き</rt></ruby>て もう <ruby>半年<rt>はんとし</rt></ruby>に なった。<ruby>初<rt>はじ</rt></ruby>めて 日本に <ruby>着<rt>つ</rt></ruby>いた <ruby>時<rt>とき</rt></ruby> なにも <ruby>分<rt>わ</rt></ruby>からなくて、<ruby>本当<rt>ほんとう</rt></ruby>に <ruby>大変<rt>たいへん</rt></ruby>だった。でも いまは <ruby>少<rt>すこ</rt></ruby>しずつ 日本の <ruby>生活<rt>せいかつ</rt></ruby>に <ruby>慣<rt>な</rt></ruby>れてきた。
 
-あさ おきた 後で いつも まどを あけて、そとの くうきを すう。わたしの アパートは えきから あるいて じゅっぷんぐらいの ところに ある。ちいさいけど、しずかで、きにいっている。
+<ruby>朝<rt>あさ</rt></ruby> <ruby>起<rt>お</rt></ruby>きた <ruby>後<rt>あと</rt></ruby>で いつも <ruby>窓<rt>まど</rt></ruby>を <ruby>開<rt>あ</rt></ruby>けて、<ruby>外<rt>そと</rt></ruby>の <ruby>空気<rt>くうき</rt></ruby>を <ruby>吸<rt>す</rt></ruby>う。わたしの アパートは <ruby>駅<rt>えき</rt></ruby>から <ruby>歩<rt>ある</rt></ruby>いて <ruby>十分<rt>じゅっぷん</rt></ruby>ぐらいの ところに ある。<ruby>小<rt>ちい</rt></ruby>さいけど、<ruby>静<rt>しず</rt></ruby>かで、<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>っている。
 
-にほんに くる 前に にほんごを すこし べんきょうしたけど、じっさいに にほんで せいかつしてみると、ぜんぜん ちがった。スーパーで かいものを する 時 てんいんさんが はやく はなすので、さいしょは ぜんぜん わからなかった。「ポイントカードは おもちですか」と きかれて、なんの ことか わからなかった。いまは わかるよ。
+日本に くる <ruby>前<rt>まえ</rt></ruby>に <ruby>日本語<rt>にほんご</rt></ruby>を 少し <ruby>勉強<rt>べんきょう</rt></ruby>したけど、<ruby>実際<rt>じっさい</rt></ruby>に 日本で 生活してみると、ぜんぜん <ruby>違<rt>ちが</rt></ruby>った。スーパーで <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>を する 時 <ruby>店員<rt>てんいん</rt></ruby>さんが <ruby>早<rt>はや</rt></ruby>く <ruby>話<rt>はな</rt></ruby>すので、<ruby>最初<rt>さいしょ</rt></ruby>は ぜんぜん 分からなかった。「ポイントカードは お<ruby>持<rt>も</rt></ruby>ちですか」と <ruby>聞<rt>き</rt></ruby>かれて、なんの ことか 分からなかった。いまは 分かるよ。
 
-にほんごの じゅぎょうに いっている 間に ともだちが たくさん できた。いちばん なかの いい ともだちは ゆうとさんだ。ゆうとさんは わたしの にほんごが へんな 時 いつも やさしく なおしてくれる。わたしも ゆうとさんに えいごを おしえている。おたがいに べんきょうしながら ともだちに なった。
+日本語の <ruby>授業<rt>じゅぎょう</rt></ruby>に <ruby>行<rt>い</rt></ruby>っている <ruby>間<rt>あいだ</rt></ruby>に <ruby>友達<rt>ともだち</rt></ruby>が たくさん できた。いちばん <ruby>仲<rt>なか</rt></ruby>の いい 友達は ゆうとさんだ。ゆうとさんは わたしの 日本語が <ruby>変<rt>へん</rt></ruby>な 時 いつも <ruby>優<rt>やさ</rt></ruby>しく <ruby>直<rt>なお</rt></ruby>してくれる。わたしも ゆうとさんに <ruby>英語<rt>えいご</rt></ruby>を <ruby>教<rt>おし</rt></ruby>えている。お<ruby>互<rt>たが</rt></ruby>いに 勉強しながら 友達に なった。
 
-せんしゅうの にちようび ゆうとさんと いっしょに きょうとに いった。おてらを みた 後で ふるい ちゃみせで まっちゃを のんだ。ゆうとさんが 「この ちゃみせは ひゃくねん いじょうの れきしが あるんだよ」と おしえてくれた。まっちゃは にがかったけど、おいしかった。きょうとは ほんとうに うつくしい まちだと おもった。
+<ruby>先週<rt>せんしゅう</rt></ruby>の <ruby>日曜日<rt>にちようび</rt></ruby> ゆうとさんと <ruby>一緒<rt>いっしょ</rt></ruby>に <ruby>京都<rt>きょうと</rt></ruby>に 行った。お<ruby>寺<rt>てら</rt></ruby>を <ruby>見<rt>み</rt></ruby>た 後で <ruby>古<rt>ふる</rt></ruby>い <ruby>茶店<rt>ちゃみせ</rt></ruby>で <ruby>抹茶<rt>まっちゃ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>んだ。ゆうとさんが 「この 茶店は <ruby>百年<rt>ひゃくねん</rt></ruby> <ruby>以上<rt>いじょう</rt></ruby>の <ruby>歴史<rt>れきし</rt></ruby>が あるんだよ」と <ruby>教<rt>おし</rt></ruby>えてくれた。抹茶は <ruby>苦<rt>にが</rt></ruby>かったけど、おいしかった。京都は 本当に <ruby>美<rt>うつく</rt></ruby>しい <ruby>町<rt>まち</rt></ruby>だと <ruby>思<rt>おも</rt></ruby>った。
 
-にほんの せいかつで いちばん すきなのは、きせつが はっきり していることだ。はるは さくらが きれいだし、あきは もみじが うつくしい。いま ちょうど はるで、ちかくの こうえんの さくらが さきはじめた。こんしゅうの しゅうまつ おはなみに いく 前に おべんとうを つくる つもりだ。
+日本の 生活で いちばん <ruby>好<rt>す</rt></ruby>きなのは、<ruby>季節<rt>きせつ</rt></ruby>が はっきり していることだ。<ruby>春<rt>はる</rt></ruby>は <ruby>桜<rt>さくら</rt></ruby>が きれいだし、<ruby>秋<rt>あき</rt></ruby>は <ruby>紅葉<rt>もみじ</rt></ruby>が 美しい。いま ちょうど 春で、<ruby>近<rt>ちか</rt></ruby>くの <ruby>公園<rt>こうえん</rt></ruby>の 桜が <ruby>咲<rt>さ</rt></ruby>き<ruby>始<rt>はじ</rt></ruby>めた。<ruby>今週<rt>こんしゅう</rt></ruby>の <ruby>週末<rt>しゅうまつ</rt></ruby> お<ruby>花見<rt>はなみ</rt></ruby>に 行く 前に おべんとうを <ruby>作<rt>つく</rt></ruby>る つもりだ。
 
-あと はんとし、にほんに いられる。もっと いろいろな ところに いって、もっと にほんごが じょうずに なりたい。まいにち すこしずつ がんばろう。
+あと 半年、日本に いられる。もっと <ruby>色々<rt>いろいろ</rt></ruby>な ところに 行って、もっと 日本語が <ruby>上手<rt>じょうず</rt></ruby>に なりたい。<ruby>毎日<rt>まいにち</rt></ruby> 少しずつ <ruby>頑張<rt>がんば</rt></ruby>ろう。
 
 ---
 
@@ -465,9 +465,9 @@ This is not sloppy speech. It is standard Tokyo pronunciation. Once you are awar
 
 In casual speech, particles are frequently omitted when context makes them unnecessary.
 
-- ごはん たべた？ (を omitted)
-- あした ひま？ (は omitted)
-- どこ いくの？ (へ/に omitted)
+- ごはん <ruby>食<rt>た</rt></ruby>べた？ (を omitted)
+- <ruby>明日<rt>あした</rt></ruby> <ruby>暇<rt>ひま</rt></ruby>？ (は omitted)
+- どこ <ruby>行<rt>い</rt></ruby>くの？ (へ/に omitted)
 
 The grammatical relationships are understood from word order and context. が, を, は, and に are the most commonly dropped particles. で, から, まで, and と are dropped less frequently because their meanings are harder to infer.
 
@@ -505,7 +505,7 @@ These are not interruptions. They are expected. A Japanese speaker who receives 
 
 You have enough grammar and vocabulary to begin listening practice with material designed for learners. Recommended approaches:
 
-**Graded listening material.** NHK World's やさしい日本語ニュース (Easy Japanese News) uses simplified grammar and vocabulary at a controlled speed. It is an excellent bridge between textbook Japanese and natural speech.
+**Graded listening material.** NHK World's やさしい<ruby>日本語<rt>にほんご</rt></ruby>ニュース (Easy Japanese News) uses simplified grammar and vocabulary at a controlled speed. It is an excellent bridge between textbook Japanese and natural speech.
 
 **Podcasts for learners.** Several podcasts target N5-N4 listeners, speaking slowly and using grammar within the Stage 1 range. Search for materials labeled "beginner" or "N5" and listen repeatedly to short segments.
 

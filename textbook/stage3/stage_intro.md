@@ -4,6 +4,16 @@
 
 Stage 3 is where you transition from textbook Japanese to real-world Japanese. The grammar you learned in Stages 1 and 2 gave you the structural foundation — verb conjugation, sentence patterns, basic keigo, and essential vocabulary. Stage 3 builds on that foundation with the tools you need to handle authentic texts: compound particles, sentence-ending modality, discourse connectors, formal written style, and the pragmatic skills that let you read between the lines.
 
+## Why は/が Is the First Topic of This Stage
+
+Stage 3 opens with three full chapters on は and が — `ch01_topic_wa`, `ch02_subject_ga`, and `ch03_wa_ga_contrast`. This is a deliberate choice and may surprise you, since you have already been using both particles since Stage 1.
+
+The reason is a promise the SPEC made and is now keeping. In Stage 1, は was introduced as the topic marker and が as the subject marker, with explicit notice (Stage 1, Chapter 5) that this was a simplification and that Stage 3 would provide the full treatment. The simplification let you read and produce sentences without being immobilized by a distinction that even native speakers describe in different terms depending on context.
+
+You are now ready for the full treatment because you have the prerequisites the simplification was deferring against. You can parse relative clauses, so you can see how が behaves inside subordinate structures. You understand quotation, so you can see how は scopes across embedded clauses. You have read enough Japanese that you have an intuition — possibly an inconsistent one — about which particle "feels right" in a given sentence. The job of this stage is to make that intuition explicit, contrastive, and reliable.
+
+If you find these three chapters difficult, that is expected. They are difficult on purpose. Many learners describe the は/が distinction as the single hardest topic in Japanese grammar, and the difficulty does not come from any one rule but from the interaction of information structure, discourse, scope, and contrastive emphasis. Read all three chapters before judging whether you have understood any one of them — the picture only resolves when you can see how they work together.
+
 This stage covers:
 
 - **The は/が distinction in full** — The most important and most nuanced topic in Japanese grammar, given the depth it deserves

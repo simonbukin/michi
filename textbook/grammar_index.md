@@ -4,6 +4,21 @@ This index consolidates every grammar point from all six stages of 道, organize
 
 **Format:** Grammar point — description — Stage, Chapter
 
+## Stage → JLPT Level Mapping
+
+The Stage references throughout this index correspond to approximate JLPT levels:
+
+| Stage | JLPT | Focus |
+|-------|------|-------|
+| Stage 1 | N5 | Foundations: script, basic sentences, verb system |
+| Stage 2 | N4 | Full conjugation paradigm, complex sentences, basic keigo |
+| Stage 3 | N3 | は/が full treatment, compound particles, modality, aspect |
+| Stage 4 | N2 | Classical residues, advanced compound grammar, full keigo |
+| Stage 5 | N2→N1 bridge | N1 grammar, yojijukugo, classical reading, manga/web |
+| Stage 6 | N1 | Nuance, register, specialized domains, literary comprehension |
+
+A grammar point listed under "Stage 3, Ch 1" is therefore approximately N3-level. Use the same Stage column on the Vocabulary Index for vocabulary level. Note that JLPT mappings are approximate — some N3 grammar points are deferred to Stage 4 if they are more useful in formal/written contexts, and some N2 patterns appear in Stage 3 if they are needed for mid-level reading.
+
 ---
 
 ## Particles
@@ -758,12 +773,39 @@ This index consolidates every grammar point from all six stages of 道, organize
 **～さつ** — bound volumes counter — Stage 1, Ch 7
 **～だい** — machines/vehicles counter — Stage 1, Ch 7
 **～ひき/ぴき/びき** — small animals counter — Stage 1, Ch 7
+**～はい/ぱい/ばい** — cups/glasses/bowls counter — Stage 1, Ch 7
+**～かい (階)** — building floor counter — Stage 1, Ch 7
+**Counter sound-change patterns** (1, 6, 8, 10 → 促音; 3, なん → 濁音化) — Stage 1, App E
+**～名 (めい)** — formal people counter — Stage 3, App H
+**～頭 (とう)** — large animals counter — Stage 3, App H
+**～羽 (わ)** — birds (and rabbits) counter — Stage 3, App H
+**～尾 (び)** — fish counter (formal) — Stage 3, App H
+**～隻 (せき)** — ships counter — Stage 3, App H
+**～機 (き)** — aircraft counter — Stage 3, App H
+**～両 (りょう)** — train cars counter — Stage 3, App H
+**～通 (つう)** — letters/documents counter — Stage 3, App H
+**～着 (ちゃく)** — clothing outfit counter — Stage 3, App H
+**～足 (そく)** — pairs of footwear counter — Stage 3, App H
+**～巻 (かん)** — multi-volume series counter — Stage 3, App H
+**～部 (ぶ)** — printed copies counter — Stage 3, App H
+**～条 (じょう)** — legal articles counter — Stage 3, App H
+**～項 (こう)** — sub-items in legal text counter — Stage 3, App H
+**～軒 (けん)** — houses/shops counter — Stage 3, App H
+**～棟 (とう・むね)** — large buildings counter — Stage 3, App H
+**～戸 (こ)** — household units counter — Stage 3, App H
+**～個 (こ)** — generic small objects counter — Stage 3, App H
+**～件 (けん)** — cases/incidents/inquiries counter — Stage 3, App H
+**～点 (てん)** — items in list / points scored — Stage 3, App H
+**～回 (かい)** — times/occurrences counter — Stage 3, App H
+**～度 (ど)** — occasions / degrees counter — Stage 3, App H
 **～じ** — hour — Stage 1, Ch 16
 **～ふん/ぷん** — minutes — Stage 1, Ch 16
 **ごぜん / ごご** — AM / PM — Stage 1, Ch 16
 **～ようび** — day of the week — Stage 1, Ch 16
 **～月 (がつ)** — month — Stage 1, Ch 16
 **に rule** — specific times take に; relative times don't — Stage 1, Ch 16
+**Large numbers (万/億/兆 system)** — base-10000 grouping — Stage 6, Ch 24
+**和暦** — Japanese era calendar (令和, 平成, 昭和) — Stage 6, Ch 24
 
 ---
 
@@ -831,6 +873,8 @@ This index consolidates every grammar point from all six stages of 道, organize
 
 **Compound structure analysis** — predicting compound meaning from components — Stage 3, Ch 25
 **Phonetic component reading** — predicting readings from shared components — Stage 3, Ch 25
+**連濁 (rendaku)** — sequential voicing in compounds (て + かみ → てがみ) — Stage 1, Ch 4
+**Lyman's Law** — rendaku blocked by existing voiced obstruent — Stage 1, Ch 4
 
 ### Vertical Text
 

@@ -4,6 +4,11 @@
  * if a system-wide theme preference is set on the user's device.
  */
 
+/* Ruby (furigana) styling */
+ruby rt {
+  font-size: 0.55em;
+}
+
 :root {
   --background-body: #fff;
   --background: #efefef;

@@ -20,10 +20,10 @@ This chapter covers three sentence-final particles for active use (よ, ね, よ
 > あした テストが ありますよ。
 > "There's a test tomorrow." (I'm informing you of this.)
 
-> その みちは あぶないですよ。
+> その <ruby>道<rt>みち</rt></ruby>は <ruby>危<rt>あぶ</rt></ruby>ないですよ。
 > "That road is dangerous." (You need to know this.)
 
-> もう じゅうじですよ。
+> もう <ruby>十時<rt>じゅうじ</rt></ruby>ですよ。
 > "It's already ten o'clock." (I'm alerting you.)
 
 In each case, the speaker is asserting that they possess knowledge the listener lacks. The よ marks this gap: "I know something you don't, and I'm telling you now."
@@ -55,21 +55,21 @@ Without よ, the sentence is a calm, neutral report. The speaker is stating a fa
 - You are gently correcting a misunderstanding
 - You are reassuring someone
 
-> この レストラン、やすいですよ。
+> この レストラン、<ruby>安<rt>やす</rt></ruby>いですよ。
 > "This restaurant is cheap." (I'm recommending it to you.)
 
-> だいじょうぶですよ。
+> <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ。
 > "It's fine." (I'm reassuring you — stop worrying.)
 
-> それは ちがいますよ。
+> それは <ruby>違<rt>ちが</rt></ruby>いますよ。
 > "That's wrong." (I'm correcting you — gently.)
 
-> あの えいがは おもしろかったですよ。
+> あの <ruby>映画<rt>えいが</rt></ruby>は <ruby>面白<rt>おもしろ</rt></ruby>かったですよ。
 > "That movie was interesting." (I'm telling you, since you haven't seen it.)
 
 ### When not to use よ
 
-よ becomes pushy or patronizing if overused or used when the listener already knows the information. If someone tells you they just came from outside and you respond あめが ふっていますよ ("It's raining, you know"), you are telling them something they obviously already know. This sounds condescending.
+よ becomes pushy or patronizing if overused or used when the listener already knows the information. If someone tells you they just came from outside and you respond <ruby>雨<rt>あめ</rt></ruby>が <ruby>降<rt>ふ</rt></ruby>っていますよ ("It's raining, you know"), you are telling them something they obviously already know. This sounds condescending.
 
 The rule: use よ when you genuinely believe the listener does not have the information. If they might already know, consider ね instead.
 
@@ -83,7 +83,7 @@ The rule: use よ when you genuinely believe the listener does not have the info
 > あした テストが あるよ。
 > "There's a test tomorrow." (casual alert)
 
-> はやく いったほうが いいよ。
+> <ruby>早<rt>はや</rt></ruby>く <ruby>行<rt>い</rt></ruby>ったほうが いいよ。
 > "You should go early." (casual advice)
 
 The function does not change. Only the register shifts.
@@ -96,16 +96,16 @@ The function does not change. Only the register shifts.
 
 ね signals that the speaker expects the listener to share the same knowledge, feeling, or observation. It reaches out to the listener and says: "You see this too, right? You feel this too, right?"
 
-> いい てんきですね。
+> いい <ruby>天気<rt>てんき</rt></ruby>ですね。
 > "Nice weather, isn't it."
 
 > この ケーキ、おいしいですね。
 > "This cake is delicious, isn't it."
 
-> にほんごは おもしろいですね。
+> <ruby>日本語<rt>にほんご</rt></ruby>は <ruby>面白<rt>おもしろ</rt></ruby>いですね。
 > "Japanese is interesting, isn't it."
 
-> きのうの えいがは よかったですね。
+> <ruby>昨日<rt>きのう</rt></ruby>の <ruby>映画<rt>えいが</rt></ruby>は よかったですね。
 > "Yesterday's movie was good, wasn't it."
 
 In each case, the speaker is not informing the listener of something new. The speaker is pointing to a shared experience and inviting the listener to confirm it. The listener is expected to agree — and in most cases, they will.
@@ -117,10 +117,10 @@ Beyond seeking agreement, ね softens statements. It turns declarations into gen
 > そうですね。
 > "That's right, isn't it." / "I agree."
 
-> むずかしいですね。
+> <ruby>難<rt>むずか</rt></ruby>しいですね。
 > "It's difficult, isn't it." (said with sympathy, not as a cold observation)
 
-> ちょっと たかいですね。
+> ちょっと <ruby>高<rt>たか</rt></ruby>いですね。
 > "It's a bit expensive, isn't it." (softened — less like a complaint)
 
 Without ね, these sentences are flat declarations. With ね, they become shared observations. The speaker is not standing apart from the listener and pronouncing judgment. They are standing beside the listener and saying, "We both see this, don't we."
@@ -129,20 +129,20 @@ Without ね, these sentences are flat declarations. With ね, they become shared
 
 ね is essential in responses. When someone makes a statement you agree with, そうですね is the standard acknowledgment.
 
-> A: きょうは さむいですね。 — "It's cold today, isn't it."
+> A: <ruby>今日<rt>きょう</rt></ruby>は <ruby>寒<rt>さむ</rt></ruby>いですね。 — "It's cold today, isn't it."
 > B: そうですね。 — "It is, isn't it."
 
-> A: この みせは しずかですね。 — "This shop is quiet, isn't it."
-> B: ほんとうですね。 — "It really is."
+> A: この <ruby>店<rt>みせ</rt></ruby>は <ruby>静<rt>しず</rt></ruby>かですね。 — "This shop is quiet, isn't it."
+> B: <ruby>本当<rt>ほんとう</rt></ruby>ですね。 — "It really is."
 
 These exchanges are not deep conversation. They are social bonding. The ね in both the statement and the response creates a loop of shared feeling. This is how Japanese small talk works: observation with ね, confirmation with ね. The content almost does not matter. The connection does.
 
 ### ね in plain form
 
-> きょう、あついね。
+> <ruby>今日<rt>きょう</rt></ruby>、<ruby>暑<rt>あつ</rt></ruby>いね。
 > "It's hot today, isn't it."
 
-> この まんが、おもしろいね。
+> この <ruby>漫画<rt>まんが</rt></ruby>、<ruby>面白<rt>おもしろ</rt></ruby>いね。
 > "This manga is interesting, huh."
 
 > そうだね。
@@ -161,23 +161,23 @@ The casual form of そうですね is そうだね. You will hear this constantl
 > あした テストですよね。
 > "Tomorrow's the test, right?" (I'm fairly sure, but confirm for me.)
 
-> やまださんは にほんじんですよね。
+> <ruby>山田<rt>やまだ</rt></ruby>さんは <ruby>日本人<rt>にほんじん</rt></ruby>ですよね。
 > "Yamada is Japanese, right?" (I believe so — am I correct?)
 
-> この でんしゃは しぶやに いきますよね。
+> この <ruby>電車<rt>でんしゃ</rt></ruby>は <ruby>渋谷<rt>しぶや</rt></ruby>に <ruby>行<rt>い</rt></ruby>きますよね。
 > "This train goes to Shibuya, right?" (I think it does — confirm?)
 
-> きのう いいましたよね。
+> <ruby>昨日<rt>きのう</rt></ruby> <ruby>言<rt>い</rt></ruby>いましたよね。
 > "You said so yesterday, right?" (I'm asserting this — but checking.)
 
 ### よね versus ね alone
 
 ね alone is gentler. It assumes shared knowledge from the start. よね is slightly stronger — the speaker has a belief and is presenting it for verification. The difference is subtle but real.
 
-> あしたは にちようびですね。
+> <ruby>明日<rt>あした</rt></ruby>は <ruby>日曜日<rt>にちようび</rt></ruby>ですね。
 > "Tomorrow's Sunday, isn't it." (We both know this — just confirming the shared knowledge.)
 
-> あしたは にちようびですよね。
+> 明日は 日曜日ですよね。
 > "Tomorrow's Sunday, right?" (I believe it is — tell me I'm right.)
 
 ね floats the observation. よね pins it down and asks for confirmation. In practice, よね is extremely common in conversation when a speaker wants to verify a fact, check a memory, or make sure they are on the same page as the listener.
@@ -187,10 +187,10 @@ The casual form of そうですね is そうだね. You will hear this constantl
 > あした テストだよね。
 > "Tomorrow's the test, right?"
 
-> たなかさん、もう かえったよね。
+> <ruby>田中<rt>たなか</rt></ruby>さん、もう <ruby>帰<rt>かえ</rt></ruby>ったよね。
 > "Tanaka already went home, right?"
 
-> この みせ、まえに きたことが あるよね。
+> この <ruby>店<rt>みせ</rt></ruby>、<ruby>前<rt>まえ</rt></ruby>に <ruby>来<rt>き</rt></ruby>たことが あるよね。
 > "We've been to this shop before, right?"
 
 ---
@@ -206,10 +206,10 @@ The three particles above — よ, ね, よね — are your active tools. The pa
 > おいしいな。
 > "Delicious..." (said to oneself, savoring the food)
 
-> いい てんきだな。
+> いい <ruby>天気<rt>てんき</rt></ruby>だな。
 > "Nice weather..." (self-directed observation)
 
-> あしたは どうしようかな。
+> <ruby>明日<rt>あした</rt></ruby>は どうしようかな。
 > "What should I do tomorrow, I wonder..."
 
 な is traditionally associated with male speech, but this association has softened considerably. It is also used as a gentle softener in casual speech regardless of the speaker's gender. The key point for recognition: when you hear a sentence end with な, the speaker is often thinking aloud rather than addressing you directly.
@@ -218,7 +218,7 @@ The three particles above — よ, ね, よね — are your active tools. The pa
 
 ぞ asserts something forcefully. It is stronger than よ and carries a rough, decisive tone.
 
-> いくぞ。
+> <ruby>行<rt>い</rt></ruby>くぞ。
 > "Let's go!" / "I'm going!" (forceful, determined)
 
 > やるぞ。
@@ -233,10 +233,10 @@ The three particles above — よ, ね, よね — are your active tools. The pa
 
 ぜ is similar to ぞ but slightly lighter in tone. It conveys enthusiasm or casual assertiveness.
 
-> いこうぜ。
+> <ruby>行<rt>い</rt></ruby>こうぜ。
 > "Let's go." (casual, energetic)
 
-> いい てんきだぜ。
+> いい <ruby>天気<rt>てんき</rt></ruby>だぜ。
 > "It's great weather." (casual enthusiasm)
 
 Like ぞ, ぜ is associated with male speech and casual registers. It appears frequently in media. The difference between ぞ and ぜ is small — ぞ is more forceful, ぜ is more breezy.
@@ -250,7 +250,7 @@ In standard Tokyo dialect, わ is traditionally associated with feminine speech.
 > きれいだわ。
 > "How beautiful." (traditionally feminine — soft, expressive)
 
-In Kansai dialect (おおさか, きょうと, and surrounding areas), わ is used by all genders as an emphatic marker, roughly equivalent to よ.
+In Kansai dialect (<ruby>大阪<rt>おおさか</rt></ruby>, <ruby>京都<rt>きょうと</rt></ruby>, and surrounding areas), わ is used by all genders as an emphatic marker, roughly equivalent to よ.
 
 > おもろいわ。
 > "That's funny!" (Kansai — emphatic, not gendered)
@@ -261,13 +261,13 @@ The gender association of わ in standard Japanese is loosening, especially amon
 
 かな expresses wondering or uncertainty. The speaker is posing a question to themselves.
 
-> あした あめかな。
+> <ruby>明日<rt>あした</rt></ruby> <ruby>雨<rt>あめ</rt></ruby>かな。
 > "I wonder if it'll rain tomorrow."
 
-> だいじょうぶかな。
+> <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かな。
 > "I wonder if it's okay."
 
-> なんじに つくかな。
+> <ruby>何時<rt>なんじ</rt></ruby>に <ruby>着<rt>つ</rt></ruby>くかな。
 > "I wonder what time we'll arrive."
 
 かな is very common in casual speech. It is a softer, more reflective alternative to a direct question. When you hear a sentence end with かな, the speaker is musing, not asking you to answer — though you may respond if you want.
@@ -276,13 +276,13 @@ The gender association of わ in standard Japanese is loosening, especially amon
 
 っけ signals that the speaker is trying to remember something. It attaches to the past tense or the copula.
 
-> なんじだっけ。
+> <ruby>何時<rt>なんじ</rt></ruby>だっけ。
 > "What time was it again?"
 
-> あの ひとの なまえ、なんだっけ。
+> あの <ruby>人<rt>ひと</rt></ruby>の <ruby>名前<rt>なまえ</rt></ruby>、なんだっけ。
 > "What was that person's name again?"
 
-> あしたは やすみだっけ。
+> <ruby>明日<rt>あした</rt></ruby>は <ruby>休<rt>やす</rt></ruby>みだっけ。
 > "Is tomorrow a day off? (I can't remember.)"
 
 っけ is casual. You will hear it among friends and in informal settings. It is not rude, but it is not polite-form speech either. The key recognition point: when you hear っけ, the speaker is searching their memory.
@@ -395,7 +395,7 @@ These three will carry you through most polite conversations. As your listening 
 
 When you listen to Japanese audio — podcasts, dramas, conversations — train yourself to hear あいづち as rhythm markers, not as content. They do not carry meaning the way nouns and verbs do. They carry social information: "I'm here, I'm listening, I'm with you." Once you learn to hear them as background rhythm rather than trying to parse them as meaningful words, your listening comprehension will improve. You will stop being distracted by the listener's constant はい はい ええ and focus on the speaker's actual content.
 
-The speaker, too, uses あいづち points as structural markers. They often pause at clause boundaries specifically to receive あいづち before continuing. If you are following along and providing appropriate responses, the speaker will feel comfortable and continue naturally. If you are silent, they may slow down, repeat themselves, or ask だいじょうぶですか — because your silence has suggested that communication has broken down.
+The speaker, too, uses あいづち points as structural markers. They often pause at clause boundaries specifically to receive あいづち before continuing. If you are following along and providing appropriate responses, the speaker will feel comfortable and continue naturally. If you are silent, they may slow down, repeat themselves, or ask <ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか — because your silence has suggested that communication has broken down.
 
 ---
 
@@ -403,118 +403,118 @@ The speaker, too, uses あいづち points as structural markers. They often pau
 
 Read this dialogue and notice how よ, ね, よね, and あいづち work together.
 
-> A: きょうは いい てんきですね。
+> A: <ruby>今日<rt>きょう</rt></ruby>は いい <ruby>天気<rt>てんき</rt></ruby>ですね。
 > "Nice weather today, isn't it."
 
-> B: そうですね。さんぽに いきたいですね。
+> B: そうですね。<ruby>散歩<rt>さんぽ</rt></ruby>に <ruby>行<rt>い</rt></ruby>きたいですね。
 > "It is. I'd like to go for a walk."
 
-> A: あ、そういえば、えきの ちかくに あたらしい こうえんが できたんですよ。
+> A: あ、そういえば、<ruby>駅<rt>えき</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くに <ruby>新<rt>あたら</rt></ruby>しい <ruby>公園<rt>こうえん</rt></ruby>が できたんですよ。
 > "Oh, speaking of which, a new park opened near the station."
 
 > B: へえ、そうなんですか。
 > "Oh, really?"
 
-> A: ええ。けっこう ひろくて、きれいですよ。
+> A: ええ。けっこう <ruby>広<rt>ひろ</rt></ruby>くて、きれいですよ。
 > "Yes. It's quite spacious and pretty."
 
-> B: いいですね。いってみたいです。
+> B: いいですね。<ruby>行<rt>い</rt></ruby>ってみたいです。
 > "That sounds nice. I'd like to try going."
 
-> A: じゃ、いっしょに いきませんか。
+> A: じゃ、<ruby>一緒<rt>いっしょ</rt></ruby>に 行きませんか。
 > "Then shall we go together?"
 
-> B: いいですね。あ、でも きょうは ごごから よていが あるんですけど...
+> B: いいですね。あ、でも <ruby>今日<rt>きょう</rt></ruby>は <ruby>午後<rt>ごご</rt></ruby>から <ruby>予定<rt>よてい</rt></ruby>が あるんですけど...
 > "That sounds good. Oh, but I have plans from the afternoon..."
 
-> A: そうですか。じゃ、あしたは どうですか。あしたも はれるらしいですよ。
+> A: そうですか。じゃ、<ruby>明日<rt>あした</rt></ruby>は どうですか。明日も <ruby>晴<rt>は</rt></ruby>れるらしいですよ。
 > "I see. Then how about tomorrow? I hear it'll be sunny tomorrow too."
 
-> B: あしたは にちようびですよね。だいじょうぶです。いきましょう。
+> B: 明日は <ruby>日曜日<rt>にちようび</rt></ruby>ですよね。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>行<rt>い</rt></ruby>きましょう。
 > "Tomorrow's Sunday, right? That works. Let's go."
 
-> A: じゃ、あした じゅうじに えきの まえで あいましょう。
+> A: じゃ、明日 <ruby>十時<rt>じゅうじ</rt></ruby>に <ruby>駅<rt>えき</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>で <ruby>会<rt>あ</rt></ruby>いましょう。
 > "Then let's meet in front of the station at ten tomorrow."
 
-> B: はい、わかりました。たのしみですね。
+> B: はい、<ruby>分<rt>わ</rt></ruby>かりました。<ruby>楽<rt>たの</rt></ruby>しみですね。
 > "Okay, got it. Something to look forward to."
 
 ### What to notice
 
-- **ね** appears in shared observations: いい てんきですね, いいですね, たのしみですね. Both speakers use it to create a sense of togetherness.
-- **よ** appears when new information is given: あたらしい こうえんが できたんですよ, きれいですよ, はれるらしいですよ. The speaker is telling the listener something they do not know.
-- **よね** appears when checking: にちようびですよね. The speaker believes it is Sunday but wants confirmation.
+- **ね** appears in shared observations: いい 天気ですね, いいですね, 楽しみですね. Both speakers use it to create a sense of togetherness.
+- **よ** appears when new information is given: 新しい 公園が できたんですよ, きれいですよ, 晴れるらしいですよ. The speaker is telling the listener something they do not know.
+- **よね** appears when checking: 日曜日ですよね. The speaker believes it is Sunday but wants confirmation.
 - **あいづち** threads throughout: そうですね (agreement), へえ (interest), そうなんですか (receiving new information), そうですか (acknowledgment).
-- **んですけど** makes its familiar appearance as a soft refusal: よていが あるんですけど. The trailing けど avoids a direct "no."
+- **んですけど** makes its familiar appearance as a soft refusal: 予定が あるんですけど. The trailing けど avoids a direct "no."
 
 Every particle and every あいづち expression has a job. None is decoration. Together, they create the texture of natural Japanese conversation — a texture that is fundamentally cooperative. Both speakers are constantly signaling to each other: I hear you, I'm with you, I'm telling you something, I agree, I understand.
 
 ---
 
-## 23.8 Reading Passage — いざかやの よる
+## 23.8 Reading Passage — <ruby>居酒屋<rt>いざかや</rt></ruby>の <ruby>夜<rt>よる</rt></ruby>
 
 Read this conversation. Pay attention to how ね, よ, and よね signal different things between the speakers, and how あいづち keeps the conversation flowing.
 
 ---
 
-> A: あ、この みせ、はじめてですか。
+> A: あ、この <ruby>店<rt>みせ</rt></ruby>、<ruby>初<rt>はじ</rt></ruby>めてですか。
 > "Oh, is this your first time at this place?"
 
-> B: はい、はじめてです。いい ふんいきですね。
+> B: はい、初めてです。いい <ruby>雰囲気<rt>ふんいき</rt></ruby>ですね。
 > "Yes, it's my first time. Nice atmosphere."
 
-> A: そうでしょう。ここの やきとりは ほんとうに おいしいですよ。
+> A: そうでしょう。ここの <ruby>焼<rt>や</rt></ruby>き<ruby>鳥<rt>とり</rt></ruby>は <ruby>本当<rt>ほんとう</rt></ruby>に おいしいですよ。
 > "Right? The yakitori here is really good."
 
-> B: へえ、そうなんですか。じゃ、やきとりに しましょう。
+> B: へえ、そうなんですか。じゃ、焼き鳥に しましょう。
 > "Oh, really? Then let's go with yakitori."
 
-> A: あと、この みせは にほんしゅも ゆうめいなんですよ。にほんしゅは のみますか。
+> A: あと、この 店は <ruby>日本酒<rt>にほんしゅ</rt></ruby>も <ruby>有名<rt>ゆうめい</rt></ruby>なんですよ。日本酒は <ruby>飲<rt>の</rt></ruby>みますか。
 > "Also, this place is famous for sake too. Do you drink sake?"
 
-> B: のみますよ。だいすきです。
+> B: 飲みますよ。<ruby>大好<rt>だいす</rt></ruby>きです。
 > "I do. I love it."
 
-> A: よかった。じゃ、にほんしゅも ちゅうもんしましょうね。
+> A: よかった。じゃ、日本酒も <ruby>注文<rt>ちゅうもん</rt></ruby>しましょうね。
 > "Great. Then let's order some sake too."
 
-> B: すみません、やきとりの もりあわせと、にほんしゅを にはい おねがいします。
+> B: すみません、焼き鳥の <ruby>盛<rt>も</rt></ruby>り<ruby>合<rt>あ</rt></ruby>わせと、日本酒を <ruby>二杯<rt>にはい</rt></ruby> おねがいします。
 > "Excuse me, a yakitori assortment and two cups of sake, please."
 
-> てんいん: はい、かしこまりました。おとおしは えだまめでございますが、よろしいですか。
+> <ruby>店員<rt>てんいん</rt></ruby>: はい、かしこまりました。おとおしは <ruby>枝豆<rt>えだまめ</rt></ruby>でございますが、よろしいですか。
 > "Certainly. The appetizer is edamame — is that all right?"
 
-> B: はい、だいじょうぶです。
+> B: はい、大丈夫です。
 > "Yes, that's fine."
 
-> A: えだまめも おいしいですよね、この みせ。
+> A: 枝豆も おいしいですよね、この 店。
 > "The edamame is good here too, right?"
 
-> B: たのしみですね。あ、にほんしゅが きましたよ。かんぱい！
+> B: <ruby>楽<rt>たの</rt></ruby>しみですね。あ、日本酒が <ruby>来<rt>き</rt></ruby>ましたよ。<ruby>乾杯<rt>かんぱい</rt></ruby>！
 > "I'm looking forward to it. Oh, the sake is here. Cheers!"
 
-> A: かんぱい！ きょうは おつかれさまでした。
+> A: 乾杯！ <ruby>今日<rt>きょう</rt></ruby>は お<ruby>疲<rt>つか</rt></ruby>れさまでした。
 > "Cheers! Good work today."
 
-> B: おつかれさまでした。こうやって のみに くるのは ひさしぶりですね。
+> B: お疲れさまでした。こうやって 飲みに くるのは <ruby>久<rt>ひさ</rt></ruby>しぶりですね。
 > "Good work. It's been a while since we went out for drinks like this."
 
-> A: そうですね。やっぱり、しごとの 後は ビールか にほんしゅですよね。
+> A: そうですね。やっぱり、<ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>は ビールか 日本酒ですよね。
 > "It is. After work, it's got to be beer or sake, right?"
 
-> B: ほんとうに そうですね。
+> B: 本当に そうですね。
 > "Truly."
 
 ---
 
 ### What to notice
 
-- **ね for shared feeling:** いい ふんいきですね, たのしみですね, ひさしぶりですね. Both speakers use ね to confirm a feeling they share.
-- **よ for informing:** おいしいですよ, ゆうめいなんですよ, きましたよ. Speaker A tells B things B does not yet know. B also uses よ when asserting のみますよ — correcting A's possible assumption.
-- **よね for checking shared knowledge:** おいしいですよね, ビールか にほんしゅですよね. The speaker is fairly sure and invites the listener to confirm.
+- **ね for shared feeling:** いい 雰囲気ですね, 楽しみですね, 久しぶりですね. Both speakers use ね to confirm a feeling they share.
+- **よ for informing:** おいしいですよ, 有名なんですよ, 来ましたよ. Speaker A tells B things B does not yet know. B also uses よ when asserting 飲みますよ — correcting A's possible assumption.
+- **よね for checking shared knowledge:** おいしいですよね, ビールか 日本酒ですよね. The speaker is fairly sure and invites the listener to confirm.
 - **あいづち throughout:** へえ、そうなんですか (surprise and interest), そうでしょう (agreement), よかった (relief).
-- **かしこまりました** from the server — a keigo form meaning わかりました, previewing Chapter 24. でございます also appears in the server's speech.
-- **んです pattern:** ゆうめいなんですよ provides background explanation — not just a bare fact, but context the listener needs.
+- **かしこまりました** from the server — a keigo form meaning 分かりました, previewing Chapter 24. でございます also appears in the server's speech.
+- **んです pattern:** 有名なんですよ provides background explanation — not just a bare fact, but context the listener needs.
 
 ---
 

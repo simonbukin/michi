@@ -270,7 +270,7 @@ This uses the conditional と (Chapter 10) — pressing naturally results in a s
 
 ### Diagnosis and Next Steps
 
-> 医者：おそらく　軽い食中毒だと　思います。薬を　出しますので、三日間　飲んでください。
+> <ruby>医者<rt>いしゃ</rt></ruby>：<ruby>恐<rt>おそ</rt></ruby>らく　<ruby>軽<rt>かる</rt></ruby>い<ruby>食中毒<rt>しょくちゅうどく</rt></ruby>だと　<ruby>思<rt>おも</rt></ruby>います。<ruby>薬<rt>くすり</rt></ruby>を　<ruby>出<rt>だ</rt></ruby>しますので、<ruby>三日間<rt>みっかかん</rt></ruby>　<ruby>飲<rt>の</rt></ruby>んでください。
 > Doctor: "It's probably mild food poisoning. I'll prescribe some medication, so please take it for three days."
 
 > お大事に。
@@ -414,17 +414,17 @@ Common over-the-counter categories:
 
 ### 内科に行った日
 
-先週の　水曜日から　咳が　出て、喉も　痛かった。最初は　風邪だろうと　思って、ドラッグストアで　風邪薬を　買って　飲んでいた。でも、三日　経っても　良くならなかったので、近くの　内科に　行くことにした。
+<ruby>先週<rt>せんしゅう</rt></ruby>の　<ruby>水曜日<rt>すいようび</rt></ruby>から　<ruby>咳<rt>せき</rt></ruby>が　<ruby>出<rt>で</rt></ruby>て、<ruby>喉<rt>のど</rt></ruby>も　<ruby>痛<rt>いた</rt></ruby>かった。<ruby>最初<rt>さいしょ</rt></ruby>は　<ruby>風邪<rt>かぜ</rt></ruby>だろうと　<ruby>思<rt>おも</rt></ruby>って、ドラッグストアで　<ruby>風邪薬<rt>かぜぐすり</rt></ruby>を　<ruby>買<rt>か</rt></ruby>って　<ruby>飲<rt>の</rt></ruby>んでいた。でも、<ruby>三日<rt>みっか</rt></ruby>　<ruby>経<rt>た</rt></ruby>っても　<ruby>良<rt>よ</rt></ruby>くならなかったので、<ruby>近<rt>ちか</rt></ruby>くの　<ruby>内科<rt>ないか</rt></ruby>に　<ruby>行<rt>い</rt></ruby>くことにした。
 
-朝の九時に　クリニックに　着いた。受付で　保険証を　出して、問診票を　もらった。問診票には　「今日の症状」「いつから」「アレルギーの有無」「現在飲んでいる薬」などの　項目があった。全部　書いてから、受付に　出した。
+<ruby>朝<rt>あさ</rt></ruby>の<ruby>九時<rt>くじ</rt></ruby>に　クリニックに　<ruby>着<rt>つ</rt></ruby>いた。<ruby>受付<rt>うけつけ</rt></ruby>で　<ruby>保険証<rt>ほけんしょう</rt></ruby>を　<ruby>出<rt>だ</rt></ruby>して、<ruby>問診票<rt>もんしんひょう</rt></ruby>を　もらった。問診票には　「<ruby>今日<rt>きょう</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>」「いつから」「アレルギーの<ruby>有無<rt>うむ</rt></ruby>」「<ruby>現在<rt>げんざい</rt></ruby><ruby>飲<rt>の</rt></ruby>んでいる<ruby>薬<rt>くすり</rt></ruby>」などの　<ruby>項目<rt>こうもく</rt></ruby>があった。<ruby>全部<rt>ぜんぶ</rt></ruby>　<ruby>書<rt>か</rt></ruby>いてから、受付に　出した。
 
-三十分ぐらい　待ってから、名前を　呼ばれた。診察室に　入ると、先生が　「どうしましたか」と　聞いた。「先週の水曜日から　咳が　止まらなくて、喉も　痛いです」と　答えた。先生は　喉を　見てから、「胸の音を　聞きますね」と　言って、聴診器を　当てた。
+<ruby>三十分<rt>さんじゅっぷん</rt></ruby>ぐらい　<ruby>待<rt>ま</rt></ruby>ってから、<ruby>名前<rt>なまえ</rt></ruby>を　<ruby>呼<rt>よ</rt></ruby>ばれた。<ruby>診察室<rt>しんさつしつ</rt></ruby>に　<ruby>入<rt>はい</rt></ruby>ると、<ruby>先生<rt>せんせい</rt></ruby>が　「どうしましたか」と　<ruby>聞<rt>き</rt></ruby>いた。「先週の水曜日から　咳が　<ruby>止<rt>と</rt></ruby>まらなくて、喉も　痛いです」と　<ruby>答<rt>こた</rt></ruby>えた。先生は　喉を　<ruby>見<rt>み</rt></ruby>てから、「<ruby>胸<rt>むね</rt></ruby>の<ruby>音<rt>おと</rt></ruby>を　聞きますね」と　<ruby>言<rt>い</rt></ruby>って、<ruby>聴診器<rt>ちょうしんき</rt></ruby>を　<ruby>当<rt>あ</rt></ruby>てた。
 
-「風邪が　少し　こじれたようですね。抗生物質と　咳止めを　出しますので、五日分　飲んでください。それから、今週は　できるだけ　安静にしてください」と　言われた。
+「<ruby>風邪<rt>かぜ</rt></ruby>が　<ruby>少<rt>すこ</rt></ruby>し　こじれたようですね。<ruby>抗生物質<rt>こうせいぶっしつ</rt></ruby>と　<ruby>咳止<rt>せきど</rt></ruby>めを　<ruby>出<rt>だ</rt></ruby>しますので、<ruby>五日分<rt>いつかぶん</rt></ruby>　飲んでください。それから、<ruby>今週<rt>こんしゅう</rt></ruby>は　できるだけ　<ruby>安静<rt>あんせい</rt></ruby>にしてください」と　<ruby>言<rt>い</rt></ruby>われた。
 
-隣の　調剤薬局で　薬を　もらった。薬剤師さんが　「抗生物質は　途中で　やめないで、必ず　最後まで　飲んでくださいね」と　説明してくれた。
+<ruby>隣<rt>となり</rt></ruby>の　<ruby>調剤薬局<rt>ちょうざいやっきょく</rt></ruby>で　薬を　もらった。<ruby>薬剤師<rt>やくざいし</rt></ruby>さんが　「抗生物質は　<ruby>途中<rt>とちゅう</rt></ruby>で　やめないで、<ruby>必<rt>かなら</rt></ruby>ず　<ruby>最後<rt>さいご</rt></ruby>まで　飲んでくださいね」と　<ruby>説明<rt>せつめい</rt></ruby>してくれた。
 
-薬を　飲み始めて　三日で、だいぶ　良くなった。やはり早く　病院に　行けばよかったと　思った。
+<ruby>薬<rt>くすり</rt></ruby>を　<ruby>飲<rt>の</rt></ruby>み<ruby>始<rt>はじ</rt></ruby>めて　<ruby>三日<rt>みっか</rt></ruby>で、だいぶ　<ruby>良<rt>よ</rt></ruby>くなった。やはり<ruby>早<rt>はや</rt></ruby>く　<ruby>病院<rt>びょういん</rt></ruby>に　<ruby>行<rt>い</rt></ruby>けばよかったと　<ruby>思<rt>おも</rt></ruby>った。
 
 ### Translation
 
